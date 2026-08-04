@@ -369,6 +369,31 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
 /* 아래쪽 여백은 떠 있는 연대 바가 마지막 문단을 덮지 않을 만큼 */
 article{max-width:none;padding:26px 26px 190px}
 @media(max-width:900px){article{padding:18px 16px 170px}}
+
+/* ── 앞뒤로 넘기기 ─────────────────────────────
+   목록을 다시 열지 않고도 이어 읽을 수 있어야 한다. */
+.steps{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:stretch;
+  margin-top:34px;padding-top:18px;border-top:1px solid var(--edge)}
+.step{display:flex;flex-direction:column;gap:2px;text-align:left;
+  border:1px solid var(--edge);border-radius:5px;background:transparent;
+  padding:9px 12px;cursor:pointer;font:inherit;color:var(--ink-2);min-width:0}
+.step.next{text-align:right;align-items:flex-end}
+.step:hover{border-color:var(--link);color:var(--ink);background:var(--term-bg)}
+.step-k{font-family:var(--mono);font-size:11px;color:var(--link);letter-spacing:.04em}
+.step-d{font-family:var(--mono);font-size:11px;color:var(--ink-3);
+  font-variant-numeric:tabular-nums}
+.step-t{font-size:13px;line-height:1.4;color:var(--ink);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.step.empty{display:flex;align-items:center;justify-content:center;border-style:dashed;
+  color:var(--ink-3);font-size:12px;font-family:var(--mono);cursor:default}
+.steps .step-n{align-self:center;font-family:var(--mono);font-size:11.5px;
+  color:var(--ink-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+@media(max-width:900px){
+  .steps{grid-template-columns:1fr;gap:8px}
+  .steps .step-n{order:-1;text-align:center}
+  .step.next{text-align:left;align-items:flex-start}
+}
 .doc-head{border-bottom:1px solid var(--edge);padding-bottom:14px;margin-bottom:18px}
 h1{font-size:19px;margin:0 0 4px;line-height:1.35;text-wrap:balance;font-weight:650}
 .docid{font-family:var(--mono);font-size:11px;color:var(--ink-3);
@@ -567,7 +592,7 @@ function pane(kind){
 function renderDoc(){
   const d = DOCS.find(x => x.id === state.cur);
   if (!d){ $('#main').innerHTML =
-    '<div class="empty">왼쪽에서 문서를 고르세요.</div>'; return; }
+    '<div class="empty">왼쪽에서 문서를 고르세요.</div>'; renderStepBar(); return; }
 
   const meta = (d.meta||[]).filter(m => m && m.v).map(m =>
     `<div class="${m.wide?'wide':''}"><b>${esc(m.k)}</b>` +
@@ -608,10 +633,52 @@ function renderDoc(){
     ${pts}${cols}${fns}${scans}
     ${d.note?`<div class="note">${esc(d.note)}</div>`:''}
     ${d.warn?`<div class="note warn">${esc(CONF.warn)}</div>`:''}
+    ${renderStep()}
   </article>`;
   $('#main').scrollTop = 0;
   markTerms(d.id);
   markNow(d.date);
+  renderStepBar();
+}
+
+/* ── 앞뒤로 넘기기 ─────────────────────────────
+   지금 걸려 있는 검색·갈래·정렬 안에서의 앞뒤다. 전보만 골라 놓고 넘겼는데
+   각서가 나오면 고른 것이 무슨 소용인가. */
+function neighbours(){
+  const items = visible();
+  const i = items.findIndex(x => x.id === state.cur);
+  // 갈래를 거는 순간 읽던 문서가 목록 밖으로 나갈 수 있다. 그때 화살표까지
+  // 죽으면 빠져나갈 길이 없다 — 걸린 목록의 첫 문서로 보내 준다.
+  if (i < 0) return {i:-1, n:items.length, prev:null, next:items[0]||null};
+  return {i, n:items.length, prev:items[i-1]||null, next:items[i+1]||null};
+}
+function step(dir){
+  const {prev, next} = neighbours();
+  const t = dir < 0 ? prev : next;
+  if (t) select(t.id);
+}
+/* 문서 끝 — 다음 문서가 무엇인지 이름까지 보여 준다. 무엇이 오는지 알고 넘긴다. */
+function renderStep(){
+  const {i, n, prev, next} = neighbours();
+  if (n < 2 || (i < 0 && !next)) return '';
+  const side = (d, dir) => d
+    ? `<button class="step ${dir}" data-step="${dir==='prev'?-1:1}">
+         <span class="step-k">${dir==='prev'?'← 이전':'다음 →'}</span>
+         <span class="step-d">${esc(d.date||'날짜미상')}</span>
+         <span class="step-t">${esc(d.title||d.id)}</span>
+       </button>`
+    : `<span class="step empty ${dir}">${dir==='prev'?'첫 문서':'마지막 문서'}</span>`;
+  return `<nav class="steps" aria-label="문서 넘기기">
+    ${side(prev,'prev')}<span class="step-n">${i<0?'—':i+1} / ${n}</span>${side(next,'next')}</nav>`;
+}
+/* 갈래·검색을 바꾸면 앞뒤가 달라진다 — 문서를 통째로 다시 그리지 않고
+   끝의 안내만 갈아 끼운다. 읽던 자리를 잃지 않게. */
+function renderStepBar(){
+  const art = document.querySelector('#main article'); if (!art) return;
+  const old = art.querySelector('.steps');
+  const html = renderStep();
+  if (!html){ if (old) old.remove(); return; }
+  if (old) old.outerHTML = html; else art.insertAdjacentHTML('beforeend', html);
 }
 
 /* 본문 속 용어에 주석을 붙인다.
@@ -938,25 +1005,38 @@ function rail(open){
 if (railBtn) railBtn.addEventListener('click',
   () => rail(!document.body.classList.contains('railopen')));
 $('#scrim').addEventListener('click', () => rail(false));
-addEventListener('keydown', e => { if (e.key === 'Escape') rail(false); });
+
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-step]');
+  if (b && !b.disabled) step(+b.dataset.step);
+});
+addEventListener('keydown', e => {
+  if (e.key === 'Escape'){ rail(false); return; }
+  // 검색창에 글을 치는 중이면 화살표는 글자 사이를 오가야 한다
+  const t = e.target;
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+  if (e.key === 'ArrowLeft'  || e.key === 'k'){ step(-1); e.preventDefault(); }
+  if (e.key === 'ArrowRight' || e.key === 'j'){ step(1);  e.preventDefault(); }
+});
 
 function select(id){ state.cur=id; renderList(); renderDoc(); rail(false);
   document.querySelector('.main').scrollTop = 0;
   history.replaceState(null,'','#'+id); }
 
-$('#q').addEventListener('input', e => { state.q=e.target.value; renderList(); });
+$('#q').addEventListener('input', e => { state.q=e.target.value; renderList(); renderStepBar(); });
 $('#list').addEventListener('click', e => {
   const b = e.target.closest('.item'); if (b) select(b.dataset.id); });
 document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
   const k=c.dataset.group;
   state.groups.has(k)?state.groups.delete(k):state.groups.add(k);
   c.setAttribute('aria-pressed', state.groups.has(k));
-  renderList();
+  renderList(); renderStepBar();
 }));
 document.querySelectorAll('[data-sort]').forEach(b => b.addEventListener('click', () => {
   state.sort=b.dataset.sort;
   document.querySelectorAll('[data-sort]').forEach(x=>x.setAttribute('aria-pressed',x===b));
-  renderList();
+  renderList(); renderStepBar();
 }));
 document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => {
   state.view=b.dataset.view;
