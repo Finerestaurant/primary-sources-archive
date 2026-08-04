@@ -1,0 +1,47 @@
+{
+ "doc_type": "cable",
+ "date": null,
+ "from": "CINCAFPAC",
+ "to": "CG USAFIK",
+ "info": "CG PACUSA",
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Prohibition of low-level strafing against civil disturbances in Korea without CINCAFPAC authorization",
+ "subject_ko": "CINCAFPAC 사전 승인 없는 한국 내 민간 소요 대응 저고도 기총소사 금지",
+ "en": "[[page 0350]]\nDECLASSIFIED\nAuthority NND 8X652\nTOP SECRET\nTOP SECRET\nURGENT\nFROM: CINCAFPAC\nTO: CG USAFIK\n CG PACUSA\nLO. INFO: COMAF 5\nReference PACUSA radio A-97874 A-3 of 6 November, concur in\nopinion of CG PACUSA contained in Part 2 repeat 2.\nRe Part 1 repeat 1, no repeat no low level strafing will be con-\nducted in Korea against civil disturbances unless specifically author-\nized by CINCAFPAC. In this connection, attention is invited to paragraph\n3 repeat 3 letter of transmittal dated 5 August 1946, to CINCAFPAC Staff\nStudy covering civil disturbances in Korea.\nOFFICIAL:\nJOHN B. COOLEY, Colonel, AGD, Adjutant General.\nAPPROVED BY:\nC. A. RUSSELL, Colonel, G.S.C., Asst. Chief of Staff, G-3\nCopies to: C-in-C\nC/S AG G-2 G-3 (Return) Diplomatic Section\nTOP SECRET\nTOP SECRET\n\n[[page 0351]]\nDECLASSIFIED\nAuthority NND 8X6527\n[Scanning artifacts: SEKISUI JUSHI ruler and loose tick numbers 19 20 21 / 29 30 31]",
+ "ko": "[[면 0350]]\n기밀해제\n해제권한 NND 8X652\n2급 극비(TOP SECRET)\n2급 극비(TOP SECRET)\n긴급\n발신: CINCAFPAC(미극동육군총사령관)\n수신: CG USAFIK(주한미군사령관)\n CG PACUSA(태평양미육군사령관)\n참조: COMAF 5\n참고: 11월 6일자 PACUSA 무선 A-97874 A-3, 제2부에 수록된 CG PACUSA의 의견에 동의함.\n제1부 관련, 한국 내 민간 소요에 대해서는 CINCAFPAC의 구체적 사전 승인이 없는 한 어떠한 저고도 기총소사도 실시하지 않을 것임. 이와 관련하여, 한국 내 민간 소요를 다룬 CINCAFPAC 참모연구의 1946년 8월 5일자 전달공문 제3항에 주목할 것.\n공식 기록:\n존 B. 쿨리, 대령, AGD, 부관감\n승인자:\nC. A. 러셀, 대령, G.S.C., 참모차장, G-3\n배포처: 총사령관\n참모장 부관감 G-2 G-3 (회수) 외교과\n2급 극비\n2급 극비\n\n[[면 0351]]\n기밀해제\n해제권한 NND 8X6527\n[주사용 자: SEKISUI JUSHI 및 무관한 눈금 숫자 19 20 21 / 29 30 31]",
+ "entities": {
+  "people": [
+   "John B. Cooley",
+   "C. A. Russell"
+  ],
+  "places": [
+   "Korea"
+  ],
+  "units": [
+   "CINCAFPAC",
+   "USAFIK",
+   "PACUSA",
+   "COMAF 5",
+   "AGD",
+   "G-3",
+   "G-2"
+  ]
+ },
+ "key_points_ko": [
+  "CINCAFPAC이 한국 내 민간 소요 진압을 위한 저고도 기총소사에 대해 사전 승인 권한을 유보함.",
+  "1946년 8월 5일자 한국 민간 소요 참모연구 전달공문을 재확인하며 정책적 근거로 삼음."
+ ],
+ "confidence": "high",
+ "notes": "0351면은 사진 촬영용 눈금자와 무관한 숫자들만 있는 공백 페이지로 판단됨. 0350면의 배포처 목록 하단에 'CHIEF OF STAFF APPROVED' 구절은 원문에 난외 기입 또는 스탬프로 찍힌 것으로 보이나 위치가 불명확하여 'en'에 포함시키지 않았음.",
+ "doc_id": "D066",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0350",
+  "0351"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

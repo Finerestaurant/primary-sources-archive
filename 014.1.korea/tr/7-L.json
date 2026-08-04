@@ -1,0 +1,37 @@
+{
+  "serial": "7-L",
+  "date": "1946-05-11",
+  "date_note": "11 May 1946 (원문 표기). 발신시각 TOO 101745 Z",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "워싱턴(WASHINGTON) — 육군참모총장(WARCOS)",
+  "to": "태평양미육군총사령관(CINCAFPAC)",
+  "info": null,
+  "msg_nr": "W 87540",
+  "subject_en": "Will comply your request to pass messages to Moscow",
+  "subject_ko": "모스크바로의 전문 전달 요청을 이행하겠음",
+  "summary_ko": "육군부는 도쿄가 요청한 대로 전문을 모스크바로 전달하겠으며, 앞으로 조선에서의 소련 측과의 관계에 관한 전문에는 모스크바로 계속 보낼 것인지를 발신 시점에 명시해 달라고 요구한다.",
+  "key_points_ko": [
+    "C 60607, TFGCG 352, W 86432을 참조한 회신이다.",
+    "도쿄의 요청대로, 도쿄가 따로 중계를 요청하지 않았더라도 워싱턴이 모스크바에 중요하다고 판단하는 전문은 모스크바로 전달하겠다.",
+    "환문(paraphrasing)과 재암호화를 최소로 줄이기 위해, 조선에서의 소련 측과의 관계에 관한 전문에는 모스크바로의 계속 전달 여부를 발신 때 표시해 달라.",
+    "특히 소련과의 정부 간 교섭을 요청하는 전문이 그렇다.",
+    "처리(ACTION)는 총참모부 비서실, 정보 배포는 총사령관·참모장·부관감·G-2·정부부·경제과학부·외교부."
+  ],
+  "ko": "C 60607, TFGCG 352 및 W 86432 참조. 귀관이 모스크바로 전달해 달라고 요청하지 않았던 전문이라도 이곳(워싱턴)에서 모스크바에 중요하다고 판단되는 것은 모두 모스크바로 전달해 달라는 귀관의 요청을 이행하겠음. 환문(換文)과 재암호화를 최소한으로 줄이기 위하여, 조선에서의 소련 측과의 관계에 관한 모든 전문 — 특히 소련과의 정부 간 교섭을 요청하는 전문 — 에는 모스크바로의 계속 전달 여부를 표시해 줄 것을 요청함.\n\n육군참모총장(WARCOS)",
+  "en": "Reference C 60607, TFGCG 352 and W 86432 will comply your request to pass to Moscow all your messages which are believed here of importance to Moscow which you had not requested be relayed there. To reduce paraphrasing and recoding to a minimum, request you indicate onward passage to Moscow on all messages concerning relations with Soviets in Korea, particularly messages in which governmental negotiation with Soviets is requested.\n\nWARCOS\n\nACTION: SECY GEN STAFF\nINFORMATION: COMMANDER-in-CHIEF, CHIEF OF STAFF, AG, G-2, GOVT SEC, ECON & SCI SEC, DIPLOMATIC SEC\n\n24817    ROUTINE / TOP SECRET    TOO: 101745 Z    MCN: YE 16/11",
+  "stamps_ko": [
+    "우측 상단 고무인 : 'GHQ AFPAC / AGO RECORDS'",
+    "고무인 옆 손글씨 : '014.1 Korea TS-3'",
+    "상단 손글씨 편철 지시(연필/잉크) : 'X 091 Russia', 'X 311.23', 'X 483[?]' — 다른 문서철로의 상호참조 표시. 일부 판독불가",
+    "우측 손글씨 결재 서명 1개 [판독불가]",
+    "하단 고무인 : 'AG RECORD COPY'",
+    "하단 우측 : 'COPY NO. 22'",
+    "좌측 하단 연필 편철기호 : '7-L'",
+    "본문 위에 겹쳐 찍힌 고무인 : 'TOP SECRET'",
+    "상단 여백 : 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775041[?]' — 비밀해제 표기, 번호 일부 판독불가"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "인쇄 양식의 하단 문구(전문 평문 취급 근거, AR 380-5, 6 March 1946)는 정형 문구라 en 에서 생략했다. 참조 전문번호 C 60607 / TFGCG 352 / W 86432 는 원본 그대로 옮겼다. 'TFGCG'는 주한미군사령부 발신 전문 접두어다."
+}

@@ -1,0 +1,1138 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>얄타의 신탁통치 구두 양해 — 열람기</title>
+<style>
+:root{
+  --bg:#eef1f4; --panel:#f7f9fa; --edge:#ccd4da; --edge-soft:#dde4e9;
+  --ink:#16202a; --ink-2:#4a5b68; --ink-3:#71828f;
+  --stamp:#8c2f39;            /* 기밀등급 도장의 자주색 */
+  --link:#2f5d86;
+  --a:#4a7c59; --b:#8a6d3b; --c:#3f6d8c; --d:#7a4a6b; --e:#5a6f7d; --x:#8a8f94;
+  --term-line:#9db0c2; --term-bg:rgba(47,93,134,.05);
+  --term-line-go:#7fa3c4; --term-bg-go:rgba(47,93,134,.10);
+  --term-bg-on:rgba(47,93,134,.17);
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:"Apple SD Gothic Neo","Pretendard","Malgun Gothic","Noto Sans KR",
+         -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#12171c; --panel:#171d23; --edge:#2b353e; --edge-soft:#222a31;
+    --ink:#dfe6ec; --ink-2:#a4b2bd; --ink-3:#75858f;
+    --stamp:#c9707a; --link:#7fb0da;
+    --term-line:#5b7183; --term-bg:rgba(127,176,218,.07);
+    --term-line-go:#6d90ad; --term-bg-go:rgba(127,176,218,.13);
+    --term-bg-on:rgba(127,176,218,.22);
+    --a:#7fae8c; --b:#c0a06a; --c:#79a9c7; --d:#b287a3; --e:#93a6b3; --x:#8a939a;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#12171c; --panel:#171d23; --edge:#2b353e; --edge-soft:#222a31;
+  --ink:#dfe6ec; --ink-2:#a4b2bd; --ink-3:#75858f;
+  --stamp:#c9707a; --link:#7fb0da;
+  --term-line:#5b7183; --term-bg:rgba(127,176,218,.07);
+  --term-line-go:#6d90ad; --term-bg-go:rgba(127,176,218,.13);
+  --term-bg-on:rgba(127,176,218,.22);
+  --a:#7fae8c; --b:#c0a06a; --c:#79a9c7; --d:#b287a3; --e:#93a6b3; --x:#8a939a;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+  font-size:15px;line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--link)}
+
+.wrap{display:grid;grid-template-columns:minmax(300px,25%) 1fr;height:100vh}
+@media(max-width:900px){
+  .wrap{grid-template-columns:1fr;grid-template-rows:auto 1fr}
+  .rail{max-height:42vh}
+}
+
+/* ── 좌측 목록 ─────────────────────────────── */
+.rail{border-right:1px solid var(--edge);background:var(--panel);
+  display:flex;flex-direction:column;min-height:0}
+.rail-head{padding:14px 14px 10px;border-bottom:1px solid var(--edge-soft);
+  display:flex;flex-direction:column;gap:8px}
+/* 문서철에 들어오면 나갈 길이 있어야 한다 */
+.home{display:inline-flex;align-items:center;gap:5px;text-decoration:none;
+  color:var(--link);font-size:11.5px;font-family:var(--mono);
+  letter-spacing:.04em;width:fit-content;
+  background:var(--term-bg-go);border:1px solid var(--term-line-go);
+  border-radius:999px;padding:2px 10px 2px 8px}
+.home:hover{background:var(--term-bg-on);border-color:var(--link)}
+.home span{font-size:12px;line-height:1}
+.brand{font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.brand small{display:block;font-weight:400;letter-spacing:0;text-transform:none;
+  color:var(--ink-3);font-size:11.5px;margin-top:2px}
+input[type=search]{width:100%;padding:7px 10px;border:1px solid var(--edge);
+  border-radius:3px;background:var(--bg);color:var(--ink);font:inherit;font-size:13px}
+input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px solid var(--link);outline-offset:1px}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{border:1px solid var(--edge);background:transparent;color:var(--ink-2);
+  border-radius:999px;padding:2px 9px;font-size:11.5px;cursor:pointer;font-family:inherit}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--panel);border-color:var(--ink)}
+.sortbar{display:flex;gap:10px;font-size:11.5px;color:var(--ink-3);align-items:center}
+.sortbar button{background:none;border:none;color:var(--ink-3);cursor:pointer;
+  font:inherit;padding:0;border-bottom:1px solid transparent}
+.sortbar button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+
+.list{overflow-y:auto;flex:1;min-height:0}
+.item{display:block;width:100%;text-align:left;background:none;border:0;
+  border-bottom:1px solid var(--edge-soft);border-left:3px solid transparent;
+  padding:9px 13px;cursor:pointer;font:inherit;color:inherit}
+.item:hover{background:var(--bg)}
+.item[aria-current="true"]{background:var(--bg);border-left-color:var(--ink)}
+.item.tA{border-left-color:var(--a)} .item.tB{border-left-color:var(--b)}
+.item.tC{border-left-color:var(--c)} .item.tD{border-left-color:var(--d)}
+.item.tE{border-left-color:var(--e)} .item.tX{border-left-color:var(--x)}
+.item-top{display:flex;justify-content:space-between;gap:8px;
+  font-family:var(--mono);font-size:11px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.item-sum{font-size:12.5px;line-height:1.45;margin-top:2px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* ── 우측 본문 ─────────────────────────────── */
+.main{overflow-y:auto;min-height:0}
+.toolbar{position:sticky;top:0;z-index:5;background:var(--panel);
+  border-bottom:1px solid var(--edge);padding:8px 26px;
+  display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:12px}
+.toolbar .grow{flex:1}
+.seg{display:flex;border:1px solid var(--edge);border-radius:3px;overflow:hidden}
+.seg button{background:none;border:0;padding:4px 11px;cursor:pointer;
+  font:inherit;font-size:12px;color:var(--ink-2);border-right:1px solid var(--edge)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--panel)}
+.srcline{padding:10px 26px 0;font-size:11px;color:var(--ink-3);line-height:1.5}
+
+/* ── 연대 바 ───────────────────────────────
+   5년 반을 한 줄에 욱여넣으면 1945년 8월 열흘은 0.5% 밖에 안 된다. 그래서
+   줄을 늘여 놓고 **띠 자체를 움직인다** — 지금 읽는 문서의 날짜가 늘 정중앙이다.
+   문서를 옮기면 띠가 미끄러지고, 사건 이름은 겹치지 않게 위아래로 층을 나눈다. */
+.chrono{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);
+  width:min(940px,calc(100vw - 48px));z-index:20;user-select:none;
+  border:1px solid var(--edge);border-radius:8px;
+  background:color-mix(in srgb,var(--panel) 92%,transparent);
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  box-shadow:0 4px 20px rgba(0,0,0,.10);
+  transition:box-shadow .2s ease}
+.chrono:hover{box-shadow:0 6px 26px rgba(0,0,0,.18)}
+/* 옅어지는 것은 **내용**이지 판이 아니다. 판까지 투명해지면 뒤의 본문이
+   비쳐 들어와 글자가 서로를 밟는다. */
+.chrono-track{opacity:.5;transition:opacity .2s ease}
+.chrono:hover .chrono-track{opacity:1}
+
+/* 띠가 지나가는 창. 손으로도 밀 수 있게 진짜 가로 스크롤을 쓴다 */
+.chrono-vp{position:relative;overflow-x:auto;overflow-y:hidden;
+  height:var(--chH,92px);border-radius:8px;cursor:grab;
+  scrollbar-width:none;-ms-overflow-style:none;overscroll-behavior-x:contain}
+.chrono-vp::-webkit-scrollbar{display:none}
+.chrono-vp.drag{cursor:grabbing}
+/* 안쪽 띠. 양옆 여백은 창의 절반 — 첫 문서도 마지막 문서도 가운데에 설 수 있게 */
+.chrono-track{position:relative;height:100%;margin:0 var(--chPad,0px)}
+/* 시간 축 — 층의 한가운데 */
+.chrono-track::before{content:"";position:absolute;
+  left:calc(0px - var(--chPad,0px));right:calc(0px - var(--chPad,0px));
+  top:var(--axis,46px);height:1px;background:var(--edge)}
+
+/* 연도 — 해가 바뀌는 자리에 선을 긋고, 그 선부터가 그 해다.
+   이름표는 창 왼쪽에 들러붙는다. 1945년 한복판을 보고 있어도 「1945」가 남는다. */
+.cy{position:absolute;top:0;bottom:0;
+  border-left:1px solid color-mix(in srgb,var(--ink-3) 50%,transparent)}
+.cy.alt{background:color-mix(in srgb,var(--ink) 3%,transparent)}
+.cy b{position:absolute;bottom:3px;font-family:var(--mono);font-size:11px;
+  font-weight:600;color:var(--ink-3);font-variant-numeric:tabular-nums;
+  line-height:1;letter-spacing:.06em;white-space:nowrap;
+  background:color-mix(in srgb,var(--panel) 80%,transparent);padding:1px 3px}
+/* 달·분기 눈금 — 해 안에서 어디쯤인지. 분기는 조금 길게 */
+.cq{position:absolute;top:calc(var(--axis,46px) - 1.5px);width:1px;height:4px;
+  background:var(--edge);opacity:.7}
+.cq.q{top:calc(var(--axis,46px) - 2.5px);height:6px;opacity:1}
+.cq[hidden]{display:none}
+
+/* 배율 — 5년 반을 한눈에 볼 때와 8월 열흘을 벌려 볼 때가 같을 수 없다 */
+.chrono-zoom{position:absolute;right:6px;top:5px;z-index:3;display:flex;gap:3px;
+  opacity:0;transition:opacity .2s ease}
+.chrono:hover .chrono-zoom,.chrono-zoom:focus-within{opacity:1}
+.chrono-zoom button{width:19px;height:19px;padding:0;line-height:1;
+  font-family:var(--mono);font-size:12px;color:var(--ink-2);cursor:pointer;
+  background:var(--panel);border:1px solid var(--edge);border-radius:3px}
+.chrono-zoom button:hover:not(:disabled){color:var(--link);border-color:var(--link)}
+.chrono-zoom button:disabled{opacity:.35;cursor:default}
+.chrono-scale{position:absolute;right:6px;bottom:3px;z-index:3;
+  font-family:var(--mono);font-size:9.5px;color:var(--ink-3);letter-spacing:.03em;
+  background:color-mix(in srgb,var(--panel) 80%,transparent);padding:1px 3px;
+  opacity:0;transition:opacity .2s ease}
+.chrono:hover .chrono-scale{opacity:1}
+
+/* 사건 점 */
+.cm{position:absolute;top:calc(var(--axis,46px) - 3px);width:7px;height:7px;
+  margin-left:-3.5px;border-radius:50%;background:var(--ink-3);z-index:1;
+  border:1.5px solid var(--panel);cursor:help;
+  transition:background .15s ease,transform .15s ease}
+.cm.key{background:var(--stamp);width:9px;height:9px;margin-left:-4.5px;
+  top:calc(var(--axis,46px) - 4px)}
+.cm:hover{background:var(--link);transform:scale(1.45)}
+
+/* 사건 이름 — 층(lane)을 나눠 위아래로 흩는다. 여기서 겹침이 풀린다 */
+.cl{position:absolute;transform:translateX(-50%);white-space:nowrap;z-index:1;
+  font-family:var(--mono);font-size:10px;line-height:1.1;color:var(--ink-2);
+  letter-spacing:.01em;padding:1px 4px;border-radius:2px;cursor:help;
+  background:color-mix(in srgb,var(--panel) 70%,transparent)}
+.cl.key{color:var(--stamp)}
+.cl:hover,.cl:focus-visible{color:var(--link);outline:0;
+  background:color-mix(in srgb,var(--link) 12%,var(--panel))}
+/* 이름에서 축까지 내려/올려 긋는 실 — 어느 점의 이름인지 알아보게 */
+.cl::after{content:"";position:absolute;left:50%;width:1px;background:var(--edge)}
+.cl.up::after{top:100%;height:var(--leg,0px)}
+.cl.dn::after{bottom:100%;height:var(--leg,0px)}
+
+/* 지금 읽는 문서가 놓인 자리. 문서를 고르면 이 표가 창 한가운데로 온다.
+   손으로 띠를 밀면 표는 제 날짜에 남는다 — 표는 시간에 박혀 있지 창에 박혀 있지 않다. */
+.chrono-cursor{position:absolute;top:0;bottom:0;width:1px;z-index:2;
+  background:var(--stamp);pointer-events:none}
+/* 가상 요소는 위의 *{box-sizing:border-box}가 닿지 않는다 — 여기서 직접 잡아 주지
+   않으면 테두리 2px 만큼 표시가 축 아래·오른쪽으로 밀려 앉는다. */
+.chrono-cursor::before{content:"";position:absolute;box-sizing:border-box;
+  left:-6px;top:calc(var(--axis,46px) - 6px);width:13px;height:13px;
+  border-radius:50%;background:var(--stamp);border:2px solid var(--panel)}
+/* 날짜는 맨 아래, 표 바로 밑에 — 위쪽은 사건 이름 층에 내준다 */
+.chrono-date{position:absolute;bottom:2px;transform:translateX(-50%);
+  font-family:var(--mono);font-size:10px;color:var(--stamp);
+  font-variant-numeric:tabular-nums;background:var(--panel);
+  padding:0 5px;border-radius:2px;white-space:nowrap;z-index:2}
+.chrono[data-nodate="1"] .chrono-cursor,
+.chrono[data-nodate="1"] .chrono-date{display:none}
+
+@media(max-width:900px){.chrono{display:none}}
+@media(prefers-reduced-motion:reduce){.chrono-track{transition:none}}
+
+/* 아래쪽 여백은 떠 있는 연대 바가 마지막 문단을 덮지 않을 만큼 */
+article{max-width:none;padding:26px 26px 190px}
+.doc-head{border-bottom:1px solid var(--edge);padding-bottom:14px;margin-bottom:18px}
+h1{font-size:19px;margin:0 0 4px;line-height:1.35;text-wrap:balance;font-weight:650}
+.docid{font-family:var(--mono);font-size:11px;color:var(--ink-3);
+  letter-spacing:.04em;font-variant-numeric:tabular-nums}
+.stamp{display:inline-block;border:1.5px solid var(--stamp);color:var(--stamp);
+  font-family:var(--mono);font-size:10px;letter-spacing:.14em;padding:1px 6px;
+  border-radius:2px;transform:rotate(-1.2deg);margin-left:8px;vertical-align:2px}
+.meta{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));
+  gap:3px 20px;margin-top:10px;font-size:12.5px}
+.meta div{display:flex;gap:7px}
+/* 참석자 명단처럼 긴 값. 좁은 칸에 넣으면 한 글자씩 세로로 눌린다 */
+.meta div.wide{grid-column:1/-1}
+.meta b{color:var(--ink-3);font-weight:500;min-width:52px;font-size:11.5px}
+.meta span{font-family:var(--mono);font-size:12px}
+.meta span.txt{font-family:var(--sans);font-size:12.5px}
+
+.points{margin:16px 0;padding:12px 16px;border-left:2px solid var(--edge);
+  background:var(--panel);border-radius:0 3px 3px 0}
+.points li{margin:3px 0}
+.points ul{margin:0;padding-left:18px}
+
+.cols{display:grid;gap:26px}
+.cols.two{grid-template-columns:1fr 1fr}
+@media(max-width:1100px){.cols.two{grid-template-columns:1fr}}
+.pane h2{font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 8px;font-weight:600}
+.body{white-space:pre-wrap;word-break:break-word}
+/* 번역문에 마크다운이 섞여 들어온다 — 긴 문서는 옮긴 쪽이 소제목과 항목으로
+   나눠 두어야 읽힌다. 본문은 pre-wrap 이므로 줄 단위로만 풀어 준다. */
+.mdh{display:block;font-weight:700;margin:20px 0 6px;letter-spacing:-.01em}
+.mdh.h1{font-size:17px} .mdh.h2{font-size:15.5px}
+.mdh.h3,.mdh.h4,.mdh.h5,.mdh.h6{font-size:14px;color:var(--ink-2);
+  letter-spacing:.04em}
+.mdq{display:block;border-left:2px solid var(--edge);padding-left:13px;
+  color:var(--ink-2);margin:6px 0}
+.mdli{display:block;padding-left:17px;text-indent:-17px;margin:2px 0}
+.mdli::before{content:"· ";color:var(--ink-3)}
+.mdli[data-n]::before{content:attr(data-n) " ";color:var(--ink-3);
+  font-family:var(--mono);font-size:12px}
+.mdhr{border:0;border-top:1px solid var(--edge);margin:18px 0}
+.body.en{font-family:var(--mono);font-size:12.5px;line-height:1.65;color:var(--ink-2)}
+.body del{color:var(--ink-3)}
+.body strong{font-weight:650}
+
+.pagemark{display:block;margin:16px 0 6px;font-family:var(--mono);font-size:10.5px;
+  color:var(--ink-3);letter-spacing:.06em;border-top:1px dashed var(--edge);padding-top:5px}
+.pagemark.hit{cursor:zoom-in;text-decoration:underline;
+  text-decoration-style:dotted;text-underline-offset:3px}
+.pagemark.hit:hover{color:var(--link)}
+.fnref{font-family:var(--mono);font-size:10.5px;color:var(--ink-3);vertical-align:super}
+
+/* 본문 속 용어 주석.
+   앞서 --edge 로 밑줄을 그었더니 배경에 묻혀 아예 보이지 않았다.
+   옅은 바탕을 깔아 「여기 무언가 있다」를 먼저 알리고, 점선으로 종류를 나눈다.
+   다른 문서로 가는 것(a)과 설명만 뜨는 것(span)을 색으로 구분한다. */
+.term{color:inherit;text-decoration:none;cursor:help;
+  background:var(--term-bg);border-radius:2px;
+  padding:0 2px;margin:0 -1px;
+  border-bottom:1px dashed var(--term-line);
+  box-decoration-break:clone;-webkit-box-decoration-break:clone}
+a.term{cursor:pointer;color:var(--link);
+  background:var(--term-bg-go);border-bottom-color:var(--term-line-go)}
+.term:hover{background:var(--term-bg-on);border-bottom-style:solid;
+  border-bottom-color:var(--link);color:var(--link)}
+.term:focus-visible{outline:2px solid var(--link);outline-offset:2px}
+
+.fns{margin-top:24px;padding-top:14px;border-top:1px solid var(--edge-soft);
+  font-size:12px;color:var(--ink-3);line-height:1.6}
+.fns h2,.scans h2{font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--ink-3);margin:0 0 9px;font-weight:600}
+.fns div{margin:4px 0}
+.note{margin-top:14px;font-size:12px;color:var(--ink-3);border-left:2px solid var(--edge);
+  padding-left:11px}
+.empty{padding:60px 26px;color:var(--ink-3)}
+.warn{color:var(--stamp)}
+
+/* ── 스캔 원본 ─────────────────────────────── */
+.scans{margin-top:24px;padding-top:14px;border-top:1px solid var(--edge-soft)}
+.thumbs{display:flex;flex-wrap:wrap;gap:8px}
+.thumb{border:1px solid var(--edge);background:var(--panel);padding:0;cursor:zoom-in;
+  border-radius:2px;overflow:hidden;line-height:0;position:relative}
+.thumb:hover{border-color:var(--link)}
+.thumb img{width:84px;height:110px;object-fit:cover;object-position:top center;
+  display:block;background:var(--edge-soft)}
+.thumb b{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.62);color:#fff;
+  font-family:var(--mono);font-size:9.5px;font-weight:400;padding:1px 4px;
+  letter-spacing:.04em;line-height:1.5}
+
+/* ── 확대 뷰어 ─────────────────────────────── */
+.lb{position:fixed;inset:0;z-index:50;background:rgba(8,11,14,.94);
+  display:none;flex-direction:column}
+.lb[open]{display:flex}
+.lb-bar{display:flex;align-items:center;gap:14px;padding:9px 16px;color:#c9d3db;
+  font-size:12px;border-bottom:1px solid #2a343d;flex:none}
+.lb-bar .grow{flex:1}
+.lb-bar button{background:none;border:1px solid #3a464f;color:#c9d3db;
+  border-radius:3px;padding:3px 11px;font:inherit;font-size:12px;cursor:pointer}
+.lb-bar button:hover:not(:disabled){border-color:#7fb0da;color:#fff}
+.lb-bar button:disabled{opacity:.35;cursor:default}
+.lb-bar .pg{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.lb-stage{flex:1;min-height:0;overflow:auto;display:flex;
+  align-items:flex-start;justify-content:center;padding:16px}
+.lb-stage img{max-width:100%;height:auto;background:#fff;box-shadow:0 2px 24px rgba(0,0,0,.5)}
+.lb-stage.fit img{max-height:calc(100vh - 90px);width:auto}
+
+/* 호버 카드 — 링크 위에 머물면 그 문서가 무엇인지 미리 보여 준다.
+   열람기와 같은 토큰(--panel, --edge, --ink…)을 쓰므로 별도 팔레트가 없다.
+   토큰을 정의하지 않은 페이지에 얹으려면 그 값들만 채워 주면 된다. */
+
+.hc {
+  position: fixed;
+  z-index: 60;
+  width: min(400px, calc(100vw - 32px));
+  background: var(--panel);
+  border: 1px solid var(--edge);
+  border-radius: 4px;
+  box-shadow: 0 6px 28px rgba(16, 26, 38, .16), 0 1px 3px rgba(16, 26, 38, .1);
+  padding: 15px 17px 16px;
+  font-size: 13.5px;
+  line-height: 1.62;
+  color: var(--ink-2);
+  opacity: 0;
+  transform: translateY(3px);
+  transition: opacity .13s ease, transform .13s ease;
+  pointer-events: none;
+}
+.hc[data-open] { opacity: 1; transform: none; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .hc {
+    box-shadow: 0 6px 30px rgba(0, 0, 0, .5), 0 1px 3px rgba(0, 0, 0, .4);
+  }
+}
+:root[data-theme="dark"] .hc {
+  box-shadow: 0 6px 30px rgba(0, 0, 0, .5), 0 1px 3px rgba(0, 0, 0, .4);
+}
+
+.hc-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 5px;
+}
+.hc-top .id { white-space: nowrap }
+
+.hc h4 {
+  margin: 0 0 7px;
+  font-size: 14.5px;
+  line-height: 1.42;
+  font-weight: 640;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+/* 발신 → 수신. 문서철마다 있을 수도 없을 수도 있어 비면 통째로 빠진다 */
+.hc-route {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  margin: 0 0 8px;
+  line-height: 1.5;
+}
+
+.hc p.sum {
+  margin: 0;
+  /* 요약이 길 수 있다. 넘치면 자른다 — 카드는 미리보기지 본문이 아니다 */
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.hc ul {
+  margin: 9px 0 0;
+  padding-left: 16px;
+  color: var(--ink-3);
+  font-size: 12.5px;
+}
+.hc li {
+  margin: 2px 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.hc-foot {
+  margin-top: 11px;
+  padding-top: 9px;
+  border-top: 1px solid var(--edge-soft);
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--ink-3);
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.hc-foot .go { color: var(--link) }
+
+/* 손가락으로 쓰는 기기에는 호버가 없다. 링크는 그대로 동작하므로 카드만 뺀다 */
+@media (hover: none) { .hc { display: none } }
+@media (prefers-reduced-motion: reduce) {
+  .hc { transition: none }
+}
+</style>
+</head><body>
+<div class="wrap">
+  <aside class="rail">
+    <div class="rail-head">
+      
+      <div class="brand">얄타의 신탁통치 구두 양해
+        <small>1945년 1월 – 2월 · FRUS 몰타·얄타 회담 4건</small></div>
+      <input id="q" type="search"
+        placeholder="한국어·영문·인물·기관 검색" aria-label="검색">
+      <div class="chips">
+        <button class="chip" data-group="A" aria-pressed="false">회담 준비 문서</button>
+        <button class="chip" data-group="B" aria-pressed="false">회의록</button>
+        <button class="chip" data-group="C" aria-pressed="false">전보</button>
+      </div>
+      <div class="sortbar">
+        <span id="count"></span>
+        <button data-sort="date" aria-pressed="true">시간순</button>
+        <button data-sort="order" aria-pressed="false">문서번호순</button>
+      </div>
+    </div>
+    <div class="list" id="list"></div>
+  </aside>
+
+  <div class="main">
+    <div class="toolbar">
+      <div class="seg">
+        <button data-view="primary" aria-pressed="true">한국어 번역</button>
+        <button data-view="both" aria-pressed="false">나란히</button>
+        <button data-view="secondary" aria-pressed="false">영문 원문 · FRUS 정본</button>
+      </div>
+      <div class="grow"></div>
+      <button class="chip" id="themeBtn">명암 전환</button>
+    </div>
+    <div class="srcline">Foreign Relations of the United States: Diplomatic Papers, The Conferences at Malta and Yalta, 1945 · 전체 512건 중 조선 관련 4건 · 미국 국무부 역사실 · 미국 정부 저작물(퍼블릭 도메인)</div>
+    <div id="main"></div>
+  </div>
+</div>
+<div class="chrono" id="chrono">
+  <div class="chrono-vp" id="chronoVp">
+    <div class="chrono-track" id="chronoTrack">
+      <div class="chrono-cursor" id="chronoCursor"></div>
+      <div class="chrono-date" id="chronoDate"></div>
+    </div>
+  </div>
+  <div class="chrono-zoom" id="chronoZoom">
+    <button type="button" data-z="-1" title="넓게 보기 (⌘/Ctrl+휠)" aria-label="넓게 보기">−</button>
+    <button type="button" data-z="1" title="벌려 보기 (⌘/Ctrl+휠)" aria-label="벌려 보기">+</button>
+  </div>
+  <div class="chrono-scale" id="chronoScale"></div>
+</div>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="원본 지면">
+  <div class="lb-bar">
+    <span class="pg" id="lbPg"></span>
+    <button id="lbPrev">◀ 이전</button>
+    <button id="lbNext">다음 ▶</button>
+    <button id="lbFit" aria-pressed="false">화면 맞춤</button>
+    <div class="grow"></div>
+    <a id="lbOpen" href="#" target="_blank" rel="noopener">새 탭</a>
+    <button id="lbClose">닫기 (Esc)</button>
+  </div>
+  <div class="lb-stage" id="lbStage"><img id="lbImg" alt=""></div>
+</div>
+<script id="data" type="application/json">[{"id": "d246", "order": 246, "date": null, "group": "A", "eyebrow": "d246 · Briefing Book Paper", "title": "브리핑북 문서 — 중국에 관한 미국의 장기 목표 및 정책 개요", "badge": null, "list_right": "문서 246", "meta": [{"k": "일자", "v": "원문 첫 줄이 'undated'. 얄타 회담(1945년 2월) 대비용 브리핑북 문서이므로 1945년 1월~2월 초로 추정되나 원문에 날짜 표기가 없다."}, {"k": "장소", "v": "Washington", "txt": true}, {"k": "발신", "v": "국무부(Department of State)", "txt": true}, {"k": "수신", "v": null, "txt": true}, {"k": "참석", "v": null, "txt": true, "wide": true}, {"k": "종류", "v": "브리핑북 문서"}], "links": [{"k": "FRUS", "text": "문서 246 원문", "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d246"}], "summary": "중국이 극동의 주된 안정 요인이 되어야 한다는 전제 위에서 미국의 대중국 장기 정책을 정치·경제·문화 세 방면으로 정리한 국무부 브리핑북 문서.", "points": ["조선 관련: 미국은 중국이 조선·버마·태국·인도차이나 및 그 밖의 인접 지역과 긴밀하고 우호적인 관계를 수립하는 것에는 찬성하나, 그러한 지역에 대한 중국의 지배나 정치적 통제에는 찬성하지 않는다(1-e항).", "대중국 정책의 근거: 중국이 극동의 주된 안정 요인이 되는 것이 그 지역 평화·안전의 근본 요건이라는 믿음.", "정치 목표: 중국 인민의 뜻을 대표하는 정부를 갖춘 강하고 안정되고 통일된 중국. 국민당-공산당 간 이견의 조정을 포함한 광범위한 대표성을 지닌 정부 수립을 촉진.", "어느 정파도 편들지 않되 현 중국 정부를 중앙 권력으로 계속 지지하며, 다만 현 정부의 권위가 붕괴하면 중국 인민이 드러낸 뜻에 비추어 미국의 입장을 재검토하고 통일을 이룰 전망이 있는 정부·운동을 호의적으로 볼 것이다.", "중소 협력을 극동 평화·안전의 필수 조건(sine qua non)으로 보며, 소련 무역의 만주 통과를 위해 중·소가 자발적으로 맺는 합의(자유항 지정 가능성 포함)에는 이의를 제기하지 않는다.", "영국이 홍콩을 중국에 반환하는 것을 환영할 것이며, 그 경우 홍콩의 자유항 지위 보전을 중국에 권고할 준비가 되어 있다.", "중국의 영토 보전 존중 — 티베트·외몽골 등 변경 영토에 대한 주권 주장 포함. 다만 우호적 교섭으로 이루어진 합의에는 반대하지 않으며, 그 지역 원주민들의 지방 자치 열망을 중국 정부가 충족시키기를 바란다.", "경제 목표: 통합되고 균형 잡힌 중국 경제와 교역 확대. 무조건 최혜국 대우에 기초한 통상항해조약 교섭, 기술·재정 지원(주로 민간 금융·투자를 통해).", "문화 목표: 중국과 다른 연합국 사이의 문화·과학 협력."], "primary": "*[날짜 미상]*\n\n# 중국에 관한 미국의 장기 목표 및 정책 개요\n\n## 요약\n\n중국에 관한 미국 정부의 장기 정책은, 중국이 극동에서 주된 안정 요인이 되어야 한다는 필요가 그 지역의 평화와 안전을 위한 근본적 요건이라는 믿음에 근거한다. 따라서 우리 정책은 다음 목표들을 향한다.\n\n1. **정치**: 중국 인민의 뜻을 대표하는 정부를 갖춘, 강하고 안정되고 통일된 중국.\n\n2. **경제**: 통합되고 균형 잡힌 중국 경제의 발전, 그리고 중국과 다른 나라들 사이의 더 충실한 교역의 흐름.\n\n3. **문화**: 공통의 이해와 진보의 기초로서 중국과의 문화적·과학적 협력.\n\n## 중국에 관한 미국의 장기 목표 및 정책 개요\n\n중국에 관한 미국 정부의 장기 정책은, 중국이 극동에서 주된 안정 요인이 되어야 한다는 필요가 그 지역의 평화와 안전을 위한 근본적 요건이라는 믿음에 근거한다. 따라서 우리 정책은 다음 목표들을 향한다.\n\n**1. 정치**: 중국 인민의 뜻을 대표하는 정부를 갖춘, 강하고 안정되고 통일된 중국.\n\na. 우리는 모든 정당한 수단으로, 국민당-공산당 간 이견의 조정을 포함하여 내부 통일을 가져오고 국내적·국제적 책임을 실효성 있게 이행할, 광범위한 대표성을 지닌 정부의 수립을 촉진하고자 한다. 어떠한 정치 정파도 편들지 않으면서, 우리는 중국 인민이 인정하는 중앙 권력으로서 현존하는 중국 정부를 계속 지지하며, 그 틀 안에서 필요로 하는 통일되고 실효성 있는 형태의 정부가 수립되기를 기대한다.\n\nb. 만약 이러한 기대가 이루어지지 못하고 현존 정부의 권위가 붕괴한다면, 우리는 중국 인민이 드러낸 뜻에 비추어 우리의 입장을 재검토할 것이며, 통일을 이루고 동아시아의 평화와 안전에 기여할 전망을 보이는 어떠한 정부나 운동도 호의적으로 볼 것이다.\n\nc. 우리는 중소 협력을 극동의 평화와 안전을 위한 필수 조건(sine qua non)으로 보며, 중국과 소련 사이에 현존하는 [357면] 불신을 제거하고 양국 사이에 긴밀하고 우호적인 관계를 가져오는 데 도움을 주고자 한다. 우리는 소련의 무역이 만주를 통과하는 것을 용이하게 하기 위하여 중국과 소련이 자발적으로 맺는 조치들 — 중국 정부에 의한 자유항 지정의 가능성을 포함하여 — 에 아무런 이의도 제기하지 않을 것이다.\n\nd. 우리는 중국과 영국 사이의 협력이 국제연합(United Nations)의 결속에 필수적인 부분이며 극동의 안정 요인으로서 중국이 발전하는 데 필요하다고 여긴다. 우리는 영국이 홍콩을 중국에 반환하는 것을 환영할 것이며, 그 경우 홍콩의 자유항 지위를 보전하는 것이 바람직함을 중국에 권고할 준비가 되어 있다. 두 강국 사이에 다른 영토 문제가 발생한다면, 우리는 그것이 우호적 교섭으로 해결되는 것을 보기를 바란다.\n\ne. 우리는 중국이 조선, 버마, 태국, 인도차이나 및 그 밖의 인접 지역과 긴밀하고 우호적인 관계를 수립하는 것에 찬성한다. 우리는 그러한 지역들에 대한 중국의 지배나 정치적 통제에는 찬성하지 않는다.\n\nf. 우리는 티베트와 외몽골 같은 변경 영토에 대한 중국의 주권 주장을 포함하여 중국의 영토 보전이 존중되어야 한다고 믿는다. 그러나 우리는 중국과 그 밖의 이해관계 정부들 사이에 우호적 교섭의 과정을 통해 이루어진, 그 영토들에 관한 어떠한 합의에도 반대하지 않을 것이다. 우리는 중국 정부가 그러한 영토의 원주민들이 지방 자치를 바라는 열망을 충족시켜 주기를 바란다.\n\ng. 모스크바에서 천명된 정책과 덤바턴 오크스에서 제시된 구도에 따라, 우리는 세계 평화와 안전의 조직 및 유지에서 일차적 책임을 나눌 자격이 있고 또 나눌 필요가 있는 주요 주권 국가들 가운데 대등한 일원으로서 중국에 온전한 협력을 제안하고 또 구한다.\n\n**2. 경제**: 통합되고 균형 잡힌 중국 경제의 발전, 그리고 중국과 다른 나라들 사이의 더 충실한 교역의 흐름. 이 목표들을 향하여 우리는 다음을 의도한다.\n\na. 기회 균등과 국가 주권 존중이라는 우리의 전통적 원칙, 그리고 이 정부가 일반적 준수를 확보하고자 노력하고 있는 자유주의적 통상 정책의 틀 안에서, 중국이 요청할 수 있는 모든 실행 가능한 경제적·재정적 원조를 계속 제공한다.\n\nb. 무조건 최혜국 대우에 기초하고 모든 형태의 차별적 대우의 철폐를 지향하는, 통상 및 항해에 관한 포괄적 조약을 중국과 교섭한다.\n\nc. 통합되고 균형 잡힌 경제를 계획하려는 중국의 노력과 관련하여, 특히 농업·운수·통신·공업에 관하여 실행 가능한 원조를 제공한다. 그러한 원조는 중국의 요청에 따라 제공될 것이다.\n\n[358면]\n\nd. 미국에서의 중국인 기술자 훈련을 포함하여, 중국이 바랄 수 있는 기술 원조를 제공한다.\n\ne. 중국에서 조성되는 여건에 비추어 적절할 수 있는 재정 원조를, 주로 민간 금융과 투자를 통하여 제공한다.\n\nf. 중국과 미국 상호의 이익과 편익을 위하여 모든 실행 가능한 수단으로 미국의 대중국 무역을 촉진한다.\n\n이러한 형태의 지원을 제공함에 있어 우리는 중국 정부의 통상 정책과, 중국과의 그리고 중국 내에서의 미국 무역에 영향을 미치는 실제 여건을 주의 깊게 살피고자 한다.\n\n**3. 문화**: 공통의 이해와 진보의 기초로서 중국과의 문화적·과학적 협력.\n\na. 우리는 문화 및 과학 분야에서 중국과 다른 연합국들 사이의 더 긴밀한 결합이 가장 긴요하다고 여긴다. 그 목적을 향하여 우리는 중국인과 미국인 사이에 서로의 사상과 문화에 대한 더 나은 이해를 증진하고, 중국이 그 발전과 국제적 진보에 대한 기여를 위해 필요로 하는 과학 지식과 원조를 중국에 제공할 수 있도록 여러 방식으로 노력하고 있다.\n\n조선의 전후 지위", "secondary": "undated\n\nOutline of Long-Range Objectives and Policies of the United States With Respect to China Summary\n\nThe American Government’s long-range policy with respect to China is based on the belief that the need for China to be a principal stabilizing factor in the Far East is a fundamental requirement for peace and security in that area. Our policy is accordingly directed toward the following objectives:\n\n1.\n\nPolitical: A strong, stable and united China with a government representative of the wishes of the Chinese people.\n\n2.\n\nEconomic: The development of an integrated and well-balanced Chinese economy and a fuller flow of trade between China and other countries.\n\n3.\n\nCultural: Cultural and scientific cooperation with China as a basis for common understanding and progress.\n\nOutline of Long-Range Objectives and Policies of the United States With Respect to China\n\nThe American Government’s long-range policy with respect to China is based on the belief that the need for China to be a principal stabilizing factor in the Far East is a fundamental requirement for peace and security in that area. Our policy is accordingly directed toward the following objectives:\n\n1. Political: A strong stable and united China with a government representative of the wishes of the Chinese people:\n\na. We seek by every proper means to promote establishment of a broadly representative government which will bring about internal unity, including reconcilement of Kuomintang-Communist differences, and which will effectively discharge its internal and international responsibilities. While favoring no political faction, we continue to support the existing Government of China as the central authority recognized by the Chinese people and we look for the establishment within its framework of the unified and effective type of government that is needed.\n\nb. Should these expectations fail of achievement and the authority of the existing government disintegrate, we would reexamine our position in the light of the manifested wishes of the Chinese people and regard sympathetically any government or movement which gave promise of achieving unity and of contributing to peace and security in eastern Asia.\n\nc. We regard Sino-Soviet cooperation as a sine qua non of peace and security in the Far East and seek to aid in removing the existing mistrust [357면] between China and the Soviet Union and in bringing about close and friendly relations between them. We would interpose no objection to arrangements voluntarily made by China and the Soviet Union to facilitate the passage of Soviet trade through Manchuria, including the possible designation by the Chinese Government of a free port.\n\nd. We consider cooperation between China and Great Britain to be an essential part of United Nations’ solidarity and necessary for the development of China as a stabilizing factor in the Far East, We would welcome the restoration by Great Britain of Hong Kong to China and we are prepared in that event to urge upon China the desirability of preserving its status as a free port. Should other territorial problems arise between the two powers, we would hope to see them settled by friendly negotiation.\n\ne. We favor the establishment by China of close and friendly relations with Korea, Burma, Thailand, Indochina and other neighboring areas. We do not favor Chinese domination or political control over such areas.\n\nf. We believe that China’s territorial integrity should be respected, including her claim to sovereign rights over such outlying territories as Tibet and Outer Mongolia. We would not oppose, however, any agreements respecting those territories reached by process of amicable negotiation between China and other interested governments. We hope that the Chinese Government will meet the aspirations of the native peoples of such territories for local autonomy.\n\ng. In line with the policy enunciated at Moscow and the pattern outlined at Dumbarton Oaks, we offer and seek full collaboration with China as an equal among the major sovereign powers entitled and needed to share primary responsibility in the organization and maintenance of world peace and security.\n\n2. Economic: The development of an integrated and well-balanced Chinese economy and a fuller flow of trade between China and other countries. Toward these objectives we intend to:\n\na. Continue to give to China all practicable economic and financial assistance which she may request within the framework of our traditional principles of equality of opportunity and respect for national sovereignty and the liberal trade policies to which this Government is endeavoring to secure general adherence.\n\nb. Negotiate with China a comprehensive treaty relating to commerce and navigation on the basis of unconditional most-favored-nation treatment and looking toward the elimination of all forms of discriminatory treatment.\n\nc. Give practicable assistance to China in connection with her efforts to plan an integrated and well-balanced economy, with particular reference to agriculture, transportation, communication and industry. Such assistance would be extended at China’s request.\n\n[358면]\n\nd. Make available such technical assistance as may be desired by China, including the training of Chinese technicians in the United States.\n\ne. Provide such financial assistance as may be appropriate in the light of conditions obtaining in China, largely through private financing and investment.\n\nf. Promote American trade with China by all practicable means to the mutual benefit and advantage of China and the United States.\n\nIn extending such forms of support, we propose to take careful cognizance of the commercial policies of the Chinese Government and of actual conditions affecting American trade with and in China.\n\n3. Cultural: Cultural and scientific cooperation with China as a basis for common understanding and progress:\n\na. We consider most essential closer association between China and other United Nations in cultural and scientific fields. Toward that end we are undertaking in various ways to promote between the Chinese and American peoples a better appreciation of each other’s thought and culture and to make available to China scientific knowledge and assistance which she needs for her development and contribution to international progress.\n\nPost-war status of Korea", "notes": [], "note": "번역자 주 — 1) 원문에 'undated'로만 표기되어 date는 null로 두었다. 2) 마지막 줄 'Post-war status of Korea'는 이 문서 본문이 아니라 원본 지면 358면에 이어지는 다음 절의 제목(POST-WAR STATUS OF KOREA)이 raw 텍스트 끝에 딸려 들어온 것이다. 그 절 아래에 놓이는 문서가 d247이다. 원문 그대로 두되 이 사실을 여기에 적는다. 3) 조선이 나오는 대목은 1-e항 한 곳뿐이다: 'We favor the establishment by China of close and friendly relations with Korea, Burma, Thailand, Indochina and other neighboring areas. We do not favor Chinese domination or political control over such areas.' 4) 'United Nations'는 1945년 2월 시점에서는 '연합국'을 뜻하지만 원문 표기를 살려 '국제연합(United Nations)'으로 병기했고, 문화 항목의 'other United Nations'는 문맥상 '다른 연합국들'로 옮겼다. 5) 요약부 1항 원문 'A strong, stable and united China'와 본문 1항 'A strong stable and united China'는 쉼표 유무만 다르다 — 원문의 표기 차이이므로 고치지 않았다. 6) 원문 1-d항 'in the Far East, We would welcome'는 마침표 자리에 쉼표가 찍힌 원문의 오식이나, 번역에서는 문장을 나누어 옮겼고 원문은 손대지 않았다.", "warn": false, "pages": ["356", "357", "358"], "search": ""}, {"id": "d247", "order": 247, "date": null, "group": "A", "eyebrow": "d247 · Briefing Book Paper", "title": "브리핑북 문서 — 조선에 관한 연합국 간 협의", "badge": null, "list_right": "문서 247", "meta": [{"k": "일자", "v": "원문 첫 줄이 'undated'. 얄타 회담(1945년 2월) 대비용으로 국무부가 준비한 브리핑북 문서이므로 1945년 1월~2월 초로 추정되나 원문에 날짜 표기가 없다."}, {"k": "장소", "v": "Washington", "txt": true}, {"k": "발신", "v": "국무부(Department of State)", "txt": true}, {"k": "수신", "v": null, "txt": true}, {"k": "참석", "v": null, "txt": true, "wide": true}, {"k": "종류", "v": "브리핑북 문서"}], "links": [{"k": "FRUS", "text": "문서 247 원문", "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d247"}], "summary": "조선의 군사 점령과, 잠정 국제 행정 또는 신탁통치에 어느 나라가 참여해야 하는가에 관한 국무부의 입장 — 미국·영국·중국·소련 4개국을 모두 포함시키되 미국이 점령과 군정에서 주도적 역할을 맡아야 한다는 것.", "points": ["문제 설정: (1) 조선의 군사 점령에, (2) 그러한 행정을 두기로 결정될 경우 조선을 위한 잠정 국제 행정 또는 신탁통치에 어느 나라들이 참여해야 하는가.", "국무부 결론: 조선의 군사 점령에는 '실질적 이해관계를 가진 나라들', 즉 미국·영국·중국 그리고 태평양 전쟁에 참전한 경우 소련의 연합국 대표가 참여해야 한다.", "국무부 잠정 의견: 잠정 국제 행정 또는 신탁통치는 제안된 국제기구의 권한 아래에서든 그와 별개로든 조선에 수립되어야 하며, 미국·영국·중국·소련이 그 행정에 포함되어야 한다.", "군정은 '중앙집권적 행정' 원칙 위에 조직되어야 하고, 조선 전역을 분리된 지대(zones)가 아니라 하나의 단위로 관리해야 한다.", "다른 나라들의 대표 규모가 미국의 비례적 세력을 그 실효성이 약화될 지점까지 줄여서는 안 된다 — 미국의 비중을 명시적으로 계산하는 대목.", "미국 참여의 중요한 요소는 '미국이 제국주의적 의도를 품지 않으리라고 조선인들이 둘 신뢰'이며, 따라서 미국이 점령과 군정에서 주도적 역할을 해야 한다.", "잠정 행정·신탁통치는 '조선인이 스스로를 통치할 수 있게 될 때까지' 기능해야 한다고 서술 — 조선인의 자치 능력을 유보적으로 보는 대목.", "소련은 태평양 전쟁 참전 여부와 무관하게 극동에서의 지위 때문에 잠정 국제 행정에 대표를 두게 하는 것이 바람직하다.", "단일 강국의 단독 점령은 심각한 정치적 반향을 낳을 수 있다 — 중국은 소련의 단독 책임이 만주·화북에 소련 세력권을 낳을까 두려워하고, 소련은 중국의 단독 책임에 반감을 가질 것이다.", "영국 외무부의 요청으로 조선의 군사 점령 문제는 현재 진행 중인 미·영·중 3국의 전후 조선 연구 대상에서 빠져 있다."], "primary": "*[날짜 미상]*\n\n# 조선에 관한 연합국 간 협의\n\n## 요약\n\n영국 정부 및 중국 정부와, 그리고 사태의 전개에 따라서는 소련 정부와도, (1) 조선의 군사 점령에, 그리고 (2) 그러한 행정을 수립하기로 결정될 경우 조선을 위한 잠정 국제 행정 또는 신탁통치에 어느 나라들이 참여해야 하는가 하는 문제에 관하여 양해에 도달하는 것이 바람직하다.\n\n이 문제의 첫 번째 부분과 관련하여, 조선의 여러 문제는 그 성격이 지극히 국제적이므로 조선에서의 군사 작전이 완료되면 (1) 실행 가능한 한, 조선의 점령군과 군정에 연합국 대표의 참여가 있어야 하고, (2) 그러한 대표의 참여는 미국, 영국, 중국 그리고 태평양 전쟁에 참전했을 경우 소련과 같이 조선의 장래 지위에 실질적 이해관계를 가진 나라들에 의해 이루어져야 하며, (3) 다른 나라들의 대표 규모가 미국의 비례적 세력을 그 실효성이 약화될 지점에까지 줄일 만큼 커서는 안 된다는 것이 국무부의 견해이다.\n\n[359면]\n\n이 문제의 두 번째 부분에 관해서는, (1) 잠정 국제 행정 또는 신탁통치가 제안된 국제기구의 권한 아래에서든 그와는 별개로든 조선에 수립되어야 하며, (2) 미국, 영국, 중국 및 소련이 그러한 행정에 포함되어야 한다는 것이 국무부의 잠정적 의견이다.\n\n## [조선에 관한 연합국 간 협의]\n\n### 문제\n\n1) 조선의 군사 점령에, 그리고 2) 그러한 행정을 수립하기로 결정될 경우 조선을 위한 잠정 국제 행정 또는 신탁통치에 어느 나라들이 참여해야 하는가?\n\n### 논의\n\n(1) 조선 독립의 수립과 관련한 공동 행동은 다음의 이유로 중요하고도 필요하다.\n\n1) 중국과 소련은 조선과 국경을 접하고 있으며 조선 문제에 전통적인 이해관계를 가져 왔다.\n\n2) 미국, 영국, 중국은 카이로 선언에서 적절한 시기에(in due course) 조선이 자유롭고 독립된 나라가 될 것을 약속하였다.\n\n3) 어느 한 강국에 의한 조선의 군사 점령은 심각한 정치적 반향을 불러올 수 있다.\n\n연합국 육·해·공군의 작전에 관한 문제들은 분명히 순전히 군사적 성격의 것이며 따라서 국무부의 직접적 소관이 아니라는 점은 인정되지만, 어느 한 국가만에 의한 조선에서의 군사 작전과 그에 뒤따르는 군사 점령은 광범위한 정치적 결과를 낳을 수 있다. 중국은 조선의 군정에 대한 소련의 배타적 책임이 만주와 화북에 소련 세력권의 성장을 가져올까 두려워할 것이다. 마찬가지로 소련은 적대 행위가 종식된 뒤 중국이 조선의 군정에 대한 배타적 책임을 갖게 되는 어떠한 조치에 대해서도 반감을 가질 것이다. 그러므로 조선에서의 군사 작전이 완료되면 실행 가능한 한 조선의 점령군과 군정에 연합국 대표의 참여가 있어야 하고, 그러한 군정은 조선 전역을 분리된 지대(zones)가 아니라 하나의 단위로 관리하는 중앙집권적 행정의 원칙 위에 조직되어야 한다는 것이 우리의 견해이다. 그러한 대표의 참여는 조선의 장래 정치적 지위에 실질적 이해관계를 가진 나라들에 의해 이루어져야 하되, 다른 나라들의 대표 규모가 그 점령에서 미국의 참여가 갖는 실효성을 해칠 만큼 커서는 안 된다. 미국의 참여에서 [360면] 중요한 요소 하나는, 미국이 제국주의적 의도를 품지 않으리라고 조선인들이 미국에 둘 신뢰이다. 따라서 미국은 점령과 군정에서 주도적 역할을 해야 한다.\n\n전후 조선 문제에 관한 연구는 전후 조선의 정치·군사·경제 각 방면에 관한 질문서 초안에 근거하여 현재 국무부와 영국·중국 외무부에 의해 진행되고 있다. 이 연구들이 완료되면 이 문제들에 관한 문서들이, 정책 사항에 관하여 각국 정부를 어떤 식으로도 구속하지 않는 방식으로, 비공식적으로 교환될 것이다. 그런 다음 견해차를 분명히 하기 위한 비공식 양자 병행 논의가 열릴 것이다.\n\n조선의 군사 점령에 어느 나라들이 참여해야 하는가의 문제는 당면한 중요성을 지니며 신중한 검토를 받아야 하는데, 그 이유는 1) 영국 외무부의 요청으로 조선에서의 군사 점령 문제가 현재 국무부와 영국·중국 외무부가 연구하고 있는 문제들에 포함되어 있지 않고, 2) 소련의 대일 참전은 조선에 소련군이 주둔하는 결과를 낳을 것이며 이는 점령군의 구성을 결정하는 데 중요한 요소가 될 것이고, 3) 조선에 대한 소련의 전통적 이해관계는, 소련이 태평양 전쟁에 참전하지 않더라도 조선의 군사 점령에 참여하기를 바랄 가능성을 제기하기 때문이다.\n\n(2) 독립에 앞선 조선에 관한 두 번째 중요한 문제는, 그러한 행정을 수립하기로 결정될 경우 조선을 위한 잠정 국제 행정 또는 신탁통치에 어느 나라들이 참여해야 하는가이다. 조선의 군사 점령 기간을 최소한으로 줄이는 동시에 조선인들에게 독립과 함께 따라올 책임에 대한 준비를 시키기 위하여, 점령 기간 이후 조선 독립의 수립 이전에 조선에는 어떤 형태의 국제 행정 또는 신탁통치가 있어야 하며, 그러한 행정 또는 신탁통치는 조선인들이 스스로를 통치할 수 있게 될 때까지 기능해야 한다는 것이 현재 우리의 의견이다.\n\n조선을 위한 잠정 국제 행정 또는 신탁통치가 계획 중인 국제기구의 권한 아래 수립된다면, 그 기구는 아마도 미국, 영국, 중국 및 소련을 포함하여 조선에 주된 이해관계를 가진 나라들을 신탁통치국(trustees)으로 임명할 것이다. 나아가 조선을 위한 잠정 행정 당국이 계획 중인 국제기구와는 별개로 수립된다 하더라도, 미국, 영국, 중국 및 소련은 당연히 그러한 행정에 적극적으로 참여하게 될 것이다. 극동에서 [361면] 소련이 차지하는 지위는, 소련이 태평양 전쟁에 참전하는지 여부와 관계없이 잠정 국제 행정에 소련 대표를 두게 하는 것이 바람직해 보일 만한 것이다.\n\n전후 조선 문제에 관한 연구는 아직, 조선을 위한 잠정 국제 감독 당국의 정확한 구조에 관해서나 조선에 독립이 부여되어야 할 시기에 관해서나 국무부가 권고를 내릴 수 있을 만큼 진척되지 않았다. 그러나 점령 기간이 길어질 가능성을 피하고 조선 독립이 불필요하게 연기되는 것을 막기 위하여, 조선을 위한 잠정 국제 감독 당국을 수립할 것인지, 수립한다면 어느 열강들이 거기에 대표를 두어야 하는지의 문제에 관하여 주요 이해관계국들 사이에 조속한 시일 내에 합의가 이루어져야 한다는 것이 국무부의 견해이다.\n\n소련의 대일 참전 [주1]", "secondary": "undated\n\nInter-Allied Consultation Regarding Korea\n\nSummary\n\nIt is desirable that an understanding be reached with the British and Chinese Governments and depending upon developments, with the Soviet Government, on the question of what countries should participate (1) in the military occupation of Korea and (2) in an interim international administration or trusteeship for Korea if it is decided that such an administration should be established.\n\nIn reference to the first part of the question it is the view of the Department that the problems of Korea are of such an international character that with the completion of military operations in Korea, (1) there should be, so far as practicable, Allied representation in the army of occupation and military government in Korea; (2) such representation should be by those countries which have a real interest in the future status of Korea, such as the United States, Great Britain, and China and the Soviet Union if it has entered the war in the Pacific; and (3) the representation of other states should not be so large as to reduce the proportionate strength of the United States to a point where its effectiveness would be weakened.\n\n[359면]\n\nAs regards the second part of the question, it is the Department’s tentative opinion that (1) an interim international administration or trusteeship should be established for Korea either under the authority of the proposed international organization or independently of it; and that (2) the United States, Great Britain, China and the Soviet Union should be included in any such administration.\n\n[Inter-Allied Consultation Regarding Korea]\n\nThe Problem\n\nWhich countries should participate 1) in the military occupation of Korea and 2) in an interim international administration or trusteeship for Korea if it is decided that such an administration should be established?\n\nDiscussion\n\n(1) Joint action in connection with the establishment of Korean independence is both important and necessary for the following reasons:\n\n1)\n\nChina and the Soviet Union are contiguous to Korea and have had a traditional interest in Korean affairs;\n\n2)\n\nThe United States, Great Britain and China have promised in the Cairo Declaration that in due course Korea shall become free and independent;\n\n3)\n\nThe military occupation of Korea by any single power might have serious political repercussions.\n\nWhile the questions relating to the operations of Allied military, naval and air forces are admittedly of a purely military character and hence are not of direct concern to the Department, military operations and subsequent military occupation in Korea by any single state alone might have far-reaching political consequences. China would fear that exclusive Soviet responsibility for military government in Korea might lead to the growth of a Soviet sphere of influence in Manchuria and north China. Likewise, the Soviet Union would be resentful of any arrangement whereby China would have exclusive responsibility for military government in Korea after the cessation of hostilities. It is our view, therefore, that with the completion of military operations in Korea, there should be, so far as practicable, Allied representation in the army of occupation and in military government in Korea and that such military government should be organized on the principle of centralized administration with all of Korea administered as a single unit and not as separate zones. Such representation should be by those countries which have a real interest in the future political status of Korea, but the representation of other states should not be so large as to prejudice the effectiveness of American participation in that occupation. An [360면] important element in American participation consists of the trust which Koreans will place in the United States not to harbor imperialistic designs. The United States, therefore, should play a leading role in the occupation and military government.\n\nStudies on post-war Korean problems are now being undertaken by the Department and the British and Chinese Foreign Offices, based on a draft questionnaire which relates to various political, military and economic aspects of post-war Korea. When these studies have been completed, papers on these questions will be exchanged informally without in any way committing the respective Governments on matters of policy. Informal bilateral parallel discussions will then be held to clarify points of difference.\n\nThe question of which countries should participate in the military occupation of Korea is of immediate importance and should receive careful consideration because 1) at the request of the British Foreign Office, the problems of military occupation in Korea are not included among those questions now being studied in the Department and by the British and Chinese Foreign Offices, 2) the entrance of the Soviet Union in the war against Japan would result in the presence of Soviet forces in Korea which would be an important factor in determining the composition of the occupational forces, and 3) the traditional interest of the Soviet Union in Korea raises the possibility that it will wish to participate in the military occupation of Korea even though the Soviet Union may not enter the war in the Pacific.\n\n(2) The second important question concerning Korea prior to independence is what countries should participate in an interim international administration or trusteeship for Korea if it is decided that such an administration should be established. In order to reduce to a minimum the period of military occupation of Korea and at the same time to prepare the Korean people for the responsibilities which will come with independence, it is our present opinion that there should be in Korea, following the period of occupation and prior to the establishment of Korean independence, some form of international administration or trusteeship, such administration or trusteeship to function until such time as the Koreans are able to govern themselves.\n\nIf an interim international administration or trusteeship is established for Korea under the authority of the projected international organization, that organization would presumably appoint as trustees those countries principally interested in Korea including the United States, Great Britain, China and the Soviet Union. Moreover, even if an interim administrative authority for Korea is established independently of the projected international organization, the United States, Great Britain, China and the Soviet Union would naturally take an active part in such an administration. The position of the [361면] Soviet Union in the Far East is such that it would seem advisable to have Soviet representation on an interim international administration regardless of whether or not the Soviet Union enters the war in the Pacific.\n\nThe studies on problems of post-war Korea have not yet progressed far enough to enable the Department to make recommendations on either the exact structure of any interim international supervisory authority for Korea, or the time when Korea should be granted independence. However, it is the view of the Department that an agreement should be reached at an early date among the principal interested powers on the question of whether an interim international supervisory authority is to be established for Korea and if so what powers are to be represented thereon in order to avoid the possibility of an extended period of occupation and to prevent an unnecessary postponement of Korean independence.\n\nEntry of the Soviet Union into the war against Japan [주1]", "notes": ["[주1] 앞의 351–352면에 실린 「소련이 극동 전쟁에 참전할 경우 중국의 정치·군사 정세(Political and Military Situation in China in the Event the U. S. S. R. Enters the War in the Far East)」라는 제목의 문서도 참조."], "note": "번역자 주 — 1) 원문에 'undated'로만 표기되어 date는 null로 두었다. 2) 원본 지면 358면에 'POST-WAR STATUS OF KOREA(조선의 전후 지위)'라는 절 제목이 별도로 붙어 있고 그 아래에 이 문서가 놓인다. 다만 raw 텍스트에서는 그 절 제목이 앞 문서(d246) 말미에 붙어 있고 이 문서에는 [358면] 표시가 없어, 본문에는 임의로 넣지 않았다. 3) 마지막 줄 '소련의 대일 참전 [주1]'은 이 문서 본문의 일부가 아니라 다음 절의 제목이 딸려 들어온 것으로 보이나, 원문 그대로 두었다. 4) 낱말 구분을 유지했다: military occupation 군사 점령 / international administration 국제 행정 / trusteeship 신탁통치 / trustees 신탁통치국 / Allied representation 연합국 대표의 참여. 'representation'은 문맥에 따라 '대표의 참여'로 옮겼다. 5) 미국의 비중을 계산하는 대목 두 곳을 부드럽게 만들지 않고 그대로 옮겼다: 'the representation of other states should not be so large as to reduce the proportionate strength of the United States to a point where its effectiveness would be weakened'(다른 나라들의 대표 규모가 미국의 비례적 세력을 그 실효성이 약화될 지점에까지 줄일 만큼 커서는 안 된다), 'should not be so large as to prejudice the effectiveness of American participation'(미국의 참여가 갖는 실효성을 해칠 만큼 커서는 안 된다). 또한 'The United States, therefore, should play a leading role in the occupation and military government'(따라서 미국은 점령과 군정에서 주도적 역할을 해야 한다). 6) 조선인의 자치 능력을 유보적으로 보는 서술도 그대로 옮겼다: 'to prepare the Korean people for the responsibilities which will come with independence'(조선인들에게 독립과 함께 따라올 책임에 대한 준비를 시키기 위하여), 'to function until such time as the Koreans are able to govern themselves'(조선인들이 스스로를 통치할 수 있게 될 때까지 기능해야 한다). 7) 카이로 선언의 'in due course'는 뒤에 문제가 되는 표현이라 '적절한 시기에(in due course)'로 원어를 병기했다. 8) 원문의 소제목 대괄호 '[Inter-Allied Consultation Regarding Korea]'는 편집자가 보충한 표제로 보이며, 대괄호를 그대로 살렸다.", "warn": false, "pages": ["358", "359", "360", "361"], "search": ""}, {"id": "d393", "order": 393, "date": "1945-02-08", "group": "B", "eyebrow": "d393 · Bohlen Minutes  The first two subjects here are separate memoranda, while the last four subjects are grouped in a third memorandum.", "title": "볼렌 회의록", "badge": "top secret (극비)", "list_right": "문서 393", "meta": [{"k": "일자", "v": "1945-02-08"}, {"k": "장소", "v": "Yalta (원문 표기: Leningrad / 말미의 본회의는 Livadia Palace)", "txt": true}, {"k": "발신", "v": "Bohlen 볼렌 (회의록 작성)", "txt": true}, {"k": "수신", "v": null, "txt": true}, {"k": "참석", "v": "President Roosevelt 루스벨트 대통령 (미국), Marshal Stalin 스탈린 원수 (소련), — 이하는 문서 말미에 이어 붙은 제5차 본회의(1945년 2월 8일 오후 4시, 리바디아 궁전) 참석자 명단 —, United States 미국: President Roosevelt 루스벨트 대통령, Secretary Stettinius 스테티니어스 국무장관, Fleet Admiral Leahy 리히 해군원수, Mr. Hopkins 홉킨스, Mr. Byrnes 번스, Mr. Harriman 해리먼, Mr. Matthews 매슈스, Mr. Hiss 히스, Mr. Bohlen 볼렌, United Kingdom 영국: Prime Minister Churchill 처칠 총리, Foreign Secretary Eden 이든 외무장관, Sir Archibald Clark Kerr 아치볼드 클라크 커 경, Sir Alexander Cadogan 알렉산더 캐도건 경, Sir Edward Bridges 에드워드 브리지스 경, Mr. Jebb 젭, Mr. Wilson 윌슨, Mr. Dixon 딕슨, Major Birse 버스 소령, Soviet Union 소련: Marshal Stalin 스탈린 원수, Foreign Commissar Molotov 몰로토프 외무인민위원, Mr. Vyshinsky 비신스키, Mr. Maisky 마이스키, Mr. Gusev 구세프, Mr. Gromyko 그로미코, Mr. Pavlov 파블로프", "txt": true, "wide": true}, {"k": "종류", "v": "회의록"}], "links": [{"k": "FRUS", "text": "문서 393 원문", "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d393"}], "summary": "1945년 2월 8일 오후 3시 30분 루스벨트 대통령과 스탈린 원수의 회담 기록으로, 극동 항공기지·유럽 비행장 사용·전후 선박 매각·소련의 대일 참전 조건(사할린 남부, 쿠릴, 다롄·뤼순과 만주 철도)에 이어 「신탁통치」 항목에서 조선에 대한 소·미·중 3국 대표 신탁통치와 그 기간, 외국 군대 주둔 여부, 영국 참여 문제가 논의된다.", "points": ["조선 신탁통치: 대통령은 조선에 대해 \"소련, 미국, 중국 대표로 구성된 신탁통치\"를 염두에 두고 있다고 말했다.", "조선 신탁통치 기간: 대통령은 이 문제에 관한 유일한 경험이 필리핀이며 그곳에서는 국민이 자치를 준비하는 데 \"약 50년\"이 걸렸다고 말하고, 조선의 경우에는 그 기간이 \"20년에서 30년\"일 수 있다고 보았다.", "스탈린은 기간이 짧을수록 좋다고 답하고, 조선에 외국 군대가 주둔하게 되는지 물었다. 대통령은 부정으로 답했고 스탈린은 찬성의 뜻을 표했다.", "영국 참여: 대통령은 조선 신탁통치에 영국을 초청할 필요는 없다고 개인적으로 느끼지만 영국이 이를 언짢게 여길 수 있다고 말했다. 스탈린은 영국이 반드시 기분이 상할 것이며 총리가 \"우리를 죽일지도(kill us)\" 모른다면서, 영국을 초청해야 한다는 의견을 냈다.", "인도차이나 신탁통치도 함께 거론되었고, 영국이 버마에 미칠 파장을 우려해 반대하며 프랑스에 돌려주려 한다는 점이 논의되었다.", "소련의 대일 참전 정치적 조건: 사할린 남부와 쿠릴 열도의 소련 귀속, 부동항(다롄) 사용, 만주 철도 사용 — 대통령은 조차와 국제 관리(국제화된 자유항) 두 방식을 제시했고, 스탈린은 국제화된 자유항에 반대하지 않겠다고 했다.", "스탈린은 이 조건들을 3국이 합의한 문서로 남기고 떠나는 것이 좋겠다고 말했고, 대통령은 그렇게 할 수 있으리라 본다고 했다. 중국(장제스)과는 아직 논의하지 않았으며, 중국에 말하면 24시간 안에 온 세계가 알게 된다는 점이 어려움으로 지적되었다.", "그 밖에 극동 항공기지(콤소몰스크·니콜라옙스크 허용, 캄차카는 보류), 부다페스트 인근 비행장 사용과 폭격 피해 조사 요청 수락, 전후 잉여 선박의 무이자 신용 이전(20년 상환), 무기대여(Lend-Lease)에 대한 스탈린의 평가, 중국 국내 정세가 다뤄졌다."], "primary": "레닌그라드, 1945년 2월 8일 오후 3시 30분\n\n극비(top secret)\n\n## 극동의 항공기지\n\n**대통령**은 마닐라 함락으로 태평양 전쟁이 새로운 국면에 접어들고 있으며, 우리는 보닌 제도와 타이완(포모사) 인근 도서에 기지를 설치하기를 희망한다고 말했다. 그는 일본에 대한 추가 폭격 계획을 세울 때가 왔다고 말했다. 그는 실제로 일본 본토 제도를 침공할 필요가 없기를 희망하며, 절대적으로 필요한 경우에만 그렇게 할 것이라고 말했다. 일본은 육군에 400만 명을 두고 있으며, 그는 집중 폭격으로 일본과 그 군대를 파괴하여 미국인의 목숨을 구할 수 있기를 희망한다고 말했다.\n\n**스탈린 원수**는 미국이 콤소몰스크나 니콜라옙스크에 기지를 두는 데 반대하지 않는다고 말했다. 그는 앞의 것은 아무르 강 하류에, 뒤의 것은 그 하구에 있다고 말했다. 그는 캄차카의 기지에 관해서는 그곳에 일본 영사가 주재하고 있어 지금 시점에 필요한 조치를 취하기가 어려우므로 나중 단계로 미뤄야 할 것으로 생각한다고 말했다. 어쨌든 연해주의 다른 두 기지가 더 가깝다고 그는 덧붙였다.\n\n**스탈린 원수**는 이 문제에 관한 대통령의 서한[주2]에 나온 \"상업 항로(commercial routes)\"에 관한 한 구절이 자신에게 분명하지 않았다고 덧붙였다.\n\n[767면]\n\n**대통령**은 태평양과 동시베리아를 가로질러 소련으로 가는 보급로의 중요성을 염두에 두고 있었다고 말하고, 일단 일본과 소련 사이에 전쟁이 벌어지면 그 보급로가 매우 중요해지겠지만 일본 열도를 지나가기가 또한 매우 어려워질 것이라고 느낀다고 말했다.\n\n**스탈린 원수**는 이 보급로의 중요성을 인정한다는 뜻을 밝히고, 연해주에 미국 기지를 설치하는 데 반대하지 않는다고 다시 한 번 되풀이했다.\n\n**대통령**은 원수에게 소련 참모부가 미국 참모부와 계획 협의에 들어가도록 지시해 줄 것을 요청하는 문서[주3]를 건넸다.\n\n**스탈린 원수**는 필요한 지시를 내리겠다는 뜻을 밝혔다.\n\n## 동유럽 및 동남유럽에서의 비행장 사용과 폭격 피해 조사[주4]\n\n**대통령**은 유럽에 관한 군사적 성격의 문제 두 가지를 원수와 다루고자 한다고 말했다. 그는 이어 영어로 된 문서 두 건을 스탈린 원수에게 건넸고, 이는 러시아어로 통역되었다.\n\n첫째는 독일에 대한 폭격 작전을 수행하기 위해 미국 공군이 부다페스트 인근의 일정한 비행장을 사용할 수 있도록 허용해 달라는 요청이었다. 대통령은 현재 이탈리아에 기지를 둔 미국 폭격기들이 독일에 이르기 위해 알프스를 넘는 길고 위험한 비행을 해야 한다고 말했다.\n\n둘째 문서는 플로이에슈티에서 실시된 조사와 유사하게, 붉은 군대가 해방했거나 점령한 동유럽 및 동남유럽 지역에서 미국 전문가단이 폭격의 효과에 대한 조사를 수행할 수 있도록 허가해 달라는 요청을 담고 있었다. 이 문서는 증거가 아직 생생하고 폭격 당시 그곳에 있던 사람들이 아직 현장에 남아 있는 동안 피해를 조사하는 것이 중요하므로 이 조사단이 즉시 출발할 수 있도록 허가해 달라고 요청했다.\n\n**스탈린 원수**는 이 두 요청을 모두 승인할 수 있으며 즉시 필요한 명령을 내리겠다고 말했다.\n\n## 전후 소련에 대한 선박 매각[주5]\n\n**스탈린 원수**는 스테티니어스 씨가 몰로토프 씨에게 미국이 전후 잉여 선박 자산을 갖게 되어 이를 소련에 매각할 가능성이 있다고 말했다는 점을 언급했다.\n\n[768면]\n\n**대통령**은 이를 위해서는 법률에 어느 정도 변경이 필요하며, 미국과 영국이 필요로 하지 않는 전후 잉여 선박을 이자 없이 신용으로 이전할 수 있도록 그 변경을 성사시키기를 희망한다고 말했다. 그는 지난 전쟁 뒤에 잉여 자산 처분에 이자를 물리려 한 잘못이 있었으나 그것이 통하지 않았다고 말했다. 그의 구상은 선박 가격에서 감가상각분을 뺀 금액을 포함하는 정해진 액수로 신용 이전하여 20년이면 신용이 전부 소멸되도록 하는 것이었다. 그는 영국은 상업적 이자 없이 무엇을 판 적이 결코 없지만 자신은 생각이 다르다고 말했다.\n\n**스탈린 원수**는 대통령의 발언에 만족을 표하고, 이 선박이 장래 소련의 과업을 크게 덜어 줄 것이라고 말했다.\n\n**대통령**은 소련이 해운 사업에 크게 관심을 갖기를 희망한다고 답했다.\n\n**스탈린 원수**는 대통령의 구상이 매우 훌륭하다고 생각하며, 또한 무기대여(Lend-Lease)는 그것이 없었더라면 승리가 늦어졌을 놀라운 발명이라고 말했다. 그는 이전의 전쟁들에서는 일부 동맹국이 다른 동맹국에 보조금을 주었으나 이는 보조금을 받는 동맹국의 감정을 상하게 하여 어려움을 낳았다고 말했다. 그러나 무기대여는 그런 원한을 낳지 않았다고 하면서, 그는 무기대여가 전쟁 승리에 기여한 바가 비상하다는 자신의 견해를 되풀이했다.\n\n**대통령**은 4년 전 자신의 작은 요트에서 쉬고 있을 때 연합국을 돕는 동시에 차관에 내재된 어려움을 피할 방법을 거듭 생각한 끝에 마침내 무기대여라는 방안을 떠올렸다고 답했다.\n\n## 극동: 러시아의 요구\n\n극동과 관련된 몇몇 군사 문제를 논의한 뒤, **스탈린 원수**는 소련이 대일 전쟁에 참전할 정치적 조건을 논의하고 싶다고 말했다. 그는 이 주제에 관해 이미 해리먼 대사와 대화를 나눈 바 있다고 말했다.\n\n**대통령**은 그 대화에 관한 보고[주6]를 받았다고 말하고, 사할린 남반부와 쿠릴 열도가 전쟁이 끝날 때 러시아에 넘어가는 데 대해서는 아무런 어려움도 없을 것으로 느낀다고 말했다. 그는 소련을 위한 극동의 부동항에 관해서는 원수도 기억하듯 테헤란에서 그 점을 논의했다고 말했다. 그는 당시 자신이 남만주 철도의 종점에 있는 부동항, 아마도 관동 반도의 [769면] 다롄을 소련이 사용하도록 하자고 제안했다고 덧붙였다. 대통령은 아직 장제스 원수와 이 문제를 논의할 기회가 없었으므로 중국을 대신해 말할 수는 없다고 말했다. 그는 이어 러시아가 이 항구의 사용권을 얻는 데는 두 가지 방법이 있다고 말했다. (1) 중국으로부터의 완전한 조차, (2) 어떤 형태의 국제 위원회 아래 다롄을 자유항으로 만드는 것. 그는 홍콩 문제와의 관련 때문에 후자의 방법을 선호한다고 말했다. 대통령은 영국이 홍콩의 주권을 중국에 돌려주고 홍콩이 그 뒤 국제화된 자유항이 되기를 희망한다고 말했다. 그는 처칠 씨가 이 제안에 강하게 반대하리라는 것을 안다고 말했다.\n\n**스탈린 원수**는 또 하나의 문제가 있는데 그것은 러시아의 만주 철도 사용에 관한 것이라고 말했다. 그는 차르들이 만저우리에서 하얼빈까지, 거기서 다롄과 뤼순까지 이어지는 노선과, 하얼빈에서 동쪽으로 니콜스크-우수리스크로 가서 하바롭스크-블라디보스토크 선과 연결되는 노선을 사용했다고 말했다.\n\n**대통령**은 이 주제에 관해서도 장제스 원수와 이야기하지는 않았지만, 이를 실현하는 데는 역시 두 가지 방법이 있다고 말했다. (1) 소련이 직접 운영하는 형태로 조차하는 것, (2) 중국인 1명과 러시아인 1명으로 구성된 위원회 아래 두는 것.\n\n**스탈린 원수**는 이러한 조건들이 충족되지 않는다면 자신과 몰로토프가 러시아가 왜 대일 전쟁에 참전하는지를 소련 인민에게 설명하기 어려우리라는 점은 분명하다고 말했다. 그들은 소련의 존립 자체를 위협했던 독일과의 전쟁은 분명히 이해하고 있었으나, 러시아가 별다른 문제가 없던 나라와 왜 전쟁에 들어가는지는 이해하지 못할 것이라고 했다. 그러나 이 정치적 조건들이 충족된다면 인민은 거기에 걸린 국가적 이익을 이해할 것이고, 최고 소비에트에 그 결정을 설명하기가 훨씬 쉬워질 것이라고 말했다.\n\n**대통령**은 장제스 원수와 이야기할 기회가 없었다고 답하고, 중국인들에게 말할 때의 어려움 가운데 하나는 그들에게 한 말은 무엇이든 24시간 안에 온 세계가 알게 된다는 점이라고 느낀다고 말했다.\n\n**스탈린 원수**는 이에 동의하고, 아직 중국인들에게 말할 필요는 없다고 생각하며 최고 소비에트의 보안은 자신이 보장할 수 있다고 말했다. 그는 이 조건들을 3국이 합의한 문서로 작성해 두고 이곳을 떠나는 것이 좋겠다고 덧붙였다.\n\n**대통령**은 그렇게 할 수 있으리라 생각한다는 뜻을 밝혔다.\n\n**스탈린 원수**는 이어 중국에 관해서, 쑹쯔원(T. V. Soong)이 4월 말에 모스크바에 올 것으로 예상된다고 말하고, 서부에서 소련군 상당수를 빼내어 25개 사단을 극동으로 이동시킬 수 있게 되면 [770면] 장제스 원수와 이 문제들에 관해 이야기할 수 있으리라 생각한다고 말했다.\n\n**스탈린 원수**는 부동항 문제에 관해서는 러시아가 까다롭게 굴지 않을 것이며 국제화된 자유항에 반대하지 않겠다고 말했다.\n\n## 신탁통치\n\n**대통령**은 이어 스탈린 원수와 신탁통치 문제를 논의하고 싶다고 말했다. 그는 조선(Korea)에 대해서는 소련, 미국, 중국 대표로 구성된 신탁통치를 염두에 두고 있다고 말했다. 그는 이 문제에서 우리가 가진 유일한 경험은 필리핀의 경우인데, 그곳에서는 국민이 자치를 준비하는 데 **약 50년**이 걸렸다고 말했다. 그는 조선의 경우에는 그 기간이 **20년에서 30년**일 수 있으리라고 느낀다고 말했다.\n\n**스탈린 원수**는 기간이 짧으면 짧을수록 좋다고 말하고, 조선에 외국 군대가 주둔하게 되는지 물었다.\n\n**대통령**은 부정으로 답했고, 이에 대해 스탈린 원수는 찬성의 뜻을 표했다.\n\n**대통령**은 이어 조선에 관해 미묘한 문제가 하나 있다고 말했다. 그는 개인적으로는 조선의 신탁통치에 영국을 초청할 필요가 있다고 느끼지 않지만, 영국이 이를 언짢게 여길 수 있다고 느낀다고 말했다.\n\n**스탈린 원수**는 그들이 틀림없이 기분이 상할 것이라고 답했다. 실제로 총리가 \"우리를 죽일지도(kill us)\" 모른다고 그는 말했다. 그의 의견으로는 영국을 초청해야 한다고 느낀다는 것이었다.\n\n**대통령**은 이어 인도차이나에 대한 신탁통치도 염두에 두고 있다고 말했다. 그는 영국이 이 구상에 찬성하지 않는데, 신탁통치가 버마에 미칠 수 있는 파장을 우려하여 인도차이나를 프랑스에 돌려주고자 하기 때문이라고 덧붙였다.\n\n**스탈린 원수**는 영국이 인도차이나에 의존했다가 한 번 버마를 잃은 적이 있다고 언급하고, 영국이 이 지역을 지키는 데 믿을 만한 나라라고는 생각하지 않는다고 말했다. 그는 인도차이나가 매우 중요한 지역이라고 생각한다고 덧붙였다.\n\n**대통령**은 인도차이나인들이 자바인이나 버마인처럼 체구가 작은 사람들이며 호전적이지 않다고 말했다. 그는 프랑스가 이 식민지를 차지한 이래 원주민의 처지를 개선하기 위해 아무것도 하지 않았다고 덧붙였다. 그는 드골 장군이 프랑스군을 인도차이나로 수송할 선박을 요청했다고 말했다.\n\n**스탈린 원수**는 드골이 어디서 병력을 구할 것인지 물었다.\n\n**대통령**은 드골이 대통령이 선박을 구할 수 있게 되면 자신은 병력을 찾아내겠다고 말했다고 답하면서, 다만 현재까지 자신은 선박을 구하지 못했다고 덧붙였다.\n\n[771면]\n\n## 중국의 국내 정세\n\n**대통령**은 우리가 얼마 전부터 중국을 살려 두려고 애써 왔다고 말했다.\n\n**스탈린 원수**는 중국이 계속 살아남을 것이라는 의견을 표했다. 그는 장제스 주변에 새로운 지도자들이 필요하며, 국민당 안에 좋은 사람들이 더러 있는데도 왜 그들이 전면에 나서지 않는지 이해할 수 없다고 덧붙였다.\n\n**대통령**은 웨더마이어 장군과 신임 대사인 헐리 장군이 전임자들보다 훨씬 큰 성과를 거두고 있으며, 북부의 공산주의자들을 충칭 정부와 결합시키는 데 더 많은 진전을 이루었다고 말했다. 그는 잘못이 이른바 공산주의자들보다 국민당과 충칭 정부에 더 있다고 말했다.\n\n**스탈린 원수**는 그들이 일본에 맞서 통일전선을 이루어야 하는데도 왜 함께하지 않는지 이해할 수 없다고 말했다. 그는 이 목적을 위해서는 장제스가 지도력을 맡아야 한다고 생각했다. 그는 이와 관련하여 몇 해 전에 통일전선이 있었음을 상기하고, 왜 그것이 유지되지 않았는지 이해할 수 없다고 말했다.\n\n## 제5차 본회의, 1945년 2월 8일 오후 4시, 리바디아 궁전\n\n**참석자**\n\n미국\n\n- 루스벨트 대통령(President Roosevelt)\n- 스테티니어스 장관(Secretary Stettinius)\n- 리히 해군원수(Fleet Admiral Leahy)\n- 홉킨스 씨(Mr. Hopkins)\n- 번스 씨(Mr. Byrnes)\n- 해리먼 씨(Mr. Harriman)\n- 매슈스 씨(Mr. Matthews)\n- 히스 씨(Mr. Hiss)\n- 볼렌 씨(Mr. Bohlen)\n\n영국\n\n- 처칠 총리(Prime Minister Churchill)\n- 이든 외무장관(Foreign Secretary Eden)\n- 아치볼드 클라크 커 경(Sir Archibald Clark Kerr)\n- 알렉산더 캐도건 경(Sir Alexander Cadogan)\n- 에드워드 브리지스 경(Sir Edward Bridges)\n- 젭 씨(Mr. Jebb)\n- 윌슨 씨(Mr. Wilson)\n- 딕슨 씨(Mr. Dixon)\n- 버스 소령(Major Birse)\n\n소련\n\n- 스탈린 원수(Marshal Stalin)\n- 몰로토프 외무인민위원(Foreign Commissar Molotov)\n- 비신스키 씨(Mr. Vyshinsky)\n- 마이스키 씨(Mr. Maisky)\n- 구세프 씨(Mr. Gusev)\n- 그로미코 씨(Mr. Gromyko)\n- 파블로프 씨(Mr. Pavlov)", "secondary": "Leningrad, February 8, 1945, 3:30 p.m.\n\ntop secret\n\nAir Bases in the Far East\n\nThe President said that with the fall of Manila the war in the Pacific was entering into a new phase and that we hoped to establish bases on the Bonins and on the islands near Formosa. He said the time had come to make plans for additional bombing of Japan. He hoped that it would not be necessary actually to invade the Japanese islands and would do so only if absolutely necessary. The Japanese had 4,000,000 men in their army and he hoped by intensive bombing to be able to destroy Japan and its army and thus save American lives.\n\nMarshal Stalin said he did not object to the United States having bases at Komsomolsk or at Nikolaevsk. He said the first was on the lower reaches of the Amur River and the second at its mouth. He said that in regard to the bases on Kamchatka he thought we would have to leave that until a later stage since the presence of the Japanese Consul there made it difficult at this time to make the necessary arrangements. At any rate, he added, the other two bases in the Maritime Provinces were nearer.\n\nMarshal Stalin added that there had been one phrase in regard to “commercial routes” in the President’s letter [주2] on the subject which had not been clear to him.\n\n[767면]\n\nThe President said he had had in mind the importance of the supply routes across the Pacific and Eastern Siberia to the Soviet Union and he felt that once war broke out between Japan and the Soviet Union it would become very important but also very difficult to get by the Japanese Islands.\n\nMarshal Stalin indicated that he recognized the importance of these supply routes and again repeated that he had no objection to the establishment of American bases in the Maritime provinces.\n\nThe President handed the Marshal a paper [주3] in which it was requested that the Soviet staff be instructed to enter into planning talks with the United States staff.\n\nMarshal Stalin indicated that he would give the necessary instructions.\n\nUse of airfields and survey of bomb damage in Eastern and Southeastern Europe [주4]\n\nThe President said he had two questions of a military nature relating to Europe which he wished to take up with the Marshal. He then handed to Marshal Stalin two papers in English which were translated into Russian.\n\nThe first was a request that the United States Air Force be allowed to use certain airfields in the vicinity of Budapest in order to carry out bombing operations against the Germans. The President said that at the present time the American bombers based in Italy had to make a long and hazardous flight over the Alps in order to reach Germany.\n\nThe second paper contained a request that a group of United States experts be permitted to make surveys of the effects of bombing in the areas liberated or occupied by the Red Army in Eastern and South Eastern Europe, similar to the surveys that had been made at Ploesti. The paper asked that this group be permitted to proceed at once since it was important to examine the damage while the evidence was still fresh and the people who had been there during the bombing still were on the spot.\n\nMarshal Stalin said he could grant both these requests and would immediately give the necessary orders.\n\nSale of Ships to the Soviet Union after the War [주5]\n\nMarshal Stalin mentioned that Mr. Stettinius had told Mr. Molotov there was a possibility that the United States would have surplus shipping property after the war which might be sold to the Soviet Union.\n\n[768면]\n\nThe President said that this would require some changes in legislation which he hoped to work out so that surplus shipping after the war not needed by the United States and Great Britain could be transferred on credit without any interest. He said after the last war the mistake had been made of attempting to charge interest for the disposal of surplus property but it had not worked. His idea was to transfer the ships for a fixed sum on credit which would include the cost of the ship less the cost of depreciation, so that in twenty years the entire credit would be extinguished. He said that the British had never sold anything without commercial interest but that he had different ideas.\n\nMarshal Stalin expressed gratification at the President’s statement and said this shipping would greatly ease the task of the Soviet Union in the future.\n\nThe President replied that he hoped the Soviet Union would interest itself in a large way in the shipping game.\n\nMarshal Stalin said that he thought the President’s idea was a very good one and also that Lend-Lease was a remarkable invention, without which victory would have been delayed. He said that in former wars some allies had subsidized others but this had offended the allies receiving the subsidies and had led to difficulties. Lend-Lease, however, produced no such resentment, and he repeated his opinion of the extraordinary contribution of Lend-Lease to the winning of the war.\n\nThe President replied that four years ago, when having a rest on his small yacht, he had thought and thought of a way to help the Allies and at the same time avoid the difficulties inherent in loans, and had finally hit upon the scheme of Lend-Lease.\n\nFar East: Russian Desires\n\nFollowing the discussion of certain military questions involved in the Far East, Marshal Stalin said that he would like to discuss the political conditions under which the USSR would enter the war against Japan. He said he had already had a conversation on this subject with Ambassador Harriman.\n\nThe President said he had received a report [주6] of this conversation, and he felt that there would be no difficulty whatsoever in regard to the southern half of Sakhalin and the Kurile Islands going to Russia at the end of the war. He said that in regard to a warm water port in the Far East for the Soviet Union, the Marshal recalled that they had discussed that point at Tehran. He added that he had then suggested that the Soviet Union be given the use of a warm water port at the end of the south Manchurian railroad, at possibly Dairen on [769면] the Kwantung peninsula. The President said he had not yet had an opportunity to discuss this matter with Marshal Chiang Kai-shek, so therefore he could not speak for the Chinese. He went on to say that there are two methods for the Russians to obtain the use of this port; (1) outright leasing from the Chinese; (2) making Dairen a free port under some form of international commission. He said he preferred the latter method because of the relation to the question of Hong Kong. The President said he hoped that the British would give back the sovereignty of Hong Kong to China and that it would then become an internationalized free port. He said he knew Mr. Churchill would have strong objections to this suggestion.\n\nMarshal Stalin said there was another question and that involved the use by the Russians of the Manchurian railways. He said the Czars had use of the line running from Manchouli to Harbin and from there to Dairen and Port Arthur, as well as the line from Harbin running east to Nikolsk-Ussurisk connecting there with the Khabarovsk to Vladivostok line.\n\nThe President said that again, although he had not talked with Marshal Chiang Kai-shek on the subject, there were again two methods of bringing this about: (1) to lease under direct Soviet operation; (2) under a commission composed of one Chinese and one Russian.\n\nMarshal Stalin said that it is clear that if these conditions are not met it would be difficult for him and Molotov to explain to the Soviet people why Russia was entering the war against Japan. They understood clearly the war against Germany which had threatened the very existence of the Soviet Union, but they would not understand why Russia would enter a war against a country with which they had no great trouble. He said, however, if these political conditions were met, the people would understand the national interest involved and it would be very much easier to explain the decision to the Supreme Soviet.\n\nThe President replied that he had not had an opportunity to talk to Marshal Chiang Kai-shek and he felt that one of the difficulties in speaking to the Chinese was that anything said to them was known to the whole world in twenty-four hours.\n\nMarshal Stalin agreed and said he did not think it was necessary yet to speak to the Chinese and that he could guarantee the security of the Supreme Soviet. He added that it would be well to leave here with these conditions set forth in writing agreed to by the three powers.\n\nThe President indicated that he thought that this could be done.\n\nMarshal Stalin went on to say that in regard to the Chinese, T. V. Soong was expected to come to Moscow at the end of April, and he said that when it was possible to free a number of Soviet troops in the west and move twenty-five divisions to the Far East he thought [770면] it would be possible to speak to Marshal Chiang Kai-shek about these matters.\n\nMarshal Stalin said that in regard to the question of a warm water port the Russians would not be difficult and he would not object to an internationalized free port.\n\nTrusteeships\n\nThe President then said he wished to discuss the question of trusteeships with Marshal Stalin. He said he had in mind for Korea a trusteeship composed of a Soviet, an American and a Chinese representative. He said the only experience we had had in this matter was in the Philippines where it had taken about fifty years for the people to be prepared for self-government. He felt that in the case of Korea the period might be from twenty to thirty years.\n\nMarshal Stalin said the shorter the period the better, and he inquired whether any foreign troops would be stationed in Korea.\n\nThe President replied in the negative, to which Marshal Stalin expressed approval.\n\nThe President then said there was one question in regard to Korea which was delicate. He personally did not feel it was necessary to invite the British to participate in the trusteeship of Korea, but he felt that they might resent this.\n\nMarshal Stalin replied that they would most certainly be offended. In fact, he said, the Prime Minister might “kill us”. In his opinion he felt that the British should be invited.\n\nThe President then said he also had in mind a trusteeship for Indochina. He added that the British did not approve of this idea as they wished to give it back to the French since they feared the implications of a trusteeship as it might affect Burma.\n\nMarshal Stalin remarked that the British had lost Burma once through reliance on Indochina, and it was not his opinion that Britain was a sure country to protect this area. He added that he thought Indochina was a very important area.\n\nThe President said that the Indochinese were people of small stature, like the Javanese and Burmese, and were not warlike. He added that France had done nothing to improve the natives since she had the colony. He said that General de Gaulle had asked for ships to transport French forces to Indochina.\n\nMarshal Stalin inquired where de Gaulle was going to get the troops.\n\nThe President replied that de Gaulle said he was going to find the troops when the President could find the ships, but the President added that up to the present he had been unable to find the ships.\n\n[771면]\n\nInternal Conditions in China\n\nThe President said that for some time we had been trying to keep China alive.\n\nMarshal Stalin expressed the opinion that China would remain alive. He added that they needed some new leaders around Chiang Kai-shek and although there were some good people in the Kuomintang he did not understand why they were not brought forward.\n\nThe President said General Wedemeyer and the new Ambassador, General Hurley, were having much more success than their predecessors and had made more progress in bringing the communists in the north together with the Chungking government. He said the fault lay more with the Kuomintang and the Chungking Government than with the so-called communists.\n\nMarshal Stalin said he did not understand why they did not get together since they should have a united front against the Japanese. He thought that for this purpose Chiang Kai-shek should assume leadership. He recalled in this connection that some years ago there had been a united front and he did not understand why it had not been maintained.\n\nFifth plenary meeting, February 8, 1945, 4 p.m., Livadia Palace\n\nPresent\n\nUnited States United Kingdom Soviet Union\n\nPresident Roosevelt Prime Minister Churchill Marshal Stalin\n\nSecretary Stettinius Foreign Secretary Eden Foreign Commissar Molotov\n\nFleet Admiral Leahy Foreign Secretary Eden Mr. Vyshinsky\n\nMr. Hopkins Sir Archibald Clark Kerr Mr. Maisky\n\nMr. Byrnes Sir Alexander Cadogan Mr. Gusev\n\nMr. Harriman Sir Edward Bridges Mr. Gromyko\n\nMr. Matthews Mr. Jebb Mr. Pavlov\n\nMr. Hiss Mr. Wilson\n\nMr. Bohlen Mr. Dixon\n\nMajor Birse", "notes": ["[주1] 여기의 앞의 두 주제는 별개의 각서이고, 뒤의 네 주제는 세 번째 각서에 묶여 있다.", "[주2] 앞의 594면을 보라.", "[주3] 위의 부록 \"B\"를 보라.", "[주4] 이 주제에 관한 논의는 오후 3시 40분에 시작되었다.", "[주5] 이 주제에 관한 논의는 오후 3시 45분에 시작되었다.", "[주6] 앞의 378~379면."], "note": "번역자 주 — 1) 숫자·기간(스펙 9항)은 원문 그대로 옮겼다. 조선 신탁통치 대목의 원문은 다음과 같다 — \"He said he had in mind for Korea a trusteeship composed of a Soviet, an American and a Chinese representative. He said the only experience we had had in this matter was in the Philippines where it had taken about fifty years for the people to be prepared for self-government. He felt that in the case of Korea the period might be from twenty to thirty years.\" 즉 필리핀 = about fifty years(약 50년), 조선 = from twenty to thirty years(20년에서 30년). 본문 번역에서 두 수치는 굵게 표시해 두었다. 그 밖의 수치: 일본 육군 4,000,000명, 선박 신용 상환 twenty years(20년), 극동 이동 twenty-five divisions(25개 사단), 중국 관련 twenty-four hours(24시간).\n2) 스탈린이 조선에 외국 군대가 주둔하는지 물은 데 대해 대통령이 \"replied in the negative\"라고만 기록되어 있어, 직접화법이 아니라 볼렌의 요약이다. 그대로 \"부정으로 답했다\"로 옮겼다.\n3) 처칠을 가리키는 \"the Prime Minister might 'kill us'\"의 따옴표는 원문 그대로 살렸다.\n4) 스펙 12항(차별적 표현 보존)에 해당하는 대목: 인도차이나 항목에서 \"the Indochinese were people of small stature, like the Javanese and Burmese, and were not warlike\", \"France had done nothing to improve the natives since she had the colony\" — 오늘날 기준으로 식민지 주민을 낮춰 보는 서술이나 다듬지 않고 그대로 옮겼다(\"체구가 작은 사람들\", \"원주민의 처지를 개선하기 위해\").\n5) 각주 [주1]은 원문 본문 안에 참조 표시가 나타나지 않는다(문서 표제부에 붙은 편집자 주로 보인다). 본문에 임의로 삽입하지 않고 notes_ko에만 번역해 두었다.\n6) 문서 첫 줄의 장소 표기가 \"Leningrad\"인데 회담은 얄타(리바디아 궁전)에서 열렸다. 원문 표기를 고치지 않고 그대로 두었으며 place 필드에 병기했다.\n7) 문서 말미의 \"Fifth plenary meeting\" 참석자 명단은 원문에 3열 표로 되어 있고 영국 열에 \"Foreign Secretary Eden\"이 두 번 나온다(원문의 중복). 스펙 2항에 따라 고치지 않되, 번역에서는 열 구조를 국가별 목록으로 풀어 옮기면서 중복 항목은 한 번만 적었다. 원문 그대로의 배열은 raw/d393.txt를 참조.\n8) 'trusteeship'은 전부 '신탁통치'로 통일했다. 본문에 tutelage, international administration, military occupation, Allied representation은 등장하지 않는다.", "warn": false, "pages": ["766", "767", "768", "769", "770", "771"], "search": "Roosevelt 루스벨트 (대통령) Stalin 스탈린 (원수) Churchill 처칠 (영국 총리) Molotov 몰로토프 Harriman 해리먼 Stettinius 스테티니어스 Bohlen 볼렌 Eden 이든 Chiang Kai-shek 장제스 T. V. Soong 쑹쯔원 Hurley 헐리 (신임 주중 대사) Wedemeyer 웨더마이어 de Gaulle 드골 Leahy 리히 Hopkins 홉킨스 Byrnes 번스 Matthews 매슈스 Hiss 히스 Vyshinsky 비신스키 Maisky 마이스키 Gusev 구세프 Gromyko 그로미코 Pavlov 파블로프 Archibald Clark Kerr 아치볼드 클라크 커 Alexander Cadogan 알렉산더 캐도건 Edward Bridges 에드워드 브리지스 Jebb 젭 Wilson 윌슨 Dixon 딕슨 Birse 버스 President Roosevelt 루스벨트 대통령 (미국) Marshal Stalin 스탈린 원수 (소련) — 이하는 문서 말미에 이어 붙은 제5차 본회의(1945년 2월 8일 오후 4시, 리바디아 궁전) 참석자 명단 — United States 미국: President Roosevelt 루스벨트 대통령, Secretary Stettinius 스테티니어스 국무장관, Fleet Admiral Leahy 리히 해군원수, Mr. Hopkins 홉킨스, Mr. Byrnes 번스, Mr. Harriman 해리먼, Mr. Matthews 매슈스, Mr. Hiss 히스, Mr. Bohlen 볼렌 United Kingdom 영국: Prime Minister Churchill 처칠 총리, Foreign Secretary Eden 이든 외무장관, Sir Archibald Clark Kerr 아치볼드 클라크 커 경, Sir Alexander Cadogan 알렉산더 캐도건 경, Sir Edward Bridges 에드워드 브리지스 경, Mr. Jebb 젭, Mr. Wilson 윌슨, Mr. Dixon 딕슨, Major Birse 버스 소령 Soviet Union 소련: Marshal Stalin 스탈린 원수, Foreign Commissar Molotov 몰로토프 외무인민위원, Mr. Vyshinsky 비신스키, Mr. Maisky 마이스키, Mr. Gusev 구세프, Mr. Gromyko 그로미코, Mr. Pavlov 파블로프"}, {"id": "d477", "order": 477, "date": "1945-02-05", "group": "C", "eyebrow": "d477 · The Acting Secretary of State (Grew) to the Secretary of State", "title": "국무장관 대리(그루)가 국무장관에게", "badge": "top secret (극비)", "list_right": "문서 477", "meta": [{"k": "일자", "v": "1945-02-05"}, {"k": "장소", "v": "Washington", "txt": true}, {"k": "발신", "v": "국무장관 대리 그루(Grew)", "txt": true}, {"k": "수신", "v": "국무장관 스테티니어스(Stettinius)", "txt": true}, {"k": "참석", "v": null, "txt": true, "wide": true}, {"k": "종류", "v": "전보"}], "links": [{"k": "FRUS", "text": "문서 477 원문", "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d477"}], "summary": "장제스가 쑹쯔원을 소련에 개인 대표로 보내기로 했으며, 그 회담 의제에 조선과 만주에서의 소련-중국 관계가 포함된다는 헐리의 보고를 전달한 극비 전보(발췌).", "points": ["조선 관련: 예정된 소련-중국 회담의 논의 대상에 '조선과 만주에서의 소련-중국 관계'가 포함된다.", "소련 정부가 장제스의 개인 대표로 쑹쯔원을 2월 하순 또는 3월 초에 접수하기로 동의했다고 장제스와 쑹쯔원이 헐리에게 통보했다.", "회담 의제: 관계 긴밀화, 대일 전쟁에 대한 소련의 참전, 조선과 만주에서의 소련-중국 관계, 전후 경제 문제, 중소 국경.", "헐리는 전면적 협력을 바라는 장제스를 위해 이 의제에 관한 제안을 요청하고 있다.", "헐리는 지난 9월 회담에서 몰로토프가 '러시아는 중국 공산주의자들을 지원하고 있지 않으며 그들은 전혀 공산주의자가 아니다', 그리고 러시아는 중국과의 관계 긴밀화를 바라고 중국 내 분열을 원치 않는다고 말했음을 지적한다.", "장제스는 그것이 여전히 소련의 태도인지 알고자 애태우고 있다.", "본문 말미에 '(이것은 열여섯 번째 전문이다)'라는 표시가 있고, 발췌 문서라 앞뒤가 생략되어 있다."], "primary": "[발췌]\n\n**극비**\n\n워싱턴, 1945년 2월 5일.\n\n1. **소련-중국 회담.** 장제스(Chiang Kai-shek)와 쑹(Soong)은, 소련 정부가 총통(Generalissimo)의 개인 대표로서 쑹을 2월 하순이나 3월 초에 접수하는 데 동의하였음을 헐리(Hurley)에게 통보하였다. 논의는 관계 긴밀화의 수립, 대일 전쟁에 대한 소련의 참전, 조선과 만주에서의 소련-중국 관계, 전후 경제 [953면] 문제, 그리고 중소 국경을 다루게 될 것이다. 헐리는 전면적 협력을 바라는 장제스를 위하여 이 의제에 관한 제안을 요청하고 있다. 헐리는 9월의 회담에서 몰로토프(Molotov)가 그에게, 러시아인들은 중국 공산주의자들을 지원하고 있지 않으며 그들은 전혀 공산주의자가 아니라고 말했고 또 중국과의 더 긴밀한 관계를 바란다고 말했음을 지적한다. 몰로토프는 또한 러시아가 중국 내의 분열을 원치 않는다고도 말하였다. 장제스는 이것이 여전히 소련의 태도를 나타내는 것인지 알고자 애태우고 있다. (이것은 열여섯 번째 전문이다).\n\n. . . . . . . . . . . . . .", "secondary": "[Excerpt]\n\ntop secret\n\nWashington, February 5, 1945.\n\n1. Soviet-Chinese Conversations. Chiang Kai-Shek and Soong have informed Hurley that the Soviet Government has agreed to receive Soong as a personal representative of the Generalissimo either late in February or early in March. Discussions will cover establishment of closer relations, Soviet participation in the War against Japan, Soviet-Chinese relations in Korea and Manchuria, post-war economic [953면] matters and the Sino-Soviet border. Hurley invites suggestions regarding this agenda for Chiang who desires full cooperation. Hurley points out that in September conversations, Molotov stated to him that Russians are not supporting Chinese communists who are not communists at all and desires closer relations with China. Molotov also stated that Russia does not want dissention in China. Chiang is anxious to learn whether this still represents Soviet attitude. (This is sixteenth message).\n\n. . . . . . . . . . . . . .", "notes": [], "note": "번역자 주 — 1) 원문은 '[Excerpt]' 표시가 붙은 발췌본이고 끝에 생략 부호(점선)가 있어 전문이 아니다. 그래서 confidence를 medium으로 두었다. 2) from/to는 raw 텍스트 본문에는 없고 index.json의 문서 표제 'The Acting Secretary of State (Grew) to the Secretary of State'에서 가져왔다. 1945년 2월 5일 시점의 국무장관은 스테티니어스이지만 본문에 이름이 없으므로 to는 표제 그대로 '국무장관'으로 이해하는 것이 안전하다. 3) 'Soong'은 성만 나오며 문맥상 쑹쯔원(宋子文)으로 보이나 원문에 이름(T. V. Soong)이 명기되지 않았다 — 본문에는 '쑹(Soong)'으로만 옮겼다. 4) 'Generalissimo'는 장제스를 가리키는 호칭으로 '총통(Generalissimo)'으로 옮겼다. 5) 조선 관련 대목은 의제 열거의 한 항목 'Soviet-Chinese relations in Korea and Manchuria' 한 곳이다. 6) '(This is sixteenth message)' — 관사 없이 쓰인 원문 표기를 그대로 옮겼다.", "warn": true, "pages": ["952", "953"], "search": "Chiang Kai-shek 장제스 Soong 쑹(쑹쯔원) Hurley 헐리 Molotov 몰로토프 Grew 그루 Stettinius 스테티니어스"}]</script>
+<script id="conf" type="application/json">{"pages": {"dir": "../pages", "ext": "png", "label": "원본 지면", "thumbs": "../thumbs", "thumb_ext": "jpg"}, "chrono": {"from": "1943-09-01", "to": "1948-12-31", "note": "열람기 아래쪽에 늘 떠 있는 연대 바의 눈금이다. 문서 하나를 읽을 때 그것이 어느 시점의 것인지 잡아 준다. 문서철을 가리지 않고 공용으로 쓴다. note 는 사건에 마우스를 올렸을 때 뜨는 요약이다 — 두세 문장을 넘기지 마라.", "events": [{"date": "1943-11-27", "label": "카이로 선언", "key": true, "where": "카이로", "note": "미·영·중 3국 수뇌가 대일 전후 처리를 합의해 발표했다. 조선에 관한 대목은 「적당한 시기에(in due course) 자유롭고 독립된 나라가 되게 한다」였다. 이 묶음이 좇는 문구가 여기서 태어난다."}, {"date": "1943-11-28", "label": "테헤란 회담", "where": "테헤란", "note": "루스벨트·처칠·스탈린의 첫 3자 회담. 유럽 제2전선(노르망디)의 시기가 정해졌고, 스탈린은 독일 항복 뒤 대일전 참전을 처음으로 시사했다."}, {"date": "1944-06-06", "label": "노르망디 상륙", "note": "연합군이 프랑스 북부에 상륙해 서부 제2전선이 열렸다. 유럽 전쟁의 승패가 사실상 이때 갈렸고, 미국 안에서 「그다음은 일본」이라는 계산이 본격화된다."}, {"date": "1944-10-20", "label": "레이테 상륙", "where": "필리핀", "note": "맥아더가 필리핀 탈환에 착수했다. 뒤이은 레이테만 해전에서 일본 연합함대가 무너져, 일본 본토와 남방 자원지대를 잇는 해상 수송로가 끊긴다."}, {"date": "1945-02-04", "label": "얄타 회담", "key": true, "where": "크림반도 얄타", "note": "루스벨트·처칠·스탈린의 두 번째 3자 회담. 소련의 대일 참전 조건이 비밀협정으로 정해졌고, 루스벨트가 스탈린에게 조선의 신탁통치를 꺼내며 「20년에서 30년」이라 말했다. 카이로의 「적당한 시기」에 처음으로 숫자가 붙은 자리다."}, {"date": "1945-03-10", "label": "도쿄 대공습", "note": "B-29 편대의 야간 소이탄 공습으로 도쿄 시가지가 불탔다. 하룻밤 사망자가 10만 명 안팎으로 추정된다. 일본 안에서 본토 방위가 불가능하다는 인식이 퍼지기 시작한다."}, {"date": "1945-04-01", "label": "오키나와 전투", "note": "미군이 오키나와에 상륙해 6월까지 싸웠다. 사상자 규모가 본토 상륙전의 비용을 가늠하는 근거가 되어, 원폭 사용과 소련 참전 요청 양쪽의 논거로 쓰인다."}, {"date": "1945-04-12", "label": "루스벨트 사망", "note": "루스벨트가 급서하고 트루먼이 승계했다. 트루먼은 얄타의 비밀협정도 원폭 개발도 취임 뒤에야 통보받았다. 조선 신탁통치 구상을 밀던 사람이 사라진 자리다."}, {"date": "1945-05-02", "label": "베를린 함락", "note": "소련군이 베를린을 함락했다. 이틀 전 히틀러가 자살했고, 남은 것은 항복 절차뿐이었다. 도쿄의 일본 지도부는 이 소식을 스위스·스웨덴 공관과 외신을 통해 받아 본다."}, {"date": "1945-05-08", "label": "독일 항복", "key": true, "note": "독일이 무조건 항복해 유럽 전쟁이 끝났다. 일본은 마지막 동맹을 잃었고, 소련은 대일전으로 병력을 돌릴 수 있게 됐다. 이 소식에 대한 일본 안팎의 반응이 이 묶음의 「기」에 해당한다."}, {"date": "1945-07-17", "label": "포츠담 회담", "where": "베를린 근교 포츠담", "note": "트루먼·처칠(뒤에 애틀리)·스탈린의 회담. 회담 중 원폭 실험 성공이 보고되고, 대일 최후통첩의 문안이 다듬어진다."}, {"date": "1945-07-26", "label": "포츠담 선언", "note": "미·영·중 명의로 일본에 무조건 항복을 요구했다. 제8항에 「카이로 선언의 조항은 이행되어야 한다」고 못박아, 조선 독립 약속이 항복 조건 안으로 들어온다. 일본은 이를 묵살(黙殺)한다고 발표했다."}, {"date": "1945-08-06", "label": "히로시마", "key": true, "note": "히로시마에 원자폭탄이 투하됐다. 트루먼은 같은 날 성명을 내 「이제껏 없던 폭탄」임을 알리고 항복하지 않으면 파멸이 이어질 것이라 경고했다."}, {"date": "1945-08-08", "label": "소련 참전", "note": "소련이 일본에 선전포고하고 이튿날 만주로 진공했다. 얄타에서 약속한 「독일 항복 뒤 3개월」을 지킨 날짜다. 미국이 조선에 지상군을 두려면 시간이 없다는 것이 이날 분명해진다."}, {"date": "1945-08-09", "label": "나가사키", "note": "나가사키에 두 번째 원자폭탄이 투하됐다. 같은 날 밤 어전회의가 열려 국체 유지를 조건으로 한 항복 제의가 정해진다."}, {"date": "1945-08-11", "label": "38선 획정", "key": true, "note": "일반명령 제1호(SWNCC 21/5)가 고쳐지면서 조선이 북위 38도로 갈렸다. 한 문서의 b항과 f항, 다섯 조항 사이에 조선이 둘로 나뉘어 적혔다. 합참이 든 이유는 미군에게 경성의 항만과 교통 지역을 주기 위해서였다."}, {"date": "1945-08-15", "label": "일본 항복", "key": true, "note": "일본이 포츠담 선언 수락을 방송으로 알렸다. 전날 밤 일부 장교들이 방송을 막으려 궁성을 봉쇄하고 총리 관저를 습격했으나 실패했고, 아나미 육군대신은 새벽에 자결했다."}, {"date": "1945-09-02", "label": "항복문서 조인", "where": "도쿄만 미주리함", "note": "도쿄만의 미주리함 위에서 항복문서에 서명했다. 이 문서로 연합국최고사령관(SCAP)의 권한이 발효되고, 일반명령 제1호가 법적 효력을 갖는다."}, {"date": "1945-09-08", "label": "미군 인천 상륙", "key": true, "note": "하지 중장의 제24군단이 인천에 상륙해 이튿날 조선총독부의 항복을 받았다. 미군정이 시작된다. 닷새 뒤 하지는 카이로의 「in due course」가 조선어로 「수일 내」로 옮겨져 퍼져 있었다는 것을 알게 된다."}, {"date": "1945-12-27", "label": "모스크바 3상회의", "key": true, "note": "미·영·소 외상이 조선에 최대 5년의 신탁통치를 두고 미소공동위원회를 설치하기로 합의했다. 카이로의 「적당한 시기」가 마침내 문서상의 기한이 된 자리이자, 조선 안에서 신탁통치 반대 운동이 폭발한 계기다."}, {"date": "1946-03-20", "label": "1차 미소공동위", "where": "서울", "note": "임시정부 수립을 협의할 미소공동위원회가 열렸다. 어느 정당·사회단체와 협의할 것인가를 두고 갈라져 5월에 결렬된다."}, {"date": "1946-10-01", "label": "대구 10월 사건", "note": "식량 공출과 경찰에 대한 항의가 대구에서 시작해 남한 전역으로 번졌다. 미군정이 계엄을 선포하고 진압했다. 점령 1년 만에 통치의 정당성이 시험대에 오른 사건이다."}, {"date": "1947-05-21", "label": "2차 미소공동위", "where": "서울", "note": "미소공동위원회가 다시 열렸으나 같은 쟁점에서 다시 갈라져 10월에 사실상 끝난다. 미국은 이 무렵부터 조선 문제를 유엔으로 넘기는 쪽으로 방향을 바꾼다."}, {"date": "1947-09-17", "label": "한국 문제 유엔 이관", "key": true, "note": "미국이 조선 문제를 유엔 총회에 상정했다. 4개국 신탁통치라는 전시 구상이 공식적으로 폐기되고, 처리의 무대가 미소 양자에서 유엔으로 옮겨간다."}, {"date": "1948-01-08", "label": "유엔한국임시위원단 입국", "note": "유엔한국임시위원단(UNTCOK)이 서울에 들어왔다. 소련이 북위 38도 이북 입경을 거부해, 감시할 수 있는 지역에서만 선거를 치른다는 결론으로 이어진다."}, {"date": "1948-05-10", "label": "5·10 총선거", "key": true, "note": "남한만의 제헌국회 선거가 치러졌다. 좌익과 김구·김규식 계열이 불참했다. 분단이 절차를 갖춘 사실이 되는 날이다."}, {"date": "1948-08-15", "label": "대한민국 정부 수립", "key": true, "note": "대한민국 정부가 수립되고 미군정이 끝났다. 카이로에서 「in due course」라고 적힌 지 4년 9개월 뒤다. 북에서는 9월 9일 조선민주주의인민공화국이 수립된다."}]}, "terms": {}, "term_cards": {}, "panes": {"primary": "한국어 번역", "secondary": "영문 원문 · FRUS 정본", "both": "나란히"}, "warn": "판독 신뢰도가 낮다. 원본 대조 필요.", "sorts": ["date", "order"]}</script>
+<script>/* 호버 카드 — 링크에 머물면 그 문서의 요약을 미리 보여 준다.
+ *
+ *   <a href="cairo-1943/#d309" data-card="cairo-1943:d309">…<\/a>
+ *   그리고 HoverCard.init(CARDS) 를 부른다.
+ *
+ * CARDS 는 { "문서철:문서id": {…} } 꼴이다. 값의 항목은 전부 없어도 된다 —
+ * 없는 줄은 통째로 빠진다.
+ *
+ *   { title, date, route, sum, points: [], pages: 3, badge }
+ *
+ * 화면 밖으로 나가지 않게 자리를 잡고, 키보드 초점에도 뜬다.
+ * 손가락으로 쓰는 기기(hover: none)에서는 CSS 가 카드를 감춘다 — 링크는 그대로다.
+ */
+window.HoverCard = (function () {
+  var DATA = {}, el = null, cur = null, showT = 0, hideT = 0;
+  var DELAY = 260, HIDE = 140;
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+
+  function ensure() {
+    if (el) return el;
+    el = document.createElement('div');
+    el.className = 'hc';
+    el.setAttribute('role', 'tooltip');
+    document.body.appendChild(el);
+    return el;
+  }
+
+  function html(d) {
+    var pts = (d.points || []).slice(0, 2).map(function (p) {
+      return '<li>' + esc(p) + '<\/li>';
+    }).join('');
+    return '<div class="hc-top"><span>' + esc(d.date || '날짜 미상') + '<\/span>' +
+             (d.badge ? '<span class="id">' + esc(d.badge) + '<\/span>' : '') +
+           '<\/div>' +
+           '<h4>' + esc(d.title || '') + '<\/h4>' +
+           (d.route ? '<p class="hc-route">' + esc(d.route) + '<\/p>' : '') +
+           (d.sum ? '<p class="sum">' + esc(d.sum) + '<\/p>' : '') +
+           (pts ? '<ul>' + pts + '<\/ul>' : '') +
+           (d.go === false && !d.pages ? '' :
+             '<div class="hc-foot"><span>' +
+               (d.pages ? esc(d.pages) + '면' : '') +
+             '<\/span>' +
+             (d.go === false ? '' : '<span class="go">눌러서 원문 보기 →<\/span>') +
+             '<\/div>');
+  }
+
+  /* 링크 옆에 놓되 화면 밖으로 나가지 않게 민다. 위아래는 공간이 넓은 쪽으로. */
+  function place(a) {
+    var r = a.getBoundingClientRect();
+    var w = el.offsetWidth, h = el.offsetHeight, m = 12;
+    var top = r.bottom + 8;
+    if (top + h > innerHeight - m && r.top - h - 8 > m) top = r.top - h - 8;
+    top = Math.max(m, Math.min(top, innerHeight - h - m));
+    var left = Math.min(r.left, innerWidth - w - m);
+    el.style.top = top + 'px';
+    el.style.left = Math.max(m, left) + 'px';
+  }
+
+  function show(a) {
+    var d = DATA[a.dataset.card];
+    if (!d) return;
+    ensure();
+    el.innerHTML = html(d);
+    el.style.visibility = 'hidden';
+    el.setAttribute('data-open', '');
+    place(a);                    // 크기를 잰 뒤에 자리를 잡아야 한다
+    el.style.visibility = '';
+    cur = a;
+  }
+
+  function hide() {
+    if (!el) return;
+    el.removeAttribute('data-open');
+    cur = null;
+  }
+
+  function bind(a) {
+    function enter() {
+      clearTimeout(hideT);
+      clearTimeout(showT);
+      showT = setTimeout(function () { show(a); }, DELAY);
+    }
+    function leave() {
+      clearTimeout(showT);
+      hideT = setTimeout(hide, HIDE);
+    }
+    a.addEventListener('mouseenter', enter);
+    a.addEventListener('mouseleave', leave);
+    a.addEventListener('focus', function () { clearTimeout(hideT); show(a); });
+    a.addEventListener('blur', leave);
+  }
+
+  return {
+    init: function (data, root) {
+      // 덮어쓰지 않고 얹는다 — 본문 용어와 연대 바가 서로 다른 때에 init 을 부른다
+      var add = data || {};
+      for (var k in add) if (Object.prototype.hasOwnProperty.call(add, k)) DATA[k] = add[k];
+      var scope = root || document;
+      [].forEach.call(scope.querySelectorAll('[data-card]'), bind);
+      addEventListener('scroll', function () { if (cur) place(cur); }, true);
+      addEventListener('keydown', function (e) { if (e.key === 'Escape') hide(); });
+    },
+    hide: hide
+  };
+})();
+</script>
+<script>
+const DOCS = JSON.parse(document.getElementById('data').textContent);
+const CONF = JSON.parse(document.getElementById('conf').textContent);
+const PG = CONF.pages;   // null 이면 스캔 기능이 없는 자료다
+
+let state = {q:'', groups:new Set(),
+             sort:(CONF.sorts && CONF.sorts[0]) || null,
+             view:'primary', cur:null};
+
+const $ = s => document.querySelector(s);
+const esc = s => (s==null?'':String(s)).replace(/[&<>]/g,
+  c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+/* 본문에서 특별 취급하는 것은 두 가지뿐이다.
+   [1050면] → 원본 지면 구분선(스캔이 있으면 눌러서 열린다), [주74] → 각주 참조.
+   d777처럼 편집 이력을 취소선·굵게로 복원한 문서가 있어 인라인 서식도 함께 푼다. */
+function marks(t){
+  const cls = PG ? 'pagemark hit' : 'pagemark';
+  const tail = PG ? '면 · 원본 보기' : '면';
+  return esc(t)
+    .replace(/\[(\d+)면\]/g, `<span class="${cls}" data-pg="$1">$1${tail}</span>`)
+    .replace(/\[주(\d+)\]/g, '<span class="fnref">$1</span>')
+    .replace(/~~([^~]+)~~/g, '<del>$1</del>')
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+}
+
+/* 줄머리의 마크다운. 번역이 길어지면 옮긴 쪽이 `## 소제목` 과 `- 항목` 으로
+   나눠 두는데, 그대로 두면 우물정자와 붙임표가 본문에 그냥 찍힌다.
+   본문 상자가 pre-wrap 이라 문단을 다시 짜지 않고 줄 단위로만 푼다. */
+function blocks(t){
+  const out = [];
+  for (const line of String(t == null ? '' : t).split('\n')){
+    let m;
+    if ((m = /^(#{1,6})\s+(.*)$/.exec(line)))
+      out.push(`<b class="mdh h${m[1].length}">${marks(m[2])}</b>`);
+    else if (/^\s*(-{3,}|\*{3,}|_{3,})\s*$/.test(line))
+      out.push('<hr class="mdhr">');
+    else if ((m = /^\s*>\s?(.*)$/.exec(line)))
+      out.push(`<span class="mdq">${marks(m[1])}</span>`);
+    else if ((m = /^\s*(\d+)[.)]\s+(.*)$/.exec(line)))
+      out.push(`<span class="mdli" data-n="${esc(m[1])}.">${marks(m[2])}</span>`);
+    else if ((m = /^\s*[-*+]\s+(.*)$/.exec(line)))
+      out.push(`<span class="mdli">${marks(m[1])}</span>`);
+    else
+      out.push(marks(line) + '\n');
+  }
+  return out.join('').replace(/\n$/, '');
+}
+
+const haystack = d => [d.id, d.date, d.title, d.eyebrow, d.summary, d.search,
+    (d.points||[]).join(' '), (d.meta||[]).map(m=>m.v).join(' '),
+    (d.notes||[]).join(' '), d.note, d.primary, d.secondary]
+  .join(' ').toLowerCase();
+
+function visible(){
+  const q = state.q.trim().toLowerCase();
+  let out = DOCS.filter(d => {
+    if (state.groups.size && !state.groups.has(d.group)) return false;
+    return !q || haystack(d).includes(q);
+  });
+  if (state.sort === 'date')
+    out.sort((a,b) => (a.date||'9999').localeCompare(b.date||'9999') || a.order - b.order);
+  else if (state.sort)
+    out.sort((a,b) => a.order - b.order);
+  return out;
+}
+
+function renderList(){
+  const items = visible();
+  $('#count').textContent = `${items.length}건`;
+  $('#list').innerHTML = items.map(d => `
+    <button class="item t${d.group||'X'}" data-id="${esc(d.id)}"
+            aria-current="${state.cur===d.id}">
+      <div class="item-top"><span>${esc(d.date||'날짜미상')}</span>
+        <span>${esc(d.list_right||'')}</span></div>
+      <div class="item-sum">${esc(d.title||d.id)}</div>
+    </button>`).join('') ||
+    '<div class="empty">해당하는 문서가 없다.</div>';
+}
+
+function pane(kind){
+  const d = DOCS.find(x => x.id === state.cur);
+  const txt = kind==='primary' ? d.primary : d.secondary;
+  if (!txt) return '';
+  const cls = kind==='primary' ? 'body' : 'body en';
+  return `<div class="pane"><h2>${esc(CONF.panes[kind])}</h2>
+    <div class="${cls}">${blocks(txt)}</div></div>`;
+}
+
+function renderDoc(){
+  const d = DOCS.find(x => x.id === state.cur);
+  if (!d){ $('#main').innerHTML =
+    '<div class="empty">왼쪽에서 문서를 고르세요.</div>'; return; }
+
+  const meta = (d.meta||[]).filter(m => m && m.v).map(m =>
+    `<div class="${m.wide?'wide':''}"><b>${esc(m.k)}</b>` +
+    `<span class="${m.txt?'txt':''}">${esc(m.v)}</span></div>`).join('')
+    + (d.links||[]).filter(l => l && l.url).map(l =>
+    `<div><b>${esc(l.k)}</b><span class="txt"><a href="${esc(l.url)}" target="_blank"
+       rel="noopener">${esc(l.text||l.url)}</a></span></div>`).join('');
+
+  const pts = (d.points||[]).length
+    ? `<div class="points"><ul>${d.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>` : '';
+
+  const cols = state.view==='both'
+      ? `<div class="cols two">${pane('primary')}${pane('secondary')}</div>`
+      : `<div class="cols">${pane(state.view)}</div>`;
+
+  const fns = (d.notes||[]).length
+    ? `<div class="fns"><h2>각주</h2>${d.notes.map(n=>`<div>${marks(n)}</div>`).join('')}</div>` : '';
+
+  // 목록에는 작은 사본을 쓴다. 원본은 확대해 볼 때만 받는다 —
+  // 84×110 으로 찍으면서 883KB 를 내려받던 것을 고친 것이다.
+  const thumb = p => PG.thumbs
+    ? `${PG.thumbs}/${p}.${PG.thumb_ext||'jpg'}` : `${PG.dir}/${p}.${PG.ext}`;
+  const scans = (PG && (d.pages||[]).length)
+    ? `<div class="scans"><h2>${esc(PG.label||'원본 지면')} ${d.pages.length}면</h2>
+        <div class="thumbs">${d.pages.map(p=>
+          `<button class="thumb" data-pg="${p}" title="${p}면 크게 보기">
+             <img loading="lazy" src="${thumb(p)}" alt="${p}면 원본"><b>${p}</b>
+           </button>`).join('')}</div></div>` : '';
+
+  $('#main').innerHTML = `<article>
+    <div class="doc-head">
+      ${d.eyebrow?`<div class="docid">${esc(d.eyebrow)}</div>`:''}
+      <h1>${esc(d.title||d.id)}
+        ${d.badge?`<span class="stamp">${esc(d.badge)}</span>`:''}</h1>
+      ${meta?`<div class="meta">${meta}</div>`:''}
+    </div>
+    ${d.summary?`<div class="points">${esc(d.summary)}</div>`:''}
+    ${pts}${cols}${fns}${scans}
+    ${d.note?`<div class="note">${esc(d.note)}</div>`:''}
+    ${d.warn?`<div class="note warn">${esc(CONF.warn)}</div>`:''}
+  </article>`;
+  $('#main').scrollTop = 0;
+  markTerms(d.id);
+  markNow(d.date);
+}
+
+/* 본문 속 용어에 주석을 붙인다.
+   HTML 문자열을 치환하면 이미 만들어 둔 태그(면 표시·각주·굵게) 안을 건드려
+   깨진다. 그래서 다 그린 뒤 **텍스트 노드만** 훑는다. */
+function markTerms(scope){
+  const rules = (CONF.terms||{});
+  const list = [].concat(rules['_']||[], rules[scope]||[]);
+  if (!list.length) return;
+  const roots = document.querySelectorAll('#main .body');
+  roots.forEach(root => {
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+      acceptNode(n){
+        // 이미 링크·주석·코드 안이면 건드리지 않는다
+        if (n.parentElement.closest('a,.term,.pagemark,.fnref,code,del'))
+          return NodeFilter.FILTER_REJECT;
+        return n.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      }
+    });
+    const targets = [];
+    while (walker.nextNode()) targets.push(walker.currentNode);
+    targets.forEach(node => {
+      let html = null, rest = node.nodeValue;
+      for (const r of list){
+        const i = rest.indexOf(r.w);
+        if (i < 0) continue;
+        html = html || document.createDocumentFragment();
+        break;
+      }
+      if (!html) return;
+      // 가장 먼저 나오는 것부터 차례로 잘라 붙인다
+      const frag = document.createDocumentFragment();
+      let s = node.nodeValue;
+      let guard = 0;
+      while (s && guard++ < 200){
+        let best = null;
+        for (const r of list){
+          const i = s.indexOf(r.w);
+          if (i >= 0 && (!best || i < best.i || (i === best.i && r.w.length > best.r.w.length)))
+            best = {i, r};
+        }
+        if (!best){ frag.appendChild(document.createTextNode(s)); break; }
+        if (best.i) frag.appendChild(document.createTextNode(s.slice(0, best.i)));
+        // 지금 보고 있는 문서를 가리키는 번호는 링크로 만들지 않는다 — 제자리걸음이다
+        const self = best.r.doc && best.r.doc === scope;
+        const el = document.createElement(best.r.href && !self ? 'a' : 'span');
+        el.className = 'term';
+        el.textContent = best.r.w;
+        el.dataset.card = best.r.k;
+        if (best.r.href && !self) el.setAttribute('href', best.r.href);
+        frag.appendChild(el);
+        s = s.slice(best.i + best.r.w.length);
+      }
+      node.parentNode.replaceChild(frag, node);
+    });
+  });
+  if (window.HoverCard) HoverCard.init(CONF.term_cards || {}, document.getElementById('main'));
+}
+
+/* ── 연대 바 ───────────────────────────────
+   문서를 하나씩 읽다 보면 「얄타가 언제였더라」를 매번 놓친다.
+   5년 반을 한 화면에 눌러 담으면 1945년 8월 열흘이 0.5%로 뭉개져 이름이 겹친다.
+   그래서 셋으로 나눠 푼다.
+     (1) 축을 길게 늘여 놓고 띠를 민다 — 지금 문서의 날짜가 늘 정중앙.
+         띠는 진짜 가로 스크롤이라 손으로도 밀 수 있다.
+     (2) 그래도 남는 겹침은 이름을 위아래 층으로 흩어 푼다.
+     (3) 해가 바뀌는 자리에 선을 긋고, 이름표는 창 왼쪽에 들러붙인다 —
+         1945년 한복판을 보고 있어도 「1945」가 떠나지 않는다.
+   덕분에 사건 이름을 하나도 숨기지 않는다.
+
+   자리는 전부 날짜에서 다시 계산한다. 그래야 배율을 바꿔도(줌) 같은 코드로
+   다시 그릴 수 있다. 화면에 박아 둔 좌표는 없다. */
+const CH = CONF.chrono;
+const CH_STEPS = [0.6, 1.2, 2.5, 4, 8, 16, 32];  // 하루 몇 px
+const CH_LANE = 14;    // 이름 한 층의 높이
+const CH_GAP  = 5;     // 같은 층에서 이름끼리 띄울 최소 간격
+let CH_PXD = 4;        // 기본 배율 — 창 하나에 대략 여덟 달
+let chFrom=0, chEndT=0, chMarks=[], chBands=[], chTicks=[];
+const chX = t => ((t - chFrom) / 86400000) * CH_PXD;
+
+function initChrono(){
+  const box = $('#chrono');
+  if (!CH || !box){ if (box) box.hidden = true; return; }
+  chFrom = Date.parse(CH.from);
+  chEndT = Date.parse(CH.to);
+  const track = $('#chronoTrack');
+
+  // 연도는 「선」이다. 이 선부터 1944, 저 선부터 1945.
+  // 한 해를 띠(band)로 잡아 두면 이름표를 그 띠 안에서 움직일 수 있다.
+  const y0 = new Date(chFrom).getFullYear(), y1 = new Date(chEndT).getFullYear();
+  for (let y = y0; y <= y1; y++){
+    const el = document.createElement('div');
+    el.className = 'cy' + (y % 2 ? ' alt' : '');
+    el.innerHTML = '<b>' + y + '</b>';
+    track.appendChild(el);
+    chBands.push({el, tag: el.firstChild,
+                  t0: Math.max(chFrom, Date.parse(y + '-01-01')),
+                  t1: Math.min(chEndT,  Date.parse((y + 1) + '-01-01'))});
+
+    ['02','03','04','05','06','07','08','09','10','11','12'].forEach(m => {
+      const t = Date.parse(y + '-' + m + '-01');
+      if (t < chFrom || t > chEndT) return;
+      const q = document.createElement('div');
+      q.className = 'cq' + (m === '04' || m === '07' || m === '10' ? ' q' : '');
+      track.appendChild(q);
+      chTicks.push({el: q, t});
+    });
+  }
+
+  // 점과 이름을 한꺼번에 놓는다.
+  // 점·이름 어느 쪽에 머물러도 그 사건이 무엇이었는지 카드로 뜬다 —
+  // 이름 넉 자로는 「38선 획정」이 무슨 문서에서 어떻게 갈렸는지 알 수 없다.
+  const cards = {};
+  chMarks = CH.events.map(e => {
+    const t = Date.parse(e.date), key = 'ch:' + e.date;
+    cards[key] = {title: e.label, date: e.date, route: e.where || '',
+                  sum: e.note || '', go: false};
+
+    const dot = document.createElement('div');
+    dot.className = 'cm' + (e.key ? ' key' : '');
+    dot.dataset.card = key;
+    track.appendChild(dot);
+
+    const lab = document.createElement('div');
+    lab.className = 'cl' + (e.key ? ' key' : '');
+    lab.textContent = e.label;
+    lab.dataset.card = key;
+    lab.tabIndex = 0;
+    track.appendChild(lab);
+    return {t, dot, lab};
+  });
+
+  renderChrono();
+  if (window.HoverCard) HoverCard.init(cards, track);
+  // 글꼴이 늦게 오면 아까 잰 이름 너비가 틀린다 — 오고 나서 한 번 더 잰다
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(renderChrono);
+}
+
+/* 배율이 바뀔 때마다 날짜에서 자리를 다시 뽑는다 */
+function renderChrono(){
+  const track = $('#chronoTrack');
+  if (!track || !chMarks.length) return;
+  track.style.width = chX(chEndT) + 'px';
+  chBands.forEach(b => {
+    b.x0 = chX(b.t0); b.x1 = chX(b.t1);
+    b.el.style.left  = b.x0 + 'px';
+    b.el.style.width = (b.x1 - b.x0) + 'px';
+  });
+  // 달 눈금은 넉넉히 벌어졌을 때만. 좁을 때는 빗금처럼 보여 축을 더럽힌다
+  chTicks.forEach(k => {
+    k.el.style.left = chX(k.t) + 'px';
+    k.el.hidden = !k.el.classList.contains('q') && CH_PXD < 4;
+  });
+  chMarks.forEach(m => {
+    m.x = chX(m.t);
+    m.dot.style.left = m.x + 'px';
+    m.lab.style.left = m.x + 'px';
+  });
+  chMarks.sort((a, b) => a.x - b.x);
+  layoutChrono();
+  const t = Date.parse(chCur || '');
+  if (!isNaN(t)){
+    $('#chronoCursor').style.left = chX(t) + 'px';
+    $('#chronoDate').style.left = chX(t) + 'px';
+  }
+  stickYears();
+
+  // 지금 창에 얼마만큼의 시간이 들어와 있는지. 배율을 바꿀 때 유일한 길잡이다
+  const vp = $('#chronoVp'), sc = $('#chronoScale');
+  if (vp && sc){
+    const d = vp.clientWidth / CH_PXD;
+    sc.textContent = d >= 400 ? '창 폭 ' + (d / 365).toFixed(1) + '년'
+                   : d >= 55  ? '창 폭 ' + Math.round(d / 30) + '달'
+                              : '창 폭 ' + Math.round(d) + '일';
+  }
+  const z = $('#chronoZoom'), i = CH_STEPS.indexOf(CH_PXD);
+  if (z){
+    z.querySelector('[data-z="-1"]').disabled = i <= 0;
+    z.querySelector('[data-z="1"]').disabled  = i >= CH_STEPS.length - 1;
+  }
+}
+
+/* 줌. 창 안의 한 지점을 붙들어 두고 그 둘레를 늘이거나 줄인다 —
+   붙들지 않으면 배율을 바꿀 때마다 보던 자리를 잃는다. */
+function chZoom(dir, holdPx){
+  const vp = $('#chronoVp');
+  if (!vp) return;
+  const i = CH_STEPS.indexOf(CH_PXD);
+  const j = Math.max(0, Math.min(CH_STEPS.length - 1, i + dir));
+  if (j === i) return;
+  const pad = parseFloat(getComputedStyle(vp).getPropertyValue('--chPad')) || 0;
+  const px = holdPx == null ? vp.clientWidth / 2 : holdPx;
+  const hold = chFrom + ((vp.scrollLeft - pad + px) / CH_PXD) * 86400000;
+  CH_PXD = CH_STEPS[j];
+  renderChrono();
+  vp.scrollLeft = pad + chX(hold) - px;
+  stickYears();
+}
+
+function layoutChrono(){
+  const box = $('#chrono'), items = chMarks;
+  if (!box || !items.length) return;
+
+  // 층 배정 — 왼쪽부터, 그 층의 마지막 이름과 안 겹치는 첫 층에 얹는다.
+  // 층 0,1,2… 를 위·아래로 번갈아 내보내면 축을 사이에 두고 고르게 흩어진다.
+  const ends = [];
+  let lanes = 0;
+  items.forEach(it => {
+    const half = it.lab.offsetWidth / 2;
+    let k = 0;
+    while (k < ends.length && ends[k] > it.x - half) k++;
+    ends[k] = it.x + half + CH_GAP;
+    it.lane = k;
+    lanes = Math.max(lanes, k + 1);
+  });
+
+  // 층 수가 정해져야 바 높이와 축의 자리가 나온다
+  const up = Math.ceil(lanes / 2), dn = lanes - up;   // 위쪽이 한 층 더
+  const axis = 12 + up * CH_LANE;                     // 위 여백 + 위층들
+  const H    = axis + dn * CH_LANE + 26;              // 아래층들 + 연도·날짜 자리
+  box.style.setProperty('--chH', H + 'px');
+  box.style.setProperty('--axis', axis + 'px');
+
+  items.forEach(it => {
+    const side = it.lane % 2 === 0 ? 'up' : 'dn';     // 0,2,4…는 위 / 1,3,5…는 아래
+    const row  = Math.floor(it.lane / 2);             // 축에서 몇 번째 층인가
+    it.lab.classList.remove('up', 'dn');
+    it.lab.classList.add(side);
+    if (side === 'up'){
+      it.lab.style.top = (axis - 8 - (row + 1) * CH_LANE) + 'px';
+      it.lab.style.setProperty('--leg', (CH_LANE * row + 8) + 'px');
+    } else {
+      it.lab.style.top = (axis + 8 + row * CH_LANE) + 'px';
+      it.lab.style.setProperty('--leg', (CH_LANE * row + 8) + 'px');
+    }
+  });
+}
+
+/* 연도 이름표를 창 왼쪽에 들러붙인다. 그 해의 띠가 창에 걸쳐 있는 동안은
+   이름표가 띠를 벗어나지 않는 선에서 왼쪽 끝을 따라다닌다. */
+function stickYears(){
+  const vp = $('#chronoVp');
+  if (!vp || !chBands.length) return;
+  const pad = parseFloat(getComputedStyle(vp).getPropertyValue('--chPad')) || 0;
+  const L = vp.scrollLeft - pad;                 // 창 왼쪽이 띠 좌표계에서 어디인가
+  chBands.forEach(b => {
+    const w = b.tag.offsetWidth;
+    const x = Math.max(0, Math.min(L + 6 - b.x0, b.x1 - b.x0 - w - 2));
+    b.tag.style.left = x + 'px';
+  });
+}
+
+let chCur = null, chJump = null;
+function markNow(date){
+  const box = $('#chrono'), vp = $('#chronoVp');
+  if (!CH || !box || !vp) return;
+  chCur = date;
+  const t = Date.parse(date || '');
+  if (!date || isNaN(t)){ box.dataset.nodate = '1'; return; }
+  delete box.dataset.nodate;
+
+  // 창 절반만큼 양옆에 여백을 둬야 첫 문서도 마지막 문서도 가운데에 설 수 있다.
+  // 양 끝을 붙잡지 않는다 — 붙잡으면 「가운데가 곧 지금」이라는 약속이 깨진다.
+  const vpW = vp.clientWidth;
+  box.style.setProperty('--chPad', (vpW / 2) + 'px');
+  $('#chronoCursor').style.left = chX(t) + 'px';
+  const dl = $('#chronoDate');
+  dl.style.left = chX(t) + 'px';
+  dl.textContent = date;
+
+  // 곧바로 옮긴다. 부드럽게 미는 길(scrollTo behavior:'smooth' 도, CSS 의
+  // scroll-behavior 도) 은 브라우저 설정에 따라 통째로 무시돼서, 띠가 아예
+  // 안 움직인 적이 있다. 움직이지 않는 띠보다 툭 옮겨지는 띠가 낫다.
+  clearTimeout(chJump);
+  chJump = setTimeout(() => { vp.scrollLeft = chX(t); stickYears(); }, 0);
+}
+
+/* 손으로도 민다 — 세로 휠은 가로로 바꿔 주고, 끌어서도 옮길 수 있게 */
+function initChronoScroll(){
+  const vp = $('#chronoVp');
+  if (!vp) return;
+  vp.addEventListener('scroll', stickYears, {passive: true});
+  vp.addEventListener('wheel', e => {
+    // ⌘/Ctrl 을 누른 채 굴리면 배율. 손가락 아래 날짜를 붙들고 늘인다
+    if (e.ctrlKey || e.metaKey){
+      e.preventDefault();
+      chZoom(e.deltaY < 0 ? 1 : -1, e.clientX - vp.getBoundingClientRect().left);
+      return;
+    }
+    const d = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : e.deltaY;
+    if (!d) return;
+    e.preventDefault();
+    vp.scrollLeft += d;
+  }, {passive: false});
+
+  const z = $('#chronoZoom');
+  if (z) z.addEventListener('click', e => {
+    const b = e.target.closest('button[data-z]');
+    if (b) chZoom(+b.dataset.z, null);
+  });
+
+  let down = false, x0 = 0, s0 = 0, moved = false;
+  vp.addEventListener('pointerdown', e => {
+    down = true; moved = false; x0 = e.clientX; s0 = vp.scrollLeft;
+    vp.classList.add('drag');
+  });
+  vp.addEventListener('pointermove', e => {
+    if (!down) return;
+    if (Math.abs(e.clientX - x0) > 3){ moved = true; vp.setPointerCapture(e.pointerId); }
+    if (moved) vp.scrollLeft = s0 - (e.clientX - x0);
+  });
+  const up = () => { down = false; vp.classList.remove('drag'); };
+  vp.addEventListener('pointerup', up);
+  vp.addEventListener('pointercancel', up);
+}
+
+function select(id){ state.cur=id; renderList(); renderDoc();
+  history.replaceState(null,'','#'+id); }
+
+$('#q').addEventListener('input', e => { state.q=e.target.value; renderList(); });
+$('#list').addEventListener('click', e => {
+  const b = e.target.closest('.item'); if (b) select(b.dataset.id); });
+document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
+  const k=c.dataset.group;
+  state.groups.has(k)?state.groups.delete(k):state.groups.add(k);
+  c.setAttribute('aria-pressed', state.groups.has(k));
+  renderList();
+}));
+document.querySelectorAll('[data-sort]').forEach(b => b.addEventListener('click', () => {
+  state.sort=b.dataset.sort;
+  document.querySelectorAll('[data-sort]').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  renderList();
+}));
+document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => {
+  state.view=b.dataset.view;
+  document.querySelectorAll('[data-view]').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  renderDoc();
+}));
+$('#themeBtn').addEventListener('click', () => {
+  const r=document.documentElement;
+  const dark=(r.getAttribute('data-theme')||
+    (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'))==='dark';
+  r.setAttribute('data-theme', dark?'light':'dark');
+});
+
+// ── 확대 뷰어 ─── 스캔이 없는 자료에서는 통째로 건너뛴다
+if (PG){
+  let lbPages = [], lbAt = 0;
+  const lb = $('#lb'), lbImg = $('#lbImg'), lbStage = $('#lbStage');
+  const src = p => `${PG.dir}/${p}.${PG.ext}`;
+
+  function lbShow(){
+    const p = lbPages[lbAt];
+    lbImg.src = src(p);
+    lbImg.alt = `${p}면 원본`;
+    $('#lbPg').textContent = `${p}면  (${lbAt+1}/${lbPages.length})`;
+    $('#lbPrev').disabled = lbAt === 0;
+    $('#lbNext').disabled = lbAt === lbPages.length - 1;
+    $('#lbOpen').href = src(p);
+    lbStage.scrollTop = 0;
+  }
+  function lbOpen(pg){
+    const d = DOCS.find(x => x.id === state.cur);
+    lbPages = (d && d.pages || []).slice();
+    // 면 번호는 숫자일 수도 "0003" 같은 문자열일 수도 있다. 문자열로 맞춰 찾는다.
+    lbAt = lbPages.map(String).indexOf(String(pg));
+    if (lbAt < 0){ lbPages = [pg]; lbAt = 0; }
+    lb.setAttribute('open',''); lbShow();
+  }
+  function lbClose(){ lb.removeAttribute('open'); lbImg.removeAttribute('src'); }
+  function lbStep(n){
+    const i = lbAt + n;
+    if (i >= 0 && i < lbPages.length){ lbAt = i; lbShow(); }
+  }
+
+  $('#main').addEventListener('click', e => {
+    const t = e.target.closest('.thumb,.pagemark.hit');
+    if (t) lbOpen(t.dataset.pg);
+  });
+  $('#lbPrev').addEventListener('click', () => lbStep(-1));
+  $('#lbNext').addEventListener('click', () => lbStep(1));
+  $('#lbClose').addEventListener('click', lbClose);
+  lb.addEventListener('click', e => { if (e.target === lb || e.target === lbStage) lbClose(); });
+  $('#lbFit').addEventListener('click', e => {
+    const fit = lbStage.classList.toggle('fit');
+    e.target.setAttribute('aria-pressed', fit);
+    e.target.textContent = fit ? '실제 크기' : '화면 맞춤';
+  });
+  addEventListener('keydown', e => {
+    if (!lb.hasAttribute('open')) return;
+    if (e.key === 'Escape') lbClose();
+    else if (e.key === 'ArrowLeft') lbStep(-1);
+    else if (e.key === 'ArrowRight') lbStep(1);
+  });
+}
+
+state.cur = decodeURIComponent((location.hash||'').slice(1)) ||
+            visible()[0]?.id || DOCS[0]?.id;
+if (!DOCS.some(d => d.id === state.cur)) state.cur = DOCS[0].id;
+initChrono(); initChronoScroll();
+addEventListener('resize', () => { renderChrono(); markNow(chCur); });
+renderList(); renderDoc();
+</script>
+</body></html>

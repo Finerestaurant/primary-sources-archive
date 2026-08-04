@@ -1,0 +1,45 @@
+{
+ "doc_type": "cable",
+ "date": "1948-02-15",
+ "from": "CSGPO (Department of the Army)",
+ "to": "CINCFE",
+ "info": "CG USAFIK",
+ "msg_nr": "WX 95935",
+ "classification": "SECRET",
+ "subject": "Planning basis for withdrawal and ammunition sustainment for Korean Constabulary",
+ "subject_ko": "주한미군 철수 계획 기준 및 조선 경비대 탄약 유지 문제",
+ "en": "[[page 0093]]\nDECLASSIFIED\nAuthority NND86527\nGENERAL HEADQUARTERS, FAR EAST COMMAND ADJUTANT GENERAL'S OFFICE IND WPS\nRADIO AND CABLE CENTER\nINCOMING MESSAGE ECR\n15 Feb 48\nFROM : CSGPO\nTO : CINCFE\nINFO : CG USAFIK\nNR : WX 95935\n\nRestricted Classification cancelled or changed to Secret\nCut X 85304 -- 6 am 48 H. F CAO. Judson Si. LISA\n\nRefers your CX 58437. Planning basis outlined your\nCX 5786- satisfactory and concurred in subject to inclusion\nof additional factor of transferring upon withdrawal a rea-\nsonable quantity of ammunition to sustain constabulary and\npreclude criticism that upon withdrawal army left weapons but no ammunition.\n\nUnder supply assumptions stated CX 57862 how long could\nthe augmented constabulary be supported by USAFIK stocks\nassuming existing constabulary consumption rates? Assuming\nUSAFIK stocks inadequate to support constabulary over a 6\nmonths period as above how much assistance is required from FEC sources and what would be effect on other programs to\nthat requirement?\n\nDesirability of issuing authorization to proceed this\nimplementation at earliest possible date under consideration.\nNew subject. Please repeat CG USAFIK ZGCG 1497 which\nreplies to Part 3 W 91520. Classification.\n\nREV ISE 2 (24 Feb 48) authority\nACTION : G-4\nINFORMATION: COMMANDER IN CHIEF, CHIEF OF STAFF, G-2, G-3\n\n07613 PRIORITY TOO: MCN: 70965 141522 7\n\n\"Paraphrase not requir*\nper para 51 1 and 60 a SECRET FOr STORT correspondence\n\nSECRET\nCorrect Handling and transmission of literal plain text of this message as correspond\nin accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) ence of the same classification has been authorized by the War Department COPY No. 20\n(2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946. 16-50735-1\nTs to him on the 16 \"Jul",
+ "ko": "[[page 0093]]\nDECLASSIFIED\n권한 NND86527\n극동군 총사령부 행정참모부 문서과\n전문 송수신소\n수신 전문 ECR\n1948년 2월 15일\n발신: CSGPO (육군부)\n수신: CINCFE (극동군 총사령관)\n참조: CG USAFIK (주한미군 사령관)\n전문번호: WX 95935\n\n등급 '제한' 취소 또는 '비밀'로 변경\n절취 X 85304 -- 오전 6시 48분 H. F CAO. Judson Si. LISA\n\n귀관 CX 58437 참조. 귀관 CX 5786-에 개요된 계획 기준은\n만족스러우며 다음 추가 요소를 포함하는 조건으로 동의함.\n즉, 철수 시 경비대를 유지할 수 있는 합리적 양의 탄약을\n인계하여, 철수 시 육군이 무기만 두고 탄약은 두지 않았다는\n비판을 차단할 것.\n\nCX 57862에 명시된 보급 가정 하에, 증강된 경비대가\n현 경비대 소모율을 가정할 때 USAFIK 보급품으로\n얼마나 오래 지원될 수 있는가? USAFIK 보급품이 상기\n6개월간 경비대를 지원하기에 불충분하다고 가정할 때,\nFEC (극동사령부) 자원으로부터 얼마의 지원이 필요하며\n그 소요가 다른 계획들에 미칠 영향은 무엇인가?\n\n가능한 한 빠른 시일 내에 이 계획을 추진하도록 승인하는\n것의 바람직함이 검토 중임. 신규 사항. 3항 W 91520에\n회신하는 CG USAFIK ZGCG 1497을 재송신 바람. 등급.\n\n개정 2 (1948년 2월 24일) 권한\n조치: G-4\n정보: 총사령관, 참모장, G-2, G-3\n\n07613 우선순위 TOO: MCN: 70965 141522 7\n\n\"의역 불필요\"\n제51항 1 및 60항 a에 따라 비밀 서신 취급\n\n비밀\n본 전문의 축어 평문 취급 및 전송은 1946년 3월 6일자 육군규정 380-5,\n제16-C, 18-E, 53-A, 53-D (1) (2) (3), 및 60-A (1) (2) (3) (4)항의\n규정에 따라 동일 등급의 서신으로서 육군부에 의해 승인되었음. 사본 번호 20\n16-50735-1\n16일 그에게 전달됨 7월",
+ "entities": {
+  "people": [
+   "H. F CAO",
+   "Judson Si. LISA"
+  ],
+  "places": [],
+  "units": [
+   "CSGPO",
+   "CINCFE",
+   "CG USAFIK",
+   "FEC",
+   "G-4",
+   "G-2",
+   "G-3"
+  ]
+ },
+ "key_points_ko": [
+  "육군부는 주한미군 철수 시 조선 경비대에 무기뿐 아니라 충분한 탄약을 인계해야 한다는 조건으로 철수 계획 기준에 동의함.",
+  "USAFIK 보급품만으로는 증강된 경비대를 6개월 이상 지원하기 어려울 것으로 예상되며, 극동사령부 차원의 추가 지원 소요를 질의함.",
+  "육군부는 철수 계획 추진을 위한 조기 승인을 검토 중임."
+ ],
+ "confidence": "medium",
+ "notes": "OCR 오류로 인해 일부 발신자명(H. F CAO. Judson Si. LISA)과 원본 전문번호(CX 5786-)의 마지막 자리가 불확실함. 전문의 'Paraphrase not requir' 및 'FOr STORT' 부분도 OCR 절단으로 추정됨.",
+ "doc_id": "D025",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0093"
+ ],
+ "section": null,
+ "subject_id": "D3",
+ "theme": "D. 장래 정책·철군"
+}

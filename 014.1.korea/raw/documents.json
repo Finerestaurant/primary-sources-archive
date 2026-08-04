@@ -1,0 +1,1099 @@
+[
+ {
+  "serial": null,
+  "pages": [
+   "0008"
+  ],
+  "date": null,
+  "from": null,
+  "to": null,
+  "subject": "FILE No. 014.1 KOREA — 문서철 표지",
+  "doc_type": "기타",
+  "match": "high",
+  "match_why": "GHQ SCAP Adjutant General's Office 파일 표지. 색인 항목이 아님",
+  "copies": [],
+  "note": "표지",
+  "_chars": 282,
+  "n_pages": 1
+ },
+ {
+  "serial": "10",
+  "pages": [
+   "0009",
+   "0010",
+   "0011",
+   "0012",
+   "0013",
+   "0014",
+   "0015"
+  ],
+  "date": "1947-01-14",
+  "from": "HQ USAFIK",
+  "to": "CINCFE",
+  "subject": "Establishment and Equipment of Korean Constabulary",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "0009 하단 연필 일련번호 '10'. 색인 10(1947-01-14, HQ USAFIK→CINCFE, Ltr: Establishment & Equipment of Korean Constabulary)과 건명 일치",
+  "copies": [],
+  "note": "0009 USAFIK 기본 서한(AG 014.12), 0010 자필 쪽지, 0011 GHQ FEC 제1 배서(1st Ind), 0012~0013 참조 전문 요약 참모 검토서(23 Jan 47), 0014~0015 라우팅 슬립(1947-01-24/26). 0011·0012 OCR 은 기본 서한 날짜를 '24 Jan 47'로 읽으나 색인은 14 Jan 47",
+  "_chars": 7602,
+  "n_pages": 7
+ },
+ {
+  "serial": "9",
+  "pages": [
+   "0016"
+  ],
+  "date": "1946-03-29",
+  "from": "CG USAFIK (HODGE)",
+  "to": "SCAP (FOR MACARTHUR)",
+  "subject": "TFGCG 334 — Personal views of Balasanov, Soviet Political Advisor",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "원본 이미지 확인: NR TFGCG 334, 29 March 1946, CG USAFIK→SCAP, Balasanov 개인 견해. 색인 9와 날짜·발신·수신·내용 일치",
+  "copies": [],
+  "note": "면 우하단 '11'은 사본번호(COPY NO.)이지 일련번호가 아님",
+  "_chars": 1730,
+  "n_pages": 1
+ },
+ {
+  "serial": "8-B",
+  "pages": [
+   "0017"
+  ],
+  "date": "1946-02-25",
+  "from": "CINCAFPAC",
+  "to": "CG XXIV CORPS",
+  "subject": "Letter of Transmittal (JCS 1483/24)",
+  "doc_type": "기타",
+  "match": "high",
+  "match_why": "면 하단 연필 '8-B'. NOTE FOR RECORD, J.C.S. 1483/24, 25 Feb 46, SUBJ: Letter of Transmittal — 색인 8-B(1946-02-25 Ltr of Transmittal)와 일치",
+  "copies": [],
+  "note": "본체 문서는 O of C/S 로 반출되었고 대체 쪽지(NOTE FOR RECORD)만 편철됨",
+  "_chars": 121,
+  "n_pages": 1
+ },
+ {
+  "serial": "8-A",
+  "pages": [
+   "0018",
+   "0019",
+   "0020",
+   "0022",
+   "0023"
+  ],
+  "date": "1946-02-12",
+  "from": "WD GS WASH",
+  "to": "CINCAFPAC ADV",
+  "subject": "Political policy for Korea (JCS 1483/23, /25, /26)",
+  "doc_type": "각서",
+  "match": "high",
+  "match_why": "0018·0020·0022 하단 연필 '8-A'. NOTE FOR RECORD 에 JCS 1483/23·/25·/26, SUBJ: Political Policy for Korea — 색인 8-A와 일치",
+  "copies": [],
+  "note": "본체 각서는 O of C/S 로 반출, NOTE FOR RECORD(0018)와 1946-02-22자 라우팅 슬립 3장(0019·0020·0022)만 편철. 0019 는 연필 일련번호가 보이지 않으나 동일 일자·동일 양식 슬립이라 8-A 로 묶음. 0023 은 라우팅 슬립 뒷면 자필 메모(\"Bunker — believe this has been sent in to CINC once before, it may have come up from G-3. Please check\")로 일련번호 없음(match 근거 약함)",
+  "_chars": 2549,
+  "n_pages": 5
+ },
+ {
+  "serial": "7-M",
+  "pages": [
+   "0021",
+   "0025"
+  ],
+  "date": "1946-05-12",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC (PASS TO USAFIK)",
+  "subject": "W 87750 — Comments re TFGCG 352",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0025 하단 연필 '7-M', 본문 'WASHINGTON W 87750 dated 12 May 1946 cont'. 색인 7-M(W 87750, 1946-05-12)과 일치",
+  "copies": [
+   "0024"
+  ],
+  "note": "0021 이 1면, 0025 가 2면. 0024 는 0021 의 사본(dupes.json)",
+  "_chars": 2939,
+  "n_pages": 2
+ },
+ {
+  "serial": "7-L",
+  "pages": [
+   "0026"
+  ],
+  "date": "1946-05-11",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC",
+  "subject": "W 87540 — Will comply your req to pass mesgs to Moscow",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "전문번호 W 87540 확인, 색인 7-L 과 일치. 면 하단 연필 'L' 판독",
+  "copies": [],
+  "note": "",
+  "_chars": 1131,
+  "n_pages": 1
+ },
+ {
+  "serial": "7-K",
+  "pages": [
+   "0027"
+  ],
+  "date": "1946-05-02",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC (PASS TO CG USAFIK)",
+  "subject": "W 86432 — Recommendation to rcvd consideration",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 연필 '7-K', 전문번호 W 86432, 2 May 1946. 색인 7-K 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1061,
+  "n_pages": 1
+ },
+ {
+  "serial": "7-J",
+  "pages": [
+   "0028",
+   "0029",
+   "0030"
+  ],
+  "date": "1946-04-27",
+  "from": "CG 24 CORPS (HODGE)",
+  "to": "SCAP (GEN MACARTHUR)",
+  "subject": "TFGCG 352 — Conditions in Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0028 하단 연필 '7-J', NR TFGCG 352, CG 24 CORPS→SCAP. 색인 7-J 와 일치. 0029·0030 은 'CG 24 CORPS RADIO NR TFGCG 352 CONTINUED' 속면",
+  "copies": [],
+  "note": "3면짜리 장문 전문",
+  "_chars": 6365,
+  "n_pages": 3
+ },
+ {
+  "serial": "7-I",
+  "pages": [
+   "0031",
+   "0032",
+   "0033"
+  ],
+  "date": "1946-03-18",
+  "from": "CINCAFPAC",
+  "to": "CG XXIV CORPS",
+  "subject": "Letter of Transmittal (SWNCC 176/20, 176/21 w/dec amdg)",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "0031 하단 연필 '7-I', AG 091.1 (18 Mar 46), SUBJECT: Letter of Transmittal, 18 March 1946. 색인 7-I 와 일치",
+  "copies": [],
+  "note": "0032 는 배포 라우팅 슬립(CG XXIV Corps 포함), 0033 은 SWNCC 176/20·176/21 관련 NOTE FOR RECORD(연필 '7-I')",
+  "_chars": 1788,
+  "n_pages": 3
+ },
+ {
+  "serial": "7-H",
+  "pages": [
+   "0034",
+   "0035"
+  ],
+  "date": "1946-03-04",
+  "from": "WARCOS / JOINT CHIEFS (WASHINGTON)",
+  "to": "SCAP",
+  "subject": "W 98881 — Reply to CA 57792 for your info & guidance",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '7-H', 4 March 1946, WASHINGTON 발. 색인 7-H(W 98881, 1946-03-04)와 일치",
+  "copies": [],
+  "note": "0035 는 'NR W 98882 CONT'D' 로 읽히나 동일 전문의 2면이며 연필 '7-H'",
+  "_chars": 3090,
+  "n_pages": 2
+ },
+ {
+  "serial": "7-G",
+  "pages": [
+   "0036"
+  ],
+  "date": "1946-02-20",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC (PASS TO CG USAFIK)",
+  "subject": "W 97763 — Steps taken by you re TFGCG 285 are approved",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 연필 '7-G', 전문번호 W 97763, TOO 192032Z. 색인 7-G 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1743,
+  "n_pages": 1
+ },
+ {
+  "serial": "7-F",
+  "pages": [
+   "0037",
+   "0038",
+   "0039",
+   "0040"
+  ],
+  "date": "1946-02-24",
+  "from": "CG USAFIK (HODGE)",
+  "to": "SCAP (GENERAL MACARTHUR)",
+  "subject": "TFGCG 302 — Recent political developments of Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0038·0039·0041 하단 연필 '7-F', 'CG USAFIK (HODGE) RADIO NR TFGCG 302, 24 FEBRUARY 1946'. 색인 7-F 와 일치",
+  "copies": [
+   "0041",
+   "0042"
+  ],
+  "note": "3면짜리 전문이 두 벌 편철됨. 0037 은 'CORRECTED COPY' 로 표기된 1면, 0040 이 원본 1면. dupes.json 기준 0041=0038, 0042=0039 사본",
+  "_chars": 9060,
+  "n_pages": 4
+ },
+ {
+  "serial": "7-E",
+  "pages": [
+   "0043",
+   "0044",
+   "0046"
+  ],
+  "date": "1946-02-23",
+  "from": "CG USAFIK (HODGE)",
+  "to": "SCAP",
+  "subject": "TFGCG 301 — Participation of Lyuh & left-wing personalities in Democratic Council of Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0043·0044·0045·0046 하단 연필 '7-E', NR TFGCG 301, 23 February 1946. 색인 7-E 와 일치",
+  "copies": [
+   "0045"
+  ],
+  "note": "0043=1면, 0044=2면, 0046=3면(마지막). 0045 는 0044 의 사본",
+  "_chars": 6565,
+  "n_pages": 3
+ },
+ {
+  "serial": "7-D",
+  "pages": [
+   "0047"
+  ],
+  "date": "1946-02-15",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC",
+  "subject": "W 97127 — Ref CA 57792, SD guidance req through JCS & SWNCC",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 연필 '7-D', 전문번호 W 97127, TOO 141613Z. 색인 7-D 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 961,
+  "n_pages": 1
+ },
+ {
+  "serial": "7-C",
+  "pages": [
+   "0048",
+   "0049"
+  ],
+  "date": "1946-02-13",
+  "from": "CG USAFIK",
+  "to": "SCAP",
+  "subject": "TFGCG 285 — Observations re SWNCC 176/18",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '7-C', 0049 에 'CG USAFIK MSG NR TFGCG 285 continued'. 색인 7-C 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 4614,
+  "n_pages": 2
+ },
+ {
+  "serial": "7-A",
+  "pages": [
+   "0050",
+   "0051"
+  ],
+  "date": "1946-02-12",
+  "from": "CINCAFPAC",
+  "to": "WARCOS (JOINT CHIEFS OF STAFF)",
+  "subject": "CA 57792 — Task of Joint Commission in Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "원본 이미지 확인: 0050 하단 연필 '7-A', 본문에 (CA) 57792, 12 FEBRUARY 1946, CINCAFPAC→WARCOS(JCS). 0051 하단도 '7-A'. 색인 7-A 와 일치",
+  "copies": [],
+  "note": "OCR 은 0050 의 연필을 '7-H'로 오독했으나 원본은 '7-A'",
+  "_chars": 3421,
+  "n_pages": 2
+ },
+ {
+  "serial": "7-B",
+  "pages": [
+   "0052"
+  ],
+  "date": "1946-02-12",
+  "from": "CINCAFPAC",
+  "to": "CG USAFIK",
+  "subject": "CA 57793 — Ref TFGCG 281, indorsement to ref rad sent to WD",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 연필 '7-B', 본문 말미 'TFGCG 281' 인용. 색인 7-B 와 일치",
+  "copies": [],
+  "note": "편철 순서상 7-A(0050~0051) 뒤에 놓임",
+  "_chars": 552,
+  "n_pages": 1
+ },
+ {
+  "serial": "7",
+  "pages": [
+   "0053",
+   "0054",
+   "0055"
+  ],
+  "date": "1946-02-11",
+  "from": "XXIV CORPS (HODGE)",
+  "to": "SCAP",
+  "subject": "TFGCG 281 — Task of Joint Commission and necessity to open up Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0053 하단 연필 '7', TOO 112110Z(11 Feb), 0054 는 'XXIV CORPS RADIO TFGCG 281 CONT'D'. 색인 7 과 일치",
+  "copies": [],
+  "note": "0055 는 원본 이미지 하단에 연필 '7'이 있는 AG→OIC AG Records 'For file' 회부 쪽지(11 FEB 1946)",
+  "_chars": 2799,
+  "n_pages": 3
+ },
+ {
+  "serial": "6",
+  "pages": [
+   "0056",
+   "0057",
+   "0058"
+  ],
+  "date": "1946-01-16",
+  "from": "WD WASH",
+  "to": "CINCAFPAC ADV",
+  "subject": "Police Force and National Defense Forces for Korea (JCS 1483/20)",
+  "doc_type": "각서",
+  "match": "high",
+  "match_why": "0056 하단 연필 '6', NOTE FOR RECORD J.C.S. 1483/20, DATE 16 Jan 46, 건명 일치. 색인 6 과 일치",
+  "copies": [],
+  "note": "본체 각서는 O of C/S 로 반출되어 NOTE FOR RECORD 만 편철. 0057 은 라우팅 슬립, 0058 은 같은 JCS 1483/20 의 30 Dec 45 자 NOTE FOR RECORD(별도 색인 항목 없음)",
+  "_chars": 1181,
+  "n_pages": 3
+ },
+ {
+  "serial": "5",
+  "pages": [
+   "0059"
+  ],
+  "date": "1945-10-13",
+  "from": "GHQ SCAP",
+  "to": "WARCOS",
+  "subject": "CA 53231 — Summary rpt from CG XXIV Corps re Advisory Council",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "OUTGOING MESSAGE, TO WARCOS 131137, 본문에 (CAX 53231), Advisory Council 요약. 색인 5(1945-10-13, SCAP→WARCOS, CA 53231)와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1508,
+  "n_pages": 1
+ },
+ {
+  "serial": "4-F",
+  "pages": [
+   "0060"
+  ],
+  "date": "1945-10-05",
+  "from": "WARCOS (WASHINGTON)",
+  "to": "CINCAFPAC ADV",
+  "subject": "WX 72929 — Korean trusteeship being considered by JCS",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "NR WX-72929, 5 October 1945, WASHINGTON→CINCAFPAC ADV, WX 71814 에 대한 의견 요구. 색인 4-F 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 635,
+  "n_pages": 1
+ },
+ {
+  "serial": "4-E",
+  "pages": [
+   "0061",
+   "0062"
+  ],
+  "date": "1945-10-04",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 52748 — Prospects of military cooperation plan with Russians",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '4-E', 041107 4 OCTOBER 1945. 색인 4-E 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 2606,
+  "n_pages": 2
+ },
+ {
+  "serial": "4-D",
+  "pages": [
+   "0063",
+   "0064"
+  ],
+  "date": "1945-10-01",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 52563 — Attitude toward Japan and independence in Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '4-D'. 색인 4-D(CA 52563, 1945-10-01)와 일치",
+  "copies": [],
+  "note": "0063 본문에 CA 58668 로 읽히는 전문번호가 있으나 OCR 오독으로 보임",
+  "_chars": 3871,
+  "n_pages": 2
+ },
+ {
+  "serial": "4-C",
+  "pages": [
+   "0065",
+   "0066"
+  ],
+  "date": "1945-10-01",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 52562 — Rpts on Soviet political activity in North Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '4-C', 1 OCTOBER 1945 CINCAFPAC ADV 발. 색인 4-C 와 일치. 내용은 TFGCG 94(serial 4)를 CA 52562 로 중계한 것",
+  "copies": [],
+  "note": "",
+  "_chars": 2428,
+  "n_pages": 2
+ },
+ {
+  "serial": "4-B",
+  "pages": [
+   "0067",
+   "0068",
+   "0069",
+   "0070"
+  ],
+  "date": "1945-10-01",
+  "from": "US Political Advisor, Tokyo (George Atcheson, Jr.)",
+  "to": "SCAP",
+  "subject": "Memorandum — US-Soviet liaison in Korea",
+  "doc_type": "각서",
+  "match": "high",
+  "match_why": "0067·0068·0069 하단 연필 '4-B'. 0067 머리 'THE FOREIGN SERVICE OF THE UNITED STATES / OFFICE OF THE U.S. POLITICAL ADVISOR', October 1, 1945, 서명 George Atcheson, Jr. 색인 4-B 와 일치",
+  "copies": [],
+  "note": "0069·0070 은 라우팅 슬립. 0070 은 연필 일련번호가 없어 인접 편철 기준으로 4-B 에 묶음",
+  "_chars": 3640,
+  "n_pages": 4
+ },
+ {
+  "serial": "4-A",
+  "pages": [
+   "0071",
+   "0072",
+   "0073"
+  ],
+  "date": "1945-10-01",
+  "from": "WASHINGTON (WARCOS)",
+  "to": "CINCAFPAC ADV",
+  "subject": "WX 71814 — International trusteeship for Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0072·0073 하단 연필 '4-A', 0073 에 'WASHINGTON RADIO NR W 71814 CONT'D'. 색인 4-A(WX 71814, 1945-10-01)와 일치",
+  "copies": [],
+  "note": "수신 접수는 2 October 1945",
+  "_chars": 3998,
+  "n_pages": 3
+ },
+ {
+  "serial": "4",
+  "pages": [
+   "0074"
+  ],
+  "date": "1945-09-30",
+  "from": "CG 24TH CORPS",
+  "to": "CINCAFPAC ADVANCE",
+  "subject": "TFGCG 94 — Rpts on Soviet political activity in North Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "원본 이미지 좌하단 연필 '4'. NR TFGCG 94, 30 September 1945, CG 24TH CORPS→CINCAFPAC ADVANCE. 색인 4 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 2448,
+  "n_pages": 1
+ },
+ {
+  "serial": "3",
+  "pages": [
+   "0075"
+  ],
+  "date": "1945-09-30",
+  "from": null,
+  "to": null,
+  "subject": "'Line 3 not used' 대체 쪽지",
+  "doc_type": "기타",
+  "match": "medium",
+  "match_why": "원본 이미지 좌하단 연필 '3', 본문은 자필 'Line 3 not used.' 뿐. 색인 3과 4가 동일한 TFGCG 94(1945-09-30)를 중복 기재한 것과 부합 — 색인 사본 sheet 1 의 3행이 폐기되고 sheet 2 의 4행으로 다시 기재된 것으로 보임",
+  "copies": [],
+  "note": "실물 문서가 아니라 serial 3 자리를 채우는 백지 쪽지",
+  "_chars": 39,
+  "n_pages": 1
+ },
+ {
+  "serial": "2-C",
+  "pages": [
+   "0076",
+   "0077"
+  ],
+  "date": "1945-09-28",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 52443 — Conditions in North Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 연필 '2-C', 28 SEPT 1945 CINCAFPAC ADV 발. 색인 2-C 와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 2068,
+  "n_pages": 2
+ },
+ {
+  "serial": "2-B",
+  "pages": [
+   "0078",
+   "0079",
+   "0080",
+   "0081",
+   "0082",
+   "0083",
+   "0084",
+   "0085",
+   "0086"
+  ],
+  "date": "1945-09-24",
+  "from": "HQ USAFIK (John R. Hodge)",
+  "to": "Commander-in-Chief, United States Army Forces, Pacific",
+  "subject": "Conditions in Korea",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "0078 머리 'HEADQUARTERS UNITED STATES ARMY FORCES IN KOREA APO 235 / 24 September 1945 / SUBJECT: Conditions in Korea', 쪽번호 -1-~-4-, 서명 JOHN R. HODGE. 각 면 하단 연필 '2-B'. 색인 2-B 와 일치",
+  "copies": [
+   "0087",
+   "0088",
+   "0089",
+   "0090",
+   "0091"
+  ],
+  "note": "0082면부터 첨부물 — 0081 말미 '1 Incl - Statement of News Correspondent'. 첨부는 Leonard B. Barsdell(호주 정보부 GHQ 주재 대표)의 'Russian Occupation of Northern Korea'(1945-09-15 Kanko/Konan 방문기) 5면(0082~0086), 하단 연필 '2-B'. 사본: 0087·0088=0078, 0089=0079, 0090=0080, 0091=0081 (첨부물 사본은 없음)",
+  "_chars": 23510,
+  "n_pages": 9
+ },
+ {
+  "serial": "2-A",
+  "pages": [
+   "0092",
+   "0093",
+   "0094",
+   "0095",
+   "0096",
+   "0097"
+  ],
+  "date": "1945-09-18",
+  "from": "CINCAFPAC (ADV)",
+  "to": "WARCOS (info: CINCAFPAC Manila)",
+  "subject": "CAX 52058 — Summary of conditions in Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0092 OUTGOING MESSAGE, CINCAFPAC (ADV), 18 SEPTEMBER 1945→WARCOS. 0094·0096·0097 하단 연필 '2-A', 속면마다 'CONTINUED' 와 쪽번호 2~6. 색인 2-A(CAX 52058, 1945-09-18, CINCAFPAC Adv→WARCOS, Summary of conditions in Korea)와 일치",
+  "copies": [],
+  "note": "담당 구간(~0095) 경계를 넘어감. 이 문서는 0092에서 시작해 0097에서 끝나고, 0098부터 색인 2(1945-09-13 USAFIK 서한 Conditions in Korea)가 시작된다 / 문서 시작은 0092(OUTGOING MESSAGE 머리, 18 SEPTEMBER 1945). 0092~0095 는 앞 구간 담당이라 여기서는 제외했고, 담당 구간에 걸친 0096~0097 만 실었다. 0097 이 마지막 면(서명·인증란).",
+  "_chars": 9487,
+  "n_pages": 6
+ },
+ {
+  "serial": "2",
+  "pages": [
+   "0098",
+   "0099",
+   "0100",
+   "0101",
+   "0102",
+   "0103",
+   "0104",
+   "0105"
+  ],
+  "date": "1945-09-13",
+  "from": "Hq USAFIK",
+  "to": "Commander-in-Chief, United States Army Forces, Pacific",
+  "subject": "Conditions in Korea",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "0098 머리에 HEADQUARTERS USAFIK APO 235 / 13 September 1945 / SUBJECT: Conditions in Korea / TO: CINCAFPAC. 색인 serial 2 (Hq USFIK, 13 Sep 45, CINCAFPAC, Ltr-Conditions in Korea)와 완전 일치. 쪽번호 -1- ~ -8- 로 8면 확인",
+  "copies": [
+   "0106",
+   "0107",
+   "0108",
+   "0109",
+   "0110",
+   "0111",
+   "0112",
+   "0113",
+   "0114",
+   "0115",
+   "0116",
+   "0117",
+   "0118",
+   "0119",
+   "0120",
+   "0121",
+   "0122",
+   "0123",
+   "0124",
+   "0125",
+   "0126",
+   "0127",
+   "0128",
+   "0129",
+   "0130"
+  ],
+  "note": "dupes.json 기준 사본 세 벌(0106~0114, 0115~0122, 0123~0130). 0106 과 0107 은 둘 다 첫 면으로, 한 벌에 표지격 첫 면이 두 장 들어가 있다.",
+  "_chars": 16517,
+  "n_pages": 8
+ },
+ {
+  "serial": "1-X",
+  "pages": [
+   "0131"
+  ],
+  "date": "1946-05-22",
+  "from": "COMGEN USAFIK (HODGE)",
+  "to": "SCAP",
+  "subject": "TFGCG 382 - Suggest proceed to process SFE 114/7 (Korean foreign commerce)",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "NR: TFGCG 382, TOO 220750Z(22 May 46), CG USAFIK→SCAP. 색인 1-X(22 May 46, CG USAFIK→SCAP, TFGCG 382, SFE 114/71)와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1256,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-W",
+  "pages": [
+   "0132"
+  ],
+  "date": "1946-05-17",
+  "from": "WASHINGTON (STATE DEPT / ACHESON)",
+  "to": "SCAP",
+  "subject": "WAR SVC 6944 (STATE SERIAL 514) - Korean foreign commerce, SFE 114/7",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "NR: WAR SVC 6944(162230Z), STATE SERIAL 514, 17 May 1946 접수. 색인 1-W(17 May 46, WARCOS→SCAP, SVC 6944-514)와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1421,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-V",
+  "pages": [
+   "0133"
+  ],
+  "date": "1946-05-16",
+  "from": "SCAP",
+  "to": "COMGEN USAFIK",
+  "subject": "Recommendations in TFYMG 1728 not favorably considered",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 편철기호 'I-V'. SCAP 150701 → COMGEN USAFIK, 16 May 46, 본문에 TFYMG 1728 언급. 색인 1-V(15 May 46, SCAP→CG USAFIK, C 61010)와 일치",
+  "copies": [],
+  "note": "OCR 상 전문번호 'C 61010' 은 판독되지 않았으나 발신·수신·날짜·참조(TFYMG 1728)가 색인과 일치.",
+  "_chars": 382,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-U",
+  "pages": [
+   "0134",
+   "0135"
+  ],
+  "date": "1946-05-07",
+  "from": "CG USAFIK",
+  "to": "SCAP",
+  "subject": "TFYMG 1728 - Elimination of Japanese control of Korean economic life (SWNCC 176/8)",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 편철기호 '1-U'. NR TFYMG 1728, 7 May 1946. 0135 는 'CG USAFIK RADIO TFYMG 1728 DATED 6 MAY 1946 CONT'D' 로 이어지는 2면",
+  "copies": [],
+  "note": "",
+  "_chars": 4482,
+  "n_pages": 2
+ },
+ {
+  "serial": "1-S",
+  "pages": [
+   "0136"
+  ],
+  "date": "1946-01-27",
+  "from": "GHQ SCAP/AFPAC Adv Ech, A.G.",
+  "to": "Commander-in-Chief / Chief of Staff (배포)",
+  "subject": "Routing slip - Basic initial directive for Civil Affairs in Korea (SWNCC 176/8 개정 결정)",
+  "doc_type": "첨부물",
+  "match": "medium",
+  "match_why": "원본 좌측 하단 손글씨 편철기호가 '1-S'로 판독됨(이미지 확인). 색인 1-S(28 Jan 46, SCAP→VARIOUS, Ltr, decision amending SWNCC 176/8)와 날짜(27 Jan 46 routing slip)·배포문구('Copies furnished Govt Section, and subordinate major commands')가 부합",
+  "copies": [],
+  "note": "본문 서한은 이 문서철에 남아 있지 않고 배포용 routing slip 만 편철돼 있다. 편철 순서상으로는 1-U 와 1-T 사이에 끼어 있어 역순 배열에서 벗어난다.",
+  "_chars": 825,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-T",
+  "pages": [
+   "0137"
+  ],
+  "date": "1946-01-21",
+  "from": "WD WASH",
+  "to": "CINCAFPAC ADV",
+  "subject": "Basic initial directive for civil affairs in Korea (JCS 1483/15 / SWNCC 176/8)",
+  "doc_type": "첨부물",
+  "match": "high",
+  "match_why": "면 하단 편철기호 '1-T'. NOTE FOR RECORD 에 J.C.S. 1483/15 (18 Jan 46), SWNCC 176/8 (16 Jan 46). 색인 1-T(21 Jan 46, WD WASH→CINCAFPAC ADV, MEMO, 손글씨 JCS 1483/15 가필)와 일치",
+  "copies": [],
+  "note": "본문 각서는 'THIS MEMO PULLED AND SENT TO O OF C/S' 로 빠졌고 NOTE FOR RECORD 만 남았다.",
+  "_chars": 162,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-R",
+  "pages": [
+   "0138",
+   "0139",
+   "0140",
+   "0141"
+  ],
+  "date": "1945-12-03",
+  "from": "War Department General Staff, Operations Division (WD WASH G/S)",
+  "to": "Commander in Chief, U.S. Army Forces, Pacific",
+  "subject": "Basic Initial Directive for Civil Affairs in Korea - Corrigendum to SWNCC 176/8",
+  "doc_type": "각서",
+  "match": "high",
+  "match_why": "0138 은 OPD 014.1 TS (3 Dec 45) 각서, 하단 '1-R'. 색인 1-R(3 Dec 45, WD WASH G/S→CINCAFPAC ADV, SWNCC 176/8)과 일치. 0139(SCAP 14 Dec 45 전달 서한, 하단 '1-R') 및 0140~0141(1st/2nd Indorsement)도 같은 기호로 묶여 있음",
+  "copies": [],
+  "note": "0139면부터 첨부물 성격 — SCAP 이 각 예하부대로 Corrigendum 을 전달한 14 Dec 45 서한과 그에 대한 1st Ind(2 Jan 46, Pacific Air Command)·2nd Ind(5 Jan 46, GHQ SCAP). 0139 하단 손글씨는 'R'이 'B'처럼 보이나 0141 의 '/-R' 과 동일 필체.",
+  "_chars": 3014,
+  "n_pages": 4
+ },
+ {
+  "serial": "1-Q",
+  "pages": [
+   "0142"
+  ],
+  "date": "1945-11-24",
+  "from": "SCAP",
+  "to": "COMGEN 24th CORPS",
+  "subject": "CA 55226 - Plan for procedure and accounting for Korean exports and imports",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 편철기호 '1-Q'(이미지 확인). 본문 말미 'CA 55226'. 색인 1-Q(CA 55226, SCAP→CG XXIV CORPS)와 전문번호·발신·수신 일치",
+  "copies": [],
+  "note": "전문 발신일은 24 NOVEMBER 1945(접수 스탬프 26 NOV 1945). 색인은 '26 Nov 46'으로 적혀 있어 색인 쪽 연도가 오타(45가 맞음)임이 이 면으로 확인된다.",
+  "_chars": 1013,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-P",
+  "pages": [
+   "0143"
+  ],
+  "date": "1945-11-01",
+  "from": "SCAP (GHQ, APO 500)",
+  "to": "CG Sixth Army / Eighth Army / FEAF / AFWESPAC (VARIOUS)",
+  "subject": "Basic Initial Directive for Civil Affairs in Korea (SWNCC 176/8)",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "면 하단 '1-P'. AG 014.1 (1 Nov 45)GS, 1 November 1945, 수신 다수. 색인 1-P(1 Nov 45, SCAP→VARIOUS, SWNCC 176/8)와 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 958,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-O",
+  "pages": [
+   "0144",
+   "0145"
+  ],
+  "date": "1945-10-17",
+  "from": "War Department General Staff, Operations Division (AGWAR)",
+  "to": "Commander in Chief, U.S. Army Forces, Pacific",
+  "subject": "Basic Initial Directive for Civil Affairs in Korea (SWNCC 176/8)",
+  "doc_type": "각서",
+  "match": "high",
+  "match_why": "0144 는 OPD 014.1 TS (17 Oct 45) 각서 COPY. 0145 NOTE FOR RECORD(SWNCC 176/8, 13 Oct 45) 하단에 '1-O'. 색인 1-O(17 Oct 45, AGWAR→CINCAFPAC ADV, SWNCC 176/8)와 일치",
+  "copies": [],
+  "note": "0145면은 첨부물(NOTE FOR RECORD 슬립).",
+  "_chars": 957,
+  "n_pages": 2
+ },
+ {
+  "serial": "1-N",
+  "pages": [
+   "0146"
+  ],
+  "date": "1945-10-29",
+  "from": "SCAP (GHQ, APO 500)",
+  "to": "CG XXIV Corps, APO 235",
+  "subject": "Basic Initial Directive for Civil Affairs in Korea (SWNCC 176/8)",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "면 하단 '/-N'. AG 014.1 (29 Oct 45)GS, 29 October 1945, TO: CG XXIV Corps. 색인 1-N(29 Oct 45, SCAP→CG XXIV CORPS)과 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 722,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-M",
+  "pages": [
+   "0147"
+  ],
+  "date": "1945-12-04",
+  "from": "WARCOS",
+  "to": "CINCAFPAC ADV",
+  "subject": "Basic Initial Directive for Civil Affairs in Korea (JCS 1483/15)",
+  "doc_type": "첨부물",
+  "match": "high",
+  "match_why": "면 하단 '/-M'. NOTE FOR RECORD: JCS 1483/15, DATE 4 Dec 45. 색인 1-M(4 Dec 45, WARCOS→CINCAFPAC ADV, JCS 1483/15)과 일치",
+  "copies": [],
+  "note": "본문 각서는 O of C/S 로 빠지고 NOTE FOR RECORD 슬립만 남았다.",
+  "_chars": 142,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-L",
+  "pages": [
+   "0148"
+  ],
+  "date": "1945-11-12",
+  "from": "SCAP (Headquarters, APO 500)",
+  "to": "CG XXIV Corps, APO 235",
+  "subject": "Civil Affairs Administration in Korea (WD memo 27 Oct 45 전달, SWNCC 79/1 · SWNCC 101/4)",
+  "doc_type": "서한",
+  "match": "high",
+  "match_why": "면 하단 'I-L'. AG 014.1 (12 Nov 45)GS, 12 November 1945, TO: CG XXIV Corps. 색인 1-L(12 Nov 45, SCAP→CG XXIV CORPS, Ltr-Civil affairs Adm in Korea)과 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 805,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-K",
+  "pages": [
+   "0149",
+   "0150",
+   "0151"
+  ],
+  "date": "1945-10-27",
+  "from": "AGWAR",
+  "to": "CINCAFPAC ADV",
+  "subject": "Structure and composition of civil affairs administration in Korea (SWNCC 79/1, SWNCC 101/4)",
+  "doc_type": "첨부물",
+  "match": "medium",
+  "match_why": "0149·0150 두 NOTE FOR RECORD 하단에 모두 '1-K'(SWNCC 79/1 27 Sep 45, SWNCC 101/4 24 Oct 45). 색인 1-K(27 Oct 45, AGWAR→CINCAFPAC ADV, SWNCC 79/1)와 일치. 다만 0151 은 기호가 없어 배치가 추정",
+  "copies": [],
+  "note": "본문 각서는 O of C/S 로 빠지고 NOTE FOR RECORD 두 장만 남았다. 0151 은 편철기호가 없는 GHQ SCAP/AFPAC ADV routing slip(1945년 11월)으로, 이 문서철의 다른 routing slip(0155=1-H, 0157=1-G)이 모두 해당 문서 바로 뒤에 붙어 있는 편철 관행과 위치(0150 뒤, 0152=1-J 앞)를 근거로 1-K 에 넣었다 — 확정은 아님.",
+  "_chars": 1064,
+  "n_pages": 3
+ },
+ {
+  "serial": "1-J",
+  "pages": [
+   "0152"
+  ],
+  "date": "1945-10-25",
+  "from": "JCS WASH",
+  "to": "SCAP",
+  "subject": "Structure and composition of civil affairs administration of Korea (JCS 1483/9, SWNCC 79/1)",
+  "doc_type": "첨부물",
+  "match": "high",
+  "match_why": "면 하단 '1-J'(이미지 확인). NOTE FOR RECORD: J.C.S. 1483/9, 28 Sep 45, 건명이 색인 1-J(Structure and composition of Civil affairs administration in Korea, ref SWNCC 79/1)와 일치",
+  "copies": [],
+  "note": "본문 각서는 O of C/S 로 빠지고 NOTE FOR RECORD 슬립만 남았다. 슬립의 날짜(28 Sep 45)는 JCS 문서 자체의 날짜이고 색인 날짜(25 Oct 45)는 발신일.",
+  "_chars": 161,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-I",
+  "pages": [
+   "0153"
+  ],
+  "date": "1945-10-17",
+  "from": "JCS WASH",
+  "to": "CINCAFPAC",
+  "subject": "Basic initial directive for civil affairs in Korea (JCS 1483/15)",
+  "doc_type": "첨부물",
+  "match": "high",
+  "match_why": "NOTE FOR RECORD: J.C.S. 1483/15, DATE 17 Oct 45, 건명 'Basic initial directive for civil affairs in Korea' — 색인 1-I 와 날짜·문서번호·건명이 모두 일치. 편철기호 손글씨는 OCR 이 'I-L'로 읽었으나 0152='1-J', 0154='1-H' 사이의 역순 배열상 '1-I'",
+  "copies": [],
+  "note": "본문 각서는 O of C/S 로 빠지고 NOTE FOR RECORD 슬립만 남았다.",
+  "_chars": 145,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-H",
+  "pages": [
+   "0154",
+   "0155"
+  ],
+  "date": "1945-10-16",
+  "from": "AGWAR",
+  "to": "CINCAFPAC ADV",
+  "subject": "Immediate removal of certain Japanese officials in Korea (JCS 1483/6 · 1483/4)",
+  "doc_type": "첨부물",
+  "match": "high",
+  "match_why": "0154 NOTE FOR RECORD(JCS 1483/6, 15 Sep 45, 'Immediate Removal of certain japanese officials in Korea') 하단 '1-H', 0155 routing slip(21 Oct 1945) 하단에도 '1-H'. 색인 1-H(16 Oct 45, AGWAR→CINCAFPAC ADV, MEMO-Immediate removal of certain Japanese Official in Korea)와 일치",
+  "copies": [],
+  "note": "0155면은 첨부물(GHQ SCAP/AFPAC ADV routing slip, 21 Oct 1945). 본문 각서는 O of C/S 로 빠졌다.",
+  "_chars": 957,
+  "n_pages": 2
+ },
+ {
+  "serial": "1-G",
+  "pages": [
+   "0156",
+   "0157"
+  ],
+  "date": "1945-09-25",
+  "from": "CINCAFPAC (ADVANCE)",
+  "to": "WARCOS",
+  "subject": "CA 52293 - Summary of report from CG USAFIK re proposed directive for civil affairs in Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0156 본문 말미 '( CA 52293 )', 하단 '1-G'. 0157 routing slip(25 Sep 1945)에 'CA 52293' 스탬프와 하단 '1-G'(이미지 확인). 색인 1-G 와 전문번호·발신·수신 일치",
+  "copies": [],
+  "note": "0157면은 첨부물(AFPAC AGO routing slip, 25 Sep 1945).",
+  "_chars": 2487,
+  "n_pages": 2
+ },
+ {
+  "serial": "1-F",
+  "pages": [
+   "0158"
+  ],
+  "date": "1945-09-23",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 52208 - Ref WX 68170; comment and concurrence on WX 61967 was transmitted by CA 51904",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 '1-F'. 23 SEPTEMBER 1945, 전문번호 52208, 본문에 WX 68170·WX 61967·CA 51904 언급 — 색인 1-F 와 완전 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 560,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-E",
+  "pages": [
+   "0159",
+   "0160",
+   "0161",
+   "0162"
+  ],
+  "date": "1945-09-22",
+  "from": "CG USAFIK",
+  "to": "CINCAFPAC ADV",
+  "subject": "TFGCG 81 - Ref WX 61967, concurrence in provisions of proposed directive; request for additional advisers",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "네 면 모두 하단 '1-E'. NR TFGCG 81, TOO 220309Z(22 Sep 45), CG USAFIK→CINCAFPAC ADV, ref WX 61967 — 색인 1-E 와 일치",
+  "copies": [],
+  "note": "같은 전문이 두 벌 편철돼 있다. 0159~0160 은 'CORRECTED COPY'(25 Sep 45 접수), 0161~0162 는 최초 수신본(24 Sep 45 접수, 밑줄 부분 재조회 요청 주기). dupes.json 에는 잡히지 않았으나 내용은 동일.",
+  "_chars": 8398,
+  "n_pages": 4
+ },
+ {
+  "serial": "1-D",
+  "pages": [
+   "0163",
+   "0164"
+  ],
+  "date": "1945-09-22",
+  "from": "WASHINGTON (MARSHALL)",
+  "to": "CINCAFPAC ADV (MACARTHUR), CINCAFPAC",
+  "subject": "WX 68170 - Request urgent reply to WX 61967; propose to issue Korea directive immediately",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "두 면 모두 하단 '1-D'. 0164 에 전문번호 'WX 68170'(0163 은 OCR 오독 'NEX 63270'), TOO 221440Z/221443Z, 23 September 1945 접수 — 색인 1-D(22 Sep 45, AGWAR→CINCAFPAC & Adv, WX 68170)와 일치",
+  "copies": [],
+  "note": "같은 전문의 두 부(COPY NO. 7 / COPY NO. 6). dupes.json 에는 잡히지 않았다.",
+  "_chars": 1535,
+  "n_pages": 2
+ },
+ {
+  "serial": "1-C",
+  "pages": [
+   "0165"
+  ],
+  "date": "1945-09-17",
+  "from": "CINCAFPAC, ADV",
+  "to": "CG, XXIV Corps",
+  "subject": "CAX 52020 - Ref WX 61967, removal of Japanese officials in Korea as soon as possible",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 '/-C'. 본문 말미 'CAX 52020', TOO 170625Z(17 Sep 45), 수신 CG XXIV Corps, 본문에 WX 61967 언급 — 색인 1-C 와 완전 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 1098,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-B",
+  "pages": [
+   "0166"
+  ],
+  "date": "1945-09-14",
+  "from": "WASHINGTON (The Joint Chiefs of Staff) / AGWAR",
+  "to": "GHQ AFPAC (MACARTHUR)",
+  "subject": "W 64366 - Removal of Japanese officials in Korea (Governor-General Abe 등)",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 '/-B'. NR 64366, TOO 142112Z(14 Sep 45), 발신 Washington(JCS), 수신 GHQ AFPAC — 색인 1-B(14 Sep 45, AGWAR(JCS)→GHQ AFPAC, W 64366)와 일치",
+  "copies": [],
+  "note": "면에 찍힌 날짜는 15 SEPTEMBER 1945(접수 16 Sep), 발신 TOO 는 14 Sep 45.",
+  "_chars": 1440,
+  "n_pages": 1
+ },
+ {
+  "serial": "1-A",
+  "pages": [
+   "0167"
+  ],
+  "date": "1945-09-13",
+  "from": "CINCAFPAC ADV",
+  "to": "WARCOS",
+  "subject": "CA 51904 - Ref W 59252 & WX 61967, general content concurred in",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "면 하단 '/-A'. 13 SEPTEMBER 1945, 본문 '( C.A 51904 )', 참조 'W-59252 & WX-61967' — 색인 1-A 와 완전 일치",
+  "copies": [],
+  "note": "",
+  "_chars": 620,
+  "n_pages": 1
+ },
+ {
+  "serial": "1",
+  "pages": [
+   "0168",
+   "0169",
+   "0170",
+   "0171"
+  ],
+  "date": "1945-09-09",
+  "from": "WASHINGTON (AGWAR)",
+  "to": "CINCAFPAC and CINCAFPAC ADV ECH",
+  "subject": "WX 61967 - Proposed directive for administration of Civil Affairs in US-occupied portions of Korea",
+  "doc_type": "전문",
+  "match": "high",
+  "match_why": "0168 NR 'WX 61967', 9 Sep 45 발신(10 Sep 45 전송·11 Sep 45 접수), 발신 Washington, 수신 CINCAFPAC & Adv Ech — 색인 serial 1 과 완전 일치. 0169~0171 은 'WASHINGTON RADIO, WX 61967, DATED 9 SEPTEMBER 1945, CONT'D' 로 이어지는 2~4면",
+  "copies": [],
+  "note": "이 문서철의 마지막 면(0171)에서 끝난다. 이 항목만 하단 편철기호가 없다(계열 본체 serial '1' 이라 기호 미표기).",
+  "_chars": 10357,
+  "n_pages": 4
+ }
+]

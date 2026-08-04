@@ -1,0 +1,38 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Provost Marshal's School specifications",
+ "subject_ko": "헌병학교 운영 계획",
+ "en": "[[page 0146]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nN\nANNEX # 1 1\nProvost Marshal's School\n1. Purpose:\nTo provide instruction for officers in the tactics and techniques of Military Police units.\n2. Scope:\na. Investigations.\nb. Domestic disturbances.\nc. Traffic control.\nd. Security measures.\ne. Troop movements (foot and motor).\n3. Prerequisites:\nOfficer assigned to Military Police units.\n4. General:\na. Location of School: Seoul\nb. Class capacity: 30 students\nc. Duration of course: Four (4) weeks\nd. Instructors: 2 U. S. officers\n4 U. S. enlisted men",
+ "ko": "[[면 0146]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nN\n부속서 # 1 1\n헌병학교(Provost Marshal's School)\n1. 목적:\n헌병 부대의 전술 및 기술에 관하여 장교들에게 교육을 제공함.\n2. 범위:\na. 수사.\nb. 국내 소요 진압.\nc. 교통 통제.\nd. 경비 조치.\ne. 부대 이동 (도보 및 차량).\n3. 자격 조건:\n헌병 부대에 배속된 장교.\n4. 일반 사항:\na. 학교 위치: 서울\nb. 수용 인원: 학생 30명\nc. 교육 기간: 4주\nd. 교관: 미군 장교 2명\n미군 사병 4명",
+ "entities": {
+  "people": [],
+  "places": [
+   "Seoul"
+  ],
+  "units": [
+   "Military Police"
+  ]
+ },
+ "key_points_ko": [
+  "경찰 부대 장교를 대상으로 한 4주 과정의 헌병학교를 서울에 설립할 계획이다.",
+  "교육 내용은 수사, 소요 진압, 교통 통제, 경비 조치, 부대 이동 등 헌병 전술 및 기술을 포괄한다.",
+  "수용 인원은 30명이며 교관 인력은 미군 장교 2명과 사병 4명으로 편성된다."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D034",
+ "chunk": 12,
+ "of": 46,
+ "pages": [
+  "0146"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

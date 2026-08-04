@@ -1,0 +1,41 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Course summaries for Engineer School and Provost Marshal's School, part of South Korean Army planning",
+ "subject_ko": "한국군 창설 계획의 일부인 공병학교 및 헌병학교 교육 과정 개요",
+ "en": "[[page 0259]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\n\nANNEX # 1\nEngineer School\n\n1. Purpose:\nTo provide instruction for officers in their responsibilities\nand duties in the Engineer units.\n\n2. Scope:\na. Tactics and techniques. (Basic only).\nb. Staff duties and field orders.\nc. Operations and maintenance of equipment.\nd. Administration. (Basic).\ne. Use of tools.\nf. Field expedients.\n\n3. Prerequisites:\nOfficers assigned to Engineers. To possess prior knowledge\nof engineering if possible.\n\n4. General:\na. Location: Yongdong Po\nb. Class capacity: 60 students\nc. Duration of course: 240 hours (6 weeks)\nd. Instructors: U. S. officers\n                U. S. enlisted men\n\nTOP SECRET\n\n[[page 0260]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\n\nANNEX # 13\nProvost Marshal's School\n\n1. Purpose:\nTo provide instruction for officers in the tactics and techniques\nof Military Police units.\n\n2. Scope:\na. Investigations.\nb. Domestic disturbances.\nc. Traffic control.\nd. Security measures.\ne. Troop movements (foot and motor).\n\n3. Prerequisites:\nOfficer assigned to Military Police units.\n\n4. General:\na. Location of School: Seoul\nb. Class capacity: 30 students\nc. Duration of course: Four (4) weeks\nd. Instructors: 2 U. S. officers\n                4 U. S. enlisted men\n\nTOP SECRET",
+ "ko": "[[면 0259]]\n기밀해제\n권한 NND86527\n2급 비밀\n\n부록 # 1\n공병학교\n\n1. 목적:\n공병 부대 내 장교들에게 그들의 책임과 임무에 관한 교육을 제공한다.\n\n2. 범위:\n가. 전술 및 기술. (기초만).\n나. 참모 업무 및 야외 명령.\n다. 장비 운용 및 정비.\n라. 행정. (기초).\n마. 도구 사용법.\n바. 야전 임시 조치.\n\n3. 입교 자격:\n공병으로 배속된 장교. 가능하다면 사전에 공학 지식을 갖출 것.\n\n4. 일반 사항:\n가. 위치: 영등포(永登浦)\n나. 수용 인원: 60명\n다. 교육 기간: 240시간 (6주)\n라. 교관: 미국인 장교\n         미국인 사병\n\n2급 비밀\n\n[[면 0260]]\n기밀해제\n권한 NND86527\n2급 비밀\n\n부록 # 13\n헌병감(Provost Marshal) 학교\n\n1. 목적:\n헌병 부대 장교들에게 전술 및 기술에 관한 교육을 제공한다.\n\n2. 범위:\n가. 수사.\n나. 국내 소요 진압.\n다. 교통 통제.\n라. 보안 조치.\n마. 부대 이동 (도보 및 차량).\n\n3. 입교 자격:\n헌병 부대에 배속된 장교.\n\n4. 일반 사항:\n가. 학교 위치: 서울(Seoul)\n나. 수용 인원: 30명\n다. 교육 기간: 4주\n라. 교관: 미국인 장교 2명\n         미국인 사병 4명\n\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Yongdong Po",
+   "Seoul"
+  ],
+  "units": [
+   "Engineer School",
+   "Provost Marshal's School"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 장교 교육을 위해 공병학교(영등포)와 헌병학교(서울)의 교육 과정 계획을 수립하였다.",
+  "두 학교 모두 미국인 장교와 사병이 교관으로 배정되며, 공병학교는 6주(240시간, 60명), 헌병학교는 4주(30명) 과정으로 설계되었다.",
+  "교육 내용은 공병은 전술·기술, 참모업무, 장비운용, 행정 등을 포함하며, 헌병은 수사, 소요진압, 교통통제, 보안조치 등을 포함한다."
+ ],
+ "confidence": "high",
+ "notes": "Authority NND8X6527 on page 0260 likely misread OCR for NND86527; corrected to match page 0259 authority number. Page 0260 line 1 'ANNES' corrected to 'ANNEX'.",
+ "doc_id": "D034",
+ "chunk": 46,
+ "of": 46,
+ "pages": [
+  "0259",
+  "0260"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

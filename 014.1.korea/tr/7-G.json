@@ -1,0 +1,42 @@
+{
+  "serial": "7-G",
+  "date": "1946-02-20",
+  "date_note": "본문 상단 타자 '20 FEB 1946'. TOO 192032 Z (발신 19일 2032 Z)",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "워싱턴(WASHINGTON) — 서명 WARCOS 육군참모총장",
+  "to": "태평양미육군총사령관(CINCAFPAC), 주한미군사령관(CG USAFIK)에게 전달할 것",
+  "info": "총사령관(Commander in Chief), 참모장(Chief of Staff), G-2, 부관부(AG), 민정부(C Govt Sect), 정치고문(Political Advisor)",
+  "msg_nr": "W 97763",
+  "subject_en": "Ref TFGCG 285 — Steps taken by you are approved",
+  "subject_ko": "TFGCG 285 관련 — 귀관이 취한 조치를 승인함",
+  "summary_ko": "육군부는 하지의 TFGCG 285(SWNCC 176/18 소견)에 대해 그가 취한 조치를 승인하고, 이승만·김구는 SWNCC 176/18이 말하는 좌우 극단주의자로 보지 않아도 좋다고 하며, 모스크바 코뮈니케의 '임시정부(Provisional Government)' 표현은 소련 정부에 변경을 요청하지 않기로 결정했다고 통보한다.",
+  "key_points_ko": [
+    "하지가 TFGCG 285에서 보고한 조치를 워싱턴이 승인한다.",
+    "이승만과 김구가 공산주의자를 포함한 모든 정당에게 받아들여지고 있다고 하지가 보고했으므로, SWNCC 176/18 규정상 이들을 좌우 어느 쪽의 극단주의자로도 보지 않을 수 있다.",
+    "해당 규정의 취지는 어느 한 정당도 자기 이익만 추구하지 못하게 하려는 것이었다.",
+    "'임시정부(Provisional Government)'라는 낱말이 모스크바 코뮈니케와 김구 집단 양쪽에 쓰이면서 생긴 혼선이 워싱턴에서도 상당히 논의되었다.",
+    "코뮈니케 문언을 바꾸자고 소련 정부에 접근하지 않기로 결정했다.",
+    "표현이 비슷한 것이 오히려 미측 교섭 지위에 해가 되지 않고 도움이 될 수도 있다는 것이 워싱턴의 판단이다.",
+    "하지의 TFGCI 190은 소련이 교섭용으로 '중앙임시정부(Central Provisional Government)'를 세우려 하고 있음을 보여준다고 지적한다."
+  ],
+  "ko": "TFGCG 285 참조. 귀관이 취한 조치를 승인한다.\n\n이승만(Symgman Rhee)과 김구(Kim Koo)가 공산주의자를 포함한 모든 정당에게 받아들여지고 있다고 귀관이 알려 왔으므로, 그들은 SWNCC 176/18의 규정상 우파에서든 좌파에서든 극단주의자가 아닌 것으로 [TGXOE — 판독불가] 또는 귀관이 그렇게 간주해도 좋다. 그 규정의 목적은 어느 한 정당도 자기의 이기적 이익을 밀고 나가도록 허용되지 않게 하려는 데 있었다.\n\n'임시정부(Provisional Government)'라는 낱말이 모스크바 코뮈니케와 김구의 집단 양쪽에 관련해 쓰이면서 생긴 혼란이 이곳에서도 상당히 논의되었다. 코뮈니케의 문언을 바꾸도록 소련 정부에 접근하지는 않기로 결정되었다. 표현이 비슷한 것이 귀관의 교섭 지위를 해치지 않을 것이며 오히려 개선할 수도 있다고 이곳에서는 보고 있다. 소련이 교섭 목적으로 '중앙임시정부(Central Provisional Government)'를 세우려 하고 있음을 보여주는 귀관의 TFGCI 190을 보라.",
+  "en": "Ref TFGCG 285. Steps taken by you are approved.\n\nSince you have indicated that Symgman Rhee and Kim Koo, are accepted by all Parties including the Communists, they may TGXOE or be considered by you as not being extremists either on the right or left under the provisions of SWNCC 176/18. The purpose of the provision was to assure that no single party was allowed to further its own selfish interests.\n\nThere has been considerable discussion here of confusion arising from use of words \"Provisional Government\" in connection with both Moscow communique and Kim Koo's Group. It has been decided not to approach Soviet Government to change terms of communique. It is believed here that similarity of expressions will not hurt your bargaining position and may even improve it. See your TFGCI 190 which indicates that Soviets are attempting to establish a \"Central Provisional Government\" for bargaining purposes.\n\nWARCOS",
+  "stamps_ko": [
+    "접수 도장: GHQ AFPAC AGO RECORDS (월 표기는 잉크가 뭉개져 판독 어려움, 'MAR 1946'으로 읽힘)",
+    "도장 위 손글씨: '014.1 Korea T.S. Scap'",
+    "여백 손글씨 회부 표시: 'x 09/Korea', 'X 091.4', 'X 092' — 각 항목에 사선(회부 완료 표시)",
+    "전문 번호 옆 손글씨: '014.1 Korea T.S. Scap' + 이니셜(판독불가)",
+    "도장: A. G. FILE",
+    "우하단 손글씨/타자: COPY NO 25",
+    "타자 이니셜: 'E. B.' (2회)",
+    "타자 회부 기재: '이 전문은 신호센터로 넘겨져 CG USAFIK 앞으로 재발송되었음 — 조치용(for action)'",
+    "좌하단 연필 일련번호: 7-G"
+  ],
+  "people": [
+    "이승만(Symgman Rhee — 원문 타자 표기. 통상 Syngman Rhee)",
+    "김구(Kim Koo)"
+  ],
+  "confidence": "high",
+  "notes": "1) 'they may TGXOE or be considered by you' 의 TGXOE 는 전신 수신 상의 오문(garble)으로 보인다. 원문에 그대로 남아 있어 고치지 않고 두었다. 2) 'Symgman Rhee' 는 원본 타자수의 오타다(통상 Syngman Rhee). 그대로 두었다. 3) 'TFGCI 190' 은 원본에 그대로 찍혀 있다 — 다른 전문의 접두어 TFGCG 와 다르나 숫자열·부호는 바로잡지 않았다. 4) 접수 도장의 월 표기가 '20 FEB 1946' 타자 접수일과 어긋나 보이나(MAR 로 읽힘) 잉크가 겹쳐 확실치 않아 판독한 대로 두었다."
+}

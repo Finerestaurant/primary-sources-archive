@@ -1,0 +1,30 @@
+{
+  "serial": "8-B",
+  "date": "1946-02-25",
+  "date_note": "DATE: 25 Feb 46",
+  "doc_type": "라우팅 슬립",
+  "classification": null,
+  "from": "태평양미육군총사령관(CINCAFPAC)",
+  "to": "제24군단장(CG XXIV CORPS)",
+  "info": null,
+  "msg_nr": "J.C.S. 1483/24",
+  "subject_en": "Letter of Transmittal",
+  "subject_ko": "송부 서한",
+  "summary_ko": "J.C.S. 1483/24 「송부 서한」 각서가 참모장실로 반출되어 그 자리를 대신하는 기록용 쪽지만 편철된 면이다.",
+  "key_points_ko": [
+    "본체는 1946년 2월 25일자 J.C.S. 1483/24, 건명 「송부 서한」(Letter of Transmittal)이다.",
+    "그 각서는 편철에서 빼내어 참모장실(O of C/S)로 보내졌다.",
+    "따라서 문서철에는 본문 없이 「기록용 쪽지」(NOTE FOR RECORD) 한 장만 남아 있다.",
+    "면 하단에 연필로 편철기호 '8-B'."
+  ],
+  "ko": "기록용 쪽지\n\nJ.C.S. 1483/24\n\n일자: 1946년 2월 25일\n\n건명: 송부 서한\n\n본 각서는 빼내어 참모장실로 보냈음",
+  "en": "NOTE FOR RECORD\n\nJ.C.S. 1483/24\n\nDATE: 25 Feb 46\n\nSUBJ: Letter of Transmittal\n\nTHIS MEMO PULLED AND SENT TO O OF C/S",
+  "stamps_ko": [
+    "면 하단 좌측 연필: '8-B' (편철기호)",
+    "면 상단 여백(촬영 원판 상단): 'Declassified E.O. 12065 Section 3/402/ NNDG NO. [판독불가]' — 미국 국립문서기록관리청 비밀해제 표기",
+    "타자 문구 '본 각서는 빼내어 참모장실로 보냈음'(THIS MEMO PULLED AND SENT TO O OF C/S) 자체가 반출 표시"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "문서번호 J.C.S. 1483/24 는 규칙에 따라 번역하지 않고 그대로 두었다. 원면에 접수 도장은 없고, 종이 상단에 서류 편철용 구멍 자국(검게 찍힌 두 점)만 보인다. 본문 각서가 없으므로 doc_type 을 '라우팅 슬립'으로 두었다(문서철에서는 반출 대체 쪽지 역할)."
+}

@@ -1,0 +1,39 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex on command and staff school for Korean Army officers",
+ "subject_ko": "한국 육군 장교를 위한 지휘 및 참모 학교 설치에 관한 부록",
+ "en": "[[page 0251]]\nDECLASSIFIED\nAuthority NND 816527\nTOP SECRET\nANNEX #\nCommand And Staff School\n1. Purpose:\nTo provide instruction for selected officers in their\nresponsibilities and duties in command and staff positions on the\nArmy and Division level.\nTo insure that each officer will have a basic knowledge of\nthe staff principles and organization of the Korean Army.\n2. Scope:\nThe subjects to be taught will be similar to those taught at\nLeavenworth. They will of necessity be on a reduced scale and modified\nto suit conditions as they exist in Korea.\n3. Prerequisites:\nOfficers will be carefully selected for their potential suita-\nbility for staff duty prior to attending schools.\n4. General:\na. Locations: Pusan\nb. Class Capacity: Sixty (60) students\nc. Duration of Course: Three (3) months\nd. Instructors: Ten (10) field grade U.S. officers, Fifteen (15) enlisted men\nTOP SECRET",
+ "ko": "[[면 0251]]\nDECLASSIFIED\nAuthority NND 816527\n대외비 (TOP SECRET)\n부록 #\n지휘 및 참모 학교\n1. 목적:\n선발된 장교들에게 군(軍) 및 사단급 부대의 지휘 및 참모 직위에서의\n책임과 임무에 관한 교육을 제공한다.\n각 장교가 한국 육군의 참모 원칙과 조직에 대한 기본 지식을\n갖추도록 보장한다.\n2. 범위:\n교육 과목은 레번워스(Leavenworth)에서 가르치는 것과 유사할 것이나,\n한국 내 실정에 맞추어 축소되고 수정된 규모로 필연적으로 진행될 것이다.\n3. 필수 조건:\n각 장교는 본 학교에 입교하기 전에 참모 근무에 대한 잠재적 적성을\n기준으로 신중히 선발될 것이다.\n4. 일반 사항:\na. 위치: 부산(Pusan)\nb. 수용 인원: 60명\nc. 교육 기간: 3개월\nd. 교관: 미군 야전급 장교 10명, 사병 15명\n대외비 (TOP SECRET)",
+ "entities": {
+  "people": [],
+  "places": [
+   "Pusan",
+   "Leavenworth"
+  ],
+  "units": [
+   "Korean Army"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 장교들에게 군·사단급 지휘 및 참모 교육을 제공하기 위한 학교 설립을 계획하고 있다.",
+  "교육 과정은 미 육군 레번워스 학교를 모델로 하되, 한국 실정에 맞게 축소 및 수정하여 운영된다.",
+  "부산에 3개월 과정으로 설립되며, 학생 정원은 60명, 교관은 미군 장교 10명 및 사병 15명으로 구성될 예정이다."
+ ],
+ "confidence": "high",
+ "notes": "OCR에 'sheer', 'end', 'ip', 'besie' 등으로 인식된 단어들을 문맥에 맞게 재구성함. 'Leovenworthe'는 'Leavenworth'로 수정함. 하단의 'SEKISUI JUSHI'는 문서 내용과 무관한 자(사진 촬영 기준자)로 판단하여 제거함.",
+ "doc_id": "D034",
+ "chunk": 40,
+ "of": 46,
+ "pages": [
+  "0251"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

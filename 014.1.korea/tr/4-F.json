@@ -1,0 +1,36 @@
+{
+  "serial": "4-F",
+  "date": "1945-10-05",
+  "date_note": "5 October 1945 (원문 표기). 발신시각 TOO 041839 Z",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "워싱턴(WASHINGTON) — 육군참모총장(WARCOS)",
+  "to": "태평양미육군총사령관 전진지휘소(CINCAFPAC ADV)",
+  "info": "마닐라(CINCAFPAC Manila)",
+  "msg_nr": "WX-72929",
+  "subject_en": "Korean trusteeship being considered by JCS",
+  "subject_ko": "조선 신탁통치 문제가 합동참모본부에서 검토 중임",
+  "summary_ko": "육군부는 조선 신탁통치 문제가 현재 합동참모본부에서 검토되고 있음을 도쿄에 통보하고, 앞서 보낸 WX-71814에 대한 의견을 조속히 회신하라고 요구한다.",
+  "key_points_ko": [
+    "조선 신탁통치(Korean Trusteeship) 문제가 현재 합동참모본부에서 검토 중이다.",
+    "WX-71814에 대한 태평양미육군총사령관의 의견을 조속한 시일 내에 회신할 것을 요구한다.",
+    "작전 우선(OPERATIONAL PRIORITY) 등급으로 타전되었다.",
+    "배포처는 총사령관, 참모장, 작전담당 참모차장 대리."
+  ],
+  "ko": "조선 신탁통치 문제가 현재 합동참모본부에서 검토되고 있음. WX-71814에 대한 귀관의 의견을 조속한 시일 내에 회신 바람.\n\n육군참모총장(WARCOS)",
+  "en": "Subject of Korean Trusteeship is now being considered by Joint Chiefs of Staff. Your comments on WX-71814 are desired at an early date.\n\nWARCOS\n\nTOO: 041839 Z\nMCN: USFA - 54\n\nDISTRIBUTION:\n  COMMANDER-in-CHIEF\n  CHIEF OF STAFF\n  ACTING DEPUTY CHIEF OF STAFF OPNS",
+  "stamps_ko": [
+    "우측 상단 고무인 : 'GHQ / AGO RECORDS', 날짜 '6 OCT 1945'",
+    "그 옆 손글씨 : '014.1 Korea'",
+    "본문 우측 손글씨 이니셜 결재 : 'RK' (그 아래 사선 표시)",
+    "본문 상·하 고무인 : 'TOP SECRET' 및 'OPERATIONAL PRIORITY'",
+    "하단 우측 : 'Copy No. 7'",
+    "하단 인쇄 문구 : 'THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN'",
+    "하단 우측 고무인 : 'A.G. FI[LE]' (일부 잘림)",
+    "좌측 하단 연필 편철기호 : '4-F'",
+    "상단 여백 : 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775041[?]' — 번호 일부 판독불가"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "OCR(ocr/0060.txt)에는 본문 두 줄 중 첫 줄('Subject of Korean Trusteeship is now being considered by Joint')이 통째로 빠져 있어 원본 스캔(pages/0060.jpg)에서 직접 판독해 보완했다. 'trusteeship'은 신탁통치로 옮겼다(후견 tutelage 와 구분). 전문번호 WX-72929, 참조 전문 WX-71814 는 원본 표기 그대로다."
+}

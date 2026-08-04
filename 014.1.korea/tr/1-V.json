@@ -1,0 +1,38 @@
+{
+  "serial": "1-V",
+  "date": "1946-05-15",
+  "date_note": "면 상단 타자 '15 May 1946', 발신 번호 150701(15일 0701). 색인·배치표는 1946-05-16으로 잡고 있으나 원본 표기는 15 May 1946이다",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "연합국최고사령관(SCAP)",
+  "to": "주한미군사령관(COMGEN USAFIK)",
+  "info": null,
+  "msg_nr": "C-61010",
+  "subject_en": "Recommendation in TFYMG 1728 is not favorably considered",
+  "subject_ko": "TFYMG 1728의 건의는 호의적으로 고려되지 않음",
+  "summary_ko": "주한미군사령부가 올린 전문 TFYMG 1728의 건의에 대해 호의적으로 고려되지 않는다고 통보한 두 줄짜리 회신 전문이다.",
+  "key_points_ko": [
+    "회신 대상은 주한미군사령부 전문 TFYMG 1728이다.",
+    "그 건의는 '호의적으로 고려되지 않는다(is not favorably considered)' — 즉 기각이다.",
+    "부관감 피치(B. M. Fitch) 준장 명의의 인증으로 발송되었다.",
+    "배포처에 경제과학국(ESS)·G-2·부관부·정부과(Govt Sec)·외교과(Dip Sec)가 들어 있다."
+  ],
+  "ko": "귀 전문 태어·폭스·영·마이크·조지 일 칠 이 팔(TFYMG 1728) 관련, 건의는 호의적으로 고려되지 않음.\n\n인증(OFFICIAL):\nB. M. 피치(B. M. FITCH), 준장, 부관부(AGD), 부관감(Adjutant General)\n\n[배포] C/S(참모장) 2부 / ESS(경제과학국) / G-2 / AG(부관부) / Govt Sec(정부과) / Dip Sec(외교과)",
+  "en": "REUR TARE FOX YOUNG MIKE GEORGE ONE SEVEN TWO EIGHT CMA RECOMMENDATION IS NOT FAVORABLY CONSIDERED PD\n\nOFFICIAL:\nB. M. FITCH\nBrigadier General, AGD\nAdjutant General\n\nDISTRIBUTION:\nC/S (2)\nESS\nG-2\nAG\nGovt Sec\nDip Sec\n\n[foot of sheet] TFYMG 1728",
+  "stamps_ko": [
+    "상단 'TOP SECRET' 도장, 하단 'TOP SECRET' 도장",
+    "우측 상단 접수 도장 — 'GHQ AFPAC AGO RECORDS', 그 안에 손글씨 '014.1 Korea TS-3'",
+    "좌측 상단 타자 'R' · 'O C/S  PJM/djm  15 May 1946'",
+    "본문 위 손글씨 편철기호 — '014.1 Korea (TS) / 1-V'",
+    "발신 번호 손글씨(굵은 숫자) '150701'",
+    "본문 안 손글씨 전문번호 'C-61010'",
+    "면 하단 타자 참조 'TFYMG 1728' · 우하단 'A. G. FILE' 도장",
+    "좌하단 연필 편철기호 '1-V'",
+    "상단 여백 인쇄 — 'Declassified E.O. 12065 Section 3/402/ NNDG NO.'"
+  ],
+  "people": [
+    "B. M. 피치(B. M. Fitch) — 준장, 부관감"
+  ],
+  "confidence": "medium",
+  "notes": "이 면에는 'PULLED AND SENT TO O OF C/S' 같은 반출 표시나 'NOTE FOR RECORD' 쪽지가 없다. 실물은 SCAP이 주한미군사령관에게 보낸 짧은 발신 전문 한 장이다. 배포란의 'G-2'는 활자가 흐려 확신도가 낮으나 'G-2'로 읽었다. 본문은 음성 문자(TARE=T, FOX=F, YOUNG=Y, MIKE=M, GEORGE=G)로 전문번호 TFYMG 1728을 풀어 쓴 것이다. 'REUR'는 'Reference your', 'CMA'는 쉼표, 'PD'는 마침표를 뜻하는 전신 부호다. 전문번호 C-61010은 본문 안에 손글씨로 적혀 있다. 날짜가 색인(16 May)과 원본(15 May)이 어긋난다."
+}

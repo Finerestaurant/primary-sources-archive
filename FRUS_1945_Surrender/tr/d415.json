@@ -1,0 +1,29 @@
+{
+  "doc_id": "d415",
+  "date": "1945-08-11",
+  "time": "접수 1945년 8월 11일 오후 3시 15분 (Received August 11—3:15 p.m.)",
+  "date_note": "원문 표기 「London, August 11, 1945.」 / 「[Received August 11—3:15 p.m.]」",
+  "doc_type": "전보",
+  "classification": null,
+  "place": "London",
+  "from": "주영 대사 위넌트(Winant)",
+  "to": "국무장관",
+  "msg_nr": "2263",
+  "source_note": null,
+  "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+  "title_ko": "주영 대사(위넌트)가 국무장관에게",
+  "subject_ko": "영국 정부가 일본 정부 앞으로 스위스 정부에 보낸 미국의 통보에 동의한다는 회신을 전달하다.",
+  "key_points_ko": [
+    "8월 11일 오후 3시 15분 접수된 런던발 전보 제2263호.",
+    "영국 정부가 「일본 정부 앞으로 스위스 정부에 보낸 귀하의 통보를 접수하였으며, 동의한다」고 회신했다.",
+    "최종 문안에 영국 측 제안이 수용된 데 대해 런던에서 깊이 감사하고 있다."
+  ],
+  "ko": "런던, 1945년 8월 11일.\n[1945년 8월 11일 오후 3시 15분 접수]\n\n2263. 본인은 다음의 통보를 각하께 전달해 달라는 요청을 받았습니다.\n\n> 「영국 정부는 일본 정부 앞으로 스위스 정부에 보낸 귀하의 통보를 접수하였으며, 이에 동의한다.」\n\n최종 문안에서 영국 측 제안이 수용된 데 대하여 이곳에서는 깊이 감사하고 있습니다.\n\n위넌트",
+  "notes_ko": [],
+  "people": [
+    "Winant 위넌트(John G. Winant) — 주영 미국대사",
+    "His Majesty's Government 영국 정부"
+  ],
+  "confidence": "high",
+  "notes": "「His Majesty's Government」는 영국 정부를 가리키는 정식 표현이므로 「영국 정부」로 옮겼다. 원문의 접수 시각을 본문 머리에 그대로 두었다."
+}

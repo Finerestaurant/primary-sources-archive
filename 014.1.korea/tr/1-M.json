@@ -1,0 +1,30 @@
+{
+  "serial": "1-M",
+  "date": "1945-12-04",
+  "date_note": "쪽지에 타자된 'DATE: 4 Dec 45'",
+  "doc_type": "라우팅 슬립",
+  "classification": "Top Secret",
+  "from": "육군참모총장(WARCOS)",
+  "to": "태평양미육군총사령관 전방지휘소(CINCAFPAC ADV)",
+  "info": null,
+  "msg_nr": "JCS 1483/15",
+  "subject_en": "Basic Initial Directive for Civil affairs in Korea",
+  "subject_ko": "조선 민사(民事)를 위한 기본 초기 지령",
+  "summary_ko": "JCS 1483/15(조선 민사를 위한 기본 초기 지령, 1945년 12월 4일자) 본체 각서가 참모장실로 반출되었음을 알리는 기록용 쪽지 한 장만 문서철에 남아 있다.",
+  "key_points_ko": [
+    "문서철의 이 자리에는 본문 각서가 아니라 'NOTE FOR RECORD'(기록용 쪽지) 한 장만 편철되어 있다.",
+    "쪽지에 적힌 것은 문서번호 JCS 1483/15, 일자 1945년 12월 4일, 건명 '조선 민사를 위한 기본 초기 지령'뿐이다.",
+    "하단에 '이 각서는 반출되어 참모장실로 보내졌음(THIS MEMO PULLED AND SENT TO O OF C/S)'이라고 타자되어 있다.",
+    "즉 원 각서는 이 문서철에서 빠져 참모장실(Office of the Chief of Staff)로 넘어갔고, 그 사실만 기록으로 남았다."
+  ],
+  "ko": "기록용 쪽지(NOTE FOR RECORD)\n\nJCS 1483/15\n일자: 1945년 12월 4일\n건명: 조선 민사를 위한 기본 초기 지령(Basic Initial Directive for Civil affairs in Korea)\n\n이 각서는 반출되어 참모장실로 보내졌음.",
+  "en": "NOTE FOR RECORD\n\nJCS 1483/15\nDATE: 4 Dec 45\nSUBJ: Basic Initial Directive for Civil affairs in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S",
+  "stamps_ko": [
+    "상단 좌우에 편철용 천공 2개",
+    "좌하단 연필 일련번호: 1-M ('/-M' 으로 읽힘)",
+    "그 밖의 접수 도장·손글씨 결재 없음"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "1) 본체 각서가 빠지고 대체 쪽지만 남은 면이다. 'O OF C/S' 는 'Office of the Chief of Staff'(참모장실)로 읽었다. 2) 건명의 'Civil affairs' 는 원본에서 'affairs' 만 소문자로 타자돼 있다. 원문 표기 그대로 두었다. 3) 문서번호 JCS 1483/15 는 번역하지 않고 그대로 두었다. 4) 이 쪽지는 도장이 전혀 찍혀 있지 않다 — 없는 것을 지어내지 않았다."
+}

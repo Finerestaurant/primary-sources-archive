@@ -1,0 +1,433 @@
+{
+ "_": [
+  {
+   "term": "C 57425",
+   "alias": [
+    "C57425"
+   ],
+   "title": "C 57425 — 남한군 창설을 위한 군수 및 고문단 소요 관련 문의 및 해명",
+   "body": "Clarifying logistics and advisory group requirements for establishing a South Korean Army",
+   "badge": "이 문서철의 전문",
+   "doc": "D032"
+  },
+  {
+   "term": "C 57483",
+   "alias": [
+    "C57483"
+   ],
+   "title": "C 57483 — 남한군 창설을 위한 군수 및 고문단 소요 관련 문의 및 해명",
+   "body": "Clarifying logistics and advisory group requirements for establishing a South Korean Army",
+   "badge": "이 문서철의 전문",
+   "doc": "D032"
+  },
+  {
+   "term": "C 59039",
+   "alias": [
+    "C59039"
+   ],
+   "title": "C 59039 — CINCFE, 미군 철수에 앞서 한국군에 대한 수정된 소요 추산 및 편제표 요청",
+   "body": "CINCFE requests revised estimates and TO&Es for South Korean forces prior to planned US withdrawal",
+   "badge": "이 문서철의 전문",
+   "doc": "D015"
+  },
+  {
+   "term": "CX 55756",
+   "alias": [
+    "C.X. 55756",
+    "CX55756"
+   ],
+   "title": "CX 55756 — 극동군 총사령관, 한국 전략적 중요성 연구 초안 결론 전달 및 경비대를 미래 군핵으로 언급",
+   "body": "CINCFE transmits draft Korea strategic importance study conclusions, notes constabulary as future army nucleus",
+   "badge": "이 문서철의 전문",
+   "doc": "D052"
+  },
+  {
+   "term": "CX 56612",
+   "alias": [
+    "C.X. 56612",
+    "CX56612"
+   ],
+   "title": "CX 56612 — 미국 장비의 한국 경비대(Constabulary) 지급 승인, 보병 소화기로 제한",
+   "body": "Authorization to issue US equipment to South Korean Constabulary (National Police Guard), limited to infantry small arms",
+   "badge": "이 문서철의 전문",
+   "doc": "D049"
+  },
+  {
+   "term": "CX 57728",
+   "alias": [
+    "C.X. 57728",
+    "CX57728"
+   ],
+   "title": "CX 57728 — 주한 미군 군사고문단 관련 답신",
+   "body": "Reply regarding Military Advisory Group for South Korea",
+   "badge": "이 문서철의 전문",
+   "doc": "D035"
+  },
+  {
+   "term": "CX 57862",
+   "alias": [
+    "C.X. 57862",
+    "CX57862"
+   ],
+   "title": "CX 57862 — 남조선 야전군 대신 강화된 경비대 계획 수립 지시",
+   "body": "Directive to plan augmented South Korean Constabulary instead of a field army",
+   "badge": "이 문서철의 전문",
+   "doc": "D030"
+  },
+  {
+   "term": "CX 58237",
+   "alias": [
+    "C.X. 58237",
+    "CX58237"
+   ],
+   "title": "CX 58237 — 극동군사령관, 주한미군 철수 정책안과 군사고문단에 대한 군사적 의견 회신",
+   "body": "CINCFE military comments on proposed US withdrawal policy and advisory group, Korea",
+   "badge": "이 문서철의 전문",
+   "doc": "D036"
+  },
+  {
+   "term": "CX 58437",
+   "alias": [
+    "C.X. 58437",
+    "CX58437"
+   ],
+   "title": "CX 58437 — 남조선경비대 증강 — 계획 기준 및 실현 가능성 검토",
+   "body": "Augmentation of South Korean Constabulary — planning basis and feasibility",
+   "badge": "이 문서철의 전문",
+   "doc": "D027"
+  },
+  {
+   "term": "CX 60054",
+   "alias": [
+    "C.X. 60054",
+    "CX60054"
+   ],
+   "title": "CX 60054 — CINCFE, 남조선 경비대 증강 및 장비 지급 구두 지시 확인",
+   "body": "CINCFE confirms augmentation and equipping of South Korean Constabulary, confirms oral directive",
+   "badge": "이 문서철의 전문",
+   "doc": "D011"
+  },
+  {
+   "term": "CX 60234",
+   "alias": [
+    "C.X. 60234",
+    "CX60234"
+   ],
+   "title": "CX 60234 — 남조선 국방경비대 증강에 관한 대국민 발표 권한 요청",
+   "body": "Request for authority to issue public statement on augmentation of South Korean Constabulary",
+   "badge": "이 문서철의 전문",
+   "doc": "D009"
+  },
+  {
+   "term": "GDSP 1438",
+   "alias": [
+    "G.D.S.P. 1438",
+    "GDSP1438"
+   ],
+   "title": "GDSP 1438 — 한국 국방경비대 및 경찰을 위한 탄약·카빈 소총 소요 요청",
+   "body": "Ammunition and carbine requirements for Korean Constabulary and National Police",
+   "badge": "이 문서철의 전문",
+   "doc": "D046"
+  },
+  {
+   "term": "GX 67038",
+   "alias": [
+    "G.X. 67038",
+    "GX67038"
+   ],
+   "title": "GX 67038 — 민간 소요 진압을 위한 저고도 기총소사 작전: 극동육군총사령관 승인 없는 한국 내 실행 금지 명령",
+   "body": "Discontinuance of low-level strafing against civil disturbances in Korea without CINCAFPAC authorization",
+   "badge": "이 문서철의 전문",
+   "doc": "D064"
+  },
+  {
+   "term": "KVC 0413",
+   "alias": [
+    "K.V.C. 0413",
+    "KVC0413"
+   ],
+   "title": "KVC 0413 — 선박 이동 보고: 다치바나마루호, 사세보에서 버크너만(오키나와)으로 귀환자 수송 중 나하 경유",
+   "body": "Shipping movement report: Tachibana Maru transporting repatriates from Sasebo to Buckner Bay via Naha",
+   "badge": "이 문서철의 전문",
+   "doc": "D004"
+  },
+  {
+   "term": "NIX 92187",
+   "alias": [
+    "N.I.X. 92187",
+    "NIX92187"
+   ],
+   "title": "NIX 92187 — 한국 국립 경찰 무장 요청 및 한국 국군 창설 보류",
+   "body": "Request to arm Korean National Civil Police and deferral of Korean National Armed Forces",
+   "badge": "이 문서철의 전문",
+   "doc": "D054"
+  },
+  {
+   "term": "SVC 5055",
+   "alias": [
+    "S.V.C. 5055",
+    "SVC5055"
+   ],
+   "title": "SVC 5055 — 미 국무부, 유엔 제출 한국 결의안 재초안; 미소공위 전 소련 답변 요구 시 지침",
+   "body": "State Dept redrafts UN resolution on Korea; instructions if Soviets demand answer before Joint Commission",
+   "badge": "이 문서철의 전문",
+   "doc": "D044"
+  },
+  {
+   "term": "T 1401",
+   "alias": [
+    "T1401"
+   ],
+   "title": "T 1401 — ZGC T-1401 및 CX 56855에 언급된 조선국방경비대 탄약 소요에 대한 임시 조치",
+   "body": "Interim action on ammunition requirements for Korean Constabulary, referring to ZGC T-1401 and CX 56855",
+   "badge": "이 문서철의 전문",
+   "doc": "D047",
+   "points": [
+    "같은 번호가 붙은 문서: D047 · D047"
+   ]
+  },
+  {
+   "term": "TFGCG 527",
+   "alias": [
+    "T.F.G.C.G. 527",
+    "TFGCG527"
+   ],
+   "title": "TFGCG 527 — 한국 군중 상공 저고도 통과 비행 중단",
+   "body": "Discontinuation of low level passes over Korean crowds",
+   "badge": "이 문서철의 전문",
+   "doc": "D063"
+  },
+  {
+   "term": "TFOOT 1948",
+   "alias": [
+    "T.F.O.O.T. 1948",
+    "TFOOT1948"
+   ],
+   "title": "TFOOT 1948 — 경찰 기능 이양을 위한 한국 국립 민간 경찰(정규, 경비대, 해안 경비대)의 무장 및 편성 계획",
+   "body": "Arms and organization of the Korean National Civil Police (Regular, Guard, Coast Guard) for transition of police functions",
+   "badge": "이 문서철의 전문",
+   "doc": "D057"
+  },
+  {
+   "term": "UX 57175",
+   "alias": [
+    "U.X. 57175",
+    "UX57175"
+   ],
+   "title": "UX 57175 — CINCFE, WAR 91520에 대한 회신: 한국 내 장비 철수 및 소개(疏開) 소요 추정",
+   "body": "CINCFE reply to WAR 91520: equipment withdrawal and evacuation estimates for Korea",
+   "badge": "이 문서철의 전문",
+   "doc": "D041"
+  },
+  {
+   "term": "W 84240",
+   "alias": [
+    "W84240"
+   ],
+   "title": "W 84240 — 호지스 메시지(C 66691) 관련, 육군성 조치 전 맥아더의 의견 요청",
+   "body": "Request for MacArthur's comments on Hodges message (C 66691) before WD takes action",
+   "badge": "이 문서철의 전문",
+   "doc": "D060"
+  },
+  {
+   "term": "W 93049",
+   "alias": [
+    "W93049"
+   ],
+   "title": "W 93049 — 남한군 소요 및 경비대 증강에 관한 CINCFE 요청에 대한 워싱턴의 회신",
+   "body": "Response to CINCFE requests on South Korean Army requirements and constabulary augmentation",
+   "badge": "이 문서철의 전문",
+   "doc": "D031"
+  },
+  {
+   "term": "WAR 91520",
+   "alias": [
+    "W.A.R. 91520",
+    "WAR91520"
+   ],
+   "title": "WAR 91520 — CINCFE, WAR 91520에 대한 회신: 한국 내 장비 철수 및 소개(疏開) 소요 추정",
+   "body": "CINCFE reply to WAR 91520: equipment withdrawal and evacuation estimates for Korea",
+   "badge": "이 문서철의 전문",
+   "doc": "D041"
+  },
+  {
+   "term": "WARX 94729",
+   "alias": [
+    "W.A.R.X. 94729",
+    "WARX94729"
+   ],
+   "title": "WARX 94729 — CINCFE에 WARX 94049 관련 논평 요청",
+   "body": "Request for CINCFE comments on WARX 94049",
+   "badge": "이 문서철의 전문",
+   "doc": "D037"
+  },
+  {
+   "term": "WARX 96766",
+   "alias": [
+    "W.A.R.X. 96766",
+    "WARX96766"
+   ],
+   "title": "WARX 96766 — 남조선 경비대 증강이 제24군단 장비에 미칠 영향 및 향후 군사원조 입법을 위한 T/O&E 자료 요청",
+   "body": "Impact of Constabulary expansion on XXIV Corps equipment, and request for T/O&E data for future military aid legislation",
+   "badge": "이 문서철의 전문",
+   "doc": "D022"
+  },
+  {
+   "term": "WX 90136",
+   "alias": [
+    "W.X. 90136",
+    "WX90136"
+   ],
+   "title": "WX 90136 — 향후 대(對)한국 정책 및 주한미군 철수 계획에 관한 견해 요청",
+   "body": "Request for views on future Korea policy and withdrawal planning",
+   "badge": "이 문서철의 전문",
+   "doc": "D042"
+  },
+  {
+   "term": "WX 94669",
+   "alias": [
+    "W.X. 94669",
+    "WX94669"
+   ],
+   "title": "WX 94669 — 소련이 유엔 위원단의 북한 진입을 거부할 경우 남한 단독 선거에 관한 일방적 발표를 승인",
+   "body": "Authorizing unilateral announcement on South Korea elections if UN Commission blocked by Soviets",
+   "badge": "이 문서철의 전문",
+   "doc": "D005"
+  },
+  {
+   "term": "WX 95935",
+   "alias": [
+    "W.X. 95935",
+    "WX95935"
+   ],
+   "title": "WX 95935 — 주한미군 철수 계획 기준 및 조선 경비대 탄약 유지 문제",
+   "body": "Planning basis for withdrawal and ammunition sustainment for Korean Constabulary",
+   "badge": "이 문서철의 전문",
+   "doc": "D025",
+   "points": [
+    "같은 번호가 붙은 문서: D025 · D026"
+   ]
+  },
+  {
+   "term": "WX 97866",
+   "alias": [
+    "W.X. 97866",
+    "WX97866"
+   ],
+   "title": "WX 97866 — 남한 경비대 5만 명 증강 승인",
+   "body": "Augmentation of South Korean Constabulary to 50,000",
+   "badge": "이 문서철의 전문",
+   "doc": "D014"
+  },
+  {
+   "term": "WX 97877",
+   "alias": [
+    "W.X. 97877",
+    "WX97877"
+   ],
+   "title": "WX 97877 — 한국 내 군인 가족 이송 종료",
+   "body": "Termination of Dependents Shipment to Korea",
+   "badge": "이 문서철의 전문",
+   "doc": "D002"
+  },
+  {
+   "term": "ZGBI 502",
+   "alias": [
+    "Z.G.B.I. 502",
+    "ZGBI502"
+   ],
+   "title": "ZGBI 502 — 남조선 국방경비대 관련 보도자료 배포 권한 요청",
+   "body": "Request for authority to issue a press statement about the South Korean Constabulary",
+   "badge": "이 문서철의 전문",
+   "doc": "D010"
+  },
+  {
+   "term": "ZGCG 1201",
+   "alias": [
+    "Z.G.C.G. 1201",
+    "ZGCG1201"
+   ],
+   "title": "ZGCG 1201 — 소련의 철수 제안 분석: 선전 목적, 한국 내 반응, 그리고 남한군 창설 결정 필요성",
+   "body": "Soviet withdrawal proposal analysis: propaganda aims, Korean reactions, and need for South Korean army decision",
+   "badge": "이 문서철의 전문",
+   "doc": "D045"
+  },
+  {
+   "term": "ZGCG 1396",
+   "alias": [
+    "Z.G.C.G. 1396",
+    "ZGCG1396"
+   ],
+   "title": "ZGCG 1396 — 주한미군사령관의 철수, 남한 경비대 창설 및 경제·정치 계획에 관한 견해",
+   "body": "CG USAFIK's views on withdrawal, South Korean security force, and economic/political planning",
+   "badge": "이 문서철의 전문",
+   "doc": "D043"
+  },
+  {
+   "term": "ZGCG 1497",
+   "alias": [
+    "Z.G.C.G. 1497",
+    "ZGCG1497"
+   ],
+   "title": "ZGCG 1497 — 남조선군 고문단 및 군수지원부대 편성",
+   "body": "Organization of South Korean Army advisory group and its logistic support units",
+   "badge": "이 문서철의 전문",
+   "doc": "D039"
+  },
+  {
+   "term": "ZGCG 85",
+   "alias": [
+    "Z.G.C.G. 85",
+    "ZGCG85"
+   ],
+   "title": "ZGCG 85 — WX 94049에 대한 회신으로 주한미군 철수, 경제 원조, 및 가족 철수에 관한 USAFIK 의견",
+   "body": "USAFIK comments on troop withdrawal, economy, and dependents in reply to WX 94049",
+   "badge": "이 문서철의 전문",
+   "doc": "D003"
+  },
+  {
+   "term": "ZGCT 1401",
+   "alias": [
+    "Z.G.C.T. 1401",
+    "ZGCT1401"
+   ],
+   "title": "ZGCT 1401 — 미국 무기의 남조선 경비대 및 경찰 지급 계획",
+   "body": "Issue of US weapons to South Korean Constabulary and National Police",
+   "badge": "이 문서철의 전문",
+   "doc": "D048"
+  },
+  {
+   "term": "ZGCT 1472",
+   "alias": [
+    "Z.G.C.T. 1472",
+    "ZGCT1472"
+   ],
+   "title": "ZGCT 1472 — 남한군: 24군단의 T/E 장비 현황 및 철수 후 군사고문단 구성(안)",
+   "body": "South Korean Army: T/E equipment for XXIV Corps and advisory group composition",
+   "badge": "이 문서철의 전문",
+   "doc": "D033"
+  },
+  {
+   "term": "ZGCT 252",
+   "alias": [
+    "Z.G.C.T. 252",
+    "ZGCT252"
+   ],
+   "title": "ZGCT 252 — 주한미군사령부, 한국 경비대 탄약 소요량 산정 및 재고 부족분 보고",
+   "body": "Ammunition requirements for Korean Constabulary: shortages from USAFIK stocks",
+   "badge": "이 문서철의 전문",
+   "doc": "D023"
+  },
+  {
+   "term": "ZGCT 74",
+   "alias": [
+    "Z.G.C.T. 74",
+    "ZGCT74"
+   ],
+   "title": "ZGCT 74 — 남조선 경비대 5만 명 증강 권고 및 단계적 증강 계획",
+   "body": "Recommendation to Double South Korean Constabulary to 50,000 Men & Phased Augmentation Plan",
+   "badge": "이 문서철의 전문",
+   "doc": "D029"
+  }
+ ]
+}

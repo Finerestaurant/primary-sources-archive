@@ -1,0 +1,41 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex 1: Ordnance Maintenance School and Quartermaster School curricula",
+ "subject_ko": "별지 1: 병기정비학교 및 병참학교 교육과정",
+ "en": "[[page 0142]]\nDECLASSIFIED\nAuthority NND 886527\nTOP SECRET\n\nANNEX # 1\nOrdnance Maintenance School\n\n1. Purpose:\n   To provide instruction for selected officers in Motor Transport and Motor Vehicle Maintenance of vehicles common to all arms.\n\n2. Scope:\n   a. Preventive maintenance.\n   b. Use of tools.\n   c. Welding.\n   d. Trouble shooting.\n   e. Operations and maintenance of vehicles.\n   f. Field expedients.\n   g. Administration.\n   h. Driver selection and training.\n   i. Loading of vehicles.\n   j. Shop procedure and inspections.\n   k. Maintenance and repair of weapons and instruments.\n\n3. Prerequisites:\n   Officer to have a desire to attend course. Should have current or contemplated assignment as maintenance officer.\n\n4. General:\n   a. Location: Ascom City\n   b. Class Capacity: 60 students\n   c. Duration of course: 240 hours (6 weeks)\n   d. Instructors: 5 U. S. officers\n                    15 U. S. enlisted men\n   e. Upon completion of course, students will perform on-the-job training in Ordnance units.\n\nTOP SECRET\n\n[[page 0143]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nANNEX #1\nQuartermaster School\n\n1. Purpose:\n   To provide instruction for officers in the responsibilities and duties in Quartermaster units.\n\n2. Scope:\n   a. Components of the ration. (Korean)\n   b. Operation of Depots.\n   c. Operation of railheads.\n   d. Classes of supply. (Korean)\n   e. Administration.\n   f. Upon completion of course, students will perform on-the-job training in the QM Depots.\n\n3. Prerequisites:\n   Officers assigned to Quartermaster units.\n\n4. General:\n   a. Location of school: Ascom City\n   b. Class capacity: 60 students\n   c. Duration of courses: 240 hours (6 weeks)\n   d. Instructors: 5 U. S. officers\n                    10 U. S. enlisted men\n\nTOP SECRET",
+ "ko": "[[면 0142]]\n기밀해제\n권한 NND 886527\n2급비밀\n\n별지 # 1\n병기정비학교(Ordnance Maintenance School)\n\n1. 목적:\n   전 병과에서 공통으로 사용하는 차량의 차량수송 및 차량정비에 관한 교육을 선발된 장교들에게 제공한다.\n\n2. 범위:\n   가. 예방정비.\n   나. 공구 사용법.\n   다. 용접.\n   라. 고장 진단.\n   마. 차량 운용 및 정비.\n   바. 야전 응급조치.\n   사. 행정.\n   아. 운전병 선발 및 훈련.\n   자. 차량 적재.\n   차. 정비공장 절차 및 검열.\n   카. 화기 및 장비 정비 및 수리.\n\n3. 자격요건:\n   본 과정에 참석하고자 하는 장교. 현재 정비장교로 보직되어 있거나 보직이 예정된 자.\n\n4. 일반사항:\n   가. 위치: 아스컴 시(Ascom City)\n   나. 교육정원: 60명\n   다. 교육기간: 240시간 (6주)\n   라. 교관: 미군 장교 5명\n            미군 사병 15명\n   마. 과정 수료 후, 학생들은 병기부대에서 현장실습(OJT)을 실시한다.\n\n2급비밀\n\n[[면 0143]]\n기밀해제\n권한 NND886527\n2급비밀\n\n별지 #1\n병참학교(Quartermaster School)\n\n1. 목적:\n   병참부대의 책임 및 임무에 관한 교육을 장교들에게 제공한다.\n\n2. 범위:\n   가. 식량 구성품. (한국식)\n   나. 보급창 운영.\n   다. 철도종착역 운영.\n   라. 보급품 등급. (한국식)\n   마. 행정.\n   바. 과정 수료 후, 학생들은 병참보급창에서 현장실습(OJT)을 실시한다.\n\n3. 자격요건:\n   병참부대에 배속된 장교.\n\n4. 일반사항:\n   가. 학교 위치: 아스컴 시(Ascom City)\n   나. 교육정원: 60명\n   다. 교육기간: 240시간 (6주)\n   라. 교관: 미군 장교 5명\n            미군 사병 10명\n\n2급비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Ascom City"
+  ],
+  "units": [
+   "Ordnance Maintenance School",
+   "Quartermaster School"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 장교 교육을 위한 병기정비학교 및 병참학교의 세부 교육과정(안)을 별지로 제시하고 있다.",
+  "두 학교 모두 아스컴 시에 위치하며, 각각 60명 정원에 6주(240시간) 과정으로 계획되었다.",
+  "병기정비 과정은 차량 정비와 운용, 공구 사용, 용접 등을 포함하며 수료 후 병기부대 OJT가 뒤따른다.",
+  "병참 과정은 한국식 식량 및 보급 체계를 포함하는 행정 및 보급창 운용 교육을 제공한다."
+ ],
+ "confidence": "high",
+ "notes": "The date 1945-01-01 provided in the context appears to be a placeholder or error, as the content concerns the establishment of a South Korean Army and US withdrawal (1947-1948). The school locations mention 'Ascom City', likely referring to the ASCOM City area (Incheon/Bupyeong).",
+ "doc_id": "D034",
+ "chunk": 9,
+ "of": 46,
+ "pages": [
+  "0142",
+  "0143"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

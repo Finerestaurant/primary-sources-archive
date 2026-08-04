@@ -1,0 +1,43 @@
+{
+ "doc_type": "cable",
+ "date": "1947-11-23",
+ "from": "CG XXIV CORPS",
+ "to": "CINCFE",
+ "info": "WAR (CSGPO)",
+ "msg_nr": "ZGCT 1401",
+ "classification": "TOP SECRET",
+ "subject": "Issue of US weapons to South Korean Constabulary and National Police",
+ "subject_ko": "미국 무기의 남조선 경비대 및 경찰 지급 계획",
+ "en": "[[page 0306]]\nDECLASSIFIED\nAuthority NND8X6527\n\nFAR EAST COMMAND\nGENERAL HEADQUARTERS, U.S. ARMY FORCES, PACIFIC\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\n\nTOP SECRET\n\nROUTINE\n\n23 Nov 47\n\nFROM : CG XXIV CORPS\nTO : CINCFE\nINFO : WAR (CSGPO)\nNR : ZGCT 1401\n\nThis radio in 3 parts:\n\nPart 1.\nIssue of US equipment to South Korean Constabulary.\nReurad CX 56612 (100645/z). It is contemplated that US equipment will be issued to the South Korean Constabulary on a gradual basis in a routine manner beginning immediately without publicity.\n\nb. Sufficient weapons in excess of XXIV Corps normal replacement requirements through 31 Dec 48 are available except follows: Rifles M-1; 3,038. Carbines; 2,102.\n\nPart 2.\nIssue of US equipment to National Korean Police.\nThe National Police at present have been issued US weapons as follows: 18,986 carbines and 500 pistols caliber .45. remainder of the police are issued Japanese weapons. Due to deterioration, lack of maintenance and supply facilities, and provisions for resupply of Japanese ammunition, it is desired to completely arm the National Police with US weapons. To accomplish this the following additional US weapons will be required: Carbines: 8,125.\n\nPart 3.\nIn arriving at the additional requirements of weapons to be furnished from sources outside of Korea, the stocks of weapons held by Eighth Army for Korea were taken into consideration as assets available to XXIV Corps. Requisitions for the weapons held by Eighth Army for XXIV Corps are now being prepared for submission to Eighth Army.\n\nACTION : G-3\n\nINFORMATION : COMMANDER IN CHIEF, CHIEF OF STAFF, G-2, G-4\n\nROUTINE 230148\n66273\n\n\"Paraphrase not required prior to transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.\"\n\nTOP SECRET correspondence",
+ "ko": "[[면 0306]]\n기밀해제\n권한 NND8X6527\n\n극동군 사령부\n미 육군 태평양 지역 총사령부\n인사참모부\n전문 통신 센터\n\n일급비밀(TOP SECRET)\n\n통상(Routine)\n\n1947년 11월 23일\n\n발신: 제24군단장\n수신: 극동군 총사령관(CINCFE)\n참조: 전쟁부(CSGPO)\n전문번호: ZGCT 1401\n\n본 전문은 세 부분으로 구성됨:\n\n제1부.\n남조선 경비대에 대한 미국 장비 지급.\n회신 전문 CX 56612 (100645/z). 미국 장비는 공표 없이 즉시 통상적인 방식으로 점진적으로 남조선 경비대에 지급될 예정임.\n\nb. 1948년 12월 31일까지 제24군단의 정상 교체 소요를 초과하는 충분한 무기가 다음을 제외하고 가용함: M-1 소총 3,038정, 카빈 소총 2,102정.\n\n제2부.\n대한 경찰에 대한 미국 장비 지급.\n현재 경찰에는 다음과 같이 미군 무기가 지급되어 있음: 카빈 소총 18,986정 및 구경 .45 권총 500정. 나머지 경찰은 일본제 무기를 지급받았음. 노후화, 정비 및 보급 시설 부족, 일본제 탄약 재보급 규정으로 인해, 경찰을 전면 미국 무기로 무장시키는 것이 바람직함. 이를 위해 다음 미국제 무기가 추가로 소요됨: 카빈 소총: 8,125정.\n\n제3부.\n한국 외부에서 제공될 추가 무기 소요를 산정함에 있어 주한 미8군이 보유한 한국용 무기 재고를 제24군단의 가용 자산으로 고려하였음. 제24군단을 위해 미8군이 보유 중인 무기에 대한 청구서를 미8군에 제출하기 위해 현재 작성 중임.\n\n조치: G-3\n\n정보 배포: 총사령관, 참모장, G-2, G-4\n\n통상 230148\n66273\n\n\"본 전문의 평문 원문 전송은 동일 등급의 왕복 서신에 대해 육군부가 1946년 3월 6일자 육군 규정 380-5, 16-C, 18-E, 53-A, 53-D (1) (2) (3) 및 60-A (1) (2) (3) (4)항의 규정에 의거하여 승인하였으므로 전송 전 군사 의역이 요구되지 않음.\"\n\n일급비밀 서신",
+ "entities": {
+  "people": [],
+  "places": [
+   "Korea",
+   "South Korea"
+  ],
+  "units": [
+   "XXIV Corps",
+   "Eighth Army",
+   "South Korean Constabulary",
+   "National Korean Police",
+   "War Department"
+  ]
+ },
+ "key_points_ko": [
+  "주한 미 제24군단은 남조선 경비대에 대해 1948년 말까지 소총(M-1) 3,038정, 카빈 소총 2,102정이 부족하지만, 여타 장비는 가용 자산 내에서 즉시 지급을 개시할 계획이다.",
+  "대한 경찰은 기존 지급된 미군 무기 외에 추가로 카빈 소총 8,125정이 필요하며, 노후된 일본제 무기를 완전히 교체하려 한다.",
+  "경찰 및 경비대의 무기 소요량 산정 시 주일 미8군의 재고를 제24군단의 가용 자산으로 포함하여 청구를 준비 중이다."
+ ],
+ "confidence": "high",
+ "notes": "Original OCR contained numerous typographical errors, especially in the bottom boilerplate text, which were reconstructed based on common phrasing in similar military cables.",
+ "doc_id": "D048",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0306"
+ ],
+ "section": null,
+ "subject_id": "D2",
+ "theme": "D. 장래 정책·철군"
+}

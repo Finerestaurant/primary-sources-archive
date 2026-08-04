@@ -1,0 +1,48 @@
+{
+ "doc_type": "cable",
+ "date": "1948-04-20",
+ "from": "CINCFE",
+ "to": "DEPT OF ARMY; CG USAFIK",
+ "info": null,
+ "msg_nr": "CX 60054",
+ "classification": "TOP SECRET",
+ "subject": "CINCFE confirms augmentation and equipping of South Korean Constabulary, confirms oral directive",
+ "subject_ko": "CINCFE, 남조선 경비대 증강 및 장비 지급 구두 지시 확인",
+ "en": "[[page 0032]]\nDECLASSIFIED\nAuthority NND 886527\n\nGENERAL HEADQUARTERS FAR EAST COMMAND\n\nOUTGOING MESSAGE\n\n20 April 1948\n\nFROM : CINCFE\nTO : DEPT OF ARMY • ROUTINE\n CG USAFIK • ROUTINE\n\nBLP/sib\n\nSubject is augmentation and equipping of South Korean Constabulary, reference WX 97866 dtd 18 March. This radio in two parts.\n\nPart I. For CSGPO. Reference your memo of transmittal of JCS 1483/51, no written implementing directive has been issued by CINCFE. Recruiting action was initiated by CG, USAFIK upon receipt of WX 97866; instructions on issuance of equipment were delivered to USAFIK Staff during Tokyo conference, and are confirmed by Part II.\n\nPart II. For CG, USAFIK. This confirms oral directive delivered to Chief of Staff, USAFIK 31 March. Initially, issue on memorandum receipt of supplies and equipment to augmented Constabulary will be limited to that available in Korea in excess of T/O&E and 15 Nov 48 disposition level for XXIV Corps authorized troop basis. Supplies and equipment now in the hands of XXIV Corps troops in excess of that required for actual troop strength or 30,000, whichever is the greater, will for planning purposes be considered available for issue upon receipt directive to begin withdrawal of XXIV Corps from Korea.\n\nOFFICIAL: APPROVED:\nR. M. LEVY WARD H. MARIS\nAdjutant Brigadier General, General Staff Corps\n Assistant Chief of Staff, G-3\n\nAPPROVED BY C/S 4/20/48\n\nCopies to:\n97-72- RETURN COPY\n75- (3) (4), Top Secret\n\nCX 60054",
+ "ko": "[[면 0032]]\n비밀해제\n해제권한 NND 886527\n\n극동사령부\n\n발신전문\n\n1948년 4월 20일\n\n발신: CINCFE\n수신: 육군부 • 통상\n 주한미군사령관(CG USAFIK) • 통상\n\nBLP/sib\n\n제목: 남조선 경비대 증강 및 장비 지급 건, 3월 18일자 WX 97866 참조. 본 전문은 두 부분으로 구성됨.\n\n제1부. CSGPO 귀속. JCS 1483/51 전달 메모와 관련하여, CINCFE가 발행한 서면 시행 지시는 없음. 모집 조치는 주한미군사령관이 WX 97866 수신 즉시 개시하였으며, 장비 지급에 관한 지침은 도쿄 회의 시 주한미군사령부 참모진에게 전달되었고 제2부로 확정함.\n\n제2부. 주한미군사령관 귀속. 3월 31일 주한미군사령부 참모장에게 전달된 구두 지시를 본 전문으로 확정함. 초기에는 증강된 경비대에 대한 보급품 및 장비를 각서 수령증을 통해 지급하되, 제24군단(XXIV Corps) 승인 병력 기준상 1948년 11월 15일 철수 배치 수준(T/O&E 및 15 Nov 48 disposition level)을 초과하여 한국 내에서 가용한 물량으로 제한함. 현재 제24군단 장병이 보유 중인 보급품 및 장비 중 실제 병력 유지에 필요한 물량 또는 30,000명분 중 더 큰 수치를 초과하는 물량은 기획 목적상, 한국으로부터 제24군단의 철수 개시 지시가 접수되는 대로 지급 가능한 물량으로 간주함.\n\n공식: 승인:\nR. M. 레비 준장 WARD H. MARIS\n부관 준장, 육군 참모부\n G-3 부참모장\n\n참모장 승인 1948년 4월 20일\n\n배포처:\n97-72- 반송본\n75- (3) (4), 일급비밀\n\nCX 60054",
+ "entities": {
+  "people": [
+   "R. M. Levy",
+   "Ward H. Maris"
+  ],
+  "places": [
+   "한국",
+   "도쿄"
+  ],
+  "units": [
+   "GHQ/FEC",
+   "육군부",
+   "USAFIK",
+   "XXIV Corps",
+   "JCS",
+   "남조선 경비대 (South Korean Constabulary)",
+   "CSGPO"
+  ]
+ },
+ "key_points_ko": [
+  "CINCFE는 JCS 1483/51에 대한 서면 시행 지시를 발하지 않았으며, USAFIK가 직접 모집을 개시하였음을 CSGPO에 통보했다.",
+  "증강된 경비대에 대한 초기 장비 지급은 1948년 11월 15일 철수 계획을 초과하는 한국 내 잉여 물자로 제한된다.",
+  "제24군단이 실제 병력 유지 이상으로 보유한 장비는 한국 철수 개시 지시 후 지급 가능한 물량으로 간주된다."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D011",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0032"
+ ],
+ "section": null,
+ "subject_id": "D3",
+ "theme": "D. 장래 정책·철군"
+}

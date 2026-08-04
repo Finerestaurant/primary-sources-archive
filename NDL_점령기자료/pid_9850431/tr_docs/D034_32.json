@@ -1,0 +1,43 @@
+{
+ "doc_type": "table",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "T/O&E excerpts for Medical, Engineer, Cavalry Reconnaissance, and Division Artillery units (1945)",
+ "subject_ko": "의무, 공병, 기계화 기병 정찰 및 사단 포병 부대의 T/O&E(편제 및 장비표) 발췌 (1945년)",
+ "en": "[[page 0219]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nMedical Battalion T/O&E\n320.6 / changes 1, 2, & 3/change dated 2 Aug 45 / 309.45\nOrganized As Follows:\nOFFICERS ..... 34\nWARRANT OFFICERS ..... 3\nENLISTED MEN ..... 408\nAGGREGATE ..... 445\nAccomplished By:\n[number table rows with symbols, mostly illegible]\nTOP SECRET\n\n[[page 0220]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nEngineer Combat Battalion\nT/O&E 5-15 / changes 1, 2 & 3 dated 2 Aug 45, 2 Jun 45, 2 Nov 45\nOrganized as follows:\nOFFICERS ..... 29\nWARRANT OFFICERS ..... 3\nENLISTED MEN ..... 605\nAGGREGATE ..... 637\n[number table rows with symbols, mostly illegible, some numbers visible: 10, 13, 14, 16, 17, 18, 22, 24, 25, 26, 27]\nTOP SECRET\n\n[[page 0221]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nMechanized Cavalry Reconnaissance Troop\nT/O&E 2-27 / 16 Jun 45\nOrganized As Follows:\nOFFICERS ..... 6\nWARRANT OFFICERS ..... [illegible]\nENLISTED MEN ..... 143\nAGGREGATE ..... 149\n[number table rows with symbols, mostly illegible]\nTOP SECRET\n\n[[page 0222]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nDivision Artillery, Motorized Infantry Division\nT/O&E 6-10-05 / modified 27 Sept 44 w/change 2 dated 2 June 45\nOrganized As Follows:\nOFFICERS ..... 119\nWARRANT OFFICERS ..... 7\nENLISTED MEN ..... 1524\nAGGREGATE ..... 1650\nAccomplished by deletion of the 155mm Howitzer Battalion\nand proportionate reduction of the medical detachment.\n[number table rows with symbols, partially legible with numbers:\nrow 16: 80\nrow 17: 170: 3\nrow 18: [illegible]\nrow 19: [illegible]\nrow 20: 126\nrow 21: 225.: 2 232\nrow 22: 346 352\nrow 23: 422.: 10 432\nrow 24: (80) ... (5) ... (85)]\nTOP SECRET",
+ "ko": "[[면 0219]]\n비밀해제\n해제 권한: NND886527\n2급 비밀 (TOP SECRET)\n편제\n의무대대 편제 및 장비표 (T/O&E)\n320.6 / 변경 1, 2, 3 / 1945년 8월 2일자 변경 / 309.45\n편제는 다음과 같음:\n장교 ..... 34\n준사관 ..... 3\n병 ..... 408\n총계 ..... 445\n편성 방법:\n[기호와 숫자로 된 표 행들, 대부분 판독불가]\n2급 비밀\n\n[[면 0220]]\n비밀해제\n해제 권한: NND886527\n2급 비밀\n편제\n공병 전투 대대\n편제 및 장비표 5-15 / 변경 1, 2, 3 (1945년 8월 2일, 1945년 6월 2일, 1945년 11월 2일자)\n편제는 다음과 같음:\n장교 ..... 29\n준사관 ..... 3\n병 ..... 605\n총계 ..... 637\n[기호와 숫자로 된 표 행들, 대부분 판독불가, 일부 숫자 확인됨: 10, 13, 14, 16, 17, 18, 22, 24, 25, 26, 27]\n2급 비밀\n\n[[면 0221]]\n비밀해제\n해제 권한: NND886527\n2급 비밀\n편제\n기계화 기병 정찰 중대\n편제 및 장비표 2-27 / 1945년 6월 16일\n편제는 다음과 같음:\n장교 ..... 6\n준사관 ..... [판독불가]\n병 ..... 143\n총계 ..... 149\n[기호와 숫자로 된 표 행들, 대부분 판독불가]\n2급 비밀\n\n[[면 0222]]\n비밀해제\n해제 권한: NND886527\n2급 비밀\n편제\n차량화 보병 사단 포병대\n편제 및 장비표 6-10-05 / 1944년 9월 27일 수정, 1945년 6월 2일자 변경 제2호 포함\n편제는 다음과 같음:\n장교 ..... 119\n준사관 ..... 7\n병 ..... 1524\n총계 ..... 1650\n155mm 곡사포 대대의 삭제 및 그에 비례한 의무 분견대의 축소를 통해 편성됨.\n[기호와 숫자로 된 표 행들, 부분적으로 판독 가능:\n행 16: 80\n행 17: 170: 3\n행 18: [판독불가]\n행 19: [판독불가]\n행 20: 126\n행 21: 225.: 2 232\n행 22: 346 352\n행 23: 422.: 10 432\n행 24: (80) ... (5) ... (85)]\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "Medical Battalion",
+   "Engineer Combat Battalion",
+   "Mechanized Cavalry Reconnaissance Troop",
+   "Division Artillery, Motorized Infantry Division",
+   "155mm Howitzer Battalion"
+  ]
+ },
+ "key_points_ko": [
+  "1945년 미 육군 편제 및 장비표(T/O&E)에 따른 의무, 공병, 기병 정찰 및 사단 포병 부대의 상세 병력 구성표.",
+  "각 부대의 장교, 준사관, 사병 및 총 병력 수치가 기록되어 있으나, 표의 세부 항목은 판독이 불가능한 상태.",
+  "차량화 보병 사단 포병대는 155mm 곡사포 대대를 삭제하고 의무 분견대를 축소하는 방식으로 편성 완료."
+ ],
+ "confidence": "high",
+ "notes": "문서에 나타난 1945년 편제표들은 '한국 여행을 위한 한국군 관련 비망록'이라는 이 문서의 전체 주제와 시기적으로 맞지 않아 보임. 스캔된 페이지 순서가 뒤섞였거나, 이 조각은 배경 참고자료로 1945년 미군 T/O&E 표를 그대로 발췌한 것으로 추정됨.",
+ "doc_id": "D034",
+ "chunk": 32,
+ "of": 46,
+ "pages": [
+  "0219",
+  "0220",
+  "0221",
+  "0222"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

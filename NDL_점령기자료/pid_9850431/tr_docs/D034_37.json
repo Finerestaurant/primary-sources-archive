@@ -1,0 +1,41 @@
+{
+ "doc_type": "table",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "T/O&E Tables for South Korean Army Organization Planning",
+ "subject_ko": "남조선 국군 편성 계획을 위한 T/O&E 표",
+ "en": "[[page 0239]]\nDECLASSIFIED\nAuthority NND 846527\nTOP SECRET\nORGANIZATION\nInfantry And Engineer Company (In Country matériel)\nT/O & E 7-85 (Inf. Regt. HHC) w/changes 2-4, dated 30 Jun 44 & 32.700 45\nOrganized as follows:\nOFFICERS\nWARRANT OFFICERS\nENLISTED MEN\nAGGREGATE\nAccomplished by deleting Col 9, 10 and 12 (Anti-Tank Platoon) and 5\nLine 66 Col 5.\n[Table rows 1-27]\nTOP SECRET\n\n[[page 0240]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nT/O & E 7-139-05 dated 26 Feb 44 /changes 2 & 3 dated 20 Jun 44 & 29 Jan 45\nOrganized as follows:\nOFFICERS ........ 7\nENLISTED MEN ... 352\n[Table rows 1-27]\nTOP SECRET\n\n[[page 0241]]\nDECLASSIFIED\nAuthority NND 816527\nTOP SECRET\n[illegible]\nT/O & E [illegible] dated [illegible]\nOFFICERS ... [illegible]\n[Table rows 1-27]\nTOP SECRET\n\n[[page 0242]]\nDECLASSIFIED\nAuthority NND8X6527\nTOP SECRET\nORGANIZATION\nT/O & E 7-32-08 dated 26 Feb 44 w/changes 1 & 2 dated 29 Aug 44 & 30 Jun 44\nOrganized as follows:\nOFFICERS [illegible]\nENLISTED MEN ... 002,09\nTOTAL ....... 000.114\n[Table rows 1-27]\nTOP SECRET",
+ "ko": "[[면 0239]]\n비밀해제\n해제권한 NND 846527\n일급비밀\n편성\n현지 자재 사용 보병 및 공병 중대\nT/O&E 7-85 (보병 연대 본부중대) (변경사항 2-4 포함, 1944년 6월 30일 및 1945년 32.700)\n편성 내용:\n장교\n준사관\n사병\n총계\n9, 10, 12열(대전차 소대) 및 5열을 삭제하여 완성\n66행 5열.\n[도표 1~27행 — 수치는 영문 원문 참조]\n일급비밀\n\n[[면 0240]]\n비밀해제\n해제권한 NND886527\n일급비밀\n편성\nT/O&E 7-139-05 (1944년 2월 26일 제정), 변경사항 2 및 3 (1944년 6월 20일 및 1945년 1월 29일)\n편성 내용:\n장교 ........ 7\n사병 ... 352\n[도표 1~27행 — 수치는 영문 원문 참조]\n일급비밀\n\n[[면 0241]]\n비밀해제\n해제권한 NND 816527\n일급비밀\n[판독불가]\nT/O&E [판독불가] (제정일 [판독불가])\n장교 ... [판독불가]\n[도표 1~27행 — 수치는 영문 원문 참조]\n일급비밀\n\n[[면 0242]]\n비밀해제\n해제권한 NND8X6527\n일급비밀\n편성\nT/O&E 7-32-08 (1944년 2월 26일 제정), 변경사항 1 및 2 (1944년 8월 29일 및 1944년 6월 30일)\n편성 내용:\n장교 [판독불가]\n사병 ... 002,09\n총계 ....... 000,114\n[도표 1~27행 — 수치는 영문 원문 참조]\n일급비밀",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "Infantry Regiment Headquarters and Headquarters Company (HHC)",
+   "Anti-Tank Platoon",
+   "Engineer Company"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 편성을 위해 1944년~1945년 제정된 미 육군 T/O&E 표를 참조 자료로 활용하고 있다.",
+  "보병 및 공병 부대 편성표와 특정 직능 소대(대전차 소대) 삭제에 따른 조정 내역을 제시하고 있다.",
+  "인쇄 상태가 불량하여 대부분의 세부 수치는 판독이 불가능하며, 주요 항목명과 날짜 일부만 식별된다."
+ ],
+ "confidence": "low",
+ "notes": "OCR 출력이 극도로 손상되어 대부분의 텍스트를 재구성하지 못했습니다. 각 페이지의 도표 행은 판독 불가로 영문 원문 참조로 대체했습니다. 발신인, 수신인, 날짜 등 문맥 정보는 이 조각에서 전혀 식별되지 않습니다.",
+ "doc_id": "D034",
+ "chunk": 37,
+ "of": 46,
+ "pages": [
+  "0239",
+  "0240",
+  "0241",
+  "0242"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

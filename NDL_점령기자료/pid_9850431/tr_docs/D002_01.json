@@ -1,0 +1,45 @@
+{
+ "doc_type": "cable",
+ "date": "1948-03-19",
+ "from": "CSGPO",
+ "to": "CINCFE",
+ "info": "CO USAFIK",
+ "msg_nr": "WX 97877",
+ "classification": "TOP SECRET",
+ "subject": "Termination of Dependents Shipment to Korea",
+ "subject_ko": "한국 내 군인 가족 이송 종료",
+ "en": "[[page 0003]]\nDECLASSIFIED\nAuthority NND 816527\n\nFAR EAST COMMAND\nGENERAL HEADQUARTERS, U.S. ARMY FORCES, PACIFIC\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\n\nINCOMING MESSAGE\n\nTOP SECRET\n\n19 Mar 48\n\nFROM : CSGPO\nTO : CINCFE\nINFO : CO USAFIK\nNR : WX 97877\n\n1. Shipment of dependents to Korea being terminated after 25 Mar sailing. Calls for 9 Apr sailing are being cancelled. Submit no further priority lists for Korea.\n\n2. No public announcement is planned here but following is agreed State-Army position as regards queries anticipated on this action: \"In light of United Nations Temporary Commission on Korea having taken action in regard to observing of a general election on 9 May looking to the formation of a government for Korea and eventual troop withdrawal it has been deemed advisable to terminate further dispatch of dependents to Korea owing to indeterminate future status of occupation forces as a result of UN action.\"\n\nNO SIG\n\nACTION : G-2\nINFORMATION: COMMANDER IN CHIEF, CHIEF OF STATE\n\nTO WAR PRO\n\nADDED DIST : G-2, G-3, G-4 (19 Mar 48)\n\nPRIORITY TOO: 182022Z\nMCN: 72903\n\nper para 51 I and 60 A \"Paraphrase not required (4) AR 380-5. Handle as TOP SECRET correspondence. Handling and transmission of literal plain text of this message as correspondence authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.\n\nTOP SECRET 5-3 FILE COPY NO. 16 of the same classification has been made.\n",
+ "ko": "[[면 0003]]\n기밀해제\n권한 NND 816527\n\n극동사령부\n미 육군 태평양 총사령부\n부관실\n무선 및 전보 센터\n\n수신 전문\n\n2급 비밀(TOP SECRET)\n\n48년 3월 19일\n\n발신: 육군부 참모총장실(CSGPO)\n수신: 극동군 총사령관(CINCFE)\n참조: 주한 미군 사령관(CO USAFIK)\n문서번호: WX 97877\n\n1. 한국으로의 군인 가족 이송은 3월 25일 출항분을 끝으로 종료됨. 4월 9일 출항 요청분은 취소 중임. 한국에 대한 더 이상의 우선순위 명단을 제출하지 말 것.\n\n2. 본부에서는 대외 발표를 계획하고 있지 않으나, 이번 조치와 관련하여 예상되는 질문에 대비한 국무부-육군부 합의 입장은 다음과 같음: \"5월 9일 한국 정부 수립 및 궁극적인 병력 철수를 목표로 하는 총선거 참관과 관련하여 유엔 한국임시위원단(UNTCOK)이 조치를 취함에 따라, 유엔 조치의 결과로 점령군의 향후 지위가 불확실해졌으므로 한국으로의 추가적인 가족 파견을 종료하는 것이 바람직하다고 판단되었다.\"\n\n서명 없음\n\n조치과: 정보참모부(G-2)\n정보배포: 총사령관, 참모장\n\n전쟁부(육군부)로 전문 발송 요망\n\n추가 배포: 정보참모부(G-2), 작전참모부(G-3), 군수참모부(G-4) (48년 3월 19일)\n\n우선순위 발신시간: 182022Z\n메시지 통제 번호(MCN): 72903\n\n문단 51 I 및 60 A에 의거 \"의역 불필요 (4) 육군규정 380-5. 2급 비밀(Top Secret) 문서로 취급할 것. 본 메시지의 축어적 평문을 서신으로 취급 및 전송하는 것은 1946년 3월 6일자 육군규정 380-5, 문단 16-C, 18-E, 53-A, 53-D (1) (2) (3) 및 60-A (1) (2) (3) (4)에 의거하여 육군부로부터 허가되었음.\n\n2급 비밀 5-3 파일 사본 번호 16이 동일 등급으로 제작되었음.\n",
+ "entities": {
+  "people": [],
+  "places": [
+   "Korea"
+  ],
+  "units": [
+   "CSGPO",
+   "CINCFE",
+   "USAFIK",
+   "War Department",
+   "G-2",
+   "G-3",
+   "G-4",
+   "UNTCOK"
+  ]
+ },
+ "key_points_ko": [
+  "미 육군부는 1948년 3월 25일 출항을 마지막으로 한국으로의 군인 가족 이송을 전면 중단하라고 극동군사령부에 지시했다.",
+  "가족 이송 중단의 공식 이유는 유엔 한국임시위원단(UNTCOK)의 5월 9일 총선거 참관 결정으로 주둔군의 장래 지위가 불확실해졌기 때문이다.",
+  "본 조치는 대외적으로 발표되지 않으나, 질문 시 사용할 국무부-육군부 합동 입장(성명)이 사전에 준비되었다."
+ ],
+ "confidence": "high",
+ "notes": "TOO '182022'에 Z가 누락됨(182022Z로 수정). OCR의 'CSGPO'는 육군부 참모총장실로 판단됨. 'WAR PRO' 및 'Tonderer'는 문맥상 각각 '전쟁부로 전문 발송' 및 '이관자'로 추정되나 원문 상태 유지.",
+ "doc_id": "D002",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0003"
+ ],
+ "section": null,
+ "subject_id": "D3",
+ "theme": "D. 장래 정책·철군"
+}

@@ -1,0 +1,46 @@
+{
+ "doc_type": "cable",
+ "date": "1945-11-04",
+ "from": "CINCAFPAC (MacArthur)",
+ "to": "CG USAFIK",
+ "info": null,
+ "msg_nr": null,
+ "classification": "SECRET",
+ "subject": "CINCAFPAC acknowledges CG USAFIK radio message and requests plan submission",
+ "subject_ko": "CINCAFPAC, CG USAFIK 무선 전문 접수 확인 및 계획 제출 요청",
+ "en": "[[page 0323]]\nDECLASSIFIED\nAuthority NND 846527\n\nSECRET\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES, PACIFIC\nSIGNAL CORPS MESSAGE\nGC-P SEO/ejd\nONL PRIORITY 4 November 1945\nFROM: CINCAFPAC\nTO: CG USAFIK\n\nAM IN GENERAL ACCORD WITH YOUR TARE FOX GEORGE CHARLIE GEORGE\nLo ONE THREE NINE DATED THREE NOVEMBER PD (CAX 54290) PLEASE\nPREPARE AND SUBMIT YOUR PLAN MACARTHUR\n\nACTION:\nJGA\n\nAPPROVED:\nB. M. FITCH\nBrigadier General, U.S. Army\nAdjutant General\n\nAPPROVED:\nUM GEORGE A. REIM\nfor W.E. CHAMBERS\nBrigadier General, G.S.C.\nAsst. Chief of Staff G-3\n\nCopies to:\nCommander-in-Chief\nChief of Staff\nG-2\nG-4\nOrd o\nC Govt Sect\nG-3 (Return)\n\nSECRET",
+ "ko": "[[면 0323]]\n기밀해제\n권한 NND 846527\n\n비밀(SECRET)\n총사령부\n미국 육군 태평양 부대\n통신대 전문\nGC-P SEO/ejd\nONL 우선순위 1945년 11월 4일\n발신: CINCAFPAC\n수신: CG USAFIK\n\n11월 3일자 귀관의 TARE FOX GEORGE CHARLIE GEORGE Lo 139호(CAX 54290)에 전반적으로 동의한다. 귀관의 계획을 준비하여 제출하기 바란다. 맥아더\n\n조치:\nJGA\n\n승인:\nB. M. 피치\n미 육군 준장\n부관\n\n승인:\nUM 조지 A. 레임\nW.E. 챔버스 대리\n준장, G.S.C.\n참모차장 G-3\n\n배포처:\n총사령관\n참모장\nG-2\nG-4\n병기과(Ord o)\nC 정부과(C Govt Sect)\nG-3 (회람용)\n\n비밀(SECRET)",
+ "entities": {
+  "people": [
+   "MACARTHUR",
+   "B. M. FITCH",
+   "GEORGE A. REIM",
+   "W.E. CHAMBERS"
+  ],
+  "places": [],
+  "units": [
+   "CINCAFPAC",
+   "CG USAFIK",
+   "G-2",
+   "G-4",
+   "G-3",
+   "Signal Corps"
+  ]
+ },
+ "key_points_ko": [
+  "맥아더 CINCAFPAC가 11월 3일자 USAFIK의 메시지(CAX 54290)에 동의함을 표명했다.",
+  "USAFIK에 대해 해당 메시지에 기반한 계획을 준비하여 제출할 것을 지시했다.",
+  "본 전문은 참모 조직(G-2, G-3, G-4)및 정부 관련 부서 등에 배포되었다."
+ ],
+ "confidence": "medium",
+ "notes": "'TARE FOX GEORGE CHARLIE GEORGE Lo'는 음성통신용 철자 부호로 TFGCG로 재구성됨. 원문의 존재하지 않는 약어 'G-Д'는 획이 잘못 판독되어 'G-4'의 시릴문자 오기로 추정되나, 한국어 번역에는 원문 주석을 반영하여 'G-4'로 기술함. 'C Govt Sect'는 'Civil Government Section'으로 재구성.",
+ "doc_id": "D053",
+ "chunk": 3,
+ "of": 3,
+ "pages": [
+  "0323"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

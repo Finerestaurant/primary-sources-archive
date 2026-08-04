@@ -1,0 +1,44 @@
+{
+ "doc_type": "cable",
+ "date": "1947-10-29",
+ "from": "WASHINGTON (WDGPO)",
+ "to": "CINCAFPAC (FOR MACARTHUR)",
+ "info": "COMMANDER-IN-CHIEF, CHIEF OF STAFF",
+ "msg_nr": "W 84240",
+ "classification": "TOP SECRET",
+ "subject": "Request for MacArthur's comments on Hodges message (C 66691) before WD takes action",
+ "subject_ko": "호지스 메시지(C 66691) 관련, 육군성 조치 전 맥아더의 의견 요청",
+ "en": "[[page 0338]]\nDECLASSIFIED\nAuthority NND886527\n\nGENERAL HEADQUARTERS, U.S. ARMY FORCES, PACIFIC\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\n\nINCOMING MESSAGE\n\nTOP SECRET\n\nFROM: WASHINGTON (WDGPO)\nTO: CINCAFPAC (FOR MACARTHUR)\nNR: W 84240\n\nReference C 66691. No action is being taken on General Hodges message passed to WD in your C 66691 dtd 28 Oct pending receipt of your comments and recommendations which are requested.\n\nNORSTAD\n\nACTION: G-3 Pla\nINFORMATION: COMMANDER-IN-CHIEF, CHIEF OF STAFF\n\nACTION COMPLETED\n\nBL DAT 1 Nov - 1235 hrs OHO. 30 OCT RECEIVED\nE/N TO C/S\n\nN BY OTTETTY\n24257 OPERATIONAL PRIORITY TOO: 292039Z\nMCN: YA 85/30\n\nTOP SECRET\n\nHandling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 380-5, 6 March 1946.\n\nCOPY NO. 1\nRouted Copy",
+ "ko": "[[면 0338]]\n비밀해제\n해제권한 NND886527\n\n미육군 태평양군 총사령부\n부관실\n무선·전보 중앙\n\n수신 전문\n\n2급 비밀\n\n발신: 워싱턴 (육군성 일반참모부)\n수신: 미극동육군총사령관 (맥아더 장군 귀하)\n전문번호: W 84240\n\n참조 C 66691. 귀부의 10월 28일자 C 66691호로 육군성에 전달된 호지스 장군의 메시지에 대해서는, 귀관의 의견 및 건의가 접수될 때까지 아무런 조치도 취하지 않고 있음을 통보함. 귀관의 의견 및 건의를 요청함.\n\n노스태드\n\n조치: G-3 기획\n정보: 총사령관, 참모총장\n\n조치완료\n\nBL DAT 11월 1일 - 12시 35분 OHO. 10월 30일 접수\nE/N to C/S\n\nN BY OTTETTY\n24257 작전우선 TOO: 292039Z\nMCN: YA 85/30\n\n2급 비밀\n\n본 전문의 직역 평문을 동일 등급의 문서로 취급 및 전달하는 것은 1946년 3월 6일자 단락 380-5의 규정에 따라 육군성에서 승인되었음.\n\n사본 번호 1\n회람용 사본",
+ "entities": {
+  "people": [
+   "NORSTAD",
+   "HODGES",
+   "MACARTHUR"
+  ],
+  "places": [
+   "WASHINGTON"
+  ],
+  "units": [
+   "WDGPO",
+   "CINCAFPAC",
+   "G-3 Pla"
+  ]
+ },
+ "key_points_ko": [
+  "호지스 장군이 보낸 메시지(C 66691)에 대해 워싱턴 육군성은 맥아더의 논평과 건의가 도착할 때까지 조치를 보류 중이다.",
+  "전문은 작전우선으로 발송되었으며, 노스태드 장군 명의로 맥아더 총사령관 앞으로 송부되었다.",
+  "해당 전문은 1946년자 육군성 훈령에 의거, 동일 등급 문서로 평문 취급 및 전달이 승인된 것이다."
+ ],
+ "confidence": "high",
+ "notes": "DOCID/TOO 복원: '322.' 줄은 해당 전문의 첫 문장 앞 별도 줄 번호로 보이나 문장 일부일 가능성도 있음. 전문 본문 맨 앞의 '322. Reference C 66691...' 그대로 유지. 'NORSTAD'는 노스태드 장군(서명자) 오탈자 아님. 'C 66691 dtd 28 oott'는 '28 Oct'의 OCR 오류로 수정함. 'BL DAT 1 Nov - 1235 hrs OHO. 30 OCT RECEIVED'에서 BL, OHO, E/N to C/S, N BY OTTETTY 등은 전문 송수신·기록 표식으로 보존.",
+ "doc_id": "D060",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0338"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

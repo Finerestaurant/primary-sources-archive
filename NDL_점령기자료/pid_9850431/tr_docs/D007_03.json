@@ -1,0 +1,73 @@
+{
+ "doc_type": "routing_slip",
+ "date": "1947-10-15",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "G-3 action completion memorandum on establishment of South Korean constabulary and equipment issue, with G-3 routing slip",
+ "subject_ko": "남한 경비대 창설 및 장비 지급에 관한 G-3 조치 완료 메모 및 G-3 문서 전달 전표",
+ "en": "[[page 0021]]\nDECLASSIFIED\nAuthority NND866527\nTOP SECRET\n\n(security authorized constabulary) was completed by OX 56612/10 Nov, which authorized CG USAFIK to issue equipment within specified limitations.\n\nAction on Part II of basic (issue of US equipment to pro-\n\nRECOMMEND: G-3 initial and dispatch attached C/L to C/S forwarding to Dir of P&O the information required by basic. G-3 forwarding (for approval and return to G-3 for dispatch) a letter of transmittal to accompany.\n\n5. COMPLETE CLOSE. This completes G-3 action on basic.\n\n[[page 0022]]\nDECLASSIFIED\nAuthority NND846527\n\nG-3 ROUTING SLIP 15 October 1947\n\nASST CHIEF OF STAFF, G-3\nBG W H Maris\n\nDEPUTY AC/S, G-3\nCol W C Stanton\n\nOperations\nCol E C Burkart\nLt Col C B Hammerle, Jr\nLt Col KC Haycraft\n\nEXECUTIVE\nMaj I F Gordon\n\nSituation & Reports\nCol P D Ginder\nLt Col J T Westermeier\n\nASST EXECUTIVE\nCapt H B Minch\n\nMaj C S Cumings\nRepatriation\n\nADMINISTRATION\nLt Col B I Anderson\nLt Col E O'Donohue\nCapt W J Young, Jr\nWOJG E I Haase\n\nTRAINING\nCol A M Parsons\n\nPLANS\nLt Col B D L Paige\nLt Col J B Yost\nLt Col J Tyler\nLt Col J T L Schwenk\n\nLt Col C H Coates\nLt Col R V Strauss\nLt Col W A Jennings\nMaj E I Atkins\nLt Col J I Bealke, Jr\nChief Clerk\n\nTROOP CONTROL\nTroop Basis Col R J Butchers\nPublications\nCol I H Ham\nLt Col R P Tarr, Jr\nCapt J E Kelleher\n\nOrganization & Equipment\nLt Col J I Pittman\nMaj R A Edwards\nMaj H Ilastro\n\nLt RE Meyers (WAC)\n\nFOR / Approval / Comment / Concurrence / Necessary Action / Signature / Info\nD / D / Ret to Adm / Dispatch / Journal Summary / Your File / File Adm / Person Concerned\n\nR / 0945",
+ "ko": "[[면 0021]]\n비밀해제\n해제권한 NND866527\n2급비밀\n\n(보안 승인된 경비대)는 1947년 11월 10일자 OX 56612호로 완료되었으며, 이는 CG USAFIK(주한미군사령관)이 특정 제한 범위 내에서 장비를 지급하도록 승인한 것이다.\n\n기본 계획 제2부(한국 경비대에 대한 미군 장비 지급)에 관한 조치—\n\n권고: G-3는 기본 계획이 요구하는 정보를 기획운영국장(Dir of P&O)에게 전달하는 참모총장(C/S) 앞 공문의 기안 및 발송을 한다. G-3는 이에 동봉할 송부 공문을 (승인 및 발송을 위해 G-3로 반송) 발송한다.\n\n5. 종결. 이로써 기본 계획에 대한 G-3 조치를 완료한다.\n\n[[면 0022]]\n비밀해제\n해제권한 NND846527\n\nG-3 문서 전달 전표 1947년 10월 15일\n\n참모차장, G-3\n준장 W H 마리스\n\n참모차장 대리, G-3\n대령 W C 스탠턴\n\n작전\n대령 E C 버카트\n중령 C B 해멀리 주니어\n중령 KC 헤이크래프트\n\n주임\n소령 I F 고든\n\n정세 및 보고\n대령 P D 긴더\n중령 J T 웨스터마이어\n\n부주임\n대위 H B 민치\n\n소령 C S 쿠밍스\n송환\n\n행정\n중령 B I 앤더슨\n중령 E 오도너휴\n대위 W J 영 주니어\n준위 E I 하세\n\n훈련\n대령 A M 파슨스\n\n계획\n중령 B D L 페이지\n중령 J B 요스트\n중령 J 타일러\n중령 J T L 슈벵크\n\n중령 C H 코츠\n중령 R V 스트라우스\n중령 W A 제닝스\n소령 E I 앳킨스\n중령 J I 빌키 주니어\n주임 서기\n\n병력 통제\n병력 기반 대령 R J 버처스\n간행물\n대령 I H 햄\n중령 R P 타르 주니어\n대위 J E 켈러허\n\n조직 및 장비\n중령 J I 피트먼\n소령 R A 에드워즈\n소령 H 일라스트로\n\n중위 R E 마이어스 (WAC)\n\n검토 / 승인 / 논평 / 동의 / 필요 조치 / 서명 / 정보\nD / D / 행정과 반송 / 발송 / 일지 요약 / 귀하 파일 / 행정 파일 / 관계자\n\nR / 0945",
+ "entities": {
+  "people": [
+   "W H Maris",
+   "W C Stanton",
+   "E C Burkart",
+   "C B Hammerle, Jr",
+   "KC Haycraft",
+   "I F Gordon",
+   "P D Ginder",
+   "J T Westermeier",
+   "H B Minch",
+   "C S Cumings",
+   "B I Anderson",
+   "E O'Donohue",
+   "W J Young, Jr",
+   "E I Haase",
+   "A M Parsons",
+   "B D L Paige",
+   "J B Yost",
+   "J Tyler",
+   "J T L Schwenk",
+   "C H Coates",
+   "R V Strauss",
+   "W A Jennings",
+   "E I Atkins",
+   "J I Bealke, Jr",
+   "R J Butchers",
+   "I H Ham",
+   "R P Tarr, Jr",
+   "J E Kelleher",
+   "J I Pittman",
+   "R A Edwards",
+   "H Ilastro",
+   "R E Meyers"
+  ],
+  "places": [],
+  "units": [
+   "G-3",
+   "USAFIK",
+   "Dir of P&O",
+   "WAC"
+  ]
+ },
+ "key_points_ko": [
+  "1947년 11월 10일자 OX 56612호로 CG USAFIK에게 특정 제한 범위 내에서 장비 지급을 승인하여 한국 경비대 창설 관련 조치가 완료됨.",
+  "이 문건은 기본 계획 제2부(경비대에 대한 미군 장비 지급)에 관한 G-3의 최종 행정 조치 및 종결을 기록한 메모임.",
+  "별첨된 G-3 문서 전달 전표(1947년 10월 15일자)는 해당 건의 부서 간 검토 및 승인 경로를 보여줌."
+ ],
+ "confidence": "high",
+ "notes": "The OCR for the first page was fragmented; the first paragraph appears to be the conclusion of a larger memorandum. Reconstructed as a continuation of numbered paragraph contextually. The name 'Ilastro' and 'E I Haase' were reasonably clear but could be slightly off.",
+ "doc_id": "D007",
+ "chunk": 3,
+ "of": 3,
+ "pages": [
+  "0021",
+  "0022"
+ ],
+ "section": null,
+ "subject_id": "B4",
+ "theme": "B. 한국군 창설·훈련"
+}

@@ -1,0 +1,32 @@
+{
+ "title": "전황 보고",
+ "subtitle": "1945년 3월 – 11월 · 도요다 심문조서와 제58기동부대 작전 보고 17장",
+ "source": "United States Strategic Bombing Survey, Interrogations of Japanese Officials (Nav-75) · Commander Task Force 58, Action Report, 18 June 1945 · 미국 정부 저작물(퍼블릭 도메인) · HyperWar",
+ "search_hint": "한국어·영문 원문·인물·함명 검색",
+ "groups": [
+  {
+   "key": "A",
+   "label": "도요다 심문 · 일본"
+  },
+  {
+   "key": "B",
+   "label": "제58기동부대 · 미국"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 원문",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "차례대로"
+  }
+ ],
+ "warn_text": "번역 확신이 낮다. 원문 대조 필요."
+}

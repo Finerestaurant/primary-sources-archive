@@ -1,0 +1,33 @@
+{
+ "doc_type": "other",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": null,
+ "subject": "Practically blank page; only declassification stamp and photographic ruler visible",
+ "subject_ko": "사실상 공란; 비밀해제 도장과 촬영용 자만 보임",
+ "en": "[[page 0081]]\nDECLASSIFIED\nAuthority NND 846527\nSEKISUI JUSHI\n10\"1\n14\n16\n18\n19 20 21\n22\n23\n24 MAR Able\nRECEIVED\n25\n26\n27",
+ "ko": "[[면 0081]]\n비밀해제\n기관 NND 846527\nSEKISUI JUSHI\n10\"1\n14\n16\n18\n19 20 21\n22\n23\n3월 24일 Able\n수신\n25\n26\n27",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": []
+ },
+ "key_points_ko": [
+  "내용이 없는 페이지로, 촬영용 자와 'RECEIVED' 스탬프, 'MAR Able' 날짜만 기재되어 있음. 문서 D021의 0080면 후면으로 추정됨."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D021",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0080",
+  "0081"
+ ],
+ "section": null,
+ "subject_id": "C1",
+ "theme": "C. 병참·편제"
+}

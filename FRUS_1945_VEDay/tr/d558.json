@@ -1,0 +1,37 @@
+{
+  "doc_id": "d558",
+  "date": "1945-04-29",
+  "time": "Caserta, April 29, 1945—midnight. [Received April 30—11:47 a.m.]",
+  "doc_type": "전보",
+  "place": "Caserta",
+  "from": "Mr. Alexander C. Kirk, Political Adviser on the Staff of the Supreme Allied Commander, Mediterranean Theater 지중해전역 연합국최고사령관 막료 정치고문 알렉산더 C. 커크",
+  "to": "The Acting Secretary of State 국무장관 대리",
+  "msg_nr": "1806",
+  "source_note": "740.00119 EW/4–2945: Telegram",
+  "title_en": "Mr. Alexander C. Kirk, Political Adviser on the Staff of the Supreme Allied Commander, Mediterranean Theater, to the Acting Secretary of State",
+  "title_ko": "지중해전역 연합국최고사령관 막료 정치고문 알렉산더 C. 커크가 국무장관 대리에게",
+  "subject_ko": "독일 전권대표들이 카세르타에서 무조건 항복 조건에 서명했으며, 그 문서는 5월 2일에 발효한다고 보고했다.",
+  "key_points_ko": [
+    "독일 전권대표들이 합동참모본부 앞 전보 Naf 897호에 담긴 무조건 항복(unconditional surrender) 조건에 사소한 변경을 가하여 서명했다.",
+    "그들은 오늘 오후 이곳을 떠났다.",
+    "이 문서(instrument)는 5월 2일에 발효한다.",
+    "각주에 따르면 서명은 워싱턴 시간 4월 29일 오전 8시 카세르타에서 이루어졌고, 서명자는 독일 남서부 총사령관과 이탈리아 주둔 친위대 최고사령관을 대표하는 전권대표들이었으며, 이는 현지 항복문서(instrument of local surrender)였다.",
+    "항복 지역은 이손초강 동쪽의 베네치아줄리아 일부를 제외한 이탈리아 전역과 오스트리아 서부 전역 및 중부 일부였다."
+  ],
+  "ko": "카세르타, 1945년 4월 29일 자정.\n [접수 4월 30일 오전 11시 47분]\n\n1806. 독일 전권대표들이 합동참모본부 앞 전보 Naf 897호[주51](3월 26일자 본직의 1175호[주52] 참조)에 담긴 무조건 항복 조건[주50]에 사소한 변경 몇 가지를 가하여 서명하였다. 그들은 오늘 오후 이곳을 떠났다. 이 문서는 5월 2일에 발효하게 되어 있다. 4월 27일자 본직의 1754호와 4월 29일 로마발 국무부 앞 1073호[주53]를 참조하라.\n\n커크(Kirk)\n\n[773면]",
+  "notes_ko": [
+    "[주50] 독일 남서부 총사령관과 이탈리아 주둔 친위대 최고사령관을 대표하는 독일 전권대표들이 워싱턴 시간 4월 29일 오전 8시 카세르타에서 현지 항복문서(instrument of local surrender)에 서명하였다. 항복된 영역은 이손초강 동쪽의 베네치아줄리아 일부를 제외한 이탈리아 전역과 오스트리아 서부 전역 및 중부의 일부를 포함하였다.",
+    "[주51] 알렉산더 원수가 3월 23일에 보낸 이 전보는 그가 독일 측에 서명하게 하려는 간략한 항복문서의 개요를 밝힌 것이다. (육군부 문서철에서 얻은 사본.) 이탈리아 주둔 독일군의 현지 항복문서와 연합국 장교들과 독일 전권대표들 사이의 네 차례 회합 의사록은 국무부, The United States and Italy, 1936–46. Documentary Record (Washington, Government Printing Office, 1946), 127–152면에 인쇄되어 있다. 아울러 5월 2일 트루먼 대통령과 그루 국무장관 대리가 발표한 성명, 그리고 트루먼 대통령이 알렉산더 원수와 마크 W. 클라크 장군에게 보낸 메시지도 같은 책 125–127면을 보라.",
+    "[주52] 인쇄하지 않음. 독일인 전쟁포로에 관한 항복 지령 초안을 서술한 것이다 (740.00119 EW/3–2645).",
+    "[주53] 후자는 인쇄하지 않음. 항복 논의가 성공적으로 마무리되었다고 보고한 것이다 (740.00119 EW/4–2945)."
+  ],
+  "people": [
+    "Kirk 커크(지중해전역 연합국최고사령관 막료 정치고문)",
+    "Alexander 알렉산더(원수)",
+    "Truman 트루먼(대통령)",
+    "Grew 그루(국무장관 대리)",
+    "Mark W. Clark 마크 W. 클라크(장군)"
+  ],
+  "confidence": "high",
+  "notes": "본문은 「unconditional surrender(무조건 항복)」라 하고 각주는 「instrument of local surrender(현지 항복문서)」라 한다 — 층위가 다르므로 각각 그대로 옮겼다. 원문의 각주 번호 순서(주50이 본문 뒤쪽에 붙음)는 그대로 두되 한국어 어순상 위치를 조정했다."
+}

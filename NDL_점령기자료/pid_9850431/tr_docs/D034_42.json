@@ -1,0 +1,40 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Battalion and Battery School (Field Artillery Officers) curriculum outline",
+ "subject_ko": "대대 및 포대 학교(야전포병 장교) 교육 과정 개요",
+ "en": "---\n[[page 0254]]\nDECLASSIFIED\nAuthority NND8X6527\nTOP SECRET\nANNEX # 1 d\nBattalion And Battery School (Field Artillery Officers)\n\n1. Purpose:\n  a. To provide instruction for officers of the Artillery in their responsibilities and duties.\n  b. To provide in addition instruction for officers who will be assigned to cannon companies of the Infantry Regiment.\n  c. To teach the employment of artillery.\n\n2. Scope:\n  a. Tactics and technique to include the battalion with sufficient background on Division Artillery to insure understanding.\n  b. Command and staff duties.\n  c. Field orders.\n  d. Basic knowledge of individual and crew served weapons.\n\n3. Prerequisites:\n  Officers assigned to artillery and cannon companies.\n\n4. General:\n  a. Location: Chinhae (Chinhae)\n  b. Class Capacity: 100\n  c. Duration of course: Two (2) months\n  d. Instructors: Ten (10) U.S. Artillery officers\n                  Thirty (30) U.S. enlisted men\n\nTOP SECRET",
+ "ko": "---\n[[면 0254]]\n기밀해제\n권한 NND8X6527\n2급 비밀\n별지 # 1 d\n대대 및 포대 학교(야전포병 장교)\n\n1. 목적:\n  가. 포병 장교들에게 그들의 책임과 임무에 관한 교육을 제공한다.\n  나. 추가적으로 보병 연대 대전차포 중대에 배치될 장교들에게 교육을 제공한다.\n  다. 포병 운용을 가르친다.\n\n2. 범위:\n  가. 사단 포병에 대한 충분한 배경 지식을 통해 이해를 보장하는 수준에서 대대를 포함한 전술 및 기술.\n  나. 지휘 및 참모 임무.\n  다. 야전 명령.\n  라. 개인 화기 및 공용 화기에 대한 기본 지식.\n\n3. 입교 자격:\n  포병 및 대전차포 중대에 배치된 장교.\n\n4. 일반 사항:\n  가. 위치: 진해(진해)\n  나. 중대 정원: 100명\n  다. 교육 기간: 2개월\n  라. 교관: 미군 포병 장교 10명\n            미군 사병 30명\n\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Chinhae (Jinhae)"
+  ],
+  "units": [
+   "Battalion and Battery School",
+   "Division Artillery",
+   "Infantry Regiment cannon companies"
+  ]
+ },
+ "key_points_ko": [
+  "야전포병 장교와 대전차포 중대 장교를 위한 통합 교육 과정이다.",
+  "교육 내용은 포병 대대 전술·기술, 지휘 참모 업무, 야전 명령, 개인·공용 화기 숙달을 포함한다.",
+  "교육은 진해에서 100명 정원으로 2개월간 진행되며, 미군 장교 10명과 사병 30명이 교관으로 배정된다."
+ ],
+ "confidence": "high",
+ "notes": "OCR 오류 다수 교정: 'Artillory'->'Artillery', 'rosponsibilitios'->'responsibilities', 'offigets'->'officers', 'Fogiment'->'Regiment', 'seach'->'teach', 'Tecties'->'Tactics', 'bettalion'->'battalion', 'ordeze'->'orders', 'Beele knowledge of individusl and crew served teapons'->'Basic knowledge of individual and crew served weapons', 'Chinitao'->'Chinhae' 등. 'Chinhae'의 괄호 추가는 원문에 명시되지 않았으나 'ANNEX # 1 d'에 이전 문서 흐름상 동일 지명을 일관되게 표기하기 위한 것으로 추정.",
+ "doc_id": "D034",
+ "chunk": 42,
+ "of": 46,
+ "pages": [
+  "0254"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

@@ -1,0 +1,48 @@
+{
+ "title": "014.1 Korea",
+ "subtitle": "1945년 9월 9일 – 1947년 1월 14일 · GHQ/SCAP 부관부 편철 57건",
+ "source": "GHQ/SCAP Records (RG 331, National Archives and Records Service) · Box AG-1, Folder (15) 014.1: Korea, Sept 1945 – Jan 1947 · 국립국회도서관 헌정자료실 촬영 · TOP SECRET",
+ "search_hint": "한국어·영문·전문번호·기관 검색",
+ "groups": [
+  {
+   "key": "A",
+   "label": "서한"
+  },
+  {
+   "key": "B",
+   "label": "전문"
+  },
+  {
+   "key": "C",
+   "label": "각서·지령"
+  },
+  {
+   "key": "D",
+   "label": "쪽지·회부"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 원문 · OCR 교정본",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "편철순"
+  }
+ ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "jpg",
+  "label": "원본 스캔",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
+ "warn_text": "판독 신뢰도가 낮다. 원본 대조 필요.",
+ "terms": "terms_msg.json"
+}

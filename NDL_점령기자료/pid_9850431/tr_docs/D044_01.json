@@ -1,0 +1,51 @@
+{
+ "doc_type": "cable",
+ "date": "1947-10-05",
+ "from": "WAR (STATE DEPT, LOVETT)",
+ "to": "CG USAFIK (FOR POLAD)",
+ "info": "SCAP",
+ "msg_nr": "WAR SVC 5055",
+ "classification": "TOP SECRET",
+ "subject": "State Dept redrafts UN resolution on Korea; instructions if Soviets demand answer before Joint Commission",
+ "subject_ko": "미 국무부, 유엔 제출 한국 결의안 재초안; 미소공위 전 소련 답변 요구 시 지침",
+ "en": "[[page 0299]]\nDECLASSIFIED:\nAuthority NND8X6527\nLHS\n\nGENERAL HEADQUARTERS, U. S. ARMY, FORCES, PACIFIC\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\nINCOMING MESSAGE\n\nTOP SECRET\nTOP SECRET PRIORITY\n5 Oct 47\n\nFROM: WAR\nTO: CG USAFIK (FOR POLAD)\nINFO: SCAP\nNR: WAR SVC 5055 (RELAYS MSG DTG 042228 Z FROM STATE DEPT)\n(STATE SERIAL 231 OCT 45 PM SIGNED LOVETT)\n\nHaving in mind considerations mentioned General Hodge's ZGCG 1201 Sept 28, ZGCG 1178 Sept 22 and POLAD's 369 Sept 22 Dept has redrafted resolution for submission to UN and hopes to have final form of resolution ready for transmission Seoul shortly. Should Soviets insist on meeting of Joint Commission prior this time and should they insist on statement regarding US answer to Soviet proposal US Delegation should state that Soviet proposal is under consideration by US Govt which will answer in due course in appropriate manner.\n\nNO SIG\n\nINFORMATION: COMMANDER IN CHIEF, CHIEF OF STAFF, G-2, G-3, DIPLOMATIC, JPO\n\nRECEIVED\nOCT 6 1947\nARL\n\nPRIORITY\nTOP SECRET MCN: 62884 TOO: 050057 Z\n\n\"Paraphrase not required Handle as TOP SECRET correspondence per par 51 1 and 60 a (4) AR 380-5.\"\n\n\"Handling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.\"\n\nCOPY NO. 11\n\nG-3 Lil",
+ "ko": "[[면 0299]]\n기밀해제:\n권한 NND8X6527\nLHS\n\n미 육군 태평양지역 총사령부\n인사참모부\n라디오 및 전보 센터\n수신 전문\n\n일급비밀\n일급비밀 우선급\n1947년 10월 5일\n\n발신: 미 육군부\n수신: 주한미군사령관 (정치고문 앞)\n참조: SCAP(연합군 최고사령관)\n전문번호: WAR SVC 5055 (국무부 발신 042228Z 군사통신문 중계)\n(국무부 전문번호 231, 1945년 10월 45일 오후, 로벳 서명)\n\n호지 장군의 9월 28일자 ZGCG 1201, 9월 22일자 ZGCG 1178 및 정치고문의 9월 22일자 369에서 언급된 사항을 고려하여, 국무부는 유엔에 제출할 결의안을 재초안하였으며 조만간 최종 결의안 형태를 서울로 송부할 수 있기를 희망함. 동 시점 이전에 소련이 미소공위 회의를 고집하고 소련 제안에 대한 미국의 답변 관련 성명을 요구할 경우, 미국 대표단은 소련 제안이 미국 정부에 의해 검토 중이며 적절한 시기에 적절한 방식으로 답변할 것이라고 밝혀야 함.\n\n서명 없음\n\n배포: 극동군 총사령관, 참모총장, G-2(정보), G-3(작전), 외교참모, JPO(합동기획국)\n\n수신일\n1947년 10월 6일\nARL\n\n우선급\n일급비밀 MCN: 62884 TOO: 050057 Z\n\n\"의역 불필요. AR 380-5, 제51항 1호 및 제60항 a (4)에 따라 일급비밀 문서로 취급할 것.\"\n\n\"이 전문 원문을 동일 등급의 문서로 취급 및 전달하는 것은 육군규정 380-5 (1946년 3월 6일) 제16-C, 18-E, 53-A, 53-D (1)(2)(3) 및 60-A (1)(2)(3)(4)항의 규정에 따라 육군부에 의해 승인되었음.\"\n\n사본 11번\n\nG-3 Lil",
+ "entities": {
+  "people": [
+   "Hodge (CG USAFIK)",
+   "Lovett"
+  ],
+  "places": [
+   "Seoul"
+  ],
+  "units": [
+   "GHQ/FEC",
+   "USAFIK",
+   "SCAP",
+   "State Dept",
+   "Joint Commission",
+   "UN",
+   "POLAD",
+   "G-2",
+   "G-3",
+   "JPO",
+   "War Department"
+  ]
+ },
+ "key_points_ko": [
+  "미 국무부는 한반도 문제를 유엔에 회부하기 위한 결의안을 재초안 중이며, 곧 최종안을 서울의 호지 장군에게 송부할 예정이다.",
+  "소련이 유엔 결의안 송부 전에 미소공위 개최를 강행하고 소련 제안에 대한 미국의 답변을 요구할 경우, 미국 대표단은 '검토 중이며 적절한 시기에 답변하겠다'는 원론적 답변으로 대응할 것을 지시하고 있다.",
+  "이 전문은 일급비밀(TOP SECRET) 등급으로, 극동군 주요 참모 및 외교라인에 배포되었다."
+ ],
+ "confidence": "high",
+ "notes": "OCR 원문의 날짜 표기 'OCT 45' 부분이 국무부 전문번호(STATE SERIAL)로 보이나 부자연스러움. 원문 그대로 유지함.",
+ "doc_id": "D044",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0299"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

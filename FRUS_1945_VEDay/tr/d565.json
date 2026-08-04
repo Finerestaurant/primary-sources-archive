@@ -1,0 +1,32 @@
+{
+  "doc_id": "d565",
+  "date": "1945-05-06",
+  "time": "Paris, May 6, 1945—11 p.m. [Received May 6—7:30 p.m.]",
+  "doc_type": "전보",
+  "place": "Paris",
+  "from": "캐퍼리(Jefferson Caffery) — 주프랑스대사. 본문은 머피(Robert Murphy)가 매슈스(H. Freeman Matthews) 앞으로 보낸 것",
+  "to": "국무장관(The Secretary of State)",
+  "msg_nr": "2426",
+  "source_note": "740.00119 E.W./5–645: Telegram",
+  "title_en": "The Ambassador in France (Caffery) to the Secretary of State",
+  "title_ko": "주프랑스대사(캐퍼리)가 국무장관에게",
+  "subject_ko": "요들이 전권을 지니고 SHAEF에 도착하였으며 서명은 일요일 밤이나 월요일 아침에 이루어지리라 본다는, 랭스 서명 몇 시간 전의 보고이다.",
+  "key_points_ko": [
+    "요들 원수[원문 Field Marshal]가 오늘 오후 제21집단군 사령부에서 SHAEF에 도착하였다.",
+    "그는 독일군의 항복을 위한 전권(full powers)을 지닌 것으로 이해된다 — 서명 자격이 곧 쟁점이었던 만큼 중요한 대목이다.",
+    "SHAEF 장교들은 성공적 결말을 낙관하는 편이며, 첫인상은 독일 측이 무조건항복(unconditional surrender)을 하기로 결정하였다는 것, 그리고 그들의 으뜸 관심사는 되도록 많은 병력을 러시아 측 손에 넘어가지 않게 구하는 데 있다는 것이다.",
+    "이 항복은 남북 전 지역을 아우를 것이며, 머피는 일요일 밤이나 월요일 아침에 서명되리라 본다 — 실제로는 5월 7일 월요일 새벽 02시 41분에 서명되었다."
+  ],
+  "ko": "파리, 1945년 5월 6일—오후 11시.\n [5월 6일—오후 7시 30분 접수.]\n\n2426. 매슈스(Matthews)에게, 머피(Murphy)로부터. 요들 원수[주76] 가 오늘 오후 제21집단군 사령부에서 SHAEF에 도착하였습니다. 그는 [778면] 독일군의 항복을 위한 전권(full powers)을 지니고 있는 것으로 이해됩니다. SHAEF 장교들은 성공적인 결말을 낙관하는 편이며, 그들이 받은 첫인상은 독일 측이 무조건항복(unconditional surrender)을 하기로 결정하였다는 것, 그리고 그들의 으뜸가는 관심사는 되도록 많은 병력이 러시아 측의 손에 떨어지지 않도록 구하는 데 있다는 것입니다. 이 항복은 남북 전 지역을 아우를 것이며, 나는 일요일 밤이나 월요일 아침에 서명되리라고 봅니다. [머피(Murphy).]\n\n캐퍼리(Caffery)",
+  "notes_ko": [
+    "[주76] 상급대장 알프레트 요들(Generaloberst Alfred Jodl), 독일 국방군 작전참모부장."
+  ],
+  "people": [
+    "Jefferson Caffery 캐퍼리 — 주프랑스대사",
+    "Robert Murphy 머피 — 대독일 정치고문",
+    "H. Freeman Matthews 매슈스",
+    "Alfred Jodl 요들"
+  ],
+  "confidence": "high",
+  "notes": "본문은 요들을 'Field Marshal(원수)'이라 부르나 편집자 각주는 그의 실제 계급을 'Generaloberst(상급대장)'로 밝히고 있다. 원저자의 계급 오기이며 규칙 9에 따라 본문에서는 고치지 않았다."
+}

@@ -1,0 +1,37 @@
+{
+  "serial": "1-S",
+  "date": "1946-01-27",
+  "date_note": "라우팅 슬립 자체의 날짜는 「27 January 1946」. 색인 항목 1-S 의 문서 일자는 1946년 1월 28일이다 — 이 슬립은 본체 서한에 하루 앞서 작성된 배포 전표로 보인다",
+  "doc_type": "라우팅 슬립",
+  "classification": "Top Secret",
+  "from": "부관부(A.G.), 연합국최고사령관 겸 태평양미육군총사령부 전진제대",
+  "to": "총사령관 (1), 참모장 (2)",
+  "info": null,
+  "msg_nr": null,
+  "subject_en": "Routing slip (no subject typed on the sheet). Index entry: Letter, decision amending SWNCC 176/8 — basic initial directive for civil affairs in Korea",
+  "subject_ko": "라우팅 슬립 (전표 자체에는 건명이 타자되어 있지 않다). 색인 항목: SWNCC 176/8(조선 민사에 관한 기본 초기지령)을 개정하는 결정을 송부한 서한",
+  "summary_ko": "1946년 1월 27일자 총사령부 부관부 라우팅 슬립 한 장으로, 총사령관과 참모장에게 참고(Information)로 회부하고 열람 후 반송하도록 표시했으며 정부과와 예하 주요 사령부에 사본을 배포했다는 기록만 남아 있고, 함께 회부된 본체 문서는 이 문서철에 편철되어 있지 않다.",
+  "key_points_ko": [
+    "전표 자체에는 건명·문서번호·발신 근거가 전혀 타자되어 있지 않다. 회부 경로만 기록된 종이다.",
+    "발신: 부관부(A.G.). 날짜: 1946년 1월 27일.",
+    "수신 표시: 총사령관 (1), 참모장 (2) — 괄호 안 숫자는 회부 순서.",
+    "용도 표시: 「정보(Information)」에 XXX 표시, 「열람 후 반송(Note & Return)」에 체크(인쇄된 'Note' 부분에 가로줄).",
+    "하단 인쇄 문구: 「정부과(Govt Section) 및 예하 주요 사령부에 사본 배포함.」",
+    "우상단에 연필 「191A」, 좌하단에 연필 편철기호 「1-S」, 상단과 하단에 자필 서명·이니셜 3점."
+  ],
+  "ko": "**1급비밀**\n\n연합국최고사령관 겸 태평양미육군총사령부 전진제대\n\n**라우팅 슬립**\n\n발신: 부관부(A.G.) — 1946년 1월 27일\n\n수신:\n- 총사령관 …… (1)\n- 참모장 …… (2)\n\n(그 밖에 군사비서관, 전속부관, 작전담당 부참모장, G-1, G-2, G-3, G-4, 부관, 통신장교, 공병감, 대공포장교, 공보장교, 감찰감, 국제검찰부, 병참장교, 화학장교, 병기장교, 정부과, 군의감, 방첩장교, 공중보건복지부, 재무국장, 정보교육부, 경제과학과, 조달관, 천연자원과, 통계보고과, 법무과, 사령부 위수사령관, 민간인사과, PHILOSCAP 등 인쇄된 수신처 목록이 있으나 표시 없음.)\n\n용도:\n- 정보 …… XXX\n- 열람 후 반송 …… ✓\n- (승인 / 의견 또는 동의 / 서명날인 / 명령 발령 / 필요 조치 / 배포 요망 / 서명 / 발송 / 참조 첨부 / 편철 — 표시 없음)\n\n정부과 및 예하 주요 사령부에 사본 배포함.\n\n**1급비밀**",
+  "en": "TOP SECRET\n\nGENERAL HEADQUARTERS\nSUPREME COMMANDER FOR THE ALLIED POWERS\nAND\nUNITED STATES ARMY FORCES, PACIFIC\nADVANCE ECHELON\n\nA. G.        ROUTING SLIP\n\nFROM: ______        27 January 1946\n\nTO:\n  Commander-in-Chief    (1)\n  Military Secretary\n  Aides-de-Camp\n  Chief of Staff        (2)\n  D C/S for Opns\n  G-1 / G-2 / G-3 / G-4\n  Adjutant General\n  C Signal O / C Engineer / Antiaircraft O / Public Relations O / Inspector General / Int'l Pros Sec / C QM O\n  C Chem O / C Ord O / C Gov't Sec / C Surgeon / C Counter Intel O / C Publ Health & Welfare / Fiscal Director / C I & E Services / C Econ & Sc Sec / Gen Procurement Agent / C Natural Resources / C Stat & Reports / C Legal Section / Headquarters Commandant / O Civilian Personnel / PHILOSCAP\n\nFOR:\n  Approval ____\n  Comment or Concurrence ____\n  Information  XXX\n  Initials ____\n  Issuance of Orders ____\n  Necessary Action ____\n  [Note &] Return  ✓\n  Dist'n Desired ____\n  Signature ____\n  Dispatch ____\n  Attachment of Reference ____\n  File ____\n\nCopies furnished Govt Section, and subordinate major commands.\n\nTOP SECRET\n\n[pencil, upper right: 191A]\n[pencil, lower left: 1-S]",
+  "stamps_ko": [
+    "부관부 대형 고무인: 「A. G.」",
+    "우상단 연필: 「191A」",
+    "좌하단 연필 편철기호: 「1-S」",
+    "상단 우측 자필 서명 1점 [판독불가] 및 사선 표시",
+    "수신 항목 여백 자필 체크 2점 [판독불가]",
+    "하단 배포 문구 옆 자필 이니셜 1점 [판독불가]",
+    "상단·하단 인쇄 「TOP SECRET」",
+    "상하 여백 인쇄: 「Declassified E.O. 12065 Section 3/402/ NNDG NO. ____」 — 후대의 비밀해제 표시"
+  ],
+  "people": [],
+  "confidence": "low",
+  "notes": "1) 이 전표에는 건명도 문서번호도 타자되어 있지 않다. 따라서 색인 항목 1-S(1946년 1월 28일, SCAP→각처, SWNCC 176/8 을 개정하는 결정을 송부한 서한)와의 연결은 편철 위치·날짜·배포 문구('Copies furnished Govt Section, and subordinate major commands')의 정황 일치에 근거한 것이며, 이 종이만으로는 확인되지 않는다. documents.json 이 match: medium 으로 둔 것이 타당하다. 2) 날짜도 슬립은 1월 27일, 색인은 1월 28일로 하루 어긋난다. 3) 편철 순서상 1-U 와 1-T 사이에 끼어 있어 이 문서철의 역순 배열에서 벗어난다는 점도 배정을 흔드는 요소다. 4) 좌하단 연필 기호는 원본 스캔에서 「1-S」로 읽히나 흐릿하다. 5) 인쇄 수신처 목록의 항목명은 마이크로필름 상태가 나빠 일부가 흐릿하며(OCR 은 'FLILOSCAP', 'C QI O' 등으로 읽음), PHILOSCAP·C QM O 로 보정해 옮겼다."
+}

@@ -1,0 +1,40 @@
+{
+  "serial": "1-Q",
+  "date": "1945-11-24",
+  "date_note": "원문 표기 'DATE: 24 NOVEMBER 1945'. 접수 도장 '26 NOV 1945', 전신 정리번호 '260103'. 색인에는 '26 Nov 46'으로 적혀 있으나 연도는 오기",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "연합국최고사령관(SCAP)",
+  "to": "제24군단장(COMGEN 24TH CORPS)",
+  "info": null,
+  "msg_nr": "CA 55226",
+  "subject_en": "Plan for procedure and accounting for Korean exports and imports",
+  "subject_ko": "조선의 수출입 절차 및 회계에 관한 계획",
+  "summary_ko": "연합국최고사령관은 SWNCC 176/8의 해당 조항들을 근거로 제24군단장에게 조선의 수출입 절차와 회계에 관한 계획을 조속히 제출하라고 지시하며, 대일본 수출입은 다른 나라와의 수출입과 분리해 회계 처리하라고 명한다.",
+  "key_points_ko": [
+    "근거는 1945년 10월 13일자 SWNCC 176/8 : 제2부 제11항 A(4) 및 B, 제23항, 제25항 C·D·E, 제41항.",
+    "조선의 수출과 수입에 관한 절차 및 회계 계획을 본 사령부에 조속히 제출할 것을 요망한다.",
+    "일본으로의 수출과 일본으로부터의 수입은 다른 나라와의 수출입과 분리하여 회계 처리해야 한다.",
+    "기안은 경제과학국(ESS), 승인은 경제과학과장 크레이머 대령, 증명은 부관감 피치 준장.",
+    "사본은 G-4(통제·정책)와 ESS(1부 반환)에 배포."
+  ],
+  "ko": "1945년 10월 13일자 SWNCC-176/8 참조 : 제2부 제11항 A(4) 및 B; 제23항; 제25항 C, D, E; 제41항.\n\n조선의 수출과 수입에 관한 절차 및 회계 계획을 본 사령부에 조속히 제출할 것을 요망함. 일본으로의 수출 및 일본으로부터의 수입은 다른 나라들로의 수출 및 다른 나라들로부터의 수입과 분리하여 회계 처리하여야 함.\n\n(CA 55226)\n\n증명 : B. M. 피치(B. M. Fitch), 준장, 미육군, 부관감\n승인 : R. C. 크레이머(R. C. Kramer), 대령, 참모부, 경제과학과장",
+  "en": "REFER SUGAR WILLIAM NAN CHARLIE CHARLIE ONE SEVEN SIX DASH EIGHT CMA ONE THREE OCTOBER ONE NINE FOUR FIVE CLN PART TWO PAR ELEVEN ABLE FOUR AND BAKER SMCLN PAR TWO THREE SMCLN PAR TWO FIVE CHARLIE CMA DOG CMA EASY SMCLN PAR FOUR ONE PD IT IS DESIRED THAT A PLAN FOR PROCEDURE AND ACCOUNTING FOR KOREAN EXPORTS AND IMPORTS BE SUBMITTED THIS HEADQUARTERS EARLIEST PD EXPORTS TO AND IMPORTS FROM JAPAN SHOULD BE ACCOUNTED FOR SEPARATELY FROM EXPORTS TO AND IMPORTS FROM OTHER COUNTRIES PD  CA 55226\n\nESS/IE-RCK/MAE/pl\nDATE: 24 NOVEMBER 1945\n\nOFFICIAL:                          Approved by:\nB. M. FTICH                        R. C. KRAMER\nBrigadier General, U.S. Army       Colonel, GSC\nAdjutant General                   Chief, Econ & Sc Sec\n\nCopies to:\n  G-4 (Control & Policy)\n  ESS (return 1 copy)",
+  "stamps_ko": [
+    "우측 상단 고무인 : 'GHQ. AFPAC / AGO RECORDS', 날짜 '26 NOV 1945'; 그 위 손글씨 '014.1 Korea', 'T.S.'",
+    "우측 상단 전신 정리번호 : '260103'",
+    "본문 옆 손글씨 : 'SWNCC-176/8 - 014.1 Korea'",
+    "본문 밑줄(잉크) : 'IT IS DESIRED THAT A PLAN FOR PROCEDURE AND ACCOUNTING FOR KOREAN EXPORTS AND IMPORTS BE SUBMITTED THIS HEADQUARTERS EARLIEST' 구간, 'CA 55226'에 표시",
+    "서명란 자필 서명 2개 (B. M. Fitch 이니셜, Kramer 서명)",
+    "서명란 아래 손글씨 : 'G-4 concurs' 및 이니셜 'LAP'",
+    "상·하단 고무인 : 'TOP SECRET' (4회)",
+    "하단 우측 고무인 : 'AG RECORD COPY'",
+    "좌측 하단 연필 편철기호 : '1-Q'"
+  ],
+  "people": [
+    "B. M. 피치(B. M. Fitch) — 준장, 부관감 (원문에 'B. M. FTICH'로 오타)",
+    "R. C. 크레이머(R. C. Kramer) — 대령, 참모부, 경제과학과장"
+  ],
+  "confidence": "high",
+  "notes": "**날짜 주의.** 색인에는 이 문서가 '26 Nov 46'으로 적혀 있으나 이는 원본 색인 쪽의 오타다. 원본 전문지(pages/0142.jpg)에는 발신일이 'DATE: 24 NOVEMBER 1945'로 타자되어 있고, 부관부 접수 도장이 '26 NOV 1945'이며, 전신 정리번호도 '260103'(26일 01시 03분)이다. 따라서 실제 연도는 1945년이며 date 를 1945-11-24 로 잡았다. 원문 표기는 en 과 date_note 에 그대로 살렸다.\n\n전문 머리는 음성문자 철자다 : 'SUGAR WILLIAM NAN CHARLIE CHARLIE'=SWNCC, 'ABLE'=A, 'BAKER'=B, 'CHARLIE'=C, 'DOG'=D, 'EASY'=E, 'SMCLN'=세미콜론, 'CLN'=콜론, 'CMA'=쉼표, 'PD'=마침표.\n\n서명란의 'B. M. FTICH'는 원저자 오타(FITCH)이므로 en 에서는 고치지 않았다. 'COMGEN 24TH CORPS'는 제24군단장(하지)이다."
+}

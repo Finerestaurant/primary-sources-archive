@@ -1,0 +1,31 @@
+{
+  "doc_id": "d234",
+  "date": "1945-05-11",
+  "time": "Paris, May 11, 1945—4 p.m. [Received 11:37 p.m.]",
+  "doc_type": "전보",
+  "place": "Paris",
+  "from": "The United States Political Adviser for Germany (Murphy) 대독일 정치고문 머피",
+  "to": "The Secretary of State 국무장관",
+  "msg_nr": "2528",
+  "source_note": "740.00119 Control (Germany)/5–1145: Telegram",
+  "title_en": "The United States Political Adviser for Germany (Murphy) to the Secretary of State",
+  "title_ko": "대독일 정치고문(머피)이 국무장관에게",
+  "subject_ko": "제1프랑스군이 라인강 좌안의 네 개 군(Landkreise) 철수 요구를 거부하며, 정부 간 합의가 있을 때까지 그 지역을 점령해야 한다는 프랑스 정부의 견해를 밝힌 것이다.",
+  "key_points_ko": [
+    "제6집단군이 SHAEF에 보고하기를, 제15군이 라인란트주를 통제하게 되므로 제1프랑스군에게 베르크차베른·란다우·게르머스하임·슈파이어의 군(Landkreise)에서 철수(evacuate)할 것을 요청했다고 한다.",
+    "제6집단군의 두 번째 요청에 대해 제1프랑스군은 프랑스 정부의 견해라며, 프랑스가 라인강 좌안의 장래에 직접적인 이해관계가 있고 군사적 편의만으로 그 문제를 결정해서는 안 된다고 답했다.",
+    "파리·워싱턴·런던·모스크바 정부 간 합의로 문제가 해결될 때까지 프랑스는 문제의 지역을 점령할 수밖에 없다는 것이 프랑스 측 입장이다.",
+    "요약의 마지막 문장은 전신 오류로 보여 「Because the area is to be eventually regretable [apparent garble].」로 남아 있다.",
+    "SHAEF는 프랑스 지대에 관한 결정이 날 때까지 이 문제를 그대로 두려는 태도다 — 곧 점령지대로의 부대 철수가 지대 획정 결정에 묶여 있다.",
+    "FRUS 편집자 주는 합의된 점령지대로의 연합군 철수(withdrawal) 문제에 관한 영국 측 견해로 처칠이 트루먼에게 보낸 5월 11일자 제40호·제41호와 5월 12일자 제44호 전문을 가리킨다."
+  ],
+  "ko": "파리, 1945년 5월 11일 오후 4시.\n [접수 오후 11시 37분]\n\n2528. 제6집단군이 SHAEF에 보고한 바에 따르면, 제15군이 라인란트주(Rhineland Province)를 통제하게 되므로 제1프랑스군에게 베르크차베른(Bergzabern), 란다우(Landau), 게르머스하임(Germersheim) 및 슈파이어(Speyer)의 군(Landkreise)에서 철수할 것을 요청했다고 한다. 제6집단군의 두 번째 요청에 대한 회답으로 제1프랑스군은 다음이 그 요지에 있어 프랑스 정부의 견해라고 밝혔다.\n\n요약 시작. 프랑스는 라인강 좌안의 장래에 직접적인 이해관계를 가지고 있다. 군사적 편의만으로 그 문제를 결정해서는 안 된다. 파리, 워싱턴, 런던 및 모스크바의 정부들 사이의 합의로 그 문제가 해결될 때까지, 프랑스는 문제의 지역을 점령할 수밖에 없다. 그 지역이 장차 유감스러울[명백한 전신 오류] 것이기 때문에. 요약 끝.\n\nSHAEF는 프랑스 지대에 관한 결정이 날 때까지 이 문제를 그대로 두려는 태도다.\n\n[머피]\n\n[합의된 점령지대로의 연합국 군대 철수 문제에 관한 영국 측 견해에 대해서는, 처칠 총리가 트루먼 대통령에게 보낸 5월 11일자 제40호, 5월 11일자 제41호, 5월 12일자 제44호 전문을 『베를린(포츠담) 회담』 제1권 5–9면에서 볼 것.]\n\n[289면]",
+  "notes_ko": [],
+  "people": [
+    "Murphy 머피(대독일 정치고문)",
+    "Churchill 처칠(영국 총리)",
+    "Truman 트루먼(대통령)"
+  ],
+  "confidence": "medium",
+  "notes": "요약 마지막 문장 “Because the area is to be eventually regretable [apparent garble].”는 편집자가 전신 오류로 표시한 대목이다. 문장이 미완이고 뜻이 통하지 않아 원문 어순대로 직역하고 편집자의 [apparent garble] 표시를 [명백한 전신 오류]로 살렸다 — 원문 대조 대상. 마지막 대괄호 단락은 FRUS 편집자가 넣은 상호참조로 본문에 그대로 두었다. 발신자 「[Murphy]」의 대괄호도 원문 그대로다."
+}

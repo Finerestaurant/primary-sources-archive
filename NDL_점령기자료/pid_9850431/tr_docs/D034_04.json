@@ -1,0 +1,39 @@
+{
+ "doc_type": "annex",
+ "date": "1947-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "ANNEX #1 to Notes on South Korean Army: Command and Staff School concept",
+ "subject_ko": "'주한 한국군 관련 기록' 부속서 제1호: 지휘참모학교 구상",
+ "en": "[[page 0137]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\n\nANNEX # 1\n                  a\n\nCommand And Staff School\n\n1. Purpose:\n    To provide instruction for selected officers in their responsibilities and duties in command and staff positions on the Army and Division level.\n    To insure that each officer will have a basic knowledge of the staff principles and organization of the Korean Army.\n\n2. Scope:\n    The subjects to be taught will be similar to those taught at Leavenworth. They will of necessity be on a reduced scale and modified to suit conditions as they exist in Korea.\n\n3. Prerequisites:\n    Officers will be carefully selected for their potential suitability for duty prior to attending schools.\n\n4. General:\n    a. Location: Pusan\n    b. Class Capacity: Sixty (60) students\n    c. Duration of Course: Three (3) months\n    d. Instructors: Ten (10) field grade U.S. officers\n                     Fifteen (15) enlisted men\n\n20\n22\n23\n24\nTOP SECRET 02\n26 6-A\n27",
+ "ko": "[[면 0137]]\n기밀해제\n권한 NND86527\n2급 비밀\n\n부속서 제1호\n                  가\n\n지휘참모학교\n\n1. 목적:\n    선발된 장교들에게 군 및 사단급 지휘 및 참모 직위에서의 책임과 임무에 대한 교육을 제공한다.\n    각 장교가 한국군의 참모 원칙과 조직에 대한 기본 지식을 갖추도록 보장한다.\n\n2. 범위:\n    교육 과목은 레번워스(Leavenworth)에서 가르치는 것과 유사할 것이다. 이는 불가피하게 축소된 규모로 진행되며 한국 내 실정에 맞게 수정될 것이다.\n\n3. 사전 요건:\n    장교들은 학교 입교 전 복무 적합성과 잠재력을 기준으로 신중하게 선발될 것이다.\n\n4. 총칙:\n    가. 위치: 부산(釜山)\n    나. 학급 정원: 60명\n    다. 교육 기간: 3개월\n    라. 교관: 미군 야전급 장교 10명\n            미군 사병 15명\n\n20\n22\n23\n24\n2급 비밀 02\n26 6-A\n27",
+ "entities": {
+  "people": [],
+  "places": [
+   "Leavenworth",
+   "Pusan"
+  ],
+  "units": [
+   "Korean Army"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 장교들을 대상으로 군·사단급 지휘참모 교육을 제공하는 지휘참모학교 신설을 계획하고 있다.",
+  "교육 과정은 미 육군 레번워스 방식을 축소·변형하여 한국 실정에 맞게 적용할 예정이다.",
+  "학교는 부산에 위치하며, 1기당 60명 정원으로 3개월 과정으로 운영되며, 미군 야전급 장교 10명과 사병 15명이 교관으로 배정된다."
+ ],
+ "confidence": "high",
+ "notes": "날짜는 청크에서 제공된 1945-01-01을 따랐으나, 문서 주제는 1947~1948년 한국군 창설 계획과 관련되어 있어 불일치할 수 있음.",
+ "doc_id": "D034",
+ "chunk": 4,
+ "of": 46,
+ "pages": [
+  "0137"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

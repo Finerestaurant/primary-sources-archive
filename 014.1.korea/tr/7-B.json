@@ -1,0 +1,40 @@
+{
+  "serial": "7-B",
+  "date": "1946-02-12",
+  "date_note": "12 FEBRUARY 1946 (원문 표기). 접수 도장 13 FEB 1946",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "태평양미육군총사령관(CINCAFPAC) — 맥아더(Douglas MacArthur)",
+  "to": "주한미군사령관(CG USAFIK)",
+  "info": null,
+  "msg_nr": "CA 57793",
+  "subject_en": "Ref TFGCG 281, indorsement to ref rad sent to WD",
+  "subject_ko": "TFGCG 281 관련 — 해당 전문을 배서(背書)를 붙여 육군부로 전송함",
+  "summary_ko": "맥아더는 하지가 보낸 TFGCG 281(미소공동위원회 심의에서 취할 접근 방식)을 합동참모본부로 전송하면서, 하지의 제안에 동의하며 지침이 될 정부의 견해를 요청한다는 배서를 붙였음을 하지에게 통보한다.",
+  "key_points_ko": [
+    "하지의 TFGCG 281 — 미소공동위원회(Joint Commission) 심의에서 사용할 접근 방식 — 을 합동참모본부에 무전으로 보냈다.",
+    "다음의 배서를 붙였다 : '본관은 하지의 제안에 동의하며, 지침이 될 정부의 견해를 요청함.'",
+    "이 전문 자체의 번호는 CA 57793.",
+    "배포처는 참모장(2부), 정부부장, 정치고문."
+  ],
+  "ko": "귀 TFGCG 281 — 공동위원회 심의에서 사용할 접근 방식 — 을 다음의 배서를 붙여 합동참모본부로 무전 송신하였음 (CA 57793) : 인용 시작 「본관은 하지(Hodge)의 제안에 동의하며, 지침이 될 정부의 견해를 요청함.」 인용 끝\n\n맥아더(MACARTHUR)",
+  "en": "YOUR TARE FOX GEORGE CHARLIE GEORGE TWO EIGHT ONE REFERENCE APPROACH TO BE USED IN DELIBERATIONS JOINT COMMISSION RADIOED JOINT CHIEFS OF STAFF WITH FOLLOWING INDORSEMENT ( CA 57793 ) COLON QUOTE ITEM AM IN AGREEMENT WITH HODGES SUGGESTION AND REQUEST THE GOVERNMENTS VIEWS FOR GUIDANCE UNQUOTE\n\nMACARTHUR\n\nOFFICIAL:\nH. W. ALLEN\nColonel, A.G.D.\nAsst Adjutant General\n\nDISTRIBUTION:\nC/S (2)\nC Govt Sec\nPolitical Adviser",
+  "stamps_ko": [
+    "우측 상단 고무인 : 'GHQ. AFPAC / AGO RECORDS', 날짜 '13 FEB 1946'",
+    "그 고무인 위 손글씨 : '014.1 Korea', 'T.S.'",
+    "본문 옆 손글씨 : 'TFGCG-281', '014.1 Korea'",
+    "상단 'TOP SECRET' 글자를 잉크로 동그라미 치고 선을 그어 본문으로 끌어내린 표시",
+    "우측 상단 스탬프 번호 : '120933'",
+    "본문 밑줄(잉크) : 'ITEM AM IN AGREEMENT WITH HODGES SUGGESTION AND REQUEST THE GOVERNMENTS VIEWS FOR GUIDANCE' 및 'TO BE USED IN DELIBERATIONS JOINT COMMISSION RADIOED JOINT CHIEFS OF STAFF' 구간",
+    "H. W. ALLEN 이름 위 자필 서명",
+    "하단 고무인 : 'AG RECORD COPY'",
+    "좌측 하단 연필 편철기호 : '7-B'"
+  ],
+  "people": [
+    "하지(Hodge) — 원문 표기 'HODGES'",
+    "맥아더(MacArthur)",
+    "H. W. Allen — 대령, 부관부, 부(副)부관감"
+  ],
+  "confidence": "high",
+  "notes": "전문은 음성문자 철자(TARE FOX GEORGE CHARLIE GEORGE = T-F-G-C-G)로 타전되었다. 'HODGES'는 원문 표기 그대로 두었다 — 실제 인물은 하지(John R. Hodge)로 소유격 'Hodge's'를 'HODGES'로 타전한 것이다. 문서 하단에 'TFGCG 281'이 다시 찍혀 있다."
+}

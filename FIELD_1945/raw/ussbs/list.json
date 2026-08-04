@@ -1,0 +1,494 @@
+[
+ {
+  "no": 1,
+  "file": "IJO-1.html",
+  "chars": 9113,
+  "title": "The Battle of Midway"
+ },
+ {
+  "no": 2,
+  "file": "IJO-2.html",
+  "chars": 9577,
+  "title": "Hiryu (CV) AT THE BATTLE OF MIDWAY"
+ },
+ {
+  "no": 3,
+  "file": "IJO-3.html",
+  "chars": 21405,
+  "title": "THE BATTLE OF THE PHILIPPINE SEA, 19-20 JUNE 1944"
+ },
+ {
+  "no": 4,
+  "file": "IJO-4.html",
+  "chars": 8142,
+  "title": "BATTLE OF MIDWAY"
+ },
+ {
+  "no": 5,
+  "file": "IJO-5.html",
+  "chars": 29329,
+  "title": "ALLIED OFFENSIVE MINING CAMPAIGN"
+ },
+ {
+  "no": 6,
+  "file": "IJO-6.html",
+  "chars": 5322,
+  "title": "THE ATTACK ON PEARL HARBOR THE KAMIKAZE CORPS IN PHILIPPINES AND OKINAWA"
+ },
+ {
+  "no": 7,
+  "file": "IJO-7.html",
+  "chars": 11563,
+  "title": "OCCUPATION OF PHILIPPINES AND DUTCH EAST INDIES"
+ },
+ {
+  "no": 8,
+  "file": "IJO-8.html",
+  "chars": 9027,
+  "title": "CORAL SEA BATTLE, 7-8 MAY 1942 BATTLE OF EASTERN SOLOMONS"
+ },
+ {
+  "no": 9,
+  "file": "IJO-9.html",
+  "chars": 65184,
+  "title": "BATTLE OF THE PHILIPPINE SEA BATTLE FOR LEYTE GULF"
+ },
+ {
+  "no": 10,
+  "file": "IJO-10.html",
+  "chars": 10469,
+  "title": "SOLOMON ISLAND OPERATIONS AND BATTLE OF CORAL SEA"
+ },
+ {
+  "no": 11,
+  "file": "IJO-11.html",
+  "chars": 16980,
+  "title": "JAPANESE NAVAL ESCORT OF SHIPPING AND SHIPPING LOSSES"
+ },
+ {
+  "no": 12,
+  "file": "IJO-12.html",
+  "chars": 18291,
+  "title": "KAMIKAZE CORPS"
+ },
+ {
+  "no": 13,
+  "file": "IJO-13.html",
+  "chars": 17420,
+  "title": "PEARL HARBOR-MIDWAY-SOLOMONS"
+ },
+ {
+  "no": 14,
+  "file": "IJO-14.html",
+  "chars": 8175,
+  "title": "OCCUPATION OF THE PHILIPPINES AND THE NETHERLANDS EAST INDIES"
+ },
+ {
+  "no": 15,
+  "file": "IJO-15.html",
+  "chars": 9514,
+  "title": "OPERATIONS OF JAPANESE NAVAL AIRCRAFT DURING INVASION OF PHILIPPINES AND NETHERLANDS EAST INDIES"
+ },
+ {
+  "no": 16,
+  "file": "IJO-16.html",
+  "chars": 18743,
+  "title": "BATTLE OF EASTERN SOLOMONS, 23-25 AUGUST 1945 BATTLE OF SANTA CRUZ, 26 OCTOBER 1942 SOLOMONS CAMPAIGN, 1942-19"
+ },
+ {
+  "no": 17,
+  "file": "IJO-17.html",
+  "chars": 10940,
+  "title": "INVASION OF THE PHILIPPINES AND NETHERLANDS EAST INDIES"
+ },
+ {
+  "no": 18,
+  "file": "IJO-18.html",
+  "chars": 14368,
+  "title": "GILBERT-MARSHALL ISLANDS OPERATIONS"
+ },
+ {
+  "no": 19,
+  "file": "IJO-19.html",
+  "chars": 2850,
+  "title": "OPERATIONS OF MAIN BODY OF SECOND FLEET"
+ },
+ {
+  "no": 20,
+  "file": "IJO-20.html",
+  "chars": 18406,
+  "title": "ALEUTIAN CAMPAIGN CARRIER AIRCRAFT ATTACK ON DUTCH HARBOR"
+ },
+ {
+  "no": 21,
+  "file": "IJO-21.html",
+  "chars": 23075,
+  "title": "ALEUTIAN CAMPAIGN SEAPLANE OPERATIONS, THE NAVAL BATTLE OF THE KOMANDORSKI ISLANDS, AND THE DEFENSE OF THE KUR"
+ },
+ {
+  "no": 22,
+  "file": "IJO-22.html",
+  "chars": 18372,
+  "title": "ALEUTIAN CAMPAIGN JAPANESE OCCUPATION OF KISKA, THE KISKA GARRISON, AND OPERATION IN THE KURILES"
+ },
+ {
+  "no": 23,
+  "file": "IJO-23.html",
+  "chars": 6224,
+  "title": "ALEUTIAN CAMPAIGN JAPANESE FLYING BOAT OPERATION IN THE ALEUTIANS"
+ },
+ {
+  "no": 24,
+  "file": "IJO-24.html",
+  "chars": 7502,
+  "title": "ALEUTIAN CAMPAIGN PLANNING AND OPERATIONS THROUGH NOVEMBER 1942"
+ },
+ {
+  "no": 26,
+  "file": "IJO-26.html",
+  "chars": 7818,
+  "title": "MINE WARFARE"
+ },
+ {
+  "no": 28,
+  "file": "IJO-28.html",
+  "chars": 12321,
+  "title": "TOKYO AIR DEFENSE"
+ },
+ {
+  "no": 29,
+  "file": "IJO-29.html",
+  "chars": 24064,
+  "title": "PEARL HARBOR -- BATTLE OF PHILIPPINE SEA -- BATTLE FOR LEYTE GULF"
+ },
+ {
+  "no": 30,
+  "file": "IJO-30.html",
+  "chars": 10542,
+  "title": "AIR DEFENSE: GILBERT, MARSHALL and MARIANAS ISLANDS"
+ },
+ {
+  "no": 31,
+  "file": "IJO-31.html",
+  "chars": 4341,
+  "title": "AIRCRAFT FERRYING AND PILOT ATTRITION, JNAF"
+ },
+ {
+  "no": 32,
+  "file": "IJO-32.html",
+  "chars": 10795,
+  "title": "THE ATTACK ON THE YAMATO GROUP, 7 APRIL 1945"
+ },
+ {
+  "no": 33,
+  "file": "IJO-33.html",
+  "chars": 7802,
+  "title": "GUADALCANAL-MIDWAY-VILLA"
+ },
+ {
+  "no": 34,
+  "file": "IJO-34.html",
+  "chars": 15036,
+  "title": "GILBERTS-MARSHALLS OPERATION. NAVAL STRATEGIC PLANNING"
+ },
+ {
+  "no": 35,
+  "file": "IJO-35.html",
+  "chars": 20425,
+  "title": "BATTLE OFF SAMAR, 25 OCTOBER 1944"
+ },
+ {
+  "no": 36,
+  "file": "IJO-36.html",
+  "chars": 26503,
+  "title": "BATTLE OFF CAPE ENGANO, 24-25 OCTOBER 1944"
+ },
+ {
+  "no": 37,
+  "file": "IJO-37.html",
+  "chars": 15580,
+  "title": "ATTACKS ON JAPANESE SHIPPING"
+ },
+ {
+  "no": 38,
+  "file": "IJO-38.html",
+  "chars": 5676,
+  "title": "TOKYO"
+ },
+ {
+  "no": 39,
+  "file": "IJO-39.html",
+  "chars": 8041,
+  "title": "BATTLE OF MIDWAY"
+ },
+ {
+  "no": 40,
+  "file": "IJO-40.html",
+  "chars": 3947,
+  "title": "NON-COMBAT LOSSES OF AIRCRAFT"
+ },
+ {
+  "no": 41,
+  "file": "IJO-41.html",
+  "chars": 19433,
+  "title": "BATTLE OFF SAMAR, OCTOBER 1944"
+ },
+ {
+  "no": 43,
+  "file": "IJO-43.html",
+  "chars": 5686,
+  "title": "JAPANESE NAVAL PLANNING"
+ },
+ {
+  "no": 44,
+  "file": "IJO-44.html",
+  "chars": 21550,
+  "title": "DEFENSE OF THE PHILIPPINES, 1944"
+ },
+ {
+  "no": 45,
+  "file": "IJO-45.html",
+  "chars": 12508,
+  "title": "ESCORT AND PROTECTION OF SHIPPING"
+ },
+ {
+  "no": 46,
+  "file": "IJO-46.html",
+  "chars": 8482,
+  "title": "GUADALCANAL-MIDWAY-MUNDA and RABAUL"
+ },
+ {
+  "no": 47,
+  "file": "IJO-47.html",
+  "chars": 11923,
+  "title": "CONVOY ESCORT AND PROTECTION OF SHIPPING"
+ },
+ {
+  "no": 48,
+  "file": "IJO-48.html",
+  "chars": 6351,
+  "title": "JAPANESE AIRBORNE MAGNETIC DETECTOR"
+ },
+ {
+  "no": 49,
+  "file": "IJO-49.html",
+  "chars": 11935,
+  "title": "CONVOY PROTECTION OF SHIPPING"
+ },
+ {
+  "no": 50,
+  "file": "IJO-50.html",
+  "chars": 11520,
+  "title": "AIRCRAFT AVAILABILITY AND LOSS REPORTS"
+ },
+ {
+  "no": 51,
+  "file": "IJO-51.html",
+  "chars": 9730,
+  "title": "ALEUTIAN CAMPAIGN"
+ },
+ {
+  "no": 52,
+  "file": "IJO-52.html",
+  "chars": 9934,
+  "title": "RABAUL"
+ },
+ {
+  "no": 53,
+  "file": "IJO-53.html",
+  "chars": 13159,
+  "title": "ESCORT AND PROTECTION OF SHIPPING"
+ },
+ {
+  "no": 54,
+  "file": "IJO-54.html",
+  "chars": 7599,
+  "title": "MINE COUNTER-MEASURES"
+ },
+ {
+  "no": 55,
+  "file": "IJO-55.html",
+  "chars": 37144,
+  "title": "BATTLE FOR LEYTE GULF, OCTOBER 1944"
+ },
+ {
+  "no": 56,
+  "file": "IJO-56.html",
+  "chars": 7099,
+  "title": "AIRCRAFT ESCORT OF CONVOYS AND ANTI-SUBMARINE. OPERATIONS"
+ },
+ {
+  "no": 57,
+  "file": "IJO-57.html",
+  "chars": 10869,
+  "title": "ESCORT AND DEFENSE OF SHIPPING"
+ },
+ {
+  "no": 58,
+  "file": "IJO-58.html",
+  "chars": 30476,
+  "title": "BATTLE OF SURIGAO STRAIT"
+ },
+ {
+  "no": 59,
+  "file": "IJO-59.html",
+  "chars": 9190,
+  "title": "MINE COUNTER-MEASURES AND SHIPPING LOSSES IN"
+ },
+ {
+  "no": 60,
+  "file": "IJO-60.html",
+  "chars": 13810,
+  "title": "TRANSPORTS AT MIDWAY TRANSPORTS AT BATTLE OF EASTERN SOLOMONS, 25 AUGUST 1942 BATTLE OF TASSAFARONGA, 30 NOVEM"
+ },
+ {
+  "no": 61,
+  "file": "IJO-61.html",
+  "chars": 4398,
+  "title": "BATTLE OF SAVO ISLAND, 9 AUGUST 1942"
+ },
+ {
+  "no": 62,
+  "file": "IJO-62.html",
+  "chars": 5327,
+  "title": "MINE WARFARE SHIMONOSEKI STRAITS AND FORMOSA AREAS"
+ },
+ {
+  "no": 63,
+  "file": "IJO-63.html",
+  "chars": 8744,
+  "title": "ANTI-SUBMARINE TRAINING AND EQUIPMENT"
+ },
+ {
+  "no": 64,
+  "file": "IJO-64.html",
+  "chars": 20794,
+  "title": "JAPANESE NAVAL PLANNING AFTER MIDWAY"
+ },
+ {
+  "no": 65,
+  "file": "IJO-65.html",
+  "chars": 4805,
+  "title": "MINE WARFARE"
+ },
+ {
+  "no": 66,
+  "file": "IJO-66.html",
+  "chars": 9963,
+  "title": "MIDWAY-EASTERN SOLOMONS-PHILIPPINES"
+ },
+ {
+  "no": 67,
+  "file": "IJO-67.html",
+  "chars": 9311,
+  "title": "ALEUTIAN CAMPAIGN JAPANESE TWELFTH AIR FLEET IN THE KURILES AND NORTH PACIFIC"
+ },
+ {
+  "no": 68,
+  "file": "IJO-68.html",
+  "chars": 6004,
+  "title": "JAPANESE INVASION OF THE PHILIPPINES"
+ },
+ {
+  "no": 69,
+  "file": "IJO-69.html",
+  "chars": 23717,
+  "title": "BATTLE OFF CAPE ENGANO"
+ },
+ {
+  "no": 70,
+  "file": "IJO-70.html",
+  "chars": 11272,
+  "title": "OBSERVATIONS ON THE COURSE OF THE WAR KARUIZAWA 11 NOVEMBER 1945"
+ },
+ {
+  "no": 71,
+  "file": "IJO-71.html",
+  "chars": 15717,
+  "title": "JAPANESE NAVAL LAND-BASED AIR OPERATIONS IN WESTERN NEW GUINEA"
+ },
+ {
+  "no": 72,
+  "file": "IJO-72.html",
+  "chars": 29421,
+  "title": "SUBMARINE WARFARE"
+ },
+ {
+  "no": 73,
+  "file": "IJO-73.html",
+  "chars": 42165,
+  "title": "ALEUTIAN CAMPAIGN OPERATIONS OF THE JAPANESE FIRST DESTROYER SQUADRON"
+ },
+ {
+  "no": 74,
+  "file": "IJO-74.html",
+  "chars": 12593,
+  "title": "ANTI-SUBMARINE WARFARE"
+ },
+ {
+  "no": 75,
+  "file": "IJO-75.html",
+  "chars": 76117,
+  "title": "JAPANESE WAR PLANS AND PEACE MOVES"
+ },
+ {
+  "no": 76,
+  "file": "IJO-76.html",
+  "chars": 29930,
+  "title": "JAPANESE WAR PLANNING"
+ },
+ {
+  "no": 77,
+  "file": "IJO-77.html",
+  "chars": 13780,
+  "title": "OPERATIONS OF 22ND AIR FLOTILLA IN MALAYA"
+ },
+ {
+  "no": 78,
+  "file": "IJO-78.html",
+  "chars": 11053,
+  "title": "EMPRESS AUGUSTA BAY, 2 NOVEMBER 1943"
+ },
+ {
+  "no": 79,
+  "file": "IJO-79.html",
+  "chars": 31942,
+  "title": "BATTLE OF SURIGAO STRAIT"
+ },
+ {
+  "no": 80,
+  "file": "IJO-80.html",
+  "chars": 22257,
+  "title": "JAPANESE NAVAL PLANS"
+ },
+ {
+  "no": 81,
+  "file": "IJO-81.html",
+  "chars": 8072,
+  "title": "OCCUPATION OF THE PHILIPPINES AND DUTCH EAST INDIES"
+ },
+ {
+  "no": 82,
+  "file": "IJO-82.html",
+  "chars": 6520,
+  "title": "MOVEMENTS OF JAPANESE SECOND FLEET IN CENTRAL PACIFIC"
+ },
+ {
+  "no": 96,
+  "file": "IJO-96.html",
+  "chars": 7895,
+  "title": "MARSHALLS-GILBERTS OPERATIONS"
+ },
+ {
+  "no": 115,
+  "file": "IJO-115.html",
+  "chars": 164771,
+  "title": "The Naval War in the Pacific"
+ },
+ {
+  "no": 9999,
+  "file": "IJO-Bio.html",
+  "chars": 81946,
+  "title": ""
+ }
+]

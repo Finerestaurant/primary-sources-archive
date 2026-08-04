@@ -1,0 +1,39 @@
+{
+ "doc_type": "other",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Medical Department School course outline for South Korean Army medical officers",
+ "subject_ko": "남조선 국방경비대 의무장교를 위한 의무부 학교 교육 과정 개요",
+ "en": "[[page 0258]]\nDECLASSIFIED\nAuthority NND 886527\nTOP SECRET\nANNEX # 1 to\nMedical Department School\n\n1. Purpose:\nTo provide instruction for Medical Officers in the responsibilities\nand duties in Medical units.\n\n2. Scope:\na. Evacuation.\nb. Administration.\nc. Operation, clearing and collecting units.\nd. Field hospitals.\ne. Staff duties and field orders.\n\n3. Prerequisites:\nMedical officers assigned to Medical units.\n\n4. General:\na. Location of School: Seoul - 34th General Hospital\nb. Class capacity: 25 students\nc. Duration of course: 160 hours (4 weeks)\nd. Instructors: 5 U.S. officers\n   10 U.S. enlisted men\ne. When formal instruction is completed students will perform\non-the-job training in the U.S. Hospitals.\n\nTOP SECRET",
+ "ko": "[[면 0258]]\n비밀해제\n권한 NND 886527\n2급 비밀(TOP SECRET)\n별지 # 1 부\n의무부 학교(Medical Department School)\n\n1. 목적:\n의무 부대에서의 책임과 의무에 관하여 의무 장교들에게 교육을 제공한다.\n\n2. 범위:\n가. 후송(Evacuation).\n나. 행정(Administration).\n다. 수술, 환자 분류 및 수용 부대 운용.\n라. 야전 병원.\n마. 참모 근무 및 야전 명령.\n\n3. 필요 조건:\n의무 부대에 배속된 의무 장교.\n\n4. 일반 사항:\n가. 학교 위치: 서울 - 제34종합병원(34th General Hospital)\n나. 학급 정원: 25명\n다. 과정 기간: 160시간 (4주)\n라. 교관: 미군 장교 5명\n   미군 사병 10명\n마. 정규 교육 종료 시 학생들은 미군 병원에서 현장 실습(on-the-job training)을 수행한다.\n\n2급 비밀(TOP SECRET)",
+ "entities": {
+  "people": [],
+  "places": [
+   "Seoul"
+  ],
+  "units": [
+   "Medical Department School",
+   "34th General Hospital"
+  ]
+ },
+ "key_points_ko": [
+  "본 과정은 의무 부대에 배속된 의무 장교들에게 행정, 후송, 야전 병원 운용 등 실무를 교육하는 4주(160시간) 과정이다.",
+  "학교는 서울 소재 제34종합병원에 위치하며, 학급 정원은 25명이다.",
+  "교관은 미군 장교 5명과 사병 10명으로 구성되며, 정규 교육 종료 후 미군 병원에서 현장 실습이 이어진다."
+ ],
+ "confidence": "medium",
+ "notes": "OCR에서 'Medial Doperimens School'을 'Medical Department School'로, 'clese capacity'를 'class capacity'로 재구성함. 'Stati duties and field ordere'는 'Staff duties and field orders'로 교정. 'When fomel instruation'은 'When formal instruction'으로 수정.",
+ "doc_id": "D034",
+ "chunk": 45,
+ "of": 46,
+ "pages": [
+  "0258"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

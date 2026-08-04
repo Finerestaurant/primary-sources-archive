@@ -1,0 +1,36 @@
+{
+  "doc_id": "d559",
+  "date": "1945-04-29",
+  "time": null,
+  "doc_type": "서한",
+  "place": "Moscow",
+  "from": "The American Chargé in the Soviet Union (Kennan) 주소련 미국 대리대사 케넌",
+  "to": "The Assistant People’s Commissar for Foreign Affairs of the Soviet Union (Vyshinsky) 소련 외무인민위원 대리 비신스키",
+  "msg_nr": "No. 226",
+  "source_note": "740.00119 EW/4–2945",
+  "title_en": "The American Chargé in the Soviet Union (Kennan) to the Assistant People’s Commissar for Foreign Affairs of the Soviet Union (Vyshinshy)",
+  "title_ko": "주소련 미국 대리대사(케넌)가 소련 외무인민위원 대리(비신스키)에게",
+  "subject_ko": "이탈리아 주둔 독일군의 현지 항복 발표는 알렉산더가 적절하다고 여기는 시점에 하고 다른 곳에서 먼저 발표하지 말자는 트루먼의 제안을 스탈린에게 전달했다.",
+  "key_points_ko": [
+    "케넌이 대통령이 스탈린에게 보내는 메시지(개인·극비)를 비신스키를 통해 전달했다.",
+    "그 메시지는 트루먼이 처칠에게 보낸 메시지의 본문을 담고 있다.",
+    "알렉산더 원수의 Naf 934호와 관련하여, 이탈리아 주둔 독일군이 영미 연합군에 현지 항복(local surrender)한 사실의 발표를 알렉산더가 적절하고 옳다고 여기는 시점에 그가 하도록 제안했다.",
+    "첫 발표는 다른 어느 곳에서도 하지 말 것을 제안했다.",
+    "처칠이 동의한다면 알렉산더에게 그에 따라 지시해 달라고 했다.",
+    "각주에 따르면 Naf 934호(4월 29일자)는 독일 전권대표들이 항복 조건을 수락했다고 보고한 것이다."
+  ],
+  "ko": "제226호\n\n모스크바, 1945년 4월 29일.\n\n비신스키 씨 귀하. 본인은 대통령이 스탈린 원수에게 보내는 다음 메시지를 전달하도록 지시받았습니다.\n\n「스탈린 원수 앞, 대통령으로부터. 개인 및 극비. 「다음은 본인이 처칠 총리에게 보낸 메시지의 본문입니다.\n\n「『알렉산더 원수의 Naf 934호[주54]와 관련하여 본인은, 이탈리아 주둔 독일군이 영미 연합군에 현지 항복(local surrender)한 사실의 발표를 알렉산더가 적절하고 옳다고 여기는 시점에 그가 하도록 하고, 첫 발표를 다른 어느 곳에서도 하지 아니할 것을 제안합니다.\n\n「『동의하신다면 알렉산더에게 그에 따라 지시하여 주시기 바랍니다.』\n\n(서명) 트루먼.」\n\n이 메시지를 스탈린 원수에게 전달하여 주시면 감사하겠습니다.\n\n경구,\n\n조지 F. 케넌(George F. Kennan)",
+  "notes_ko": [
+    "[주54] 인쇄하지 않음. 4월 29일자인 이 전문은 독일 전권대표들이 항복 조건을 수락하였다고 보고한 것이다. 육군부 문서철에서 얻은 사본."
+  ],
+  "people": [
+    "Kennan 케넌(주소련 대리대사)",
+    "Vyshinsky 비신스키(소련 외무인민위원 대리)",
+    "Truman 트루먼(대통령)",
+    "Stalin 스탈린",
+    "Churchill 처칠(영국 총리)",
+    "Alexander 알렉산더(원수)"
+  ],
+  "confidence": "high",
+  "notes": "표제의 「Vyshinshy」는 원문의 오식이므로 title_en에 그대로 두었다. 인용부호가 겹쳐 열린 채 닫히지 않는 원문의 표기도 그대로 살렸다."
+}

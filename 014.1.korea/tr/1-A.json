@@ -1,0 +1,35 @@
+{
+  "serial": "1-A",
+  "date": "1945-09-13",
+  "date_note": "본문 타자 '13 SEPTEMBER 1945'",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "태평양미육군총사령관 전진제대(CINCAFPAC ADV)",
+  "to": "육군참모총장(WARCOS)",
+  "info": null,
+  "msg_nr": "C.A 51904",
+  "subject_en": "Ref W 59252 & WX 61967 — general content concurred in",
+  "subject_ko": "W 59252 및 WX 61967 관련 — 전반적 내용에 동의함",
+  "summary_ko": "육군부가 보낸 두 지령안(W 59252, WX 61967)을 이 사령부에 대한 구체적 명령이 아니라 정책 지침으로서의 일반 지령으로 발령하는 편이 낫겠다는 의견을 붙이되, 그 전반적 내용에는 동의한다고 회신한 전문이다.",
+  "key_points_ko": [
+    "회신 대상은 W 59252(일본 민사행정 계열)와 WX 61967(조선 민사행정 지령안) 두 건이다.",
+    "두 지령안을 '이 사령부에 대한 구체적 명령'이 아니라 '정책 지침을 위한 일반 지령'으로 발령하는 편이 바람직하다고 본다.",
+    "다만 전반적 내용(general content)에는 동의한다.",
+    "발신 4일 만에 나온 1차 회신으로, 이후 1-D(9월 22일)의 독촉으로 이어진다."
+  ],
+  "ko": "귀 전문 윌리엄 오 구 이 오 이(W 59252) 및 윌리엄 엑스레이 육 일 구 육 칠(WX 61967)에 담긴 지령안을 이 사령부에 대한 구체적 명령이 아니라 정책 지침을 위한 일반 지령으로서 발령하는 편이 바람직하리라고 사료되나, ( C.A 51904 ) 전반적 내용에는 동의함.\n\n인증(OFFICIAL):\n해럴드 페어(HAROLD FAIR), 중령, 부관부(AGD), 부관보(Asst Adj Gen)\n\n[배포] CINC(총사령관) / C/S(참모장) / DC/S(참모차장) — 전령 편(Via Courier)\n[참조] W-59252 및 WX-61967",
+  "en": "ALTHOUGH IT IS BELIEVED IT WOULD BE PREFERABLE TO ISSUE THE PROPOSED DIRECTIVES CONTAINED IN YOUR WILLIAM FIVE NINE TWO FIVE TWO AND WILLIAM XRAY SIX ONE NINE SIX SEVEN AS GENERAL DIRECTIVES FOR THE POLICY GUIDANCE OF THIS HEADQUARTERS RATHER THAN AS SPECIFIC ORDERS CMA ( C.A 51904 ) THE GENERAL CONTENT IS CONCURRED IN\n\nOFFICIAL:\nHAROLD FAIR\nLt Col, AGD,\nAsst Adj Gen.\n\nDISTRIBUTION:\nCINC\nC/S\nDC/S - Via Courier\n\nW-59252 & WX-61967",
+  "stamps_ko": [
+    "좌상단 도장 'COPY' · 상단 'TOP SECRET' 도장 · 하단 'TOP SECRET' 도장과 'COPY' 도장",
+    "우측 여백 접수 도장 — 'GHQ AGO RECORDS 14 SEP 1945', 그 옆 손글씨 '014.1 Korea'",
+    "본문 위 손글씨 편철기호 — '384.1 TS' 및 '014.1 Korea'(밑줄)",
+    "우측 중단 손글씨 — 'COPY FILED 384.1'",
+    "타자 표시 'PRIORITY  XXX' · 'XXX' · 'CS  RKS/fh'",
+    "좌하단 연필 편철기호 '1-A'(면에는 '/-A'로 보인다)"
+  ],
+  "people": [
+    "해럴드 페어(Harold Fair) — 중령, 부관보"
+  ],
+  "confidence": "high",
+  "notes": "본문이 음성 문자(WILLIAM=W, XRAY=X)로 전문번호를 풀어 쓴 평문 전보다. 한국어에서는 뜻이 통하도록 숫자를 병기했다. 'CMA'는 전신 부호로 쉼표를 뜻한다. 이 면은 원본이 아니라 사본(COPY)이다."
+}

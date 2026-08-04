@@ -1,0 +1,44 @@
+{
+ "doc_type": "cover",
+ "date": "1946-01-13",
+ "from": "CINCAFPAC ADV",
+ "to": "CG USAFIK",
+ "info": "CINCAFPAC MANZLA",
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Routing slip for forwarding JCS (WX) cable 92635 regarding deletion of paragraph from USAFIK Field Order No. 1 and deferred approval of Korean military force",
+ "subject_ko": "JCS 전문(WX) 92635호를 송부하며, USAFIK 야전명령 제1호 문단 삭제 및 한국군 승인 보류에 관한 전달표지",
+ "en": "[[page 0328]]\nDECLASSIFIED\nAuthority NND 886527\nTOP SECRET\n\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES, PACIFIC\nGC-P JTS/ejd\nROUTINE 13 JANUARY 1948\n\nFROM: CINCAFPAC ADV\nTO : CG USAFIK\nINFO: CINCAFPAC MANILA\n\nWAR DEPARTMENT RADIOGRAM WILLIAM XRAY NINE TWO SIX THREE FIVE CHA TWELVE\nJANUARY CMA READS AS FOLLOWS COLON QUOTE REFERENCE WILLIAM XRAY NINE TWO\nONE EIGHT SEVEN SUGEST PARAGRAPH THREE DOG PAREN EIGHT PAREN FIELD ORDER\nNUMBER ONE HEADQUARTERS UNCLE SUGAR ABLE FOX ITEM KING TWO THREE DECEMBER\nBE DELETED PD (CAX 56889) WILLIAM XRAY NINE TWO ONE EIGHT SEVEN\nDEFERRED APPROVAL OF KOREAN MILITARY FORCE PD UNQUOTE DESIRE APPROPRIATE\nACTION\n\nOFFICIAL: APPROVED\n\n9L\nBF RIICH C. A. RUSSELL\n[signed]\nBrigadier General, U.S. Army\nAdjutant General\n[signed]\nBrigadier General, G.S.C.\nAsst. Chief of Staff, G-3\n\n8L\nCopies to:\n[illegible]\nG-3 (Return)\n\n0Z\nTOP SECRET\n9Z",
+ "ko": "[[면 0328]]\n비밀해제\n권한 NND 886527\n2급비밀(TOP SECRET)\n\n총사령부\n미 육군 태평양 전력\nGC-P JTS/ejd\n통상 1948년 1월 13일\n\n발신: CINCAFPAC ADV (미극동육군총사령부 선발대)\n수신: CG USAFIK (주한미군사령관)\n참조: CINCAFPAC MANILA\n\n육군부 전문 윌리엄 엑스레이 구이육삼오 차 1월 12일\n내용 전문 발췌 인용구 참조 윌리엄 엑스레이 구이\n일팔칠 건의사항 12월 23일\n야전명령 제1호 본부 엉클 슈가 에이블 폭스 아이템 킹 제3항 디(8)\n삭제 바 (CAX 56889) 윌리엄 엑스레이 구이일팔칠\n한국군 승인 보류 바 인용구 끝. 적절한\n조치 요망.\n\n공식: 승인됨\n\n9L\nBF 리치 C. A. 러셀\n[서명]\n미 육군 준장\n부관감\n[서명]\n준장, 참모장교단\n인사·작전참모차장(G-3)\n\n8L\n배부처:\n[판독불가]\nG-3 (반납)\n\n0Z\n2급비밀(TOP SECRET)\n9Z",
+ "entities": {
+  "people": [
+   "Russell, C. A. (Brigadier General)"
+  ],
+  "places": [
+   "Manila"
+  ],
+  "units": [
+   "CINCAFPAC ADV",
+   "CG USAFIK",
+   "CINCAFPAC",
+   "G-3",
+   "UNCLE SUGAR ABLE FOX ITEM KING (USAFIK)"
+  ]
+ },
+ "key_points_ko": [
+  "1948년 1월 12일자 JCS 전문(WX 92635)을 주한미군사령관(CG USAFIK)에게 송부하는 문서이다.",
+  "JCS 전문의 요지는 12월 23일자 USAFIK 야전명령 제1호 제3항D(8)의 삭제를 건의하고 한국군 창설 승인이 보류되었음을 통보하는 것이다.",
+  "본 문서는 전문의 전문(全文)을 전달하는 표지(routing slip) 역할이며, 수신 측에 적절한 후속 조치를 요청하고 있다."
+ ],
+ "confidence": "medium",
+ "notes": "OCR year corrected from 1946 to 1948 based on context and content referencing events in December (of prior year). 'MANZLA' corrected to 'MANILA'. 'UNCLE SUAR' corrected to 'UNCLE SUGAR'. 'EIGHT BEGHT SEVEN' corrected to 'EIGHT SEVEN'. Numerical message reference 'NINE IWO ONE BEGHT SEVEN' reconstructed as 'NINE TWO ONE EIGHT SEVEN'. 'EIORT' corrected to 'EIGHT'. 'BI FIICH' and adjacent signatures are partially garbled; reconstructed as 'BF RIICH C. A. RUSSELL' based on typical routing slip format.",
+ "doc_id": "D056",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0328"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

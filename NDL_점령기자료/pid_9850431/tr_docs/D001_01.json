@@ -1,0 +1,34 @@
+{
+ "doc_type": "cover",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "SECRET",
+ "subject": "File cover for G-3 Administration files covering Korea, 19 November 1946 through 26 April 1948",
+ "subject_ko": "G-3 행정 참모부 파일 표지, 한국 관련, 1946년 11월 19일 ~ 1948년 4월 26일",
+ "en": "DECLASSIFIED\nAuthority NND 886527\n091.\nKOREA\nNOVEMBER 1946 THRU\n26 APRIL 1948\n\nG-3 FILE\nAdministration\n\nSECRET",
+ "ko": "비밀해제\n해제 권한 NND 886527\n091.\n한국\n1946년 11월 ~\n1948년 4월 26일\n\nG-3 파일\n행정\n\nSECRET(2급 비밀)",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": []
+ },
+ "key_points_ko": [
+  "G-3 행정 참모부의 한국 관련 파일 표지임.",
+  "포함 기간은 1946년 11월 19일부터 1948년 4월 26일까지임."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D001",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0001",
+  "0002"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

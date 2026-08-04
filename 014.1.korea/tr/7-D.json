@@ -1,0 +1,39 @@
+{
+  "serial": "7-D",
+  "date": "1946-02-15",
+  "date_note": "본문 상단 타자 '15 FEB 1946'(도쿄 접수). TOO 141613 Z",
+  "doc_type": "전문",
+  "classification": "Top Secret",
+  "from": "워싱턴(WASHINGTON) — 서명 WARCOS 육군참모총장",
+  "to": "태평양미육군총사령관(CINCAFPAC), 주한미군사령관(CG USAFIK)에게 전달할 것",
+  "info": "총사령관(Commander in Chief), 참모장(Chief of Staff), 부관부(AG), 민정부(C Govt Sect), 정치고문(Political Advisor)",
+  "msg_nr": "W 97127",
+  "subject_en": "Ref CA 57792 — State Dept guidance being requested through JCS and SWNCC",
+  "subject_ko": "CA 57792 관련 — 합참과 SWNCC를 통해 국무부 지침을 요청 중",
+  "summary_ko": "CA 57792에 대해 국무부 지침을 합참과 SWNCC를 통해 요청 중이며, 그동안 국무부는 14일 도착 예정인 해리먼·애치슨과 협의할 예정이라는 짧은 통보.",
+  "key_points_ko": [
+    "CA 57792를 참조한 회신이다.",
+    "국무부 지침은 합동참모본부(JCS)와 국무·육군·해군 3부조정위원회(SWNCC)를 거쳐 요청되고 있다.",
+    "그 사이 국무부는 14일 도착 예정인 해리먼(Harriman)과 애치슨(Atcheson)과 이 문제를 논의할 작정이다.",
+    "이 전문은 CG USAFIK 로는 전달되지 않았다(This radio has not been passed to CG USAFIK)."
+  ],
+  "ko": "CA 57792 참조. 국무부 지침을 합동참모본부(JCS)와 SWNCC를 통해 요청하고 있다. 그동안 국무부는 14일에 도착할 예정인 해리먼(Harriman) 및 애치슨(Atcheson)과 이 문제를 논의할 작정이다.",
+  "en": "Ref CA 57792. State Dept guidance is being requested through JCS and SWNCC. Meanwhile State Dept intends to discuss with Harriman and Atcheson who are due to arrive on 14th.\n\nWARCOS",
+  "stamps_ko": [
+    "접수 도장: GHQ AFPAC AGO RECORDS 15 FEB 1946",
+    "도장 안 손글씨: '014.1 Korea', 'Top Secret'",
+    "전문번호 옆 손글씨: '014.1 KOREA'",
+    "여백 손글씨 회부 표시: 'X 070 SD', 'X 97126'(끝자리 불확실) — 사선 표시",
+    "도장: A. G. FILE",
+    "타자 이니셜: 'E. B.'",
+    "타자 기재: 'This radio has not been passed to CG USAFIK'(이 전문은 주한미군사령관에게 전달되지 않았음)",
+    "우하단: COPY NO (번호는 흐려 판독불가, '7'로 읽힘)",
+    "좌하단 연필 일련번호: 7-D"
+  ],
+  "people": [
+    "해리먼(W. Averell Harriman — 원문 'Harriman')",
+    "애치슨(George Atcheson, Jr. — 원문 'Atcheson', 맥아더의 정치고문)"
+  ],
+  "confidence": "high",
+  "notes": "1) 본문 하단 주의 문구에 'AR 380-15, 15 Mar 1944' 로 타자돼 있으나 다른 면들은 모두 'AR 380-5' 다. 원본 타자 오류로 보이나 고치지 않았다. 2) 'authroized'(=authorized) 도 원본 타자 오타. 3) 인명 Atcheson 은 국무장관 Dean Acheson 이 아니라 맥아더의 정치고문 George Atcheson, Jr. 로 읽힌다 — 원문 철자를 그대로 두었다."
+}

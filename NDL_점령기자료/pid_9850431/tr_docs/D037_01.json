@@ -1,0 +1,42 @@
+{
+ "doc_type": "cable",
+ "date": "1948-01-27",
+ "from": "CSGPO",
+ "to": "CINCFE",
+ "info": "CG USAFIK",
+ "msg_nr": "WARX 94729",
+ "classification": "TOP SECRET",
+ "subject": "Request for CINCFE comments on WARX 94049",
+ "subject_ko": "CINCFE에 WARX 94049 관련 논평 요청",
+ "en": "[[page 0264]]\nDECLASSIFIED\nAuthority NND 86527\nCWH\n\nGENERAL HEADQUARTERS, FAR EAST COMMAND\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\nINCOMING MESSAGE\n\nTOP SECRET\n\nPriority\n\n27 Jan 48\n\nFROM: CSGPO\nTO: CINCFE\nINFO: CG USAFIK\nNR: WARX 94729\n\nReference WARX 94049. No CINCFE comments on subject\nmessage yet received here. Would appreciate advice as to\ndate comments may be expected.\n\nNO SIG\n\nACTION: G-3\nINFORMATION: COMMANDER IN CHIEF, CHIEF OF STAFF\n\n1630\n\nACTION COMPLETED 1700\n\nACTION COMPLETED\nDATE 29 Jan recd 21 JAN PHI\n\nPRIORITY TOO: 262341 Z\nMCN: 69768\n\n\"Paraphrase not required. Handle as TOP SECRET correspondence\nper par 51 1 and 60 a (4) AR 380-5.\"\n\nTOP SECRET copy\n\n5-4(2)(3), and 60-A (1)(2)(3)(4), AR 380-5, 6 March 1946. 16-50735-1 GPO\n\nin accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1)\nHandling and transmission of literal plain text of this message as correspond-\nence of the same classification has been authorized by the War Department\nCOPY No. 7",
+ "ko": "[[면 0264]]\n기밀해제\n근거 NND 86527\nCWH\n\n극동군 총사령부\n부관실\n무선 및 전신 센터\n수신 전문\n\n2급 비밀\n\n우선도\n\n1948년 1월 27일\n\n발신: 육군부 참모차장 작전기획실(CSGPO)\n수신: 극동군 총사령관(CINCFE)\n정보 배포: 주한 미군 사령관(CG USAFIK)\n전문 번호: WARX 94729\n\n참조: WARX 94049. 해당 전문에 대한 극동군 총사령관의\n논평이 아직 이곳에 접수되지 않았음.\n논평 발송 예정일을 알려주기 바람.\n\n무서명\n\n처리 부서: G-3(작전참모부)\n정보 배포 대상: 총사령관, 참모장\n\n1630\n\n처리 완료 1700\n\n처리 완료\n일자 1월 29일 수신 1월 21일 필리핀\n\n우선 발신 시각: 262341 Z\n전문 관리 번호: 69768\n\n\"의역 불필요. 2급 비밀 문서로 취급할 것.\n육군 규정 380-5호 제51항 1 및 제60항 a (4)에 의거.\"\n\n2급 비밀 사본\n\n5-4(2)(3)항 및 60-A (1)(2)(3)(4)항, 육군 규정 380-5호,\n1946년 3월 6일. 16-50735-1 GPO\n\n제16-C항, 18-E항, 53-A항, 53-D (1)항의 규정에 따라\n본 메시지의 축어적 평문을 동일 분류 등급의 문서로 취급 및\n전송하는 것이 전쟁부에 의해 승인되었음.\n사본 제 7호",
+ "entities": {
+  "people": [],
+  "places": [
+   "PHI (Philippines)",
+   "필리핀"
+  ],
+  "units": [
+   "CSGPO (Chief of Staff, General Planning Office)",
+   "CINCFE (Commander in Chief, Far East)",
+   "CG USAFIK (Commanding General, US Army Forces in Korea)",
+   "G-3"
+  ]
+ },
+ "key_points_ko": [
+  "CSGPO가 CINCFE에 WARX 94049에 대한 논평이 아직 접수되지 않았음을 통보하고 회신 일정을 문의함.",
+  "본 전문은 육군 규정 380-5에 따라 의역을 생략하고 전문 자체를 2급 비밀로 취급·전송 실시.",
+  "주한미군사령관에게는 참고 정보로만 배포되었으며, 실무 처리는 G-3(작전참모부)에 지시됨."
+ ],
+ "confidence": "high",
+ "notes": "OCR 오기 'Promet'을 'Priority'로, 'GE AL'을 'GENERAL'로, 'CSGPO' 철자를 유추하여 복원함. 하단부 행 배치와 보안 문구 배치는 물리적 위치보다 정보 순서에 따라 정리함.",
+ "doc_id": "D037",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0264"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

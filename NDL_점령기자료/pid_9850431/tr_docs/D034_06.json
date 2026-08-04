@@ -1,0 +1,38 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex 1: Syllabus — Company Officers Course (Infantry Officers) at Pusan",
+ "subject_ko": "부록 1: 교육 과정표 ― 부산의 중대급 장교 과정(보병 장교)",
+ "en": "DECLASSIFIED\nAuthority NND816527\nTOP SECRET\n\nANNEX # 1 c\n\nCompany Officers Course (Infantry Officers)\n\n1. Purpose:\nTo provide instruction for officers of company grade in their responsibilities and duties within the Infantry; and the employment of Infantry in the regimental and battalion combat teams.\n\n2. Scope:\na. Tactics and technique of all weapons and equipment authorized the Infantry.\nb. Tactics and technique of units of the Infantry up to and including the battalion.\nc. Staff duties and field orders.\nd. Domestic disturbances.\n\n3. Prerequisites:\nOfficers of company grade assigned to Infantry will attend.\n\n4. General:\na. Location: Pusan\nb. Class Capacity: 100 students\nc. Duration of course: 45 days\nd. Instructors: 10 U. S. officers, 10 U. S. enlisted men\n\nTOP SECRET",
+ "ko": "기밀해제\n권한 NND816527\n2급 비밀\n\n부록 # 1 c\n\n중대급 장교 과정(보병 장교)\n\n1. 목적:\n중대급 장교에게 보병 내에서의 책임과 임무, 그리고 연대 및 대대 전투단에서의 보병 운용에 관한 교육을 제공한다.\n\n2. 범위:\n가. 보병에 허가된 모든 화기 및 장비의 전술과 운용법.\n나. 대대를 포함한 대대 이하 보병 부대의 전술과 운용법.\n다. 참모 업무 및 야전 명령.\n라. 국내 소요 진압.\n\n3. 필수 조건:\n보병에 배속된 중대급 장교는 본 과정에 참석한다.\n\n4. 일반 사항:\n가. 위치: 부산\n나. 정원: 100명\n다. 과정 기간: 45일\n라. 교관: 미군 장교 10명, 미군 사병 10명\n\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Pusan(부산)"
+  ],
+  "units": [
+   "Infantry"
+  ]
+ },
+ "key_points_ko": [
+  "부산에서 중대급 보병 장교를 대상으로 하는 45일 과정의 교육 과정표를 제시하고 있다.",
+  "교육은 보병 화기·장비 전술, 대대급 이하 부대 운용, 참모 업무 및 국내 소요 진압을 포함한다.",
+  "각 과정은 미군 장교 10명과 사병 10명이 교관으로 배정되며 정원은 100명이다."
+ ],
+ "confidence": "high",
+ "notes": "OCR 오류 수정: 'Tactios'를 'Tactics'로, 'distrubances'를 'disturbances'로, 'offi'를 'officers'로, 'enlisted man S,'를 'enlisted men,'으로 교정. 스캔 인공물(SEKISUI JUSHI, 200cm, 우측 숫자들)은 제거함.",
+ "doc_id": "D034",
+ "chunk": 6,
+ "of": 46,
+ "pages": [
+  "0139"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

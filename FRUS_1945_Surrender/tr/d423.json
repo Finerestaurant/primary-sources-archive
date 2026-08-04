@@ -1,0 +1,41 @@
+{
+  "doc_id": "d423",
+  "date": "1945-08-12",
+  "time": null,
+  "date_note": "원문 표기: [Washington,] 12 August, 1945. (지명이 대괄호 안에 있음 — 편찬자 보충). 시각 표기 없음",
+  "doc_type": "각서",
+  "classification": null,
+  "place": "Washington",
+  "from": "극동국장 밸런타인(Joseph W. Ballantine)",
+  "to": "국무차관보(던)의 특별보좌관 유진 H. 두먼(Eugene H. Dooman)",
+  "msg_nr": null,
+  "source_note": null,
+  "title_en": "Memorandum by the Director of the Office of Far Eastern Affairs (Ballantine) to Mr. Eugene H. Dooman, Special Assistant to the Assistant Secretary of State (Dunn)",
+  "title_ko": "극동국장(밸런타인)이 국무차관보(던)의 특별보좌관 유진 H. 두먼에게 보내는 각서",
+  "subject_ko": "영국 공사 밸푸어가 베빈 외무장관이 보낸 항복 조건 초안을 두고 갔으며, 영국 정부는 본문과 절차의 확정 및 자치령 정부와의 사전 협의를 중시한다고 밝혔다.",
+  "key_points_ko": [
+    "영국 대사관의 밸푸어가 찾아와 베빈이 밸푸어에게 보낸 전보 본문(항복 조건 초안 포함)을 두고 갔다.",
+    "밸푸어는 이 초안이 참모총장단 및 자치령 정부들과 아직 조율되지 않은 잠정안이나, 대체로 영국 정부의 견해를 나타낸다고 말했다.",
+    "영국 정부는 본문과 절차의 확정을 매우 중시하며, 조치와 공표 전에 자치령 정부들과 조율할 기회를 원한다.",
+    "밸런타인은 이 문서를 미국 군 당국에 신속히 전달되도록 하겠다고 답했다.",
+    "밸푸어는 또 외무부 전보를 읽어 주었는데, 여기에는 총리가 대통령에게 보낸 전보의 본문(다소 어긋난 상태)이 인용되어 있었다.",
+    "그 전보에서 총리는 대통령이 제안한 절차에 대체로 동의하며 영국 대표로 브루스 오스틴 프레이저 제독을 지명한다고 밝혔다."
+  ],
+  "ko": "[워싱턴,] 1945년 8월 12일.\n\n영국 대사관의 밸푸어 씨[주66]가 찾아와, 베빈(Bevin) 씨가 밸푸어 씨에게 보낸 전보의 본문 — 항복 조건 초안이 담긴 — 을 나에게 두고 갔다.[주67]\n\n밸푸어 씨는, 이 초안이 아직 참모총장단 및 자치령 정부들과 조율되지 않았으므로 잠정적인 것이나, 대체로 영국 정부의 견해를 나타낸다고 말하였다. 그는 영국 정부가 본문과 절차를 확정하는 데 큰 중요성을 두고 있으며, 조치를 취하고 공표하기에 앞서 자치령 정부들과 조율할 기회를 갖기를 바란다고 말하였다.\n\n나는 그에게, 이 문서가 우리 군 당국에 신속히 전달되도록 하겠다고 말하였다.\n\n그는 또한 외무부의 전보 하나를 나에게 읽어 주었는데, 거기에는 총리가 대통령에게 보낸 전보의 본문이 (다소 어긋난 상태로) 인용되어 있었고, 그 전보에서 총리는 대통령이 제안한 절차에 대체로 동의하며 영국 대표로 브루스 오스틴 프레이저 경 제독(Admiral Sir Bruce Austin Fraser)을 지명한다고 밝히고 있었다.\n\n조지프 W. 밸런타인\n\n[642면]",
+  "notes_ko": [
+    "[주66] 존 밸푸어(John Balfour), 영국 공사.",
+    "[주67] 바로 아래 문서."
+  ],
+  "people": [
+    "Joseph W. Ballantine 조지프 W. 밸런타인 — 국무부 극동국장",
+    "Eugene H. Dooman 유진 H. 두먼 — 국무차관보 특별보좌관",
+    "James Clement Dunn 던 — 국무차관보",
+    "John Balfour 존 밸푸어 — 주미 영국 공사",
+    "Ernest Bevin 베빈 — 영국 외무장관",
+    "Bruce Austin Fraser 브루스 오스틴 프레이저 — 영국 해군 제독, 영국 대표로 지명",
+    "Clement Attlee 총리(본문에는 「Prime Minister」로만 나옴)",
+    "Harry S. Truman 대통령(본문에는 「President」로만 나옴)"
+  ],
+  "confidence": "high",
+  "notes": "본문의 「Prime Minister」와 「President」는 이름 없이 직함만 나오므로 그대로 「총리」·「대통령」으로 옮겼다. 「somewhat garbled」는 전신 수신 과정에서 문면이 어긋났다는 뜻으로 「다소 어긋난 상태로」라고 옮겼다."
+}

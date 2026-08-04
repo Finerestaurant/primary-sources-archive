@@ -1,0 +1,44 @@
+{
+ "doc_type": "cable",
+ "date": "1946-11-07",
+ "from": "CINCAFPAC",
+ "to": "CG USAFIK; CG PACUSA",
+ "info": "COMAF FIVE",
+ "msg_nr": "GC-A",
+ "classification": "TOP SECRET",
+ "subject": "Policy on low-level strafing against civil disturbances in Korea",
+ "subject_ko": "한국 내 민간 소요 진압을 위한 저고도 기총소사 정책",
+ "en": "[[page 0349]]\nDECLASSIFIED:\nAuthority NND86527\nIrl, vicint\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES, PACIFIC\nSIGNAL CORPS MESSAGE GC-A WAD/mcg\n7 NOVEMBER 1946\nTOP SECRET\nFROM: CINCAFPAC\nTO : CG USAFIK . URGENT 071047\nCG PACUSA . URGENT\nINFO: COMAF FIVE . URGENT\nLO X6703 8 ) REFERENCE PACUSA RADIO ABLE NINE SEVEN EIGHT\nSEVEN FOUR ABLE DASH THREE OF SIX NOVEMBER CMA CONCUR IN OPINION OF\nCOMMANDING GENERAL PACUSA CONTAINED IN PART TWO REPEAT TWO PD PARA\nRE PART ONE REPEAT ONE CMA NO REPEAT NO LOW LEVEL STRAFING WILL BE\nCONDUCTED IN KOREA AGAINST CIVIL DISTURBANCES UNLESS SPECIFICALLY\nAUTHORIZED BY CINCAFPAC PD IN THIS CONNECTION CMA ATTENTION IS INVITED\nTO PARAGRAPH THREE REPEAT THREE LETTER OF TRANSMITTAL DATED FIVE AUGUST\nONE NINE FOUR SIX CMA TO CINCAFPAC STAFF STUDY COVERING CIVIL DISTURBANCES\nIN KOREA\nOFFICIAL:\nAPPROVED BY:\n18\nJOHN B. COOLEY, Colonel, 4GD, C. A. RUSSELL,\nAdjutant General. Colonel, G.S.C.,\nAsst. Chief of Staff, G-3.\n21 Copies to: CinC\n22 G-2 C/S TOP SECRET\n23 (Return) Handling and transmission of literal plain text of this message sification as corres-\n24 plomatic Sectiopondence 9), Depar\n25 tment visions 53-D (1) (2) paragraphs 16-C, 18-E, 23-A, ано\n3) 6 380-3, 123 60-A (1) (2)\n26 G-3 FILE\n27",
+ "ko": "[[면 0349]]\n기밀해제:\n권한 NND86527\n[판독불가]\n사령부\n미국 태평양 육군\n통신대 메시지 GC-A WAD/mcg\n1946년 11월 7일\n일급비밀(TOP SECRET)\n발신: CINCAFPAC (미 태평양 육군 총사령관)\n수신: CG USAFIK (주한미군 사령관). 긴급 071047\nCG PACUSA (미 태평양 육군 항공대 사령관). 긴급\n참조: COMAF FIVE . 긴급\nLO X6703 8 ) 참조 PACUSA 무선 ABLE 97874 ABLE DASH 3 11월 6일자. CINCAFPAC는 2부(REPEAT TWO)에 수록된 PACUSA 사령관의 의견에 동의함. 1부(REPEAT ONE) 관련 사항. 아니요(REPEAT NO), CINCAFPAC가 특별히 승인하지 않는 한, 한국 내 민간 소요에 대해 저고도 기총소사는 실시되지 않을 것임. 이와 관련하여, 1946년 8월 5일자 전달 공한 3항(REPEAT THREE)에 주목할 것. CINCAFPAC에 보내진 한국 내 민간 소요에 관한 참모 연구.\n공식:\n승인자:\n18\n존 B. 쿨리, 대령, 4GD, C. A. 러셀,\n부관감. 대령, G.S.C.,\nG-3 참모차장보.\n21 배포처: 사령관\n22 G-2 참모장 일급비밀\n23 (반송) 본 전문의 평문 문자 취급 및 전송은 외교 문서에 준하는 분류로...\n24 ...\n25 ... 규정 53-D (1) (2)항, 16-C, 18-E, 23-A, ...\n3) 6 380-3, 123 60-A (1) (2)\n26 G-3 파일\n27",
+ "entities": {
+  "people": [
+   "JOHN B. COOLEY",
+   "C. A. RUSSELL"
+  ],
+  "places": [
+   "KOREA"
+  ],
+  "units": [
+   "CINCAFPAC",
+   "CG USAFIK",
+   "CG PACUSA",
+   "COMAF FIVE"
+  ]
+ },
+ "key_points_ko": [
+  "CINCAFPAC는 PACUSA 사령관의 의견에 동의하며, 한국 내 민간 소요에 대한 저고도 기총소사는 자신의 특별 승인 없이 실시되지 않을 것임을 명확히 함.",
+  "한국 내 민간 소요 진압 시 무력 사용 수준을 통제하기 위해 1946년 8월 5일자 참모 연구 및 전달 공한 3항을 상기시킴.",
+  "본 전문은 최고 기밀로 분류되며, 외교 문서 수준의 엄격한 취급 및 전송 절차를 따르도록 지시함."
+ ],
+ "confidence": "high",
+ "notes": "하단의 취급 지침 문구는 OCR 손상으로 완전히 복원 불가, 일부 생략. 'Irl, vicint', 'LO X6703 8 )', '4GD', 'ано' 등은 OCR 오류로 판단되나 원문 불명으로 보존.",
+ "doc_id": "D065",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0349"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

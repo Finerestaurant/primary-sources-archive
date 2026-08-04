@@ -1,0 +1,47 @@
+{
+ "doc_type": "cable",
+ "date": "1947-12-24",
+ "from": "CG 24TH INF DIV",
+ "to": "CG RYUKOM (presumed Ryukyu Command)",
+ "info": "G-1, G-2, G-3, AG, COMNAVFE",
+ "msg_nr": "KVC 0413",
+ "classification": "UNCLASSIFIED",
+ "subject": "Shipping movement report: Tachibana Maru transporting repatriates from Sasebo to Buckner Bay via Naha",
+ "subject_ko": "선박 이동 보고: 다치바나마루호, 사세보에서 버크너만(오키나와)으로 귀환자 수송 중 나하 경유",
+ "en": "[[page 0009]]\nMCN UNCLASSIFIED\nTOO PRIORITY 88743\nINFORMATION: G-1, G-2, G-3, AG, COMNAVFE\nTO: CG RYUKOM\nFROM: CG 24TH INF DIV\n24 Dec PRIORITY\nUNCLASSIFIED\nINCOMING MESSAGE\nRADIO AND CABLE CENTER\n\nNR KVC 0413\n\n268 Okinawa.\n2416 232 ETD Sasebo: ETA Buckner Bay 271200 I. Tachibana Maru. 261200 Repats Naha\u000e\n\nTO: CG I CORPS, CINCFE, CG EIGHTH ARMY\nINFO: CG GOVT REGION\n\n[Remainder of page appears to be a cover sheet or routing slip. No additional message text.]",
+ "ko": "[[면 0009]]\nMCN 비밀해제\nTOO 우선순위 88743\n정보: G-1, G-2, G-3, AG, COMNAVFE\n수신: RYUKOM 사령관\n발신: 제24보병사단장\n12월 24일 우선순위\n비밀해제\n수신 메시지\n무선·전신 센터\n\n메시지 번호 KVC 0413\n\n268 오키나와.\n2416 232 사세보 출항 예정시각: 버크너만 입항 예정시각 271200 I. 다치바나마루. 261200 귀환자 나하.\n\n수신: 제1군단장, CINCFE, 제8군사령관\n정보: GOVT REGION 사령관\n\n[나머지 부분은 표지 또는 전달지로 보임. 추가 메시지 본문 없음.]",
+ "entities": {
+  "people": [],
+  "places": [
+   "Okinawa",
+   "Sasebo",
+   "Buckner Bay",
+   "Naha"
+  ],
+  "units": [
+   "CG RYUKOM",
+   "CG 24TH INF DIV",
+   "CG I CORPS",
+   "CINCFE",
+   "CG EIGHTH ARMY",
+   "GOVT REGION",
+   "COMNAVFE"
+  ]
+ },
+ "key_points_ko": [
+  "다치바나마루호가 12월 24일 사세보를 출항하여 12월 26일 나하, 12월 27일 버크너만에 도착 예정임.",
+  "나하에서 귀환자(Repats)를 승·하선시키는 수송 일정이 포함됨.",
+  "문서 본문보다는 전달·경유 정보가 주를 이루며, 주요 명령이나 조치 사항은 포함되지 않음."
+ ],
+ "confidence": "medium",
+ "notes": "This page appears to be primarily a cover/routing slip for a message about ship movements, not the substantive message itself. Recipient 'CG RYUKOM' is likely CG, Ryukyu Command. The OCR text at the bottom resembles a teletype routing block rather than continuous message content.",
+ "doc_id": "D004",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0009"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

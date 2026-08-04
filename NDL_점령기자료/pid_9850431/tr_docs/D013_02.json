@@ -1,0 +1,32 @@
+{
+ "doc_type": "other",
+ "date": "1948-04-14",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": null,
+ "subject": "Unreadable OCR fragment - mirrored or reversed text",
+ "subject_ko": "판독 불가능한 OCR 조각 - 좌우 반전 또는 역상 텍스트",
+ "en": "[[page 0040]]\nDECLASSIFIED\nAutority NND846527\nТ39032 90T\n\n[The remainder of the text on this page is a severely garbled OCR artifact, with many words appearing reversed or mirrored. No intelligible sentences can be recovered.]",
+ "ko": "[[면 0040]]\nDECLASSIFIED\nAutority NND846527\nТ39032 90T\n\n[이 페이지의 나머지 텍스트는 극심한 OCR 오류로, 많은 단어가 좌우 반전 또는 역상으로 나타나 판독이 불가능합니다.]",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": []
+ },
+ "key_points_ko": [
+  "OCR 인식 오류로 내용을 전혀 파악할 수 없는 조각입니다."
+ ],
+ "confidence": "low",
+ "notes": "The OCR output contains extensive mirrored text (e.g., 'doldw' for 'window', 'bebul' for 'lubeb') and is completely unrecoverable. No document content can be extracted.",
+ "doc_id": "D013",
+ "chunk": 2,
+ "of": 2,
+ "pages": [
+  "0040"
+ ],
+ "section": null,
+ "subject_id": "A2",
+ "theme": "A. 조선경비대 무장·증강"
+}

@@ -1,0 +1,49 @@
+{
+ "doc_type": "cable",
+ "date": "1947-11-05",
+ "from": "CINCFE",
+ "to": "CG USAFIK",
+ "info": "WAR (CSGPO)",
+ "msg_nr": "CX 56612",
+ "classification": "SECRET",
+ "subject": "Authorization to issue US equipment to South Korean Constabulary (National Police Guard), limited to infantry small arms",
+ "subject_ko": "미국 장비의 한국 경비대(Constabulary) 지급 승인, 보병 소화기로 제한",
+ "en": "[[page 0307]]\nDECLASSIFIED\nAuthority NND86527\n\nGENERAL HEADQUARTERS\nFAR EAST COMMAND\nSIGNAL CORPS MESSAGE GC-P IDS/it\n\nFROM: CINCFE                                 SECRET 5 November 1947\nTO  : CG USAFIK              ..              ROUTINE 100645\nINFO: WAR (CSGPO)           ..              ROUTINE\n\n       (CX 56612) SUBJECT IS ISSUE OF UNITED STATES EQUIPMENT TO\nSOUTH KOREAN CONSTABULARY PD REFERENCES CIN (A) WILLIAM EIGHT\nNINE TWO FIVE THREE OF TWO NINE OCTOBER SUCIN (B) CHARLIE XRAY\nFIVE SIX TWO SIX SIX OF TWO TWO OCTOBER SMOIN (C) CHARLIE\nABLE XRAY FIVE SEVEN TWO FOUR NINE OF TWO FOUR JANUARY FOUR SIX SMOIN\n(D) WILLIAM XRAY NINE TWO ONE EIGHT SEVEN OF ONE ONE JANUARY FOUR SIX PD\n\nPARA ONE PD YOU ARE AUTHORIZED TO EXTEND THE PROVISIONS OF REF DOG TO INCLUDE\nTHE NATIONAL POLICE GUARD (CONSTABULARY) AS DEFINED IN REF CHARLIE\nPD PARA TWO PD ARMAMENT FURNISHED BY THE UNITED STATES WILL BE FOR THE\nPURPOSES SET FORTH IN REF CHARLIE AND WILL BE LIMITED TO INFANTRY SMALL ARMS\nINCLUDING LIGHT MACHINE GUNS PD ISSUE OF ARMS AND EQUIPMENT WILL BE LIMITED\nTO STOCKS AVAILABLE IN KOREA IN EXCESS OF ROMAN TWENTY FOUR CORPS NORMAL\n18 MONTH REPLACEMENT REQUIREMENTS THROUGH THREE ONE DEC FOUR EIGHT PD IN VIEW OF\nREFERENCE OF KOREAN PROBLEM TO UNTCOK THE ISSUANCE OF MORTARS AND\nHOWITZERS IS NOT REPEAT NOT DESIRED PD ISSUANCE OF ARMS WILL BE CONDUCTED\nIN A ROUTINE MANNER WITH NO REPEAT NO PUBLICITY PD PARA THREE PD REPORT\nQUANTITIES ISSUED AND REQUIREMENTS THAT CANNOT BE MET UNDER PROVISIONS OF\nPAR TWO PD.\n\nClassificaSECRET or changed to\n       authority of 109-18,\n       by art ya.\n\n        /s/ H. X. Judson\n\n        H. X. JUDSON\n        G-3 AN CX 56612\n\n[[page 0308]]\nDECLASSIFIED\nAuthority NND886527\n\nOFFICIAL:\n\n/s/ R. M. Levy\n    R. M. LEVY\nAdjutant General\n\n /s/ Ward H. Maris\n     WARD H. MARIS\n     Colonel, AGD\n     A Bt a C Cen os sta.5, C3\n\nCopies to:\n(Return)\n\nCX 56612",
+ "ko": "[[면 0307]]\n비밀해제\n권한 NND86527\n\n극동군 총사령부\n통신대 메시지 GC-P IDS/it\n\n발신: 극동군 총사령관(CINCFE)                      1947년 11월 5일 비밀\n수신: 주한 미군 사령관(CG USAFIK)   ..              정규 100645\n정보: 전쟁부(참모총장 작전기획처)(CSGPO) ..         정규\n\n       (CX 56612) 제목: 남한 경비대(Constabulary)에 대한 미국 장비\n지급 건. 참조: (A) 10월 29일자 W-89253, (B) 10월 22일자 C X 56266,\n(C) 46년 1월 24일자 C A X 57249, (D) 46년 1월 11일자 W X 92187.\n\n제1항. 참조 D의 규정을 참조 C에 정의된 국가 경찰 예비대(경비대)에게지\n확대 적용하는 것을 승인함.\n제2항. 미국이 지원하는 무장은 참조 C에 명시된 목적을 위한 것이어야 하며,\n경기관총을 포함한 보병 소화기에 국한됨. 무기 및 장비 지급은 1948년 12월\n31일까지의 24군단(XXIV Corps)의 통상적인 18개월 분 교체 소요를 초과하는\n한국 내 재고의 범위로 제한됨. 한국 문제가 유엔 한국 임시 위원단(UNTCOK)에\n회부된 점에 비추어, 박격포 및 곡사포 지급은 불필요함(반복). 무기 지급은\n일상적인 방식으로 수행되어야 하며, 어떠한 대외 공표도 금지됨(반복).\n제3항. 지급된 수량과 제2항 규정에 따라 충당할 수 없는 소요를 보고할 것.\n\n비밀등급 비밀, 또는 109-18의 권한에 의해,\nby art ya. 변경됨.\n\n        /서명/ H. X. 저드슨\n\n        H. X. 저드슨(H. X. JUDSON)\n        작전참모부(G-3) AN CX 56612\n\n[[면 0308]]\n비밀해제\n권한 NND886527\n\n공식 증명:\n\n/서명/ R. M. 레비\n    R. M. 레비(R. M. LEVY)\n부관감실장(Adjutant General)\n\n /서명/ 워드 H. 메리스\n     워드 H. 메리스(WARD H. MARIS)\n     대령, 부관감실(AGD)\n     A Bt a C Cen os sta.5, C3\n\n배포처:\n(반송)\n\nCX 56612",
+ "entities": {
+  "people": [
+   "H. X. Judson",
+   "R. M. Levy",
+   "Ward H. Maris"
+  ],
+  "places": [
+   "Korea"
+  ],
+  "units": [
+   "CINCFE",
+   "CG USAFIK",
+   "WAR (CSGPO)",
+   "XXIV Corps",
+   "UNTCOK",
+   "G-3",
+   "AGD"
+  ]
+ },
+ "key_points_ko": [
+  "미국은 참조 문서에 정의된 국가 경찰 예비대(경비대)에 대한 장비 지급 조항을 확대 적용하는 것을 승인했다.",
+  "지급되는 무장은 보병 소화기(경기관총 포함)로만 제한되며, 박격포·곡사포는 유엔 위원단(UNTCOK)에 한국 문제가 회부된 상황에서 바람직하지 않아 지급을 금지했다.",
+  "장비 지급은 1948년 말까지의 24군단 충원 소요를 초과하는 한국 내 잉여 재고 내에서만 이루어져야 하며, 외부에 알리지 않고 일상적으로 수행되어야 한다."
+ ],
+ "confidence": "high",
+ "notes": "OCR에서 일부 오독이 있었으나 문맥상 복원. 'WILLIAM EIGHT NINE TWO FIVE THREE' 등의 통신 약어는 원문 그대로 유지(참조 문서 식별자). 'art ya.' 등 일부 불명확한 부분은 그대로 둠.",
+ "doc_id": "D049",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0307",
+  "0308"
+ ],
+ "section": null,
+ "subject_id": "D2",
+ "theme": "D. 장래 정책·철군"
+}

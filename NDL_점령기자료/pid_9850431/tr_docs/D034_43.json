@@ -1,0 +1,36 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex 1: Communications School — course plan for Korean Army officers",
+ "subject_ko": "부록 1: 통신 학교 — 한국군 장교 대상 교육 과정 계획",
+ "en": "[[page 0255]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nANNEX # 1\nCommunications School\n1. Purpose:\nTo provide instructions for selected officers in the technique,\ncharacteristics, installations and maintenance of communications\nsystems authorized for the Korean Army.\n2. Scope:\na. Review of basic electricity.\nb. Study of wire communication equipment and practical work\nin installation, maintenance and operation of telephones, switchboards,\nand allied equipment in communication nets.\nc. Working knowledge of radio theory to provide an understanding\nof AM and FM radio transmission and reception.\nd. Study of radio sets, test equipment and auxiliaries.\ne. Message center operation.\nf. Preparation of SOI's, line route maps, traffic and circuit\ndiagrams.\ng. Radio and telephone procedure, visual signalling and inter-\nnational Morse Code.\nh. Duties of Communication personnel, methods of instruction.\ni. Signal supply organization.\n3. Prerequisites:\nOfficer to have a desire to attend course. Should have current\nor contemplated assignment as communications staff officer.\n4. General:\na. Location: Chinhae, Korea\nb. Class capacity: Sixty (60) students.\nc. Duration of course: Three (3) months.\nd. Instructors: Ten (10) U. S. enlisted men Five (5) U. S. officers\nTOP SECRET",
+ "ko": "[[면 0255]]\n기밀해제\n권한 NND886527\n2급 비밀\n부록 # 1\n통신 학교\n1. 목적:\n한국군에 승인된 통신 시스템의 기술, 특성, 설치 및 정비에 관해\n선발된 장교들에게 교육을 제공한다.\n2. 교육 범위:\na. 기초 전기학 복습.\nb. 유선 통신 장비 연구 및 통신망에서의 전화, 교환대 및\n관련 장비의 설치, 유지보수, 운용에 관한 실습.\nc. AM 및 FM 무선 송수신에 대한 이해를 제공하기 위한\n무선 이론 실무 지식.\nd. 무전기, 시험 장비 및 보조 장비 연구.\ne. 통신소 운용.\nf. 통신운용지시서(SOI), 회선 경로도, 통신량 및 회선 도표 작성.\ng. 무선 및 전화 통신 절차, 시각 신호 및 국제 모스 부호.\nh. 통신 인원의 직무, 교수법.\ni. 통신 보급 조직.\n3. 선발 조건:\n교육 과정 참석을 희망하는 장교. 현재 통신 참모 장교로\n근무 중이거나 배치가 예정된 자.\n4. 일반 사항:\na. 위치: 한국 진해\nb. 정원: 60명.\nc. 교육 기간: 3개월.\nd. 교관: 미군 부사관 10명, 미군 장교 5명\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Chinhae(진해)"
+  ],
+  "units": []
+ },
+ "key_points_ko": [
+  "한국군 통신 장교 양성을 위한 통신학교 교육 과정을 계획함.",
+  "기초 전기학, 유무선 통신 장비 운용 및 정비, 통신소 운용, 모스 부호 등을 3개월간 교육.",
+  "교육 장소는 진해이며 정원은 60명, 교관은 미군 장교 5명과 부사관 10명으로 구성."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D034",
+ "chunk": 43,
+ "of": 46,
+ "pages": [
+  "0255"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "d445",
+  "date": "1945-08-15",
+  "time": "1945년 8월 15일 오후 4시 발신 (Washington, August 15, 1945—4 p.m.)",
+  "date_note": "원문 표기 「Washington, August 15, 1945—4 p.m.」 그대로.",
+  "doc_type": "전보",
+  "classification": "극비(top secret) — 전달 시 극비 문서로 취급하라는 지시",
+  "place": "Washington",
+  "from": "국무장관 번스(James F. Byrnes)",
+  "to": "주영대사 위넌트(John G. Winant)",
+  "msg_nr": "6926",
+  "source_note": "740.00119 P.W./8–1545: Telegram",
+  "title_en": "The Secretary of State to the Ambassador in the United Kingdom (Winant)",
+  "title_ko": "국무장관이 주영대사(위넌트)에게",
+  "subject_ko": "대통령이 맥아더 장군에게 하달한 지령과 그 두 부속서의 본문을 주재국 정부에 극비 문서로 통보하라는 지시.",
+  "key_points_ko": [
+    "8월 15일 오후 4시 발신, 전보 제6926호.",
+    "대통령이 맥아더 장군에게 지령과 두 개의 부속서(annexes)를 하달했다.",
+    "그 지령과 부속서의 본문을 주재국 정부에 「정보로서」, 「극비 문서로」 통보할 것.",
+    "원문에는 여기서 8월 13일자 세 문서(647·648·649면)의 본문이 이어진다는 편집자 주가 들어 있다.",
+    "[주97] 충칭과 모스크바에도 각각 제1262호, 제1838호로 동일한 전보가 발송되었다."
+  ],
+  "ko": "워싱턴, 1945년 8월 15일 오후 4시\n\n6926. 대통령이 맥아더 장군에게 아래에 인용하는 지령을 그 두 개의 부속서와 함께 하달하였다. 이 지령 및 부속서의 본문을 귀하가 신임된 정부에 정보로서, 극비 문서로 통보하기 바람.\n\n[여기에 8월 13일자 세 문서의 본문이 이어진다. 647면, 648면, 649면에 수록됨.]\n\n번스(Byrnes)",
+  "notes_ko": [
+    "[주97] 충칭과 모스크바에도 각각 제1262호 및 제1838호로 동문(同文) 전보가 발송되었다."
+  ],
+  "people": [
+    "Byrnes 번스(James F. Byrnes, 국무장관)",
+    "Winant 위넌트(John G. Winant, 주영대사)",
+    "MacArthur 맥아더(Douglas MacArthur)",
+    "the President 대통령 (트루먼Harry S. Truman)"
+  ],
+  "confidence": "high",
+  "notes": "본문 가운데 대괄호 부분은 FRUS 편집자의 삽입주로, 실제 지령·부속서 본문은 이 문서가 아니라 647~649면의 별도 문서들에 인쇄되어 있다. 원문에 본문이 없으므로 옮길 내용도 없다."
+}

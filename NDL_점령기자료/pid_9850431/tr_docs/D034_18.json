@@ -1,0 +1,41 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annexes D and E: Obstacles to Training and Chronological Training Plan for South Korean Army",
+ "subject_ko": "부록 D 및 E: 남한군 훈련의 장애 요인 및 연대기적 훈련 계획",
+ "en": "[[page 0167]]\nTOP SECRET\n\nOBSTACLES TO TRAINING A SOUTH KOREAN ARMY\n\n1. Lack of good training areas, facilities, and training aids including rifle and artillery ranges.\n\n2. The language barrier.\n\n3. The lack of unified loyalty to Korea as a nation among the Korean population.\n\n4. The imposition of technical training on soldiery drawn from a people entirely unversed in modern technical skills.\n\n5. The constantly diminishing strength of the XXIV Corps including reduction in numbers of specialists and experienced NCOs.\n\n6. Use of deserted factory buildings as troop billets. Many Korean troops will be located in areas not best suited for training.\n\n7. Present almost complete unfamiliarity with U.S. weapons and equipment.\n\n8. Probable attempts to vitiate or sabotage the program by dissidents.\n\n9. Difficulties of transportation and poor condition of roads.\n\n10. The necessity for keeping at least 7,000 constabulary operational while the remainder form the framework of an Army.\n\n11. The lack of technical school capacity within XXIV Corps and within Korea.\n\nTOP SECRET\n\nappendit D\n\n[[page 0168]]\nTOP SECRET\n\nA Chronological Plan for Phasing of Training of a South Korean Army.\n\nThe period covered is from approximately 6 weeks prior to M-Day to 40 weeks after M-Day.\n\nTOP SECRET\n\nappendid E",
+ "ko": "[[면 0167]]\n2급 비밀\n\n남한군 훈련의 장애 요인\n\n1. 사격장 및 포병 사격장을 포함한 양호한 훈련 지역, 시설 및 훈련 교보재의 부족.\n\n2. 언어 장벽.\n\n3. 한국인 주민 사이에 국가로서의 한국에 대한 통일된 충성심의 결여.\n\n4. 현대적 기술 숙련도가 전혀 없는 국민으로부터 징집된 병사들에게 기술 훈련을 부과해야 하는 점.\n\n5. 전문 인력 및 숙련 부사관 수의 감소를 포함한 제24(XXIV)군단 병력의 지속적인 감축.\n\n6. 버려진 공장 건물을 병영으로 사용. 다수의 한국군 병력이 훈련에 가장 적합하지 않은 지역에 배치될 것임.\n\n7. 현재 미군 무기 및 장비에 대한 거의 완전한 미숙.\n\n8. 불만 세력에 의한 사업 훼손 또는 방해 시도의 가능성.\n\n9. 수송의 어려움과 열악한 도로 사정.\n\n10. 최소 7,000명의 경비대를 작전 상태로 유지해야 하는 필요성. 그 나머지 병력은 육군의 골격을 구성함.\n\n11. 제24(XXIV)군단 내 및 한국 내 기술 학교 수용 능력의 부족.\n\n2급 비밀\n\n부록 D\n\n[[면 0168]]\n2급 비밀\n\n남한군 훈련의 단계별 연대기적 계획.\n\n대상 기간은 M-데이(M-Day) 약 6주 전부터 M-데이 후 40주까지임.\n\n2급 비밀\n\n부록 E",
+ "entities": {
+  "people": [],
+  "places": [
+   "South Korea",
+   "Korea"
+  ],
+  "units": [
+   "XXIV Corps",
+   "South Korean Army"
+  ]
+ },
+ "key_points_ko": [
+  "훈련 시설 부족, 언어 장벽, 민족적 충성심 결여, 기술 미숙련 인력, XXIV군단 전력 감소 등 군 창설의 11가지 장애 요인이 열거됨.",
+  "약 7,000명의 경비대를 작전 가능 상태로 유지하면서 나머지 병력을 정규군 골격으로 훈련시켜야 하는 이중적 과제가 제기됨.",
+  "M-데이 6주 전부터 M-데이 후 40주까지의 남한군 훈련 연대기적 계획이 부록 E에 첨부됨(본문 상세 내용 생략)."
+ ],
+ "confidence": "high",
+ "notes": "OCR output for the chronological plan (page 0168) was mostly garbled lines and scanning artifacts ('SEKISUI JUSHI', 'LL OL', etc.). The title is preserved but the body text is unrecoverable.",
+ "doc_id": "D034",
+ "chunk": 18,
+ "of": 46,
+ "pages": [
+  "0167",
+  "0168"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

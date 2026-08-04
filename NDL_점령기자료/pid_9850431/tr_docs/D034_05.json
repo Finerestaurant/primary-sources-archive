@@ -1,0 +1,39 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Regimental and Battalion Commanders School curriculum annex",
+ "subject_ko": "연대장 및 대대장 학교 교육과정 부속서",
+ "en": "[[page 0138]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\nANNEX # 1 b\nRegimental and Battalion Commanders School (Infantry and\nArtillery Officers).\n1. Purpose:\n   a. To provide instruction for selected officers in\ntheir responsibilities and duties as Regimental and Battalion\nCommanders.\n   b. To prepare officers for duty as members of staffs\nof the regiment; to prepare officers for duty as com-\nmanders of reinforced battalions and regimental combat teams.\n   c. To develop understanding and teamwork among the\nofficers of the Infantry and other officers of the Army.\n2. Scope:\n   a. Organization, equipment, technique and tactical\nemployment of all units of the Infantry.\n   b. Organization, equipment, and tactical employment\nof other units that make up the regimental and battalion combat\nteam.\n   c. Leadership.\n   d. Combat intelligence and counter intelligence.\n   e. Communications.\n   f. Troop movements (foot, motor and rail).\n   g. Methods of instruction.\n   h. Domestic disturbances.\n3. Prerequisites:\n   Officers to attend will be those selected for command\nand staff positions in regiments and battalions.\n4. General:\n   a. Location: Fusan\n   b. Class Capacity: 100\n   c. Duration of Course: Three (3) months\n   d. Instructors: Five (5) field grade U.S. officers\n                  Fifteen (15) company grade U.S. officers\n                  Fifteen (15) enlisted men\nTOP SECRET",
+ "ko": "[[면 0138]]\n기밀해제\n근거 NND86527\n2급 비밀\n부속서 # 1 나\n연대장 및 대대장 학교 (보병 및 포병 장교)\n1. 목적:\n   가. 선발된 장교들에게 연대장 및 대대장으로서의 책임과 임무에 관한 교육을 제공한다.\n   나. 연대 참모진으로서의 임무를 수행할 장교들을 준비시키고, 강화대대 및 연대전투단 지휘관으로서의 임무를 수행할 장교들을 준비시킨다.\n   다. 보병 장교들과 육군 내 다른 병과 장교들 간의 이해와 팀워크를 증진한다.\n2. 범위:\n   가. 모든 보병 부대의 편성, 장비, 기술 및 전술 운용.\n   나. 연대 및 대대 전투단을 구성하는 기타 부대들의 편성, 장비 및 전술 운용.\n   다. 리더십.\n   라. 전투정보 및 방첩.\n   마. 통신.\n   바. 부대 이동 (도보, 차량 및 철도).\n   사. 교수법.\n   아. 국내 소요.\n3. 선발 조건:\n   참석할 장교들은 연대 및 대대의 지휘 및 참모 직위에 선발된 자들로 한다.\n4. 일반 사항:\n   가. 위치: 부산(부산)\n   나. 정원: 100명\n   다. 교육 기간: 3개월\n   라. 교관: 미 육군 영관급 장교 5명\n                  미 육군 위관급 장교 15명\n                  사병 15명\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Fusan"
+  ],
+  "units": [
+   "Infantry",
+   "Artillery"
+  ]
+ },
+ "key_points_ko": [
+  "부산에 주한미군이 운영할 연대장 및 대대장 학교의 설립 계획으로, 보병 및 포병 장교를 대상으로 한다.",
+  "교육 과정은 지휘관 및 참모 임무, 연대전투단 운용, 리더십, 국내 소요 진압 등을 포함한다.",
+  "교육 기간은 3개월이며, 정원은 100명, 미군 교관은 장교 20명과 사병 15명으로 구성된다."
+ ],
+ "confidence": "high",
+ "notes": "Page ends mid-section 4.d; the OCR line '25 4 02' likely belongs to a numbering scheme or continuation mark. 'lela grade' in instructor list corrected to 'field grade' based on standard military terminology and context.",
+ "doc_id": "D034",
+ "chunk": 5,
+ "of": 46,
+ "pages": [
+  "0138"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

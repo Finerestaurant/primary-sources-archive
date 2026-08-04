@@ -1,0 +1,33 @@
+{
+  "doc_id": "d569",
+  "date": "1945-05-07",
+  "time": "Paris, May 7, 1945—10 p.m. [Received May 7—6:33 p.m.]",
+  "doc_type": "전보",
+  "place": "Paris",
+  "from": "주프랑스대사 캐퍼리(Jefferson Caffery, The Ambassador in France) — 본문은 머피(Murphy)가 매슈스(Matthews) 앞으로 보낸 것",
+  "to": "국무장관(The Secretary of State)",
+  "msg_nr": "2447",
+  "source_note": "740.0011 EW/5–745: Telegram",
+  "title_en": "The Ambassador in France (Caffery) to the Secretary of State",
+  "title_ko": "주프랑스대사(캐퍼리)가 국무장관에게",
+  "subject_ko": "아이젠하워 장군이 자신의 연합국 사령부에 맡겨진 임무가 이제 완수되었음을 연합참모본부에 알렸다는 사실을, 머피가 매슈스 앞으로 보내어 캐퍼리를 거쳐 전한 짧은 전보이다.",
+  "key_points_ko": [
+    "아이젠하워 장군이 연합참모본부(Combined Chiefs of Staff)에 자기의 연합국 사령부에 맡겨진 임무가 이제 완수되었다고 통보하였다 — 유럽에서의 전쟁 종결을 알리는 군사적 통고이다.",
+    "런던 시각으로는 이미 5월 7일 새벽 랭스에서의 서명이 끝난 뒤이며, 이 전보는 파리 5월 7일 오후 10시에 발신되어 워싱턴에 같은 날 오후 6시 33분에 접수되었다 — 발신 시각이 접수 시각보다 늦게 표시된 것은 시차 때문이다.",
+    "[주83] 1945년 5월 7일 프랑스 랭스에서 독일 최고사령부는 연합국원정군최고사령관과 소련 최고사령부에 무조건항복하였다.",
+    "[주83] 모든 독일군의 최고 연합국 사령부들에 대한 무조건항복의 「비준(ratification)」은 1945년 5월 8일 베를린에서 이루어졌다 — 편집자는 5월 8일의 절차를 새로운 항복이 아니라 「비준」이라 부르고 있다.",
+    "[주83] 5월 7일과 5월 8일의 군사항복문서(Acts of Military Surrender) 본문은 Department of State Executive Agreement Series No. 502 또는 59 Stat. (pt. 2) 1857 참조."
+  ],
+  "ko": "파리, 1945년 5월 7일 오후 10시.\n[접수 5월 7일 — 오후 6시 33분]\n\n2447. 머피(Murphy)로부터 매슈스(Matthews) 앞. 아이젠하워 장군이 연합참모본부에 그의 연합국 사령부에 맡겨진 임무가 이제 완수되었음을 통보하였다. [주83] [머피.]\n\n캐퍼리\n\n[781면]",
+  "notes_ko": [
+    "[주83] 1945년 5월 7일 프랑스 랭스(Reims)에서 독일 최고사령부는 연합국원정군최고사령관과 소련 최고사령부에 무조건항복하였다. 모든 독일 군대의 최고 연합국 사령부들에 대한 무조건항복의 비준(ratification)은 1945년 5월 8일 베를린에서 이루어졌다. 5월 7일과 5월 8일의 군사항복문서(Acts of Military Surrender) 본문은 Department of State Executive Agreement Series No. 502 또는 59 Stat. (pt. 2) 1857 참조. 자세한 사정은 Pogue, The Supreme Command, p. 485 참조."
+  ],
+  "people": [
+    "Jefferson Caffery 캐퍼리 (주프랑스대사)",
+    "Robert Murphy 머피 (대독일 정치고문)",
+    "H. Freeman Matthews 매슈스 (국무부 유럽국장)",
+    "Dwight D. Eisenhower 아이젠하워 (연합국원정군최고사령관)"
+  ],
+  "confidence": "high",
+  "notes": "본문 끝의 「[Murphy.]」는 편집자가 대괄호로 보완한 서명이므로 그대로 두었다. 발신 시각(파리 오후 10시)이 접수 시각(오후 6시 33분)보다 늦은 것은 접수 시각이 워싱턴 시간이기 때문이며, 원문 표기를 고치지 않았다. 각주에서 5월 8일 베를린의 절차를 「ratification 비준」이라 부른 점은 랭스 문서의 층위를 둘러싼 이 묶음의 쟁점과 직결되므로 낱말을 바꾸지 않고 그대로 옮겼다."
+}

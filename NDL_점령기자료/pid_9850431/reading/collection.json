@@ -1,0 +1,53 @@
+{
+ "title": "091 : File 1 Korea",
+ "subtitle": "1946년 11월 – 1948년 4월 26일",
+ "source": "국립국회도서관 디지털컬렉션 PID 9850431 · Records of General Headquarters Far East Command, Assistant Chief of Staff G-3 · Entry 44, Box 53, Folder 1 · PDM",
+ "search_hint": "한국어·영문·전문번호 검색",
+ "docs": "reader_docs.json",
+ "groups": [
+  {
+   "key": "A",
+   "label": "A 경비대"
+  },
+  {
+   "key": "B",
+   "label": "B 한국군"
+  },
+  {
+   "key": "C",
+   "label": "C 병참"
+  },
+  {
+   "key": "D",
+   "label": "D 정책·철군"
+  },
+  {
+   "key": "X",
+   "label": "미분류"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 원문 · OCR 교정본",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "편철순"
+  }
+ ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "jpg",
+  "label": "스캔 원본",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
+ "warn_text": "판독 신뢰도가 낮다. 원본 대조 필요.",
+ "terms": "terms_msg.json"
+}

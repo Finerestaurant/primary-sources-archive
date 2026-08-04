@@ -1,0 +1,44 @@
+{
+ "doc_type": "cable",
+ "date": "1947-12-31",
+ "from": "CINCFE",
+ "to": "DEPT OF ARMY",
+ "info": "CG USAFIK",
+ "msg_nr": "CX 57728",
+ "classification": "TOP SECRET",
+ "subject": "Reply regarding Military Advisory Group for South Korea",
+ "subject_ko": "주한 미군 군사고문단 관련 답신",
+ "en": "[[page 0261]]\n\nDECLASSIFIED\nAuthority NND8X6527\n\nTOP SECRET\n\nGENERAL HEADQUARTERS\nFAR EAST COMMAND\n\nSIGNAL CORPS MESSAGE\n\n31 December 1947\n\nFROM: CINCFE TO : DEPT OF ARMY PRIORITY\nINFO: CG USAFIK ROUTINE\n\nPAREN CX57728 PAREN FOR CHARLIE SUGAR GEORGE PETER OBOE FD SUBJECT MILITARY ADVISORY GROUP FOR SOUTH KOREA REFURAD WILLIAM NINE ONE FIVE TO ZERO OF THREE DECEMBER FD PASSED SEPARATELY IS ZEBRA GEORGE CHARLIE GEORGE ONE FOUR NINE SEVEN FROM CHARLIE GEORGE UNCLE SUGAR ABIE FOX ITEM KING WHICH IS SUBMITTED AS REPLY TO PART THREE OF URAD PD REFERENCES CITED NOT ALL TO DOG SLANT ABIE OR NEEDED\n\nOFFICIAL:\nR. M. LEVY,\nColonel, AGD,\nAdjutant General.\n\nAPPROVED BY:\nWARD H. MARIS,\nBrigadier General, GSC,\nAssistant Chief of Staff, G-3.\n\nCopies to:\nC-in-C\nC/S\nG-4\nG-3 (Return)\n\nHandling and transmission of literal main text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of AR 380-5.\n\nTOP SECRET\n\nINFORMATION COPY\n\n51/ CX 57728",
+ "ko": "[[면 0261]]\n\n기밀해제\n해제권한 NND8X6527\n\n2급비밀(Top Secret)\n\n극동군 총사령부\n\n통신대 전문\n\n1947년 12월 31일\n\n발신: 극동군 총사령관(CINCFE)\n수신: 육군부(Department of the Army) 우선(PRIORITY)\n정보: 미 극동군 총사령관(GG USAFIK) 보통(ROUTINE)\n\n괄호 CX 57728 괄호. 참조부호 CSGPO, 제목은 남한 주둔 군사고문단(South Korea Military Advisory Group)임. 참조 극동군 전문(REFURAD) W 915 TO 0, 12월 3일자. 별도 발송되는 것은 ZGCG 1497, CG USAFIK 발신. 이는 참조 전문(URAD) 제3부에 대한 답신으로 제출된 것임. 인용된 참조자료가 DA에 모두 도착한 것은 아님.\n\n담당:\n육군부 헌병감실 대령 R. M. 레비, 부관감\n\n승인:\n참모부 G-3 차장보, 육군 준장 워드 H. 메리스\n\n배포처:\n극동군 총사령관\n참모장\nG-4\nG-3 (반납)\n\n주요 내용 전문의 동급 비밀 취급 서신으로서의 취급 및 전송은 육군성으로부터 육군 규정 380-5의 규정에 의거하여 승인되었음.\n\n2급비밀(Top Secret)\n\n정보 사본\n\n51/ CX 57728",
+ "entities": {
+  "people": [
+   "R. M. LEVY",
+   "WARD H. MARIS"
+  ],
+  "places": [],
+  "units": [
+   "GHQ/FEC",
+   "USAFIK",
+   "Dept of the Army",
+   "G-3",
+   "G-4",
+   "Signal Corps"
+  ]
+ },
+ "key_points_ko": [
+  "극동군 총사령부가 육군부에 주한 미군 군사고문단 관련 답신 전문(CX 57728)을 송부함.",
+  "별도 전문(ZGCG 1497)이 CG USAFIK으로부터 발송되어 참조 전문의 제3부에 대한 답변으로 제출됨.",
+  "전문의 주요 내용 전문(plain text)은 동일 등급 서신으로 취급 및 전송하는 것이 육군 규정 380-5에 의거 승인됨."
+ ],
+ "confidence": "medium",
+ "notes": "전문 내용 중 호출부호 및 전문 번호 문자열은 음성 통신용 철자 알파벳으로 작성되어 있으나, 참조부호(CSGPO, ZGCG 등)가 실제로 그러한 문자열인지는 확실하지 않습니다. 인쇄된 문자열을 보존하여 그대로 기재했습니다.",
+ "doc_id": "D035",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0261"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

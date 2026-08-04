@@ -1,0 +1,44 @@
+{
+ "title": "카이로 선언과 조선",
+ "subtitle": "1943년 11월 – 12월 · FRUS 카이로·테헤란 회담 12건",
+ "source": "Foreign Relations of the United States: Diplomatic Papers, The Conferences at Cairo and Tehran, 1943 · 전체 576건 중 조선 관련 12건 · 미국 국무부 역사실 · 미국 정부 저작물(퍼블릭 도메인)",
+ "search_hint": "한국어·영문·인물·기관 검색",
+ "groups": [
+  {
+   "key": "A",
+   "label": "코뮈니케 초안"
+  },
+  {
+   "key": "B",
+   "label": "회의록"
+  },
+  {
+   "key": "C",
+   "label": "각서"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 원문 · FRUS 정본",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "문서번호순"
+  }
+ ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "png",
+  "label": "원본 지면",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
+ "warn_text": "판독 신뢰도가 낮다. 원본 대조 필요.",
+ "terms": "terms.json"
+}

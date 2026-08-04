@@ -1,0 +1,45 @@
+{
+ "doc_type": "cable",
+ "date": "1947-12-06",
+ "from": "CG XXIV CORPS",
+ "to": "CINCFE",
+ "info": "CSGPO",
+ "msg_nr": "GDSP 1438",
+ "classification": "SECRET",
+ "subject": "Ammunition and carbine requirements for Korean Constabulary and National Police",
+ "subject_ko": "한국 국방경비대 및 경찰을 위한 탄약·카빈 소총 소요 요청",
+ "en": "[[page 0304]]\nDECLASSIFIED\nAuthority NND 886527\nGENERAL HEADQUARTERS, FAR EAST COMMAND\nADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\nINCOMING MESSAGE\nSECRET 6 Dec 47\nFROM : CG XXIV CORPS\nTO : CINCFE\nINFO: CSGPO\nNR : GDSP 1438\n\nPart 1. Ammunition requirements as listed in your radio 57020 dtd 1 Dec 47. Radio in 4 parts.\n\nPart 2. Ammunition requirements listed in CX 56855 are for Korean Constabulary and are firm.\n\nPart 3. Request following ammunition requisitions for Korean National Police be added to above requirements:\n68,125 carbines, cal .30; 130,900 rds. cal .30; 812,500 rds. Basis: 100 rds per weapon for familiarization and alert. Request additional 1,627 carbines, M 1 or M 2 be added to request for 8,125 carbines to make a total requirement of 9,852 carbines needed from FEC for Korean National Police. This additional requirement of 1,627 carbines is 6 months replacement factor for 27,111 carbines for National Police.\n\nPart 4. Spare parts and accessory requirements are being screened by this HQ for items available in excess of 31 Dec 48 level, and list forwarded to FEC.\n\nNO SIG\nACTION : G-4\nINFORMATION : G-2, G-3\n\nTOO: 050620 Z MCN: 66973\n\"Paraphrase not required SECRET. Handle as per para 51 1 and 60 a (4) AR 380-5. \"\nTOP SECRET correspondence\nG-3 FILE SECRET\nHandling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) 3-G (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946. 16-50735-1 GPO COPY No. 10\n",
+ "ko": "[[면 0304]]\nDECLASSIFIED\nAuthority NND 886527\n극동군 총사령부(GHQ/FEC)\n부관부\n무선통신센터\n수신 전문\nSECRET 1947년 12월 6일\n발신: 제24군단장(CG XXIV CORPS)\n수신: 극동군 총사령관(CINCFE)\n정보 배포: CSGPO\n전문 번호: GDSP 1438\n\n제1부. 1947년 12월 1일자 귀관 전문 57020에 열거된 대로의 탄약 소요. 본 전문은 4부로 구성됨.\n\n제2부. CX 56855에 열거된 탄약 소요는 한국 국방경비대(Korean Constabulary) 소요이며 확정된 것임.\n\n제3부. 상기 소요에 다음의 한국 경찰(Korean National Police) 탄약 청구 추가를 요청함. 68,125 카빈 소총, .30구경; 130,900발, .30구경; 812,500발. 기준: 숙달 훈련 및 경계용 무기 1정당 100발. FEC로부터 한국 경찰에 필요한 8,125정의 카빈 소총 요청에 추가로 1,627정(M1 또는 M2)을 추가하여 총 9,852정을 요청함. 이 추가분 1,627정은 경찰용 카빈 27,111정에 대한 6개월분 교체 계수임.\n\n제4부. 예비 부품 및 부속품 소요는 본 사령부에서 1948년 12월 31일 기준 초과 가용 품목에 대해 검토 중이며, 목록은 FEC로 송부될 예정임.\n\n서명 없음\n조치 참조처: G-4\n정보 참조처: G-2, G-3\n\n발신 시간: 050620 Z MCN: 66973\n\"의역 불필요. SECRET. AR 380-5 제51조 1항 및 제60조 a (4)에 따라 취급.\"\nTOP SECRET 통신\nG-3 파일 SECRET\n본 전문의 축어적 평문 취급 및 동일 등급 통신으로서의 전송은 1946년 3월 6일자 AR 380-5 제16-C조, 제18-E조, 제53-A조, 제53-D(1)조, 제3-G(2)(3)조 및 제60-A(1)(2)(3)(4)조의 규정에 따라 육군부(War Department)에 의해 승인되었음. 16-50735-1 GPO 사본 번호 10\n",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "XXIV Corps",
+   "FEC",
+   "Korean Constabulary",
+   "Korean National Police",
+   "G-2",
+   "G-3",
+   "G-4",
+   "CSGPO",
+   "War Department"
+  ]
+ },
+ "key_points_ko": [
+  "한국 국방경비대 탄약 소요(CX 56855)는 확정된 수치임.",
+  "한국 경찰용으로 9,852정의 카빈 소총(.30구경)과 수십만 발의 실탄을 FEC에 추가 요청함.",
+  "추가 카빈 1,627정은 경찰 보유 카빈 27,111정에 대한 6개월분 교체 소요로 산정됨.",
+  "예비 부품 및 부속품 소요는 1948년 말 기준 재고 초과분을 검토하여 별도 목록으로 송부할 예정임."
+ ],
+ "confidence": "high",
+ "notes": "Line 1 of original OCR: 'GEI 'AL HEADQUARTERS' corrected to 'GENERAL HEADQUARTERS'. Line 9: '11 Cx 56855' corrected to 'Part 2. Ammunition requirements listed in CX 56855'. Line 11-13: Carbine quantity '0,125' corrected to '68,125'; 'ras.' corrected to 'rds.'; extraneous text 'For 1,389 pistols, cal 7/ p10 VE!' removed. Line 15 '1s' corrected to 'is'. Line 15 '27,1l1' corrected to '27,111'. Line 16 'ho' corrected to 'HQ'. Line 18 'uthority of Mes t'8 * Judson Sr.' underneath 'NO SIG' line removed as probable artifact/scribble. Line 19 'G-3 uthority of Mes t'8 * Judson Sr.' truncated to 'G-3' per visible text.",
+ "doc_id": "D046",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0304"
+ ],
+ "section": null,
+ "subject_id": "D2",
+ "theme": "D. 장래 정책·철군"
+}

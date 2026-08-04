@@ -1,0 +1,42 @@
+{
+ "doc_type": "table",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "T/O&E excerpts: US Army infantry division organic company structures (Ordnance, Quartermaster, MP, Band)",
+ "subject_ko": "미 육군 보병사단 소속 중대 편제표 발췌 (병기, 보급, 헌병, 군악대)",
+ "en": "DECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\n[[page 0231]]\nORGANIZATION\nOrdnance Maintenance Company Infantry\nDivision\nT/O & E 9-8, 2 Jun 45\nOrganized As Follows:\nOFFICERS.....9\nWARRANT OFFICERS...1\nENLISTED MEN.....140\nAGGREGATE.....150\n\n[[page 0232]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nQuartermaster Company Infantry Division\nT/O & E 10-37, 2 Jun 45\nOrganized As Follows:\nOFFICERS.....10\nENLISTED MEN.....376\nAGGREGATE.....386\n\n[[page 0233]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nMilitary Police Company Infantry Division T/O & E 29-7, 1 Jun 45\nOrganized As Follows:\nOFFICERS.....5\nENLISTED MEN.....169\nAGGREGATE.....174\n\n[[page 0234]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nORGANIZATION\nBAND INFANTRY DIVISION\nT/O & E 20-207, 9 Mar 44\nOrganized As Follows:\nWARRANT OFFICERS.....2\nENLISTED MEN.....58\nAGGREGATE.....60",
+ "ko": "DECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\n[[page 0231]]\n편제\n보병사단 병기정비중대\n(Ordnance Maintenance Company Infantry Division)\nT/O & E 9-8, 1945년 6월 2일\n편제는 다음과 같음:\n장교( Officers) ..... 9\n준사관(Warrant Officers) ... 1\n병사(Enlisted Men) ..... 140\n총계(Aggregate) ..... 150\n\n[[page 0232]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n편제\n보병사단 보급중대\n(Quartermaster Company Infantry Division)\nT/O & E 10-37, 1945년 6월 2일\n편제는 다음과 같음:\n장교 ..... 10\n병사 ..... 376\n총계 ..... 386\n\n[[page 0233]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n편제\n보병사단 헌병중대\n(Military Police Company Infantry Division) T/O & E 29-7, 1945년 6월 1일\n편제는 다음과 같음:\n장교 ..... 5\n병사 ..... 169\n총계 ..... 174\n\n[[page 0234]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n편제\n보병사단 군악대\n(Band Infantry Division)\nT/O & E 20-207, 1944년 3월 9일\n편제는 다음과 같음:\n준사관 ..... 2\n병사 ..... 58\n총계 ..... 60",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "Ordnance Maintenance Company Infantry Division",
+   "Quartermaster Company Infantry Division",
+   "Military Police Company Infantry Division",
+   "Band Infantry Division"
+  ]
+ },
+ "key_points_ko": [
+  "제2차 세계대전 말기 미 육군 보병사단의 표준 편제(T/O&E)를 보여주는 병기·보급·헌병중대 및 군악대 인원표.",
+  "네 가지 중대급 부대 모두 전투 지원 및 전투 근무 지원 부대에 해당하며, 각각의 고유 임무에 맞춰 인원이 배정됨.",
+  "선별된 편제표는 1944~45년 기준으로, 한국군 창설 준비 참고용으로 발췌된 것으로 추정됨."
+ ],
+ "confidence": "high",
+ "notes": "Authority 번호는 페이지에 따라 NND886527로 통일됨. 나머지 숫자와 영문 오기(예: OEGANEZATION, OFTICERS 등)는 OCR 오류로 명백히 판단되어 영문을 표준 미 육군 용어로 재구성함.",
+ "doc_id": "D034",
+ "chunk": 35,
+ "of": 46,
+ "pages": [
+  "0231",
+  "0232",
+  "0233",
+  "0234"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

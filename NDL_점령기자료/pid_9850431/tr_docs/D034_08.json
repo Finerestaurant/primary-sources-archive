@@ -1,0 +1,39 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex 1 to Notes on South Korean Army: Communications School curriculum",
+ "subject_ko": "주한미군 철수 계획 관련 한국군 편성 참고자료 부속서 1: 통신학교 교육 과정",
+ "en": "[[page 0141]]\nDECLASSIFIED •\nAuthority NND86527\nTOP SECRET\nANNEX #1\nCommunications School\n\n1. Purpose:\nTo provide instruction for selected officers in the\ntechnique, characteristics, installations and maintenance of\ncommunications systems authorized for the Korean Army.\n\n2. Scope:\na. Review of basic electricity.\nb. Study of wire communication equipment and practical\nwork in installation, maintenance and operation of telephones,\nswitchboards, and allied equipment in communication nets.\nc. Working knowledge of radio theory to provide an\nunderstanding of AM and FM radio transmission and reception.\nd. Study of radio sets, test equipment and auxiliaries.\ne. Message center operation.\nf. Preparation of SOI's, line route maps, traffic\nand circuit diagrams.\ng. International Morse Code, Radio and telephone procedure, visual signalling\ninstruction.\nh. Duties of Communication personnel, methods of\ntraining.\ni. Signal supply organization.\n\n3. Prerequisites:\nOfficer to have a desire to attend course. Should\nhave current or contemplated assignment as communications staff\nofficer.\n\n4. General:\na. Location: Chinhae, Korea\nb. Class capacity: Sixty (60) students.\nc. Duration of course: Three (3) months.\nd. Instructors: Five (5) U. S. officers\nTen (10) U. S. enlisted men.\n\nTOP SECRET",
+ "ko": "[[면 0141]]\n기밀해제 •\n해제권한 NND86527\n2급 비밀 (TOP SECRET)\n부속서 1\n통신학교\n\n1. 목적:\n한국군에 배정된 통신체계의 기술, 특성, 설치 및 정비에\n관해 선발된 장교들에게 교육을 제공한다.\n\n2. 교육 범위:\n가. 기초 전기학 복습.\n나. 유선 통신 장비 연구 및 통신망에서의 전화기,\n교환대 및 관련 장비 설치, 정비, 운용에 관한 실습.\n다. AM 및 FM 무선 송수신을 이해하기 위한\n실무적 수준의 무선 이론 지식.\n라. 무선기, 시험 장비 및 보조 장비 연구.\n마. 통신소 운용.\n바. 통신운영명세서(SOI), 선로도, 통신량 및\n회선도 작성.\n사. 국제 모스 부호, 무선 및 전화 통신 절차, 시각 신호 교육.\n아. 통신 병과 요원의 임무, 훈련 방법.\n자. 통신 보급 조직.\n\n3. 필수 조건:\n장교 본인이 교육 과정 참석을 희망해야 한다.\n현재 통신 참모 장교로 보직되어 있거나 배정이 예정되어\n있어야 한다.\n\n4. 일반 사항:\n가. 위치: 한국 진해\n나. 학급 정원: 60명.\n다. 교육 기간: 3개월.\n라. 교관: 미군 장교 5명\n미군 사병 10명.\n\n2급 비밀 (TOP SECRET)",
+ "entities": {
+  "people": [],
+  "places": [
+   "Chinhae(진해)"
+  ],
+  "units": [
+   "Communications School"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 통신 장교 양성을 위해 진해에서 3개월 과정의 통신학교 운영을 계획했다.",
+  "교육 과정은 유·무선 통신 장비 운용 및 정비, 통신소 운용, 통신보안절차(SOI) 작성 등을 포함한다.",
+  "1개 학급 정원은 60명이며, 교관은 미군 장교 5명과 사병 10명으로 구성된다.",
+  "지원자는 현직 또는 임명 예정 통신 참모 장교여야 한다."
+ ],
+ "confidence": "high",
+ "notes": "OCR 오류 수정: 'ceonnique'->'technique', 'characteristies'->'characteristics', 'or'->'of', 'IM'->'FM', 'auxillaries'->'auxiliaries', 'start'->'staff', 'Seope'->'Scope', 잘못 읽힌 항목 기호(e, I, 16)를 f, g, h, i로 교정. 'Chinhae'는 진해. SEKISUI JUSHI 및 하단 숫자열은 사진 촬영 스케일 바 자국으로 간주하여 제거함.",
+ "doc_id": "D034",
+ "chunk": 8,
+ "of": 46,
+ "pages": [
+  "0141"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

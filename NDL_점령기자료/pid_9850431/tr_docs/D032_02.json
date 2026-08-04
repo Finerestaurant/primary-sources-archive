@@ -1,0 +1,41 @@
+{
+ "doc_type": "routing_slip",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Distribution and classification slip for a TOP SECRET memorandum on equipment requirements for a South Korean Army",
+ "subject_ko": "주한미군 철수 계획과 관련된 남한군 장비 소요에 대한 일급비밀 각서의 배포 및 보안 취급 기록 표지",
+ "en": "[[page 0116]]\nDECLASSIFIED\nAuthority NND 886527\n\nTOP SECRET\n\nPART ROMAN SIX CIN EQUIPMENT RITES PROPOSED TILL D USED AS BASIS FOR\nRECOMMENDATIONS TO DEPT OF ARMY\n\nOFFICIAL:\nAPPROVED BY:\n\n[signed]\nR. M. LEVI,\nAdjutant General.\n\n[signed]\nWARD H. MRIS,\ncolonel, GD, Assistant Chief of Staff, G-3.\n\n[signed] Brigadier General, GSC,\n\nCopies to:\nC-in-C\nC/S\nG-3 (Return)\nG-4\n10\n12\n15\n16\n17\n19\n20\n22\n23\n24\n25\n26\n\nhandling and transmission of [illegible]\nplain text of this message as corres-\nhas been aut\n\n53-D (3) (4); AR and March 1946 60-A (1) (2) -t, 18-E, 53-A,: C 57425",
+ "ko": "[[면 0116]]\n비밀해제\n해제권한 NND 886527\n\n일급비밀\n\nPART ROMAN SIX CIN EQUIPMENT RITES PROPOSED TILL D USED AS BASIS FOR\nRECOMMENDATIONS TO DEPT OF ARMY\n(부서명 및 문서명 일부 판독불가 — 육군부 장비 권고안 기초 문서)\n\n공식:\n승인:\n\n[서명]\nR. M. LEVI,\n부관감실장.\n\n[서명]\nWARD H. MRIS,\n육군 대령, G-3 작전참모부 차장.\n\n[서명] 준장, GSC,\n\n배포처:\n총사령관\n참모장\nG-3 (반납)\nG-4\n10\n12\n15\n16\n17\n19\n20\n22\n23\n24\n25\n26\n\n문서 취급 및 전송 [판독불가]\n본문 평문 [판독불가]\n[판독불가]\n\n53-D (3) (4); 육군규정 및 1946년 3월 60-A (1) (2) -t, 18-E, 53-A,: C 57425",
+ "entities": {
+  "people": [
+   "R. M. Levi",
+   "Ward H. Mris"
+  ],
+  "places": [],
+  "units": [
+   "Dept of Army",
+   "G-3",
+   "G-4"
+  ]
+ },
+ "key_points_ko": [
+  "육군부 권고를 위한 기초 자료로 사용될 남한군 장비 소요에 관한 일급비밀 문서의 표지임.",
+  "G-3 작전참모부 차장과 준장의 승인을 거쳐 총사령관, 참모장 등 관계 부서에 배포됨.",
+  "문서에는 보안 취급 규정(육군규정 380-5 계열)이 적용되었음."
+ ],
+ "confidence": "medium",
+ "notes": "문서 제목으로 보이는 'PART ROMAN SIX CIN EQUIPMENT RITES...' 부분과 사본 배포 번호 목록의 일부가 OCR 오류로 심하게 훼손되어 정확히 복원할 수 없음. 26번 이후 27번이 누락되었을 가능성 있음. 'Ine Hectit' 등 윗부분은 문서 원본의 스탬프 또는 필기 메모로 추정되나 판독 불가.",
+ "doc_id": "D032",
+ "chunk": 2,
+ "of": 2,
+ "pages": [
+  "0116"
+ ],
+ "section": null,
+ "subject_id": "B4",
+ "theme": "B. 한국군 창설·훈련"
+}

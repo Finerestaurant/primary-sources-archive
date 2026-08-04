@@ -1,0 +1,40 @@
+{
+ "doc_type": "annex",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Medical Department School plan for Korean Army",
+ "subject_ko": "한국군 의무부대 학교 계획",
+ "en": "[[page 0144]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nANNEX #1\n\nMedical Department School\n\n1. Purpose:\n   To provide instruction for Medical Officers in the\n   responsibilities and duties in Medical units.\n\n2. Scope:\n   a. Evacuation.\n   b. Administration.\n   c. Operation, clearing and collecting units.\n   d. Field hospitals.\n   e. Staff duties and field orders.\n\n3. Prerequisites:\n   Medical officers assigned to Medical units.\n\n4. General:\n   a. Location of School: Seoul - 34th General Hospital\n   b. Class capacity: 25 students.\n   c. Duration of course: 160 hours (4 weeks)\n   d. Instructors: 5 U.S. officers\n                   10 U.S. enlisted men\n   e. When formal instruction is completed students will\n      perform on-the-job-training in the U.S. Hospitals.\n\nTOP SECRET\n\n",
+ "ko": "[[면 0144]]\n기밀해제\n해제권한 NND886527\n2급 비밀(TOP SECRET)\n부록 #1\n\n의무부대 학교\n\n1. 목적:\n   의무장교들에게 의무부대에서의 책임과 임무에 관한 교육을 제공한다.\n\n2. 교육 범위:\n   가. 후송.\n   나. 행정.\n   다. 수색, 구호 및 수집 부대의 운용.\n   라. 야전병원.\n   마. 참모 임무 및 야전 명령.\n\n3. 입교 자격:\n   의무부대에 배속된 의무장교.\n\n4. 일반 사항:\n   가. 학교 위치: 경성(서울) - 제34종합병원\n   나. 학급 정원: 25명.\n   다. 교육 기간: 160시간 (4주)\n   라. 교관: 미군 장교 5명\n             미군 사병 10명\n   마. 정규 교육 완료 후 학생들은 미군 병원에서 현장 실습(OJT)을 실시한다.\n\n2급 비밀(TOP SECRET)\n\n",
+ "entities": {
+  "people": [],
+  "places": [
+   "Seoul",
+   "34th General Hospital"
+  ],
+  "units": [
+   "34th General Hospital"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 의무장교 양성을 위한 의무부대 학교를 서울 제34종합병원에 설치할 계획이다.",
+  "교육 과정은 후송, 행정, 야전 운용, 참모 임무 등을 포함하며 4주(160시간) 동안 진행된다.",
+  "정원은 25명이며, 정규 교육 종료 후 미군 병원에서 현장 실습을 실시한다.",
+  "교관진은 미군 장교 5명과 사병 10명으로 구성된다."
+ ],
+ "confidence": "high",
+ "notes": "",
+ "doc_id": "D034",
+ "chunk": 10,
+ "of": 46,
+ "pages": [
+  "0144"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

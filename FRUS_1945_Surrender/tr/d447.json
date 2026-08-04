@@ -1,0 +1,35 @@
+{
+  "doc_id": "d447",
+  "date": "1945-08-15",
+  "time": "발신 1945년 8월 15일 오후 7시 (Washington, August 15, 1945—7 p.m.)",
+  "date_note": "원문 표기 「Washington, August 15, 1945—7 p.m.」",
+  "doc_type": "전보",
+  "classification": null,
+  "place": "Washington",
+  "from": "국무장관 번스(Byrnes)",
+  "to": "주소련 대사 해리먼(Harriman)",
+  "msg_nr": "1840",
+  "source_note": "육군부 경유 귀 제M25313호, 1945년 8월 15일에 대한 회신",
+  "title_en": "The Secretary of State to the Ambassador in the Soviet Union (Harriman)",
+  "title_ko": "국무장관이 주소련 대사(해리먼)에게",
+  "subject_ko": "몰로토프가 제기한 논점은 오늘 발송한 맥아더 장군 앞 지령과 그 부속서로 충분히 다루어졌으며, 항복이나 사절 도착 보고는 아직 없고 이후 이 문제는 맥아더 장군이 처리한다고 알리다.",
+  "key_points_ko": [
+    "1945년 8월 15일 오후 7시 워싱턴 발신, 전보 제1840호.",
+    "육군부 경유 귀하의 제M25313호(1945년 8월 15일)에 대한 회신이다.",
+    "오늘자 본인의 전보로 보낸 문서들 — 맥아더 장군 앞 지령과 그 부속서 (1) 일본 천황의 조서, (2) 항복문서 — 이 몰로토프가 귀하에게 한 진술에서 제기한 논점을 충분히 다루고 있다고 본인은 믿는다.",
+    "우리가 아는 한 항복은 아직 일어나지 않았으며, 사절이 도착했다는 보고도 없다.",
+    "이 문제들은 이제부터 맥아더 장군이 처리한다."
+  ],
+  "ko": "워싱턴, 1945년 8월 15일—오후 7시.\n\n1840. 육군부 경유 1945년 8월 15일자 귀 제M25313호. 오늘 날짜 본인의 전보 [주4] 로 보낸 문서들, 즉 맥아더 장군 앞 지령과 그 부속서 (1) 일본 천황의 조서(Proclamation by the Emperor of Japan) 및 (2) 항복문서(Instrument of Surrender)는, 몰로토프가 귀하에게 한 진술에서 제기한 논점들을 충분히 다루고 있다고 본인은 믿습니다.\n\n우리가 아는 한 항복은 아직 일어나지 않았으며, 사절(emissaries)이 도착하였다는 보고도 아직 없습니다. 이 문제들은 이제부터 맥아더 장군이 처리하고 있습니다.\n\n번스",
+  "notes_ko": [
+    "[주4] 665면 각주 97 참조."
+  ],
+  "people": [
+    "Byrnes 번스(James F. Byrnes) — 국무장관",
+    "Harriman 해리먼(W. Averell Harriman) — 주소련 미국대사",
+    "Molotov 몰로토프(Vyacheslav M. Molotov) — 소련 외무인민위원",
+    "MacArthur 맥아더(Douglas MacArthur) — 연합국최고사령관"
+  ],
+  "confidence": "high",
+  "notes": "여기서 말하는 「맥아더 장군 앞 지령과 그 부속서」는 d431의 문서다. 「Proclamation by the Emperor of Japan」은 d431에서와 같이 천황 명의의 포고이며, 여기서는 「조서」로 옮기고 원어를 병기했다."
+}

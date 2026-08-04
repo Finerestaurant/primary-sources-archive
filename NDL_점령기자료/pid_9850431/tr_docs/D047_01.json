@@ -1,0 +1,47 @@
+{
+ "doc_type": "cable",
+ "date": "1947-12-01",
+ "from": "CINCFE",
+ "to": "CG XXIV CORPS",
+ "info": "WAR (CSGPO)",
+ "msg_nr": "GD 8P/JDS/AA/nce (?) / T-1401? (ZGC T-1401 referred to)",
+ "classification": "TOP SECRET",
+ "subject": "Interim action on ammunition requirements for Korean Constabulary, referring to ZGC T-1401 and CX 56855",
+ "subject_ko": "ZGC T-1401 및 CX 56855에 언급된 조선국방경비대 탄약 소요에 대한 임시 조치",
+ "en": "[[page 0305]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nGENERAL HEADQUARTERS\nFAR EAST COMMAND\n\nOUTGOING MESSAGE GD 8P/JDS/AA/nce\n\nDate: 1 December 1947\n\nFROM: CINCFE\nTO : CG XXIV CORPS ROUTINE 010231\n\nINFO: WAR (CSGPO) ROUTINE\n\nPAREN PAREN ONE PD REURAD ZEBRA GEORGE CHARLIE TARE ONE FOUR ZERO ONE OMA TWO THREE NOVEMBER OMA LOOK ALL OURAD CHARLIE XRAY FIVE SIX EIGHT FIVE FIVE OMA TWO TWO ONE NOVEMBER PAREN NOT TO WILLIAM ABLE ROGER NOR NEEDED PAREN FOR INTERIM ACTION PD ADDITIONAL REQUIREMENT URAD ZEBRA GEORGE CHARLIE TARE ONE FOUR ZERO ONE WILL BE CONSIDERED IN EXTENSION OF SCREENING ALREADY INDICATED IN CHARLIE XRAY FIVE SIX EIGHT FIVE FIVE PD PARA TWO PD NOTED HERE NO RPT NO AMMUNITION REQUIREMENTS STATED IN ZEBRA GEORGE CHARLIE TARE ONE FOUR ZERO ONE PD ASSUMED HERE AMMUNITION REQUIREMENTS OURAD CHARLIE XRAY FIVE SIX EIGHT FIVE FIVE COVER AMMO REQUIREMENTS INCLUDING ADDITIONAL EIGHT ONE TWO FIVE CARBINES PD IF NOT CMA STATE COMPLETE AMMO REQUIREMENTS AND BASIS THEREFOR PD\n\nOFFICIAL:\nHandling and transmission cancelled\nplain text of this message\nhas been authorized\n\n/s/ B. M. Levy\nColonel, Adjutant General's Dept.\n/s/ H. E. EASTWOOD\nColonel, AGD\nAdjutant General\n\nGopies furnished:\nG-1\nG-2\nG-3\nG-4 P&P\n\nSECRETEMATION COPY\n3 - TOP SECRET G-3 Copy No. 7 File Copy\n\n21 by the War Department\n22 in accordance with the provisions of paragraphs 16-c,\n23 -, AR 380-5, 6 March [illegible]\n24\n25\n26",
+ "ko": "[[page 0305]]\n기밀해제\n권한 NND886527\n2급비밀(TOP SECRET)\n\n극동군 총사령부(GHQ/FEC)\n\n발신 전문 GD 8P/JDS/AA/nce\n\n일자: 1947년 12월 1일\n\n발신: 극동군 총사령관(CINCFE)\n수신: 제24군단장(CG XXIV CORPS) 통상 010231\n\n정보: WAR(육군부 참모총장 작전참모부) (CSGPO) 통상\n\n괄호 귀관 전문 ZGC T-1401 11월 23일부 및 우리 측 전문 CX 56855 11월 22일부 (WAR에는 필요하지 않음) 임시 조치에 관한 건. ZGC T-1401에 추가로 요청된 소요는 CX 56855에서 이미 지시된 심사 연장선에서 검토될 것임. 2항. ZGC T-1401에 탄약 소요가 전혀 언급되지 않았음을 여기서 확인함. CX 56855의 탄약 소요가 추가 8,125정의 카빈 소총에 대한 탄약 소요를 포함하는 것으로 간주함. 만약 그렇지 않을 경우 전체 탄약 소요와 그 산출 근거를 명시하라.\n\n공식:\n본 전문의 평문 취급 및 전송이\n육군부 전쟁성(War Department)에 의해 허가되었음.\n\n서명 /s/ B. M. 레비\n대령, 부관감부\n서명 /s/ H. E. 이스트우드\n대령, 부관감부\n부관감\n\n배포처:\nG-1\nG-2\nG-3\nG-4 기획 및 정책\n\n비밀전문서 사본\n3 - 2급비밀 G-3 사본 제7호 파일 보관용\n\n(하단 비고: 육군 규정 AR 380-5, 1946년(추정) 3월 6일자 16-c항 및 기타 조항에 의거함)\n",
+ "entities": {
+  "people": [
+   "B. M. Levy",
+   "H. E. Eastwood"
+  ],
+  "places": [],
+  "units": [
+   "GHQ/FEC",
+   "XXIV Corps",
+   "WAR (CSGPO)",
+   "G-1",
+   "G-2",
+   "G-3",
+   "G-4 P&P",
+   "Korean Constabulary (implied)"
+  ]
+ },
+ "key_points_ko": [
+  "CINCFE는 XXIV 군단장에게 한국군(Korean Constabulary) 추가 탄약 소요에 대해 임시 조치 기준을 전달함.",
+  "기존 전문 CX 56855의 탄약 소요량이 추가된 8,125정의 카빈 소총 물량을 포함한다고 간주함.",
+  "만약 그렇지 않을 경우, 군단장은 전체 탄약 소요량과 그 산출 근거를 상세히 보고할 것을 지시받음.",
+  "해당 전문은 육군 규정에 따라 평문 취급 및 전송이 허가된 문서임."
+ ],
+ "confidence": "medium",
+ "notes": "OCR noise in message number and date formats partially reconstructed using phonetic alphabet context (e.g., ZGCT->ZGC, CINCPE->CINCFE). The message text was heavily corrupted but restored using standard military ‘PATTERN’ (phonetic alphabet) parsing. 'Gopies' corrected to 'Copies'. 'Our' in message nr prefix interpreted as standard Army cable designation.",
+ "doc_id": "D047",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0305"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

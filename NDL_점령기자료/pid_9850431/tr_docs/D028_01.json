@@ -1,0 +1,43 @@
+{
+ "doc_type": "cover",
+ "date": "1948-01-29",
+ "from": "G-3",
+ "to": "C/S",
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Augmentation of South Korean Constabulary — Check Sheet forwarding draft radio to C/S",
+ "subject_ko": "남조선 경비대 증강 관련 — 참모장 승인을 위한 초안 전문 송부 체크 시트",
+ "en": "[[page 0104]]\nDECLASSIFIED\nAuthority NND86527\nGENERAL HEADQUARTERS\nFAR EAST COMMAND\nTOP SECRET \nCHECK SHEET\n\nFile No... ... Japan APO 503\nSubject: Augmentation of South Korean Constabulary\n\nNote No. ...\nFrom: G-3\nTo: C/S\nDate: 29 January 1948\n\n1 Attached hereto for approval and return to G-3 for dispatch is proposed radio to Department of the Army, subject as above.\n\nDraft radio and\n\n[Stamp:] CG AFIE UNCL[ASS]IFIED 3A & 2D AGAC UNCLASSIFIED per auth\nby KE KING CWO USA - [illegible] Dept APO 503\n\n[Stamp:] Do not remove from attached sheets\n\nSEKISUI JUSHI [scanning artifact — not part of document]\n\nSZ AGO Form No. 37 5177-64 ENGR-3-27-47-100,00€ [form printing number — not part of document content]\n[illegible] 15 SECE\n[illegible] K",
+ "ko": "[[면 0104]]\nDECLASSIFIED\nAuthority NND86527\n\n극동군 총사령부(GENERAL HEADQUARTERS FAR EAST COMMAND)\n\n2급 비밀(TOP SECRET)\n체크 시트(CHECK SHEET)\n\n문서번호 ...\n발신: 작전참모부(G-3)\n수신: 참모장(C/S)\n일자: 1948년 1월 29일\n주제: 남조선 경비대 증강\n\n1. 상기 주제에 관한 육군부(Department of the Army) 앞 전문 초안을 승인 후 작전참모부로 반송하도록 별첨함.\n\n전문 초안 및\n\n[도장:] CG AFIE UNCL[ASS]IFIED 3A & 2D AGAC UNCLASSIFIED per auth\nby KE KING CWO USA - [판독불가] Dept APO 503\n\n[도장:] 첨부된 시트에서 분리하지 말 것\n\nSEKISUI JUSHI [스캔용 자 — 문서 내용 아님]\n\nSZ AGO Form No. 37 5177-64 ENGR-3-27-47-100,00€ [서식 인쇄 번호 — 문서 내용 아님]\n[판독불가] 15 SECE\n[판독불가] K",
+ "entities": {
+  "people": [
+   "KE KING"
+  ],
+  "places": [
+   "Japan APO 503"
+  ],
+  "units": [
+   "G-3",
+   "C/S",
+   "Department of the Army",
+   "CG AFIE",
+   "2D AGAC"
+  ]
+ },
+ "key_points_ko": [
+  "1948년 1월 29일, 극동군사령부 작전참모부(G-3)가 남조선 경비대 증강 계획에 관한 육군부 전문을 송부하기 위해 참모장(C/S)의 승인을 요청함.",
+  "체크 시트 상단에 명시된 기밀등급은 2급 비밀(TOP SECRET)이지만, 하단의 검열 및 분류 해제 도장에는 'UNCLASSIFIED'라 기재되어 있어, 해당 문서의 보안 분류가 사후 조정되었음을 시사함."
+ ],
+ "confidence": "medium",
+ "notes": "The OCR output is heavily corrupted by scanning artifacts ('SEKISUI JUSHI', '200cm', form printing numbers, partially legible stamps). The soldier's name 'KE KING' and abbreviation 'CWO' (Chief Warrant Officer) are fairly certain. The stamp text mentioning declassification is reconstructed from typical GHQ/FEC marking conventions as the OCR fragments are garbled. The file number field and some margin markings at the bottom are unreadable.",
+ "doc_id": "D028",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0104"
+ ],
+ "section": null,
+ "subject_id": "A4",
+ "theme": "A. 조선경비대 무장·증강"
+}

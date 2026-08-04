@@ -1,0 +1,31 @@
+{
+  "doc_id": "d194",
+  "date": "1945-04-28",
+  "time": null,
+  "doc_type": "서한",
+  "place": "Moscow",
+  "from": "The American Chargé in the Soviet Union (Kennan) 주소련 미국 대리대사 케넌",
+  "to": "The Assistant People’s Commissar for Foreign Affairs of the Soviet Union (Vyshinski) 소련 외무인민위원 대리 비신스키",
+  "msg_nr": "No. 225 (대통령 메시지 번호)",
+  "source_note": "740.00119 Control (Austria)/4–2845",
+  "title_en": "The American Chargé in the Soviet Union (Kennan) to the Assistant People’s Commissar for Foreign Affairs of the Soviet Union (Vyshinski)",
+  "title_ko": "주소련 미국 대리대사(케넌)가 소련 외무인민위원 대리(비신스키)에게",
+  "subject_ko": "트루먼이 스탈린에게, 독일과 오스트리아에서 각국 군대가 자기 점령지대로 들어가는 질서 있는 절차에 관한 처칠의 4월 27일자 메시지에 전적으로 동의한다고 전했다.",
+  "key_points_ko": [
+    "케넌이 대통령의 메시지(제225호, 스탈린 원수 앞 개인·극비)를 비신스키를 통해 전달했다.",
+    "트루먼은 처칠로부터 스탈린과 자기 앞으로 보낸 4월 27일자 메시지를 받았다.",
+    "그 메시지는 독일과 오스트리아에서 각국 군대가 점령할 지대로 들어가는 질서 있는 절차(orderly procedure)에 관한 것이다.",
+    "트루먼은 그 메시지에 전적으로 동의하며, 처칠에게도 마찬가지로 동의를 알리겠다고 했다."
+  ],
+  "ko": "모스크바, 1945년 4월 28일.\n\n비신스키 씨 귀하. 본인은 대통령이 스탈린 원수에게 보내는 다음 메시지를 전달하도록 훈령받았습니다.\n\n「제225호, 대통령이 스탈린 원수에게 보내는 개인 및 극비 문서:\n\n「본인은 처칠 총리로부터, 우리 군대가 독일과 오스트리아에서 점령하게 될 지대들로 들어가는 질서 있는 절차에 관하여 귀하와 본인 앞으로 보낸 4월 27일자 메시지를 받았습니다.\n\n「본인은 처칠 총리가 우리 두 사람 앞으로 보낸 위 메시지에 전적으로 동의하며, 총리에게도 마찬가지로 본인의 동의를 알리겠습니다.」\n\n이 메시지가 스탈린 원수에게 전달되도록 조치하여 주시면 감사하겠습니다.\n\n경구,\n\n조지 F. 케넌(George F. Kennan)",
+  "notes_ko": [],
+  "people": [
+    "Kennan 케넌(주소련 대리대사)",
+    "Vyshinski 비신스키(소련 외무인민위원 대리)",
+    "Truman 트루먼(대통령)",
+    "Stalin 스탈린",
+    "Churchill 처칠(영국 총리)"
+  ],
+  "confidence": "high",
+  "notes": "「No. 225」는 전보번호가 아니라 대통령 메시지의 일련번호이나, 문서에 붙은 유일한 번호이므로 msg_nr에 그 취지를 밝혀 넣었다."
+}

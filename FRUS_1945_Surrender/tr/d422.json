@@ -1,0 +1,31 @@
+{
+  "doc_id": "d422",
+  "date": "1945-08-12",
+  "time": "1945년 8월 12일 발신 (Moscow) / 8월 12일 오전 7시 38분 접수 (Received August 12—7:38 a.m.)",
+  "date_note": "원문 표기 「Moscow, August 12, 1945.」 및 「[Received August 12—7:38 a.m.]」.",
+  "doc_type": "전보",
+  "classification": null,
+  "place": "Moscow",
+  "from": "주소련대사 해리먼(W. Averell Harriman)",
+  "to": "국무장관 번스(James F. Byrnes)",
+  "msg_nr": "M 25277",
+  "source_note": "740.00119 P.W./8–1245: Telegram",
+  "title_en": "The Ambassador in the Soviet Union (Harriman) to the Secretary of State",
+  "title_ko": "주소련대사(해리먼)가 국무장관에게",
+  "subject_ko": "소련 정부가 대일 회답문에 가해진 변경에 동의했음을 몰로토프가 통보해 왔다는 짧은 보고.",
+  "key_points_ko": [
+    "8월 11일자 백악관 메시지 제324호에 대한 회신.",
+    "몰로토프가 해리먼에게, 소련 정부가 대일본 정부 회답에 가해진 변경에 동의한다고 통보.",
+    "8월 12일 오전 7시 38분 접수 — 전날 밤의 논쟁(d410)이 하룻밤 만에 정리되었음을 보여준다."
+  ],
+  "ko": "모스크바, 1945년 8월 12일.\n[8월 12일 오전 7시 38분 접수]\n\nM 25277. 8월 11일자 백악관 메시지 제324호 [주65] 에 관하여. 몰로토프가 나에게, 소련 정부가 일본 정부에 대한 회답에 가해진 변경에 동의한다고 통보하였다.\n\n[해리먼(Harriman)]",
+  "notes_ko": [
+    "[주65] 국무부 문서철에서 발견되지 않음. 유사한 메시지에 대한 영국 측 회답은 런던발 8월 11일자 전보 제2263호, 633면 참조."
+  ],
+  "people": [
+    "Harriman 해리먼(W. Averell Harriman, 주소련대사)",
+    "Molotov 몰로토프(V. M. Molotov, 소련 외무인민위원)"
+  ],
+  "confidence": "high",
+  "notes": ""
+}

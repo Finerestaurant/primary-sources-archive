@@ -1,0 +1,39 @@
+{
+ "doc_type": "other",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Annex 1 to Notes on South Korean Army: Battalion and Battery School curriculum",
+ "subject_ko": "주한미군 철수계획 관련 한국군 건설 검토 문서 부속서 1: 대대 및 포대 학교(야전포병 장교) 교육과정",
+ "en": "[[page 0140]]\nTOP SECRET\n\nANNEX # 1\n\nBattalion And Battery School (Field Artillery Officers)\n\n1. Purpose:\n   a. To provide instruction for officers of the Artillery in their responsibilities and duties.\n   b. To provide in addition instruction for officers who will be assigned to cannon companies of the Infantry Regiments.\n   c. To teach the employment of artillery.\n\n2. Scope:\n   a. Tactics and technique to include the battalion with sufficient background on Division Artillery to insure understanding.\n   b. Command and staff duties.\n   c. Field orders.\n   d. Basic knowledge of individual and crew served weapons.\n\n3. Prerequisites:\n   a. Officers assigned to artillery and cannon companies.\n\n4. General:\n   a. Location: Chinhae\n   b. Class Capacity: 100\n   c. Duration of course: Two (2) months\n   d. Instructors: Ten (10) US Artillery officers\n                    Thirty (30) US enlisted men\n\nTOP SECRET",
+ "ko": "[[면 0140]]\n2급 비밀\n\n부속서 # 1\n\n대대 및 포대 학교 (야전포병 장교)\n\n1. 목적:\n   가. 포병 장교에게 그들의 책임과 임무에 관한 교육을 제공함.\n   나. 아울러 보병 연대의 기관포중대에 배속될 장교들에게 교육을 제공함.\n   다. 포병 운용술을 교수함.\n\n2. 범위:\n   가. 사단 포병에 대한 충분한 이해를 보장하기 위한 배경 지식을 포함한 대대급 전술 및 기술.\n   나. 지휘 및 참모 임무.\n   다. 야전 명령.\n   라. 개인 화기 및 공용 화기에 관한 기본 지식.\n\n3. 선수 조건:\n   가. 포병 및 기관포중대에 배속된 장교.\n\n4. 일반 사항:\n   가. 위치: 진해\n   나. 수용 인원: 100명\n   다. 교육 기간: 2개월\n   라. 교관: 미군 포병 장교 10명\n                    미군 사병 30명\n\n2급 비밀",
+ "entities": {
+  "people": [],
+  "places": [
+   "Chinhae"
+  ],
+  "units": [
+   "Infantry Regiments",
+   "Division Artillery"
+  ]
+ },
+ "key_points_ko": [
+  "한국군 포병 장교 양성을 위한 대대 및 포대 학교 교육과정의 목적, 범위, 선수 조건 및 운영 계획 제시.",
+  "교육 장소는 진해, 정원 100명, 2개월 과정이며, 미군 장교 10명과 사병 30명이 교관으로 배정됨.",
+  "포병 장교 외 보병 연대 기관포 중대 장교들도 교육 대상에 포함하여 화력 운용 지식을 전수."
+ ],
+ "confidence": "high",
+ "notes": "OCR에서 '1'을 'l'로, 'a'를 '9'로 잘못 읽은 부분 등을 문맥에 맞게 수정함 (예: '9L' -> 'a.', '8L' -> 'b.'). 'cannon companies'는 보병연대 예하 기관포중대를 의미하는 것으로 판단. 'SEKISUI JUSHI' 등 스캔 아티팩트는 삭제.",
+ "doc_id": "D034",
+ "chunk": 7,
+ "of": 46,
+ "pages": [
+  "0140"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "d222",
+  "date": "1945-05-06",
+  "time": "London, May 6, 1945—4 p.m. [Received May 6—12:15 p.m.]",
+  "doc_type": "전보",
+  "place": "London",
+  "from": "위넌트(John G. Winant) — 주영대사(The Ambassador in the United Kingdom)",
+  "to": "국무장관(The Secretary of State) — 국무장관 대리 그루와 매슈스 씨에게만",
+  "msg_nr": "4600",
+  "source_note": "740.00119 EW/5–645: Telegram",
+  "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+  "title_ko": "주영대사(위넌트)가 국무장관에게",
+  "subject_ko": "항복 요건에 관하여 런던에서 완전한 조율과 합의가 이루어졌음을 알리는 짧은 전보로, 랭스 서명 전날에 보내진 것이며 뒤에 편집자가 5월 7일 랭스 서명과 5월 8일 베를린 비준을 알리는 주기(注記)를 덧붙였다.",
+  "key_points_ko": [
+    "위넌트는 항복 요건(surrender requirements)에 관하여 이곳에서 완전한 조율과 합의가 이루어졌음을 그루와 매슈스에게만 알린다.",
+    "그는 수상(처칠)과 베델 스미스 중장 두 사람 모두와 이야기를 나누었다 — 랭스에서 실제 서명을 받게 될 참모장과 총리 양쪽이다.",
+    "그는 트루먼 대통령과 마셜 장군이 이 전문의 사본을 보았으면 좋겠다고 덧붙인다.",
+    "편집자 주기: 1945년 5월 7일 프랑스 랭스(Rheims)에서 독일 최고사령부가 연합국원정군최고사령관과 소련 고등사령부에 무조건항복하였다.",
+    "편집자 주기: 모든 독일 군대의 무조건항복에 대한 비준(ratification)은 1945년 5월 8일 베를린에서 최고연합사령부들에 대하여 이루어졌다 — 편집자는 랭스를 「항복」, 베를린을 「비준」으로 부른다.",
+    "5월 7일과 5월 8일 「군사항복문서(Acts of Military Surrender)」의 문안은 국무부 Executive Agreement Series 제502호 또는 59 Stat. (제2부) 1857 참조."
+  ],
+  "ko": "런던, 1945년 5월 6일—오후 4시.\n [5월 6일—오후 12시 15분 접수.]\n\n4600. 국무장관 대리 그루와 매슈스 씨에게만. 항복 요건(surrender requirements)에 관하여 이곳에서 완전한 조율과 합의가 이루어졌음을 두 분께 알려 드리고 싶었습니다. 나는 수상(the Prime Minister) 및 베델 스미스(Bedell Smith) 중장 두 분과 모두 이야기를 나누었습니다. 트루먼 대통령과 마셜(Marshall) 장군께서 이 전문의 사본을 보시게 되면 고맙겠습니다.\n\n위넌트(Winant)\n\n[1945년 5월 7일 프랑스 랭스(Rheims)에서 독일 최고사령부가 연합국원정군최고사령관과 소련 고등사령부에 무조건항복하였다. 모든 독일 군대가 최고연합사령부들에 대하여 행한 무조건항복의 비준(ratification)은 1945년 5월 8일 베를린에서 이루어졌다. 5월 7일과 5월 8일 군사항복문서(Acts of Military Surrender)의 문안은 국무부 Executive Agreement Series 제502호 또는 59 Stat.(제2부) 1857면 참조. 독일 항복에 이르는 교섭에 관한 자료는 뒤의 717면 이하 참조.]",
+  "notes_ko": [],
+  "people": [
+    "John G. Winant 위넌트 — 주영대사",
+    "Joseph C. Grew 그루 — 국무장관 대리",
+    "H. Freeman Matthews 매슈스",
+    "Winston Churchill 처칠 — 영국 수상",
+    "Walter Bedell Smith 베델 스미스 — SHAEF 참모장",
+    "Harry S. Truman 트루먼 — 대통령",
+    "George C. Marshall 마셜"
+  ],
+  "confidence": "high",
+  "notes": "말미의 대괄호 문단은 FRUS 편집자가 넣은 주기이며 본문의 일부가 아니다. 편집자는 5월 7일 랭스의 행위를 'surrendered unconditionally', 5월 8일 베를린의 행위를 'ratification'이라 부르고 두 문서를 모두 'Acts of Military Surrender'로 묶고 있다 — 랭스 문서를 「예비」라 부르지 않는 미국 측 용법이 그대로 드러난다. 지명 표기 Rheims는 원문대로 두었다."
+}

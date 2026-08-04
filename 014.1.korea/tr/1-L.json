@@ -1,0 +1,44 @@
+{
+  "serial": "1-L",
+  "date": "1945-11-12",
+  "date_note": "본문 우상단 타자 '12 November 1945'. 문서기호 AG 014.1 (12 Nov 45) G-S",
+  "doc_type": "서한",
+  "classification": "Top Secret",
+  "from": "연합국최고사령관총사령부(GENERAL HEADQUARTERS, SUPREME COMMANDER FOR THE ALLIED POWERS), APO 500",
+  "to": "제24군단장(Commanding General, XXIV Corps), APO 235",
+  "info": null,
+  "msg_nr": "AG 014.1 (12 Nov 45) G-S",
+  "subject_en": "Civil Affairs Administration in Korea",
+  "subject_ko": "조선의 민사 행정",
+  "summary_ko": "연합국최고사령관총사령부가 SWNCC 79/1 사본 제80호와 SWNCC 101/4 사본 제62호를 전달하는 1945년 10월 27일자 육군부 각서의 사본을 제24군단장에게 참고 및 지침용으로 회부하는 한 장짜리 서한.",
+  "key_points_ko": [
+    "1945년 10월 27일자 육군부 각서 사본을 동봉한다.",
+    "그 각서는 SWNCC 79/1의 사본 제80호와 SWNCC 101/4의 사본 제62호를 전달하는 것이다.",
+    "제24군단장에게 참고 및 지침(information and guidance)용으로 회부한다.",
+    "맥아더 장군의 명에 의함. 부관보 해럴드 페어(Harold Fair) 중령 서명.",
+    "동봉물 1건: CINCAFPAC 앞 육군부 각서 사본, SWNCC 79/1 1부 및 SWNCC 101/4 1부 동봉.",
+    "기록용 각서(Memorandum for Record): 민정부(Govt Sect)에서 부관부(AG)로 서명·발송을 위한 회부용지(R/S)가 왔고, 회부용지에 '작전 담당 참모차장실의 승인을 받았음'이라는 기재와 W.E.C. 의 이니셜이 있었다."
+  ],
+  "ko": "연합국최고사령관총사령부\nAPO 500\n1945년 11월 12일\nAG 014.1 (12 Nov 45) G-S\n\n건명: 조선의 민사 행정.\n\n수신: 제24군단장, 군사우편번호 235.\n\n동봉한 것은 1945년 10월 27일자 육군부 각서의 사본으로, 이는 SWNCC 79/1의 사본 제80호와 SWNCC 101/4의 사본 제62호를 전달하는 것이며, 귀관의 참고와 지침을 위하여 회부한다.\n\n맥아더(MacArthur) 장군의 명에 의하여:\n\n해럴드 페어(HAROLD FAIR),\n중령, 부관부(A.G.D.),\n부관보\n\n동봉물 1건:\nCINCAFPAC 앞 육군부(WD) 각서 사본, SWNCC 79/1 1부 및 SWNCC 101/4 1부 동봉.\n\n기록용 각서(Memorandum for Record):\n민정부(Govt Sect)에서 부관부(AG)로 서명 및 발송을 위한 회부용지(R/S)가 왔으며, 회부용지에 다음 기재가 있었다 — '작전 담당 참모차장실(Office of the Deputy Chief of Staff for Operations)의 승인을 받았음.' W.E.C. 의 이니셜이 기재됨.",
+  "en": "TOP SECRET\n\nGENERAL HEADQUARTERS\nSUPREME COMMANDER FOR THE ALLIED POWERS\nAPO 500,\n12 November 1945\n\nAG 014.1 (12 Nov 45) G-S\n\nSUBJECT: Civil Affairs Administration in Korea.\n\nTO : Commanding General, XXIV Corps, APO 235.\n\nInclosed is copy of War Department Memorandum, dated 27 October 1945, transmitting Copy No. 80 of SWNCC 79/1 and Copy No. 62 of SWNCC 101/4, forwarded for your information and guidance.\n\nBy command of General MacARTHUR:\n\nHAROLD FAIR,\nLt. Col., A.G.D.,\nAsst. Adjutant General\n\n1 Incl:\nCopy WD Memo to CINCAFPAC, inclosing one cy SWNCC 79/1 and one cy SWNCC 101/4.\n\nMemorandum for Record:\n\nR/S frm Govt Sect to AG for Signature and Dispatch, with Note on R/S: \"Approval of the Office of the Deputy Chief of Staff for Operations has been obtained.\" initialed by W.E.C.",
+  "stamps_ko": [
+    "접수 도장(우상단): GHQ AGO RECORDS 12 NOV 1945",
+    "도장 위 손글씨: '014.1 Korea' + 서명(판독불가)",
+    "문서기호 옆 손글씨: 'G-S'",
+    "우측 여백 세로 도장: 'AG RECORDS'",
+    "발송 도장(중하단): 'MAILED  30 NOV 21 45  ADV. ECH. AG.-GHQ'(앞의 '12'로 읽히는 숫자가 겹쳐 찍혀 있음)",
+    "기록용 각서 아래 손글씨 서명(이니셜, 판독불가) — 'initialed by W.E.C.' 옆",
+    "우측 여백 손글씨(판독불가)",
+    "좌하단 원문자 '①'",
+    "하단 도장: TOP SECRET (상·하단 각 2회, 일부는 뒷면 비침)",
+    "우하단 흐린 원형 도장: 'CINCAFPAC ... A.G.'(판독 불확실)",
+    "좌하단 연필 일련번호: 1-L"
+  ],
+  "people": [
+    "맥아더(Douglas MacArthur — 원문 'General MacARTHUR')",
+    "해럴드 페어(Harold Fair — 원문 'HAROLD FAIR, Lt. Col., A.G.D., Asst. Adjutant General')",
+    "W.E.C. (이니셜만 기재된 인물 — 회부용지 결재자)"
+  ],
+  "confidence": "medium",
+  "notes": "1) 발송 도장의 날짜가 '12 3 0 NOV 21 45' 처럼 겹쳐 찍혀 있어 '30 NOV 1945'로 읽었으나 확실치 않다. 원본 대조 대상. 2) 'Inclosed'/'inclosing' 은 당시 군 문서의 표기다(현행 enclosed). 고치지 않았다. 3) 문서번호 SWNCC 79/1, SWNCC 101/4 는 번역하지 않고 그대로 두었다. 사본 번호(제80호·제62호)도 그대로다. 4) 'R/S' 는 Routing Slip(회부용지)로 읽었다. 5) 실제 동봉물(육군부 각서 및 SWNCC 문서 2건)은 이 면에 함께 편철되어 있지 않다. 6) 이 면 전체가 흐린 사본이라 여백 표시 여러 개가 판독되지 않아 confidence 를 medium 으로 두었다."
+}

@@ -1,0 +1,41 @@
+{
+ "doc_type": "table",
+ "date": "1945-01-01",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "T/O&E Strength Summaries: Infantry Division and Field Artillery Battalion",
+ "subject_ko": "T/O&E 병력 요약: 보병사단 및 야전포병대대",
+ "en": "[[page 0223]]\nDECLASSIFIED\nAuthority NND8N6527\nTOP SECRET\n[illegible table header and figures]\n29 30 31 TOP SECRET\n\n[[page 0224]]\nDECLASSIFIED\nAuthority NND816527\n[illegible]\n17\n19 20 21\n29 30 31\n\n[[page 0225]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\nORGANIZATION\n[Desiguptes eMery Dineson M311Jerr] Infantry Division T/O & E [illegible] 1 March 45\n[E/0686-10-09.27,8010 kll_3/928080 2.42 8eled 20 Doe] Organized As Follows:\nOFFICERS .....\nWARRANT OFFICERS [illegible]\n[illegible rows]\n25\nTOP SECRET\n26\n27\n\n[[page 0226]]\nDECLASSIFIED\nAuthority NND8X6527\nTOP SECRET\nORGANIZATION\nField Artillery Battalion Motorized 105mm Howitzer Trucks Drawn\nT/O & E 6-25-05, 27 Sept 44 with Change 2 dated 2 Jun 47\nOrganized As Follows:\nOFFICERS 33\nWARRANT OFFICERS 2\nENLISTED MEN 462\nAGGREGATE 497\n(Medical Detachment not included)\nTOP SECRET",
+ "ko": "[[면 0223]]\nDECLASSIFIED\nAuthority NND8N6527\nTOP SECRET\n[판독불가 — 표 제목 및 수치]\n29 30 31 TOP SECRET\n\n[[면 0224]]\nDECLASSIFIED\nAuthority NND816527\n[판독불가]\n17\n19 20 21\n29 30 31\n\n[[면 0225]]\nDECLASSIFIED\nAuthority NND86527\nTOP SECRET\n편제(ORGANIZATION)\n[Desiguptes eMery Dineson M311Jerr] 보병사단(Infantry Division) T/O&E [판독불가] 1945년 3월 1일\n[E/0686-10-09.27,8010 kll_3/928080 2.42 8eled 20 Doe] 편제는 다음과 같음:\n장교(OFFICERS) .....\n준사관(WARRANT OFFICERS) [판독불가]\n[판독불가 행들]\n25\nTOP SECRET\n26\n27\n\n[[면 0226]]\nDECLASSIFIED\nAuthority NND8X6527\nTOP SECRET\n편제(ORGANIZATION)\n차량화 105mm 곡사포 야전포병대대(Field Artillery Battalion Motorized 105mm Howitzer Trucks Drawn)\nT/O&E 6-25-05, 1944년 9월 27일자, 변경사항 2(1947년 6월 2일자) 포함\n편제는 다음과 같음:\n장교(OFFICERS) 33\n준사관(WARRANT OFFICERS) 2\n병(ENLISTED MEN) 462\n총계(AGGREGATE) 497\n(의무분견대 미포함)\nTOP SECRET",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "Infantry Division",
+   "Field Artillery Battalion Motorized 105mm Howitzer Trucks Drawn"
+  ]
+ },
+ "key_points_ko": [
+  "문서는 보병사단과 차량화 105mm 곡사포 야전포병대대의 T/O&E 편제표 일부이다.",
+  "야전포병대대의 총병력은 의무분견대를 제외하고 장교 33명, 준사관 2명, 사병 462명 등 총 497명으로 명시되어 있다.",
+  "야전포병대대 T/O&E는 1944년 9월 27일자 원본에 1947년 6월 2일자 변경사항 2가 적용된 기준이다.",
+  "보병사단 편제표에 해당하는 페이지(0223, 0224, 0225)는 판독이 불가능하거나 심하게 손상되어 구체적 수치를 식별할 수 없다."
+ ],
+ "confidence": "low",
+ "notes": "페이지 0223, 0224, 0225는 OCR 상태가 매우 불량하여 대부분의 텍스트를 복원할 수 없었습니다. 보병사단 관련 수치와 제목 등은 원문에서 의미를 유추할 수 없어 [illegible]/[판독불가]로 표기하였습니다. 0226쪽의 야전포병대대 데이터만 일부 식별 가능하여 이를 중심으로 재구성했습니다.",
+ "doc_id": "D034",
+ "chunk": 33,
+ "of": 46,
+ "pages": [
+  "0223",
+  "0224",
+  "0225",
+  "0226"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

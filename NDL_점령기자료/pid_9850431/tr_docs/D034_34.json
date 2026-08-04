@@ -1,0 +1,43 @@
+{
+ "doc_type": "table",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "T/O&E tables for artillery battalion and infantry division headquarters company",
+ "subject_ko": "야전포대대 및 보병사단 본부중대 편제·장비표",
+ "en": "[[page 0227]]\n\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nORGANIZATION\nHeadquarters and Headquarters Battery\nMotorized Artillery Battalion\nT/O & E 6-26-09 dated 27 Sept 41 / change 3, 2 Jun 45\nOrganized As Follows:\nOFFICERS...... 24\nWARRANT OFFICER..... 1\nENLISTED MEN....... 111\nAGGREGATE.......... 126\n\n[[page 0228]]\n\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nORGANIZATION\nBattery, 2.010 Artillery Motorized 105 MM Howitzer Truck Drawn\nT/O & E 27 Sept 41 / change 2 & 2 dated 21,000 14 & 2 Jun 42\nOrganized As Follows:\nOFFICERS...... 5\nENLISTED MEN...... 94\nAGGREGATE...... 99\n\n[[page 0229]]\n\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nORGANIZATION\nService Battery, Motorized Artillery Battalion (Motorized) 105 MM Howitzer Truck Drawn\nT/O & E 6-26-09 27 Sept 45 / change 1 & 2 dated 4 Nov 41 & 3 Jun 42\nOrganized As Follows:\nOFFICERS...... 4\nWARRANT OFFICERS ... 1\nENLISTED MEN....... 69\nAGGREGATE........ 74\n\n[[page 0230]]\n\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\n\nORGANIZATION\nHeadquarters Company Infantry Division\nT/O & E 7-2-02L 1 Jun 45 (Modified) w/change 2 dated 5 Dec 42\nOrganized As Follows:\nOFFICERS.....\nWARRANT OFFICERS. 8\nENLISTED MEN.... 1211\nAGGREGATE. 1268\n\nAccomplished By Changes As Follows:\nORGANIZATION\nCOLUMN\nLINE\n- 2011K 16 78 2\n- 25. _ 12. 42 37 _ (9)\n: 46. Delete entire line\n_31 Delete entire line\n: 52 90 227 -213\n1. 1353 _ 9777 -268\n- 33 41=49:52\n18 45. 61,\n22 = 62 : 26 26\n238: 64 : (2)253",
+ "ko": "[[page 0227]]\n\n기밀해제\n권한 NND886527\n2급비밀\n\n편제\n본부 및 본부포대\n차량화 야전포대대\n편제·장비표(T/O & E) 6-26-09, 1941년 9월 27일자 / 변경 3, 1945년 6월 2일\n편제는 다음과 같음:\n장교.......... 24\n준위.......... 1\n사병.......... 111\n총계.......... 126\n\n[[page 0228]]\n\n기밀해제\n권한 NND886527\n2급비밀\n\n편제\n포대, 2.010 \n차량화 105mm 곡사포 트럭견인포대\n편제·장비표(T/O & E) 1941년 9월 27일자 / 변경 2 및 2, 21,000(?) 1942년 6월 14일 및 2일\n편제는 다음과 같음:\n장교.......... 5\n사병.......... 94\n총계........ 99\n\n[[page 0229]]\n\n기밀해제\n권한 NND886527\n2급비밀\n\n편제\n근무포대, 차량화 야전포대대(차량화) 105mm 곡사포 트럭견인포대\n편제·장비표(T/O & E) 6-26-09, 1945년 9월 27일자 / 변경 1 및 2, 1941년 11월 4일 및 1942년 6월 3일자\n편제는 다음과 같음:\n장교.......... 4\n준위.......... 1\n사병........... 69\n총계........ 74\n\n[[page 0230]]\n\n기밀해제\n권한 NND886527\n2급비밀\n\n편제\n보병사단 본부중대\n편제·장비표(T/O & E) 7-2-02L, 1945년 6월 1일 (수정) w/변경 2, 1942년 12월 5일자\n편제는 다음과 같음:\n장교.....\n준위.......... 8\n사병........... 1211\n총계.......... 1268\n\n다음 변경사항에 따라 조정됨:\n편제\n종대(COLUMN)\n선(LINE)\n- 2011K 16 78 2\n- 25. _ 12. 42 37 _ (9)\n: 46. 해당 열 전체 삭제\n_31 해당 열 전체 삭제\n: 52 90 227 -213\n1. 1353 _ 9777 -268\n- 33 41=49:52\n18 45. 61,\n22 = 62 : 26 26\n238: 64 : (2)253",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "Motorized Artillery Battalion",
+   "Headquarters and Headquarters Battery",
+   "Battery, 2.010 Artillery Motorized 105 MM Howitzer Truck Drawn",
+   "Service Battery, Motorized Artillery Battalion",
+   "Headquarters Company Infantry Division"
+  ]
+ },
+ "key_points_ko": [
+  "1941~1945년에 걸친 차량화 105mm 곡사포 야전포대대 본부 및 포대의 편제와 인원(장교, 준위, 사병) 총계가 기재되어 있다.",
+  "1945년 6월 1일 기준 보병사단 본부중대의 수정 편제와 1942년 12월 변경사항을 포함한 인원 총계가 명시되어 있다.",
+  "미 육군의 T/O & E 서식에 따라 각 편제표가 열거되어 있으며, 군사고문단(KMAG)의 주한미군 편성 참고 자료로 추정된다."
+ ],
+ "confidence": "medium",
+ "notes": "일부 OCR 오류로 인해 날짜와 숫자(예: '21,000')의 정확한 값이 불분명합니다. 0230면 하단의 삭제 및 변경 지시사항은 OCR 손상이 심해 부분 복원에 그쳤습니다. 문서 제목 'Notes on South Korean Army For Trip to'는 더 큰 보고서의 일부였을 가능성을 시사합니다.",
+ "doc_id": "D034",
+ "chunk": 34,
+ "of": 46,
+ "pages": [
+  "0227",
+  "0228",
+  "0229",
+  "0230"
+ ],
+ "section": null,
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

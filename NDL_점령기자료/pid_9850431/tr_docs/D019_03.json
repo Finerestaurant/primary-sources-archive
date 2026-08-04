@@ -1,0 +1,42 @@
+{
+ "doc_type": "table",
+ "date": "1948-01-03",
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "SECRET",
+ "subject": "Ordnance Items Substitute List for Korean Army Logistics Requirements (Tables submitted to CG USAFIK, 8 Jan 48)",
+ "subject_ko": "주한미군사령관에게 1948년 1월 8일 제출된 한국군 군수 소요 대비 대체 병기 목록",
+ "en": "[[page 0071]]\nfile TFODS\nSECRET\nOrdnance Items (substitute items for application against total requirements)\n\nSubstitute for Item No.:\n\n6. SNL-C-50  Howitzer 105, M3 w/carriage M3A1  22\n7. B1-0029960  Launcher, rocket, AT 2.36 M9  5020\n8. A1-0021843  Gun, submachine, cal 45, Thompson, M1928A1  1856\n8. A1-0021788  Gun, submachine, cal 45, Thompson, M1  2479\n8. A1-0021723  Gun, submachine, cal 45, M3  1759\n\nFollowing substitute items also available in quantities indicated for application against total requirements:\n\nDECLASSIFIED  SECRET\nAuthority NND8X6527\nTal Page 9 of 20 pages.\n\n[[page 0072]]\nORDNANCE ITEMS (substitute items for application against total requirements)\nLtr Hq USAFIK to CINCFE, 1st Ind, TEGLS 475, 8 Jan 48, subj: \"Logistic Requirements for Korean Army\". To: CINCFE,\n\nTotal required from sources other than FEC (considering FEC excess not available), Col 2 - Col 4; Total required from sources other than FEC (considering other than Korea as not in hands of troops), Col 3 - Col 4\n\n(cont'd)\n9. B1-0037955  Pistol, Auto cal 45, M1911  1564\n11. SNL-C-36  Gun, 57 mm, M1 w/carriage M1A1  56\n11. SNL-C-36  Gun, 57 mm, M1, w/carriage M1A2  76\n13. A1-0031780  Mortar, 81 mm, M1, w/mount M4  47\n17. B1-0041291  Rifle, US Cal 30, M1903 A4 (snipers)  60\n27. B1-0041276  Rifle, US Cal 30, M1903  900\n\nTable Secret\nDECLASSIFIED  Page 10 of 10 pages\nAuthority NND846527",
+ "ko": "[[면 0071]]\n철 TFODS\n2급비밀\n병기 목록(총 소요량 대비 대체 품목)\n\n대체 대상 품목 번호:\n\n6. SNL-C-50  105mm 곡사포, M3(포가 M3A1 포함)  22\n7. B1-0029960  로켓 발사기, 대전차 2.36인치 M9  5020\n8. A1-0021843  기관단총, 45구경, 톰슨 M1928A1  1856\n8. A1-0021788  기관단총, 45구경, 톰슨 M1  2479\n8. A1-0021723  기관단총, 45구경, M3  1759\n\n총 소요량에 대비하여 아래 대체 품목들을 표시된 수량만큼 사용 가능:\n\n비밀해제  2급비밀\n권한 NND8X6527\n합계 20면 중 9면.\n\n[[면 0072]]\n병기 목록(총 소요량 대비 대체 품목)\n주한미군사령부가 극동군사령관에게 보낸 1948년 1월 8일자 1차 인도(引渡) 문서 TEGLS 475호, 제목: \"한국군 군수 소요\". 수신: 극동군사령관,\n\nFEC 이외 출처 필요 총량(FEC 잉여분 가용 불가 고려), 2열 - 4열; FEC 이외 출처 필요 총량(한국 외 지역은 부대 보유분으로 간주하지 않음), 3열 - 4열\n\n(계속)\n9. B1-0037955  권총, 자동 45구경, M1911  1564\n11. SNL-C-36  57mm 대전차포, M1(포가 M1A1 포함)  56\n11. SNL-C-36  57mm 대전차포, M1(포가 M1A2 포함)  76\n13. A1-0031780  박격포, 81mm, M1(마운트 M4 포함)  47\n17. B1-0041291  소총, 미국 30구경, M1903 A4(저격용)  60\n27. B1-0041276  소총, 미국 30구경, M1903  900\n\n본 표 2급비밀\n비밀해제  10면 중 10면\n권한 NND846527",
+ "entities": {
+  "people": [],
+  "places": [
+   "한국"
+  ],
+  "units": [
+   "USAFIK",
+   "FEC",
+   "CINCFE"
+  ]
+ },
+ "key_points_ko": [
+  "1948년 1월 8일자 문서는 한국군 군수 소요 충당을 위해 극동군사령부가 보유한 대체 병기 목록을 제시하고 있다.",
+  "대체 품목에는 105mm 곡사포, 대전차 로켓 발사기 외 다양한 구경의 톰슨 기관단총 및 M3 기관단총이 포함된다.",
+  "추가로 57mm 대전차포, 81mm 박격포, M1911 권총, M1903 소총 등이 특정 수량만큼 소요 충당용 대체 품목으로 제공 가능하다.",
+  "FEC 외부 소요 계산은 극동사령부의 잉여 물자 미가용 상황을 전제로 산출되었다."
+ ],
+ "confidence": "medium",
+ "notes": "OCR이 심하게 훼손된 표 제목과 상단 머릿글은 문맥과 인접 페이지를 참고하여 재구성했습니다. 특히 1면 상단의 'Total required from sources...' 부분은 2면의 동일한 머릿글을 바탕으로 의미를 복원했습니다. 품목 번호 8번이 세 개로 중복 기재된 것은 원문의 오류로 보입니다. 일부 재고 번호(Stock Number)는 OCR 오류 가능성이 있어 유사한 미군 병기 목록 체계를 참고하여 추정·수정했습니다.",
+ "doc_id": "D019",
+ "chunk": 3,
+ "of": 3,
+ "pages": [
+  "0071",
+  "0072"
+ ],
+ "section": null,
+ "subject_id": "C1",
+ "theme": "C. 병참·편제"
+}

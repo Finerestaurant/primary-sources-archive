@@ -1,0 +1,39 @@
+{
+ "doc_type": "routing_slip",
+ "date": "1946-11-01",
+ "from": "G-3",
+ "to": "C/S",
+ "info": null,
+ "msg_nr": null,
+ "classification": null,
+ "subject": "Cover sheet for draft radio to WDCSA regarding radio CX 66853",
+ "subject_ko": "WDCSA 앞 전문(라디오 CX 66853 관련) 초안 송부 표지",
+ "en": "[[page 0341]]\nDECLASSIFIED\nAuthority NND86527\n\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES, PACIFIC\nCHECK SHEET\n(Do not remove from attached sheets)\nFile No: Subject: Draft of radio to WDCSA.\nNote No. From: G-3 To: C/S Date: 1 November 1946\nFor approval and return to G-3.\n1. Incl. Draft of radio to WDCSA\n[Illegible marginalia: \"LI V pare\" etc.]\nReply made in radio CX 66853 dispatched 011253[?]Z\n\nAFPAC AGO Form No. 37\n\n[[page 0342]]\n[Page is blank except for declassification stamp, photographic ruler, and loose tick numbers \"10 11\" through \"27\" along the edge. No document text.]",
+ "ko": "[[면 0341]]\n기밀해제\n권한 NND86527\n\n총사령부\n미국 육군 태평양 부대\n검토 용지\n(첨부 서류에서 분리 금지)\n파일 번호: 제목: WDCSA 앞 전문 초안\n비망록 번호: 발신: G-3 수신: 참모장 일자: 1946년 11월 1일\n승인 후 G-3으로 반송 요망.\n1. 첨부: WDCSA 앞 전문 초안\n[판독불가 낙서]\n회신은 011253[?]Z 발송된 전문 CX 66853으로 완료.\n\nAFPAC AGO 양식 제37호\n\n[[면 0342]]\n[이 면은 기밀해제 도장, 사진 촬영용 자, 그리고 가장자리의 \"10 11\"부터 \"27\"까지의 느슨한 눈금 숫자 외에 백지임. 문서 내용 없음.]",
+ "entities": {
+  "people": [],
+  "places": [],
+  "units": [
+   "G-3",
+   "WDCSA",
+   "AFPAC"
+  ]
+ },
+ "key_points_ko": [
+  "G-3가 1946년 11월 1일 참모장에게 WDCSA 앞 전문 초안의 승인을 요청하는 검토 용지 표지임.",
+  "해당 초안은 전문 CX 66853 및 011253Z 발송 건과 관련됨.",
+  "두 번째 면은 문서 내용이 없는 백지이며 사진 촬영용 자만 포함됨."
+ ],
+ "confidence": "medium",
+ "notes": "Date is 1 November 1946, which predates the stated temporal scope of the file (Nov 1947 – Apr 1948). G-3 section likely filed an older form with later documents, or it is a misdated reference. Marginalia on page 0341 is largely illegible; 'pare' may be part of 'compare' or 'prepare'. Reply date/time string '011253[?]' is an uncertain reading.",
+ "doc_id": "D062",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0341",
+  "0342"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

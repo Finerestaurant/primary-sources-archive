@@ -1,0 +1,31 @@
+{
+  "serial": "1-T",
+  "date": "1946-01-21",
+  "date_note": "쪽지의 'DATE:' 난은 비어 있다. 색인상 1946년 1월 21일. 쪽지에 적힌 두 문서의 일자는 J.C.S. 1483/15 = 18 Jan 46, SWNCC 176/8 = 16 Jan 46",
+  "doc_type": "라우팅 슬립",
+  "classification": null,
+  "from": "육군부 워싱턴(WD WASH)",
+  "to": "태평양미육군총사령관 전진지휘소(CINCAFPAC ADV)",
+  "info": null,
+  "msg_nr": "J.C.S. 1483/15 · SWNCC 176/8",
+  "subject_en": "Basic initial directive for civil affairs in Korea.",
+  "subject_ko": "조선 민사에 관한 기본 초기 지령",
+  "summary_ko": "조선 민사 기본 초기 지령(J.C.S. 1483/15 / SWNCC 176/8) 관계 각서가 참모장실로 반출되어, 그 자리에 남은 기록용 쪽지다.",
+  "key_points_ko": [
+    "쪽지에 두 문서번호와 일자가 병기돼 있다 — J.C.S. 1483/15(1946년 1월 18일), SWNCC 176/8(1946년 1월 16일).",
+    "건명은 「조선 민사에 관한 기본 초기 지령」.",
+    "본체 각서는 빼내어 참모장실(O of C/S)로 보내졌고 본문은 이 문서철에 없다.",
+    "'DATE:' 난은 타자되지 않은 채 비어 있다.",
+    "면 하단에 연필로 편철기호 '1-T'."
+  ],
+  "ko": "기록용 쪽지\n\nJ.C.S. 1483/15  1946년 1월 18일\nSWNCC 176/8  1946년 1월 16일\n\n일자:\n\n건명: 조선 민사에 관한 기본 초기 지령\n\n본 각서는 빼내어 참모장실로 보냈음",
+  "en": "NOTE FOR RECORD\n\nJ.C.S. 1483/15   18 Jan 46\nSWNCC 176/8    16 Jan 46\n\nDATE:\n\nSUBJ: Basic initial directive for civil affairs in Korea.\n\nTHIS MEMO PULLED AND SENT TO O OF C/S",
+  "stamps_ko": [
+    "면 하단 좌측 연필: '1-T' (편철기호)",
+    "면 상단 여백: 'Declassified E.O. 12065 Section 3/402/ NNDG NO. [판독불가]' — 비밀해제 표기",
+    "타자 문구 '본 각서는 빼내어 참모장실로 보냈음'(THIS MEMO PULLED AND SENT TO O OF C/S) 자체가 반출 표시"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "문서번호 J.C.S. 1483/15 · SWNCC 176/8 은 번역하지 않고 그대로 두었다. 쪽지 서식상 'DATE:' 아래에 일자를 적게 돼 있으나 그 난은 비어 있고, 대신 그 윗줄에 두 문서번호와 각각의 일자가 타자돼 있다. 색인상의 1946-01-21 은 이 면에는 타자돼 있지 않다."
+}

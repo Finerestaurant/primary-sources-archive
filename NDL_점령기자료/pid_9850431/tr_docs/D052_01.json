@@ -1,0 +1,49 @@
+{
+ "doc_type": "cable",
+ "date": "1947-09-27",
+ "from": "CINCFE",
+ "to": "OSGPO (FOR BYROADE FROM DUPUY)",
+ "info": "CG USAFIK",
+ "msg_nr": "CX 55756",
+ "classification": "TOP SECRET",
+ "subject": "CINCFE transmits draft Korea strategic importance study conclusions, notes constabulary as future army nucleus",
+ "subject_ko": "극동군 총사령관, 한국 전략적 중요성 연구 초안 결론 전달 및 경비대를 미래 군핵으로 언급",
+ "en": "[[page 0314]]\nDECLASSIFIED\nAuthority NND886527\n\nFile Top A\n\nGENERAL HEADQUARTERS\nFAR EAST COMMAND\n\nGC-P BLP/sib\n27 September 1947\n\nFROM : CINCFE 270757\nTO : OSGPO (FOR BYROADE FROM DUPUY) • URGENT\nINFO: CG USAFIK • ROUTINE\n\n011 cam\nPAREN X 55756 PAREN REFERENCE USAFIK RADIOS ZEBRA PETER OBOE POL 1162 LOVE, ONE ONE SIX TWO AND ZEBRA UNCLE ROGER CHARLIE ONE ONE NINE FOUR PD\n\n15\" FOR YOUR INFORMATION IN EARLY PLANNING AND DISCUSSIONS WITH STATE DEPARTMENT CMA GENERAL HODGE HAS SEEN AND CONCURRED IN ALL CONCLUSIONS OF DRAFT STUDY ON STRATEGIC IMPORTANCE OF KOREA DATED ONE TWO SEPTEMBER PD HE CONTEMPLATES KOREAN CONSTABULARY AS NUCLEUS OF ANY SOUTH KOREAN ARMED FORCES CNA AND WILL BE PREPARED TO SUBMIT THROUGH PROPER CHANNELS HIS VIEWS ON STRENGTH AND ORGANIZATION OF THESE ARMED FORCES IF HIS VIEWS SHOULD BE REQUESTED OFFICIALLY PARA STUDY HAS BEEN SHOWN TO FECOM STAFF FOR THEIR INFORMATION\n\nOFFICIAL:\n\nAPPROVED BY:\n\nR. M. LEVY,\nAdjutant General.\n\nWARD H. MARIS,\nColonel, AGD, Asst. Chief of staff, G-3, Brigadier General,\n\nCopies to:\nG-3 (Return)\n\nJPO Tep-deeict\n\n3 CX 55756",
+ "ko": "[[면 0314]]\n비밀해제\n권한 NND886527\n\n파일 최상급 비밀\n\n극동군 총사령부\n\nGC-P BLP/sib\n1947년 9월 27일\n\n발신: 극동군 총사령관(CINCFE) 270757\n수신: OSGPO (뒤퓌로부터 바이로드에게) • 긴급\n참조: 주한미군 사령관(CG USAFIK) • 통상\n\n011 cam\n괄호 엑스 55756 괄호 참조 주한미군 전문 제브라 피터 오보이 POL 1162 러브, 원원식스투와 제브라 엉클 로저 찰리 원원나인포 전문\n\n15\" 정보 제공 차원에서 귀관의 초기 계획 수립 및 국무부와의 논의를 위해 전달함 쉼표 하지 장군은 9월 12일자 한국의 전략적 중요성에 관한 연구 초안의 모든 결론을 검토하였고 이에 동의함 전문 그는 한국 경비대를 모든 남한 무장 병력의 핵심(core)으로 구상하고 있음 콤마 그리고 공식적인 견해 요청이 있을 경우 이들 무장 병력의 규모와 조직에 관한 자신의 견해를 정식 경로를 통해 제출할 준비가 되어 있을 것임 항연구분 초안은 정보 공유 차원에서 극동군 사령부 참모진에게 보여졌음\n\n공식:\n\n승인자:\n\nR. M. 레비,\n부관감\n\n워드 H. 머리스,\n대령, AGD, 참모차장보, G-3, 준장,\n\n배포처:\nG-3 (반납)\n\nJPO Tep-deeict\n\n3 CX 55756",
+ "entities": {
+  "people": [
+   "BYROADE",
+   "DUPUY",
+   "William F. Dean (implied by Hodge's concurrence context)",
+   "WARD H. MARIS",
+   "R. M. LEVY"
+  ],
+  "places": [
+   "Korea"
+  ],
+  "units": [
+   "CINCFE",
+   "CG USAFIK",
+   "FECOM",
+   "G-3",
+   "AGD"
+  ]
+ },
+ "key_points_ko": [
+  "하지 장군은 9월 12일자 '한국의 전략적 중요성' 연구 초안의 모든 결론에 동의했다.",
+  "하지 장군은 남한 무장 병력의 기초로 한국 경비대(Korean Constabulary)를 핵심으로 구상 중이다.",
+  "공식적인 견해 요청이 접수되면, 남한 군대의 규모 및 조직에 관한 견해를 정식 경로로 제출할 예정이다.",
+  "해당 연구 초안은 현재 극동군 사령부(FECOM) 참모진에게 참고용으로 배포되었다."
+ ],
+ "confidence": "high",
+ "notes": "원문 'PROPER CHANNELS'는 'PROPER CHANNELS'으로, 'IF HIS VIEWS 1b o'는 'IF HIS VIEWS SHOULD'로 교정. 하단의 'JPO Tep-deeict'는 판독이 불확실하나 원문 그대로 유지.",
+ "doc_id": "D052",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0314"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

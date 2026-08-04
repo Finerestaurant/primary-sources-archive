@@ -1,0 +1,42 @@
+{
+ "doc_type": "cable",
+ "date": "1946-01-11",
+ "from": "CINCAFPAC ADV",
+ "to": "CG USAFIK",
+ "info": "CINCAFPAC MANILA",
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Armament of Korean police force with surplus US equipment",
+ "subject_ko": "미 잉여 장비를 사용한 한국 경찰 무장 계획",
+ "en": "[[page 0327]]\nDECLASSIFIED\nAuthority NND886527\n\nTOP SECRET\n\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES, PACIFIC\nSIGNAL CORPS MESSAGE\n\n11 JANUARY 1946\n\nOPNI PRIORITY\n\nFROM: CINCAFPAC ADV\nTO : CG USAFIK\nINFO: CINCAFPAC MANILA\n\nPASSED TO YOU FOR INFORMATION IS WILLIAM XRAY NINE-TWO ONE EIGHT SEVEN CHA\nONE ONE JANUARY CMA REFOURAD CHARLIE ABLE XRAY FIVE FIVE TWO THREE EIGHT PD\n( CAX 56830 ) PROCEED WITH ARMAMENT OF POLICE FORCE WITH SURPLUS UNITED\nSTATES EQUIPMENT AT YOUR DISCRETION AS AUTHORIZED BY WILLIAM XRAY NINE TWO\nONE EIGHT SEVEN PARA REQUEST INFORMATION TO SERVE AS BASIS FOR REPLY TO WAR\nDEPARTMENT QUERIES FOR FURTHER INFORMATION CONCERNING ORGANIZATION CMA\nEQUIPMENT AND FUNCTIONS OF CIVIL POLICE FORCE AND FUNCTIONS OF PROPOSED\nCOAST GUARD\n\nOFFICIAL: APPROVED:\nB. I. PRICE                  C. A. RUSSELL\nBrigadier General, U.S. Army Brigadier General, U.S.C.\nAdjutant General            Asst, Chief of Staff, G-3\n\nTOP SECRET",
+ "ko": "[[면 0327]]\n비밀해제\n권한 NND886527\n\n2급 비밀 (TOP SECRET)\n\n사령부\n미 육군 태평양 전력\n통신대 전문\n\n1946년 1월 11일\n\nOPNI PRIORITY (작전우선)\n\n발신: CINCAFPAC ADV (미 육군 태평양 전력 사령관 전진)\n수신: CG USAFIK (주한 미 육군 사령관)\n정보참조: CINCAFPAC MANILA (미 육군 태평양 전력 사령관 마닐라)\n\n참고 전달: WILLIAM XRAY 92187호, 1월 11일. 재참조 CHARLIE ABLE XRAY 55238 PD.\n( CAX 56830 ) WILLIAM XRAY 92187호에서 승인된 바와 같이 귀관의 재량에 따라\n미국 잉여 장비를 사용한 경찰력 무장을 진행할 것. 문단: 민간 경찰력의 조직,\n장비 및 기능과 제안된 해안 경비대의 기능에 관한 추가 정보를 요청하는\n육군부 조회에 대한 회신의 기초가 되도록 정보를 요청할 것.\n\n공식: 승인:\nB. I. PRICE                  C. A. RUSSELL\n미 육군 준장                 미 육군 준장\n부관감                      참모차장, G-3\n\n2급 비밀 (TOP SECRET)",
+ "entities": {
+  "people": [
+   "B. I. PRICE",
+   "C. A. RUSSELL"
+  ],
+  "places": [
+   "Manila"
+  ],
+  "units": [
+   "USA Armed Forces, Pacific",
+   "USAFIK",
+   "G-3"
+  ]
+ },
+ "key_points_ko": [
+  "1946년 1월 11일, 미 육군 태평양 전력 사령부는 주한 미군 사령관에게 잉여 미군 장비를 활용한 한국 경찰 무장을 재량껏 진행하라고 지시했다.",
+  "육군부의 추가 정보 요청에 대비해 민간 경찰의 조직, 장비, 기능 및 제안된 해안 경비대에 관한 정보를 요청했다."
+ ],
+ "confidence": "medium",
+ "notes": "연도가 1946으로 판독되나, 해당 문서군의 시기(1947-1948) 및 내용상 1946년 초 주둔 초기 단계의 건으로 보임. 전문 최상단 연도가 명확하지 않아 OCR 그대로 기재함. 일부 암호명(WILLIAM XRAY, CAX 호출부호)은 판독이 불완전하나 원문 그대로 보존함.",
+ "doc_id": "D055",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0327"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

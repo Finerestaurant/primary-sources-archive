@@ -1,0 +1,52 @@
+{
+ "doc_type": "cable",
+ "date": "1948-01-25",
+ "from": "OSGPO (Department of the Army)",
+ "to": "CG USAFIK",
+ "info": "CINCFE",
+ "msg_nr": "WX 94669",
+ "classification": "TOP SECRET",
+ "subject": "Authorizing unilateral announcement on South Korea elections if UN Commission blocked by Soviets",
+ "subject_ko": "소련이 유엔 위원단의 북한 진입을 거부할 경우 남한 단독 선거에 관한 일방적 발표를 승인",
+ "en": "[[page 0010]]\nDECLASSIFIED\nAuthority NND 846527\n\nHEADQUARTERS, FAR EAST COMMAND ADJUTANT GENERAL'S OFFICE\nRADIO AND CABLE CENTER\n\nINCOMING MESSAGE\n\nTOP SECRET\n\nPRIORITY\n\nSecret 25 Jan 48\n\nFROM: OSGPO\n\nTO: CG USAFIK\n\nINFO: CINCFE\n\nNR: WX 94669\n\n1. In the event Soviet refusal to permit UN Commission enter North Korea results in decision by the Commission to refer Korean problem back to the Interim Committee Department of State proposes support immediate action in the Interim Committee favoring observance by the Commission of elections in South Korea alone.\n\n2. Should such Commission decision result in aggravating unrest among South Korean people you are authorized to announce the United States intention of requesting the Interim Committee to instruct the UN Commission to observe elections in South Korea alone.\n\n3. Pending outcome of such action, no steps should be taken at this time in the field which might be construed as indicative of an intention to proceed with elections in US Zone unilaterally and without reference to wishes of the Commission. For your confidential information, it is not intended that reference to Interim Committee will be excuse for further delay in holding elections. State concurs this message.\n\nNO SIG\n\nINFORMATION: COMMANDER IN CHIEF, CHIEF OF STAFF, G-2, G-3, DIPLOMATIC\n\n98829 PRIORITY TOO: 242352 Z\nMCN: 69702\n\nTop secret\nHandle as TOP SECRET correspondence\nper paragraphs 5 and 9, AR 380-5. Paraphrase not required.\n\nHandling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.\n\n16-50735-1 GPO\n\nCut 9-Cal Linder\nCut 10-Cal Paige\nCOPY No. 11",
+ "ko": "[[면 0010]]\n비밀해제\n해제권한 NND 846527\n\n극동사령부 본부, 부관감실\n무선통신센터\n\n수신 전문\n\n2급 비밀 (TOP SECRET)\n\n우선 (PRIORITY)\n\n3급 비밀 (SECRET) 48년 1월 25일\n\n발신: OSGPO (육군부)\n\n수신: CG USAFIK (주한미군사령관)\n\n통보: CINCFE (극동군총사령관)\n\n전문번호: WX 94669\n\n1. 소련이 유엔 위원단의 북한 진입을 거부한 결과 위원단이 한국 문제를 임시위원회로 회부하기로 결정할 경우, 국무부는 위원단이 남한에서만 선거를 참관하도록 하는 내용의 즉각적인 조치를 임시위원회에서 지지할 것을 제안함.\n\n2. 만약 그러한 위원단의 결정으로 인해 남한 주민들 사이의 소요가 악화될 경우, 귀관은 임시위원회에 유엔 위원단이 남한에서만 선거를 참관하도록 지시해 줄 것을 요청하겠다는 미국의 의사를 발표할 권한을 가짐.\n\n3. 그러한 조치의 결과가 나오기 전까지는, 위원단의 뜻을 참작하지 않고 미국 점령지역에서 일방적으로 선거를 진행할 의도로 해석될 수 있는 어떠한 조치도 현지에서 취해서는 안 됨. 귀관의 비밀 정보를 위해 알리는데, 임시위원회로의 회부가 선거 실시를 더 지연시키는 구실이 되어서는 안 될 것임. 국무부도 이 전문에 동의함.\n\n서명 없음\n\n정보 배포: 총사령관, 참모장, G-2, G-3, 외교참모\n\n98829 우선 (PRIORITY) 발신시간: 242352 Z\n통제번호: 69702\n\n2급 비밀 (TOP SECRET)\n2급 비밀 문서로 취급할 것\n육군규정 AR 380-5, 5항 및 9항에 따름. 의역 불필요.\n\n본 전문의 평문 그대로의 동급 문서로서의 취급 및 전송은 1946년 3월 6일자 육군규정 AR 380-5, 16-C, 18-E, 53-A, 53-D (1) (2) (3), 60-A (1) (2) (3) (4)항의 규정에 의거하여 전쟁부의 승인을 받았음.\n\n16-50735-1 GPO\n\n배포담당 칼 린더\n배포담당 칼 페이지\n사본 제11호",
+ "entities": {
+  "people": [
+   "Cal Linder",
+   "Cal Paige"
+  ],
+  "places": [
+   "North Korea",
+   "South Korea",
+   "US Zone"
+  ],
+  "units": [
+   "OSGPO",
+   "CG USAFIK",
+   "CINCFE",
+   "Department of State",
+   "Interim Committee",
+   "UN Commission",
+   "War Department",
+   "G-2",
+   "G-3"
+  ]
+ },
+ "key_points_ko": [
+  "소련이 유엔 위원단의 북한 진입을 거부할 경우 국무부는 남한 단독 선거 참관을 임시위원회에서 지지할 방침을 밝힘.",
+  "UN 위원단의 결정으로 남한 내 소요가 악화되면 CG USAFIK이 남한 단독 선거 지시를 요청하겠다는 미국의 의사를 발표할 권한을 승인함.",
+  "UN 위원단의 결정 전까지는 점령 지역에서 일방적 선거 진행 의도로 비춰질 어떠한 조치도 금지됨.",
+  "임시위원회로의 회부가 선거 실시를 더 지연시키는 구실이 되어서는 안 된다는 점을 명시함."
+ ],
+ "confidence": "high",
+ "notes": "Original telegram message form with classification and distribution marks. OCR clearly interprets paragraph numbering, though some line breaks appear mid-sentence due to the teletype format. The message lacks a formal signature block, marked 'NO SIG'.",
+ "doc_id": "D005",
+ "chunk": 1,
+ "of": 1,
+ "pages": [
+  "0010"
+ ],
+ "section": null,
+ "subject_id": null,
+ "theme": null
+}

@@ -1,0 +1,31 @@
+{
+  "serial": "3",
+  "date": "1945-09-30",
+  "date_note": "쪽지 자체에는 날짜가 없다. 1945-09-30은 색인에서 이 자리(3행)에 배정된 문서(TFGCG 94, 1945-09-30)의 날짜다.",
+  "doc_type": "라우팅 슬립",
+  "classification": "Top Secret",
+  "from": null,
+  "to": null,
+  "info": null,
+  "msg_nr": null,
+  "subject_en": "Line 3 not used.",
+  "subject_ko": "3행은 쓰지 않음",
+  "summary_ko": "문서철 색인의 3행이 사용되지 않았음을 알리는 자필 한 줄짜리 대체 쪽지.",
+  "key_points_ko": [
+    "본문은 자필로 'Line 3 not used.' 한 줄뿐이고 그 밖의 타자 내용은 없다.",
+    "용지 상하단에 TOP SECRET 고무인이 찍혀 있어, 폐기지가 아니라 정식 편철 용지로 취급되었음을 보여준다.",
+    "좌하단에 연필로 일련번호 '3'이 적혀 있다.",
+    "색인에서 3행과 4행이 같은 전문(TFGCG 94, 1945-09-30)을 중복 기재한 이유가 이 쪽지다 — 3행 기재가 폐기되고 4행으로 다시 기재된 것으로 보인다."
+  ],
+  "ko": "3행은 쓰지 않음.",
+  "en": "Line 3 not used.",
+  "stamps_ko": [
+    "상단 고무인: TOP SECRET",
+    "하단 고무인: TOP SECRET",
+    "자필(잉크): Line 3 not used. — 3행은 쓰지 않음.",
+    "좌하단 연필: 3"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "OCR(ocr/0075.txt)은 'Line 3 not mad.'로 읽었으나 원본 스캔(pages/0075.jpg)에서 자필은 명백히 'Line 3 not used.'다. 용지 상단에 편철용 천공 두 개가 있다. 실물 문서가 아니라 색인 3행 자리를 채우는 대체 쪽지이므로 발신·수신·전문번호가 없다."
+}

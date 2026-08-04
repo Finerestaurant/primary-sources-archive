@@ -1,0 +1,38 @@
+{
+ "doc_type": "annex",
+ "date": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "classification": "TOP SECRET",
+ "subject": "Proposed curricula for two Korean Army schools: 1) Regimental and Battalion Commanders School (Infantry and Artillery), and 2) Company Officers Course (Infantry)",
+ "subject_ko": "한국군을 위한 제안된 두 학교 교육 과정표: 1) 연대 및 대대장 학교(보병 및 포병), 2) 중대 장교 과정(보병)",
+ "en": "[[page 0252]]\nDECLASSIFIED\nAuthority NND 846527\nTOP SECRET\nANNEX # 1\nRegimental And Battalion Commanders School (Infantry And Artillery\nOfficers)\n\n1. Purpose:\n   a. To provide instruction for selected officers in their responsibilities and duties as Regimental and Battalion Commanders.\n   b. To prepare officers for duty as members of staffs to include the regiment; to prepare officers for duty as commanders of reinforced battalions and regimental combat teams.\n   c. To develop understanding and teamwork among the officers of the Infantry and other officers of the army.\n\n2. Scope:\n   a. Organization, equipment, technique and tactical employment of all units of the Infantry.\n   b. Organization, equipment, and tactical employment of other units that make up the regimental and battalion combat team.\n   c. Leadership.\n   d. Combat intelligence and counter intelligence.\n   e. Communications.\n   f. Troop movements (foot, motor and rail).\n   g. Methods of instruction.\n   h. Domestic disturbances.\n\n3. Prerequisites:\n   Officers to attend will be those selected for command and staff positions in regiments and battalions.\n\n4. General:\n   a. Location: Pusan\n   b. Class Capacity: 100\n   c. Duration of Course: Three (3) months\n   d. Instructors: Five (5) field grade U. S. officers, five (5) company grade U. S. officers, fifteen (15) enlisted men\n\nTOP SECRET\n\n[[page 0253]]\nDECLASSIFIED\nAuthority NND886527\nTOP SECRET\nANNEX # 2\nCompany Officers Course (Infantry Officers)\n\n1. Purpose:\n   To provide instruction for officers of company grade in their responsibilities and duties within the Infantry, and the employment of Infantry in the regimental and battalion combat teams.\n\n2. Scope:\n   a. Tactics and technique of all weapons and equipment authorized the Infantry.\n   b. Tactics and technique of units of the Infantry up to and including the battalion.\n   c. Staff duties and field orders.\n   d. Domestic disturbances.\n\n3. Prerequisites:\n   Officers of company grade assigned to Infantry will attend.\n\n4. General:\n   a. Location: Pusan\n   b. Class Capacity: 100 students\n   c. Duration of course: 45 days\n   d. Instructors: 10 U. S. officers, 10 U. S. enlisted men\n\nTOP SECRET",
+ "ko": "[[면 0252]]\n기밀해제\n권한 NND 846527\n2급 비밀(TOP SECRET)\n부록 1\n연대 및 대대장 학교 (보병 및 포병 장교)\n\n1. 목적:\n   가. 선발된 장교들에게 연대장 및 대대장으로서의 책임과 임무에 관한 교육을 제공한다.\n   나. 연대를 포함한 참모진으로서 근무할 장교들을 준비시키고, 강화 대대 및 연대 전투단의 지휘관으로서 근무할 장교들을 준비시킨다.\n   다. 보병 장교들과 육군 내 다른 장교들 간의 이해와 팀워크를 함양한다.\n\n2. 범위:\n   가. 모든 보병 부대의 편성, 장비, 기술 및 전술적 운용.\n   나. 연대 및 대대 전투단을 구성하는 기타 부대의 편성, 장비 및 전술적 운용.\n   다. 리더십.\n   라. 전투 정보 및 방첩.\n   마. 통신.\n   바. 부대 이동 (도보, 차량 및 철도).\n   사. 교육 방법.\n   아. 국내 소요.\n\n3. 필수 조건:\n   연대 및 대대의 지휘 및 참모 직위에 선발된 장교들이 참석한다.\n\n4. 일반 사항:\n   가. 위치: 부산\n   나. 정원: 100명\n   다. 과정 기간: 3개월\n   라. 교관: 미군 영관급 장교 5명, 미군 위관급 장교 5명, 미군 사병 15명\n\n2급 비밀(TOP SECRET)\n\n[[면 0253]]\n기밀해제\n권한 NND886527\n2급 비밀(TOP SECRET)\n부록 2\n중대 장교 과정 (보병 장교)\n\n1. 목적:\n   위관급 장교들에게 보병 내에서의 책임과 임무, 그리고 연대 및 대대 전투단에서의 보병 운용에 관한 교육을 제공한다.\n\n2. 범위:\n   가. 보병에 지급된 모든 화기 및 장비의 전술과 기술.\n   나. 대대를 포함한 보병 부대의 전술과 기술.\n   다. 참모 근무 및 야전 명령.\n   라. 국내 소요.\n\n3. 필수 조건:\n   보병에 배속된 위관급 장교들이 참석한다.\n\n4. 일반 사항:\n   가. 위치: 부산\n   나. 정원: 학생 100명\n   다. 과정 기간: 45일\n   라. 교관: 미군 장교 10명, 미군 사병 10명\n\n2급 비밀(TOP SECRET)",
+ "entities": {
+  "people": [],
+  "places": [
+   "Pusan"
+  ],
+  "units": []
+ },
+ "key_points_ko": [
+  "남한군 간부 양성을 위해 부산에서 운영할 두 가지 교육 과정(연대·대대장 학교 및 중대 장교 과정)의 세부 교과 과정표를 제시한다.",
+  "연대·대대장 과정은 3개월 동안 100명을 대상으로 하며, 지휘·참모·전투정보·통신·국내 소요 진압 등을 교육한다.",
+  "중대 장교 과정은 45일 동안 100명을 대상으로 하며, 보병 화기·전술·참모 근무·국내 소요 등에 관한 실무 교육을 제공한다.",
+  "모든 교육 과정은 미군 장교와 사병이 교관으로 참여하며, 한국군 장교단의 전문성과 팀워크를 향상시키는 것을 목표로 한다."
+ ],
+ "confidence": "medium",
+ "notes": "OCR 오류 다수 교정: 'osticers' -> 'Officers', 'lor' -> 'for', 'selested' -> 'selected', 'taetios' -> 'tactics', 'etin' -> 'units', 'Pusen' -> 'Pusan', 'Corps' -> 'Corps' 등. 페이지 0252 상단의 'ANNEX # 1 b'에서 'b'는 원본에 'ANNEX #1a' 등이 있었을 가능성을 시사하나 문맥상 유지. 페이지 0253의 'Pranequi sites'은 'Prerequisites'로 교정.",
+ "doc_id": "D034",
+ "chunk": 41,
+ "of": 46,
+ "pages": [
+  "0252",
+  "0253"
+ ],
+ "section": "ANNEX 1",
+ "subject_id": "B3",
+ "theme": "B. 한국군 창설·훈련"
+}

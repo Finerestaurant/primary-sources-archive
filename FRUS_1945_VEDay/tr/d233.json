@@ -1,0 +1,30 @@
+{
+  "doc_id": "d233",
+  "date": "1945-05-11",
+  "time": "London, May 11, 1945—9 p.m. [Received May 11—8:50 p.m.]",
+  "doc_type": "전보",
+  "place": "London",
+  "from": "The Ambassador in the United Kingdom (Winant) 주영대사 위넌트",
+  "to": "The Secretary of State 국무장관",
+  "msg_nr": "4726 (Special German Series No. 12)",
+  "source_note": "740.00119 EW/5–1145: Telegram",
+  "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+  "title_ko": "주영대사(위넌트)가 국무장관에게",
+  "subject_ko": "위넌트가 머피와 전화로 통화하여 두 사람 사이에 조정 문제에 관한 이견이 없음을 확인했고, 자신의 앞선 전보가 SHAEF가 서명한 「간이 항복 조항」 제4조를 가리킨 것이었음을 밝힌 것이다.",
+  "key_points_ko": [
+    "위넌트가 5월 10일 오후 7시자 머피의 런던 앞 290호를 받은 뒤(머피가 런던에 재발신하면서 국무부 앞 전보번호를 표시하지 않았다[주45]) 머피 대사에게 전화를 걸었다.",
+    "통화 결과 두 사람이 조정(coordination) 문제에 관하여 서로 이견이 없음을 확인했다.",
+    "머피는 위넌트의 5월 6일 오후 4시자 4600호가 SHAEF가 서명한 「간이 항복 조항(brief surrender terms)」 제4조를 가리킨 것임을 이해하지 못하고 있었다.",
+    "위넌트는 4600호를 보낼 당시, 사용될 간이 항복 조항의 초안이 이미 통합참모본부에 송부되었다고 들은 상태였다."
+  ],
+  "ko": "런던. 1945년 5월 11일 오후 9시.\n [접수 5월 11일 오후 8시 50분]\n\n4726. 특별 독일 시리즈 제12호. 5월 10일 오후 7시자 머피의 런던 앞 290호를 받은 뒤(머피가 런던으로 재발신하면서 국무부 앞 전보의 번호를 표시하지 않았다[주45]) 나는 머피 대사에게 전화를 걸었고, 우리가 조정 문제에 관하여 서로 이견이 없음을 알게 되었다. 그는 나의 언급(나의 5월 6일 오후 4시자 4600호)이 SHAEF가 서명한 간이 항복 조항의 제4조를 가리킨 것임을 이해하지 못하고 있었다. 내가 4600호를 보냈을 때 나는 사용될 간이 항복 조항의 초안이 이미 통합참모본부(Combined Chiefs of Staff)에 송부되었다고 들은 상태였다.\n\n위넌트(Winant)",
+  "notes_ko": [
+    "[주45] 전보 2517호, 284면 참조."
+  ],
+  "people": [
+    "Winant 위넌트(주영대사)",
+    "Murphy 머피(대독일 정치고문)"
+  ],
+  "confidence": "high",
+  "notes": "「brief surrender terms」는 5월 7일 랭스에서 서명된 「Act of Military Surrender」(간이 항복문서)를 가리키는 표현이므로 「간이 항복 조항」으로 옮기고 유럽자문위원회가 준비한 「무조건 항복 문서」와 구별했다. 원문 머리의 “London .”에 붙은 마침표는 원문 그대로다."
+}
