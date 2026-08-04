@@ -202,6 +202,9 @@ section.threads{padding-top:34px}
 h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
   text-transform:uppercase;color:var(--ink-3);margin:0 0 6px;font-weight:600}
 .sec-lead{color:var(--ink-2);margin:0 0 30px;max-width:62ch;font-size:15px}
+/* 덜 된 문서철임을 카드에서 바로 알 수 있게. 읽는 사람이 빈 곳을 만나기 전에 알아야 한다 */
+.wip{margin:8px 0 0;font-size:12px;color:var(--ink-3);font-family:var(--mono);
+  border-left:2px solid var(--stamp);padding-left:8px;line-height:1.45}
 /* 조작 안내는 내용이 아니라 거들기다. 한 톤 물러나게 둔다 */
 .sec-lead .hint{color:var(--ink-3);font-size:13.5px}
 
@@ -429,6 +432,7 @@ for c in built:
       <div class="period">{H.escape(c['period'])}</div>
       <p class="blurb">{H.escape(c['blurb'])}</p>
       <p class="hl">{md(c['highlight'])}</p>
+      {f'<p class="wip">아직 옮기는 중 — {H.escape(c["wip"])}</p>' if c.get("wip") else ''}
       <p class="src">{H.escape(c['source'])}<br>{H.escape(c['rights'])}</p>
     </a>""")
 
