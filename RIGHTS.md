@@ -11,7 +11,7 @@
 | 얄타의 신탁통치 구두 양해 | FRUS, The Conferences at Malta and Yalta, 1945 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 미국의 대한정책 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 일본의 항복 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
-| 독일 항복의 열여드레 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
+| 독일 항복 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 전황 보고 | USSBS 심문조서 · CTF 58 작전 보고 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 014.1 Korea | GHQ/SCAP Records (RG 331) | 원 문서는 미국 정부 저작물 · 이미지는 국립국회도서관(일본) 헌정자료실 촬영 |
 | 091 : File 1 Korea | 극동군사령부 G-3 파일 · NDL PID 9850431 | PDM(퍼블릭 도메인) · 소장 **国立国会図書館 National Diet Library, JAPAN** |
