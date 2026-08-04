@@ -27,7 +27,7 @@
  ],
  "panes": {
   "primary": "한국어 번역",
-  "secondary": "원문 · 지면에서 옮김",
+  "secondary": "일본어 원문",
   "both": "나란히"
  },
  "sorts": [
@@ -47,5 +47,5 @@
   "thumbs": "../thumbs",
   "thumb_ext": "jpg"
  },
- "warn_text": "지면에서 옮긴 것이라 확신이 낮다. 원본 지면 대조 필요."
+ "warn_text": "번역 확신이 낮다. 원본 지면 대조 필요."
 }
