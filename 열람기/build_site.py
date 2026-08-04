@@ -346,6 +346,13 @@ FLAGS = {
        '<circle cx="3.75" cy="2.5" r="1.5" fill="#f2f3f4"/>',
  "va": '<rect width="15" height="10" fill="#f2f3f4"/>'
        '<rect width="7.5" height="10" fill="#e8c34a"/>',
+ "se": '<rect width="15" height="10" fill="#2a5f9e"/>'
+       '<path d="M4.9 0v10M0 5h15" stroke="#e8c34a" stroke-width="2.2"/>',
+ "fr": '<rect width="15" height="10" fill="#f2f3f4"/>'
+       '<rect width="5" height="10" fill="#22346b"/>'
+       '<rect x="10" width="5" height="10" fill="#b32134"/>',
+ "ch": '<rect width="15" height="10" fill="#b32134"/>'
+       '<path d="M7.5 2.4v5.2M4.9 5h5.2" stroke="#f2f3f4" stroke-width="1.7"/>',
 }
 
 
@@ -399,7 +406,7 @@ for _i, _t in enumerate(threads):
         f'<h2 class="th-h">{H.escape(_t.get("headline") or _t["title"])}</h2>'
         + (f'<p class="th-tag">{H.escape(_t["tagline"])}</p>'
            if _t.get("tagline") else "")
-        + (f'<p class="th-lead">{H.escape(_t["lead"])}</p>'
+        + (f'<p class="th-lead">{md(_t["lead"])}</p>'
            if _t.get("lead") else "")
         + f'</div>'
         f'<p class="sec-lead">{H.escape(_t.get("sub",""))}{_hint}</p>'
