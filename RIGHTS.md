@@ -7,6 +7,7 @@
 
 | 문서철 | 출처 | 권리 |
 |---|---|---|
+| 진주만으로 가는 열 주 | FRUS: Japan, 1931–1941, Volume II | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 카이로 선언과 조선 | FRUS, The Conferences at Cairo and Tehran, 1943 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 얄타의 신탁통치 구두 양해 | FRUS, The Conferences at Malta and Yalta, 1945 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 미국의 대한정책 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
