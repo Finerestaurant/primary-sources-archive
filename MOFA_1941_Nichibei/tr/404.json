@@ -1,0 +1,31 @@
+{
+  "doc_no": "404",
+  "pages": ["nichibei2_05_001"],
+  "date": "1941-11-27",
+  "date_src": "昭和16年11月27日",
+  "doc_type": "電報",
+  "from": "東郷外務大臣 (도고 외무대신, 東郷茂徳)",
+  "to": "在米国野村大使 (주미 노무라 대사, 野村吉三郎)",
+  "msg_nr": "第八四一号 （館長符号）",
+  "sent_recv": "本省 11月27日後3時発",
+  "title_ja": "「乙案」前文の英文修正方訓令",
+  "title_ko": "「을안(乙案)」 전문(前文)의 영문 수정 훈령",
+  "subject_ko": "을안 전문 영문의 자구를 네 곳 수정하도록 지시한 훈령 전보.",
+  "key_points_ko": [
+    "the peace in the pacific 의 peace 앞의 정관사 the 를 뺀다.",
+    "elucidating 을 affirming 으로 한다.",
+    "agreed upon 을 reached 로 한다.",
+    "mutual understanding 의 mutual 을 삭제한다."
+  ],
+  "ja": "[184面]\n貴電第一一七一号ニ関シ\n乙案前文英文ハ左ノ通リ修正サレ度シ\nthe peace in the pacific ノ peace ノ前ノ the （定冠詞）ヲ除キ elucidating ヲ affirming トシ agreed upon ヲ reached トシ mutual understanding ノ mutual ヲ削除ス",
+  "ko": "[184면]\n귀전 제一一七一호에 관하여\n을안(乙案) 전문(前文)의 영문은 다음과 같이 수정하기 바란다.\nthe peace in the pacific 의 peace 앞의 the（정관사）를 빼고, elucidating 을 affirming 으로 하며, agreed upon 을 reached 로 하고, mutual understanding 의 mutual 을 삭제한다.",
+  "notes_ko": [
+    "영문 어구는 지면에 로마자로 조판되어 있으므로 그대로 두었다."
+  ],
+  "people": [
+    "東郷茂徳 (도고 시게노리) — 외무대신",
+    "野村吉三郎 (노무라 기치사부로) — 주미 대사"
+  ],
+  "confidence": "high",
+  "notes": "184면(nichibei2_05_001) 하단. 문서 끝에 물결선(구분선)이 있다. 로마자 부분은 확대하여 철자를 확인했다(pacific·peace 모두 소문자로 조판됨). 이 문서 역시 제八篇 표제(185면) 앞에 있어 제七篇 말미에 속한다."
+}
