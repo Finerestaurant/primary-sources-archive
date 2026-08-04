@@ -1,0 +1,36 @@
+{
+  "doc_id": "d134",
+  "date": "1945-01-06",
+  "time": "7 p.m. / 접수 9:30 p.m.",
+  "doc_type": "전보",
+  "place": "London",
+  "from": "주영대사 위넌트(John G. Winant) — 영국 주재 대사",
+  "to": "국무장관(The Secretary of State)",
+  "msg_nr": "227 (Comea 144)",
+  "source_note": "740.00119 EAC/1–645: Telegram",
+  "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+  "title_ko": "주영대사(위넌트)가 국무장관에게",
+  "subject_ko": "마시글리가 대독일 무조건항복문서에 프랑스를 넷째 서명국으로 넣는 프랑스 측 수정안을 유럽자문위원회에 제출했다는 보고.",
+  "key_points_ko": [
+    "프랑스를 항복문서의 넷째 당사국으로 넣는 문제가 정식 수정안 형태로 처음 제출된 자리다 — 1945년 1월 6일, 마시글리(Massigli)가 제출.",
+    "수정안의 내용은 세 곳 — 전문(preamble) 제2항과 제12조 (A)의 「미합중국」 다음에 「프랑스 공화국」을 넣을 것.",
+    "제14조의 3개 언어에 프랑스어를 추가할 것.",
+    "항복문서에 서명하는 연합국 대표의 수를 4로 늘릴 것.",
+    "곧, 프랑스는 문서 자체를 고치자는 것이 아니라 이미 완성된 1944년 7월 25일자 본문에 자국의 이름을 끼워 넣자는 것이다.",
+    "위넌트는 힐드링(Hilldring)·스트롱(Strong) 두 장군에게 바꿔 쓴 사본(paraphrase)을 전해 달라고 요청한다.",
+    "편집자 삽입 — 1945년 1월 10일 위넌트는 루스벨트 대통령에게 독일의 통제기구 및 점령지대에 관한 협정을 신속히 재가해 달라고 촉구하는 전문을 보냈다."
+  ],
+  "ko": "런던, 1945년 1월 6일 오후 7시.\n [접수 오후 9시 30분]\n\n227. Comea 144. 1월 2일 오후 11시자 본직의 전보 제59호에서 예고한 바와 같이, 마시글리(Massigli)가 대독일 무조건항복문서(instrument of [170면] unconditional surrender for Germany)에 대한 프랑스 측 수정안을 제출하였음. 그는 전문(前文) 제2항 및 제12조 (A)에서 「미합중국(the United States of America)」 다음에 「프랑스 공화국(the French Republic)」을 삽입할 것을 제안함. 제14조에서는 3개 언어에 프랑스어가 추가될 것임. 항복문서에 서명하는 연합국 대표의 수는 4로 늘어날 것임. 전문(全文)은 항공편으로 뒤따라 보냄.[주23] 힐드링(Hilldring) 장군과 스트롱(Strong) 장군에게 바꿔 쓴 사본(paraphrase)을 제공해 주기 바람.\n\n위넌트\n\n[1945년 1월 10일, 주영대사는 루스벨트 대통령에게 독일의 통제기구 및 점령지대에 관한 협정들을 신속히 재가할 것을 촉구하는 전문(電文)을 보냈다. 그 전문의 본문은 Foreign Relations, The Conferences at Malta and Yalta, 1945, 128면 참조.]",
+  "notes_ko": [
+    "[주23] 「항복문서 수정 초안(Draft Amendments to the Instrument of Surrender)」이라는 제목이 붙고 1945년 1월 6일자이며 문서번호 E.A.C. (45) 2로 지정된, 유럽자문위원회 프랑스 대표의 각서 사본은 주영대사가 1월 9일자 그의 공문 제20275호로 국무부에 송부하였다. 어느 것도 수록하지 않음."
+  ],
+  "people": [
+    "Massigli 마시글리 (EAC 프랑스 대표)",
+    "John G. Winant 위넌트 (주영대사·EAC 미국 대표)",
+    "Roosevelt 루스벨트 (대통령)",
+    "Hilldring 힐드링 (장군)",
+    "Strong 스트롱 (장군)"
+  ],
+  "confidence": "high",
+  "notes": "본문 말미의 대괄호 단락은 FRUS 편집자가 삽입한 편집자 주이며, 원문 그대로 대괄호를 살려 옮겼다."
+}

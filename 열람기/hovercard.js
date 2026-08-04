@@ -30,16 +30,21 @@ window.HoverCard = (function () {
     return el;
   }
 
+  /* 자료의 핵심점에는 **굵게** 가 들어 있다. esc 만 하면 별표가 그대로 찍힌다. */
+  function mk(s) {
+    return esc(s).replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  }
+
   function html(d) {
     var pts = (d.points || []).slice(0, 2).map(function (p) {
-      return '<li>' + esc(p) + '</li>';
+      return '<li>' + mk(p) + '</li>';
     }).join('');
     return '<div class="hc-top"><span>' + esc(d.date || '날짜 미상') + '</span>' +
              (d.badge ? '<span class="id">' + esc(d.badge) + '</span>' : '') +
            '</div>' +
            '<h4>' + esc(d.title || '') + '</h4>' +
            (d.route ? '<p class="hc-route">' + esc(d.route) + '</p>' : '') +
-           (d.sum ? '<p class="sum">' + esc(d.sum) + '</p>' : '') +
+           (d.sum ? '<p class="sum">' + mk(d.sum) + '</p>' : '') +
            (pts ? '<ul>' + pts + '</ul>' : '') +
            (d.go === false && !d.pages ? '' :
              '<div class="hc-foot"><span>' +

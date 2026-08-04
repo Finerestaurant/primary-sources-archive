@@ -1,0 +1,51 @@
+{
+ "title": "항복문서를 만들다",
+ "subtitle": "1944년 12월 – 1945년 4월 24일 · 유럽자문위원회의 실무 150건",
+ "source": "Foreign Relations of the United States, Diplomatic Papers, 1945, Volume III · European Advisory Commission, Austria, Germany · 미국 국무부 역사실 · 미국 정부 저작물(퍼블릭 도메인)",
+ "search_hint": "한국어·영문·인물·기관 검색",
+ "groups": [
+  {
+   "key": "A",
+   "label": "항복문서"
+  },
+  {
+   "key": "B",
+   "label": "점령지대"
+  },
+  {
+   "key": "C",
+   "label": "포로"
+  },
+  {
+   "key": "D",
+   "label": "3국 경고"
+  },
+  {
+   "key": "E",
+   "label": "소련지대"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 원문 · FRUS 정본",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "문서번호순"
+  }
+ ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "png",
+  "label": "원본 지면",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
+ "warn_text": "번역 확신이 낮다. 원문 대조 필요."
+}

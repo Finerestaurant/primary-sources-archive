@@ -602,7 +602,7 @@ function renderDoc(){
        rel="noopener">${esc(l.text||l.url)}</a></span></div>`).join('');
 
   const pts = (d.points||[]).length
-    ? `<div class="points"><ul>${d.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul></div>` : '';
+    ? `<div class="points"><ul>${d.points.map(p=>`<li>${marks(p)}</li>`).join('')}</ul></div>` : '';
 
   const cols = state.view==='both'
       ? `<div class="cols two">${pane('primary')}${pane('secondary')}</div>`
@@ -629,7 +629,7 @@ function renderDoc(){
         ${d.badge?`<span class="stamp">${esc(d.badge)}</span>`:''}</h1>
       ${meta?`<div class="meta">${meta}</div>`:''}
     </div>
-    ${d.summary?`<div class="points">${esc(d.summary)}</div>`:''}
+    ${d.summary?`<div class="points">${marks(d.summary)}</div>`:''}
     ${pts}${cols}${fns}${scans}
     ${d.note?`<div class="note">${esc(d.note)}</div>`:''}
     ${d.warn?`<div class="note warn">${esc(CONF.warn)}</div>`:''}

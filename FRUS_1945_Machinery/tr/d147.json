@@ -1,0 +1,32 @@
+{
+  "doc_id": "d147",
+  "date": "1945-02-03",
+  "time": null,
+  "doc_type": "서한",
+  "place": "Washington",
+  "from": "국무차관보 던(James Clement Dunn)",
+  "to": "육군차관보 매클로이(John J. McCloy) — 「친애하는 잭(Jack)」",
+  "msg_nr": null,
+  "source_note": "740.00119 Control (Germany)/1–3145",
+  "title_en": "The Assistant Secretary of State (Assistant Secretary of State) to the Assistant Secretary of War (McCloy)",
+  "title_ko": "국무차관보(던)가 육군차관보(매클로이)에게",
+  "subject_ko": "독일 점령지대에 관해 위넌트에게 보내려던 전보안은 2월 1일의 진전(몰타에서의 미·영 점령지대 의정서 승인) 때문에 조치하지 않았다는 회신.",
+  "key_points_ko": [
+    "매클로이가 1월 31일자 서한으로 독일 점령지대에 관한 대(對)위넌트 전보안을 보냈으나 던은 그에 대해 아무 조치도 취하지 않았다.",
+    "이유는 2월 1일의 진전, 곧 몰타에서 국무장관이 보낸 그날짜 전보(Cricket 45)에 담긴 미국과 영국의 점령지대 의정서 승인이다 — 며칠 사이에 상황이 정리되어 실무 문안이 무의미해진 사례다.",
+    "던은 그 전보의 의역본(paraphrase)을 매클로이에게 보냈다.",
+    "각주에 따르면 1945년 2월 6일 얄타에서 연합참모본부가 브레멘–브레머하펜 월경지(enclave)에 관한 협정을 승인하였다."
+  ],
+  "ko": "친애하는 잭: 독일 점령지대에 관하여 위넌트에게 보낼 전보안을 동봉한 1945년 1월 31일자 귀하의 서한에 회답합니다. 나는 2월 1일의 [181면] 진전에 비추어 이에 관하여 아무런 조치도 취하지 않았습니다. 그 진전은 그날짜 국무장관 발신 전보에 적혀 있으며, 그 의역본을 귀하에게 보냈습니다.[주52]\n\n경구,\n\n제임스 클레멘트 던(James Clement Dunn)",
+  "notes_ko": [
+    "[주52] 몰타에서 국무장관이 보낸 2월 1일자 Cricket 45호. 점령지대 의정서에 대한 미국 및 영국의 승인을 보고한 것으로, 179면에 실려 있다. 1945년 2월 6일 얄타에서 연합참모본부는 브레멘–브레머하펜 월경지에 관한 협정을 승인하였다. 본문은 Conferences at Malta and Yalta, 1945, p. 639 참조."
+  ],
+  "people": [
+    "던(James Clement Dunn) — 국무차관보",
+    "매클로이(John J. McCloy) — 육군차관보 (「잭」)",
+    "위넌트(John G. Winant) — 주영대사·EAC 미국 대표",
+    "스테티니어스(Edward R. Stettinius, Jr.) — 국무장관 (본문의 「국무장관」)"
+  ],
+  "confidence": "high",
+  "notes": "index.json 의 title_en 은 「The Assistant Secretary of State (Dunn) to the Assistant Secretary of War (McCloy)」이다. 「paraphrase(의역본)」는 암호전보를 다른 부처에 넘길 때 암호 보안을 위해 문구를 바꿔 적은 사본을 가리키는 당대 관행 용어다. 「Cricket」은 몰타 회담의 암호명이다."
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "d172",
+  "date": "1945-04-05",
+  "time": "1945년 4월 5일 오후 7시",
+  "doc_type": "전보",
+  "place": "Washington",
+  "from": "국무장관 대리 애치슨(Dean Acheson)",
+  "to": "주영대사 위넌트(John G. Winant)",
+  "msg_nr": "2662",
+  "source_note": "740.00119 EW/4–545: Telegram",
+  "title_en": "The Acting Secretary of State to the Ambassador in the United Kingdom (Winant)",
+  "title_ko": "국무장관 대리가 주영대사(위넌트)에게",
+  "subject_ko": "무조건 항복 조건을 바꾸는 어떠한 문서나 제안도 원하지 않는다는 루스벨트 대통령의 지령을 위넌트에게 전달하는 전보.",
+  "key_points_ko": [
+    "국무부 전보 2577호(4월 3일 오후 8시)의 요지와 위넌트의 3405호(4월 4일 정오)의 사본이 대통령에게 전달되었다.",
+    "대통령이 회신으로 보낸 지령 — 「무조건 항복 조건을 바꾸는 어떠한 문서나 제안도 나는 원하지 않는다」.",
+    "루스벨트가 죽기 일주일 전, 대통령 본인의 직접 지령이 유럽자문위원회의 문안 손질에 못을 박는 대목이다."
+  ],
+  "ko": "워싱턴, 1945년 4월 5일 — 오후 7시.\n\n2662. 국무부 2577호, 4월 3일 오후 8시 [주29] 의 요지와 귀하의 3405호, 4월 4일 정오의 사본이 대통령에게 전달되었다. 회신으로 대통령은 다음의 지령을 보내왔다. 「무조건 항복 조건을 바꾸는 어떠한 문서나 제안도 나는 원하지 않는다」.\n\n애치슨\n\n[220면]",
+  "notes_ko": [
+    "[주29] 216면 각주 22를 보라."
+  ],
+  "people": [
+    "Acheson 애치슨(Dean Acheson) — 국무장관 대리",
+    "Winant 위넌트(John G. Winant) — 주영대사",
+    "Roosevelt 루스벨트 — 대통령(직접 인용된 지령의 발신자)"
+  ],
+  "confidence": "high",
+  "notes": "대통령의 지령은 원문에서 인용부호로 묶여 있어 그 구분을 살렸다. 「unconditional surrender terms」는 「무조건 항복 조건」으로 옮겼으며, 여기서 손질 중인 「Instrument of Surrender(항복문서)」와는 층위가 다르다."
+}

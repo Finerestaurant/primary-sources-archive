@@ -1,0 +1,32 @@
+{
+  "doc_id": "d138",
+  "date": "1945-01-23",
+  "time": "오후 1시",
+  "doc_type": "전보",
+  "place": "Washington",
+  "from": "국무장관 대리 (그루, Joseph C. Grew)",
+  "to": "주영대사 (위넌트, John G. Winant)",
+  "msg_nr": "502",
+  "source_note": "740.00119 Control (Germany)/1–645: Telegram",
+  "title_en": "The Acting Secretary of State to the Ambassador in the United Kingdom (Winant)",
+  "title_ko": "국무장관 대리가 주영대사(위넌트)에게",
+  "subject_ko": "대통령이 대독일 통제기구 협정을 승인했으므로 위넌트는 EAC 동료 대표들에게 미국 정부의 승인을 정식 통고해도 좋다.",
+  "key_points_ko": [
+    "대통령이 대독일 통제기구 협정(agreement for control machinery for Germany)을 승인했다",
+    "위넌트는 EAC 동료 대표들에게 미국 정부의 승인을 정식으로 통고할 권한을 받았다",
+    "앞서 1월 6일 자정 전보 제153호는 이 협정이 합동참모본부의 승인을 받았고 대통령의 검토 중이라고 보고했다",
+    "위넌트는 1월 24일 오후 7시 전보 제848호로 영국·소련 EAC 대표에게 정식 통고를 보냈다고 보고했다"
+  ],
+  "ko": "워싱턴, 1945년 1월 23일 — 오후 1시.\n\n502. 국무부 1월 6일 자정 전보 제153호[주35]와 관련하여, 대통령이 이제 대독일 통제기구 협정을 승인했다. 따라서 귀하는 이 협정에 대한 미국 정부의 승인을 EAC의 동료 대표들에게 정식으로 통고할 권한을 부여받는다.[주36]\n\n그루",
+  "notes_ko": [
+    "[주35] 인쇄하지 않음. 대독일 통제기구 협정이 합동참모본부의 승인을 받았고 대통령의 검토에 부쳐져 있다고 보고한 전보였다 (740.00119 Control (Germany)/1–645)",
+    "[주36] 주영대사는 1월 24일 오후 7시 전보 제848호에서 유럽자문위원회의 영국 대표와 소련 대표에게 정식 통고를 보냈다고 보고했다 (740.00119EAC/1–2445)"
+  ],
+  "people": [
+    "그루(Joseph C. Grew) — 국무장관 대리",
+    "위넌트(John G. Winant) — 주영대사·EAC 미국 대표",
+    "루스벨트(Franklin D. Roosevelt) — 대통령 (본문의 \"the President\")"
+  ],
+  "confidence": "high",
+  "notes": ""
+}
