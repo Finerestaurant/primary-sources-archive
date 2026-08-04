@@ -172,10 +172,36 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
 a{color:var(--link)}
 
 .wrap{display:grid;grid-template-columns:minmax(300px,25%) 1fr;height:100vh}
+
+/* 좁은 화면 — 목록을 위로 접어 올리면 본문이 설 자리가 없다.
+   목록은 서랍으로 빼고 화면 전부를 문서에 준다. */
+.mbar{display:none}
+.scrim{display:none}
 @media(max-width:900px){
-  .wrap{grid-template-columns:1fr;grid-template-rows:auto 1fr}
-  .rail{max-height:42vh}
+  .wrap{grid-template-columns:1fr;grid-template-rows:1fr;padding-top:44px}
+  .mbar{display:flex;align-items:center;gap:10px;
+    position:fixed;top:0;left:0;right:0;height:44px;z-index:30;padding:0 12px;
+    background:var(--panel);border-bottom:1px solid var(--edge)}
+  .mbar button{background:var(--term-bg-go);border:1px solid var(--term-line-go);
+    color:var(--link);border-radius:999px;padding:3px 11px;cursor:pointer;
+    font:inherit;font-size:12px;font-family:var(--mono);white-space:nowrap}
+  .mbar-t{font-size:12.5px;font-weight:650;color:var(--ink-2);
+    overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .rail{position:fixed;top:0;bottom:0;left:0;z-index:40;
+    width:min(88vw,340px);max-height:none;
+    transform:translateX(-100%);transition:transform .22s ease;
+    box-shadow:0 0 30px rgba(0,0,0,.35)}
+  body.railopen .rail{transform:none}
+  .scrim{position:fixed;inset:0;z-index:35;background:rgba(0,0,0,.45);border:0;padding:0}
+  body.railopen .scrim{display:block}
+  .toolbar{padding:7px 16px;gap:8px}
+  .toolbar #themeBtn{display:none}
+  .mbar-t{flex:1}
+  .mbar-th{padding:3px 9px;font-size:13px}
+  .seg button{padding:4px 9px;font-size:11.5px}
+  .srcline{padding:10px 16px 0}
 }
+@media(prefers-reduced-motion:reduce){.rail{transition:none}}
 
 /* ── 좌측 목록 ─────────────────────────────── */
 .rail{border-right:1px solid var(--edge);background:var(--panel);
@@ -331,11 +357,18 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
 .chrono[data-nodate="1"] .chrono-cursor,
 .chrono[data-nodate="1"] .chrono-date{display:none}
 
-@media(max-width:900px){.chrono{display:none}}
+/* 좁은 화면에서도 연대 바는 남긴다 — 이 화면의 절반은 「언제인가」이다.
+   폭을 화면 끝까지 늘리고, 손가락으로 미는 것이 이미 되므로 줌 단추는 접는다. */
+@media(max-width:900px){
+  .chrono{bottom:8px;width:calc(100vw - 16px);border-radius:6px}
+  .chrono-zoom{display:none}
+  .chrono-track{opacity:1}
+}
 @media(prefers-reduced-motion:reduce){.chrono-track{transition:none}}
 
 /* 아래쪽 여백은 떠 있는 연대 바가 마지막 문단을 덮지 않을 만큼 */
 article{max-width:none;padding:26px 26px 190px}
+@media(max-width:900px){article{padding:18px 16px 170px}}
 .doc-head{border-bottom:1px solid var(--edge);padding-bottom:14px;margin-bottom:18px}
 h1{font-size:19px;margin:0 0 4px;line-height:1.35;text-wrap:balance;font-weight:650}
 .docid{font-family:var(--mono);font-size:11px;color:var(--ink-3);
@@ -895,7 +928,20 @@ function initChronoScroll(){
   vp.addEventListener('pointercancel', up);
 }
 
-function select(id){ state.cur=id; renderList(); renderDoc();
+/* 좁은 화면의 목록 서랍. 문서를 고르면 닫힌다 — 고른 것을 보러 온 것이지
+   목록을 계속 보려던 것이 아니다. */
+const railBtn = $('#railBtn');
+function rail(open){
+  document.body.classList.toggle('railopen', open);
+  if (railBtn) railBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+}
+if (railBtn) railBtn.addEventListener('click',
+  () => rail(!document.body.classList.contains('railopen')));
+$('#scrim').addEventListener('click', () => rail(false));
+addEventListener('keydown', e => { if (e.key === 'Escape') rail(false); });
+
+function select(id){ state.cur=id; renderList(); renderDoc(); rail(false);
+  document.querySelector('.main').scrollTop = 0;
   history.replaceState(null,'','#'+id); }
 
 $('#q').addEventListener('input', e => { state.q=e.target.value; renderList(); });
@@ -917,12 +963,14 @@ document.querySelectorAll('[data-view]').forEach(b => b.addEventListener('click'
   document.querySelectorAll('[data-view]').forEach(x=>x.setAttribute('aria-pressed',x===b));
   renderDoc();
 }));
-$('#themeBtn').addEventListener('click', () => {
+/* 명암 단추는 둘이다 — 넓은 화면은 툴바, 좁은 화면은 위쪽 바.
+   좁은 화면에서 툴바가 두 줄로 접히면 본문이 그만큼 밀려난다. */
+document.querySelectorAll('[data-theme-btn]').forEach(b => b.addEventListener('click', () => {
   const r=document.documentElement;
   const dark=(r.getAttribute('data-theme')||
     (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'))==='dark';
   r.setAttribute('data-theme', dark?'light':'dark');
-});
+}));
 
 // ── 확대 뷰어 ─── 스캔이 없는 자료에서는 통째로 건너뛴다
 if (PG){
@@ -1033,8 +1081,14 @@ page = f"""<!doctype html>
 <style>{CSS}
 {HC_CSS}</style>
 </head><body>
+<div class="mbar">
+  <button type="button" id="railBtn" aria-controls="rail" aria-expanded="false">☰ 목록</button>
+  <span class="mbar-t">{H.escape(conf.get("title", ""))}</span>
+  <button type="button" class="mbar-th" data-theme-btn aria-label="명암 전환">◐</button>
+</div>
+<button type="button" class="scrim" id="scrim" aria-label="목록 닫기" tabindex="-1"></button>
 <div class="wrap">
-  <aside class="rail">
+  <aside class="rail" id="rail">
     <div class="rail-head">
       {home_link}
       <div class="brand">{H.escape(conf.get("title", ""))}
@@ -1053,7 +1107,7 @@ page = f"""<!doctype html>
     <div class="toolbar">
       {view_block}
       <div class="grow"></div>
-      <button class="chip" id="themeBtn">명암 전환</button>
+      <button class="chip" id="themeBtn" data-theme-btn>명암 전환</button>
     </div>
     <div class="srcline">{H.escape(conf.get("source", ""))}</div>
     <div id="main"></div>
