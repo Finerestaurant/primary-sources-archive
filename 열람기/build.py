@@ -244,6 +244,10 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
   font-family:var(--mono);font-size:11px;color:var(--ink-3);font-variant-numeric:tabular-nums}
 .item-sum{font-size:12.5px;line-height:1.45;margin-top:2px;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* 제목이 「국무장관이 주한대사에게」 꼴이라 무엇을 읽는 것인지 알 수 없다.
+   요지 한 줄을 옅게 깔아 준다. 목록이 길어지지 않도록 두 줄에서 자른다. */
+.item-hint{font-size:11.5px;line-height:1.4;margin-top:3px;color:var(--ink-3);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* ── 우측 본문 ─────────────────────────────── */
 .main{overflow-y:auto;min-height:0}
@@ -576,6 +580,7 @@ function renderList(){
       <div class="item-top"><span>${esc(d.date||'날짜미상')}</span>
         <span>${esc(d.list_right||'')}</span></div>
       <div class="item-sum">${esc(d.title||d.id)}</div>
+      ${d.summary?`<div class="item-hint">${esc(d.summary)}</div>`:''}
     </button>`).join('') ||
     '<div class="empty">해당하는 문서가 없다.</div>';
 }
