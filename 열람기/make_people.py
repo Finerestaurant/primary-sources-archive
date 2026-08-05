@@ -135,6 +135,96 @@ def cluster(raw):
     return sorted(g.values(), key=lambda v: -sum(raw[x] for x in v))
 
 
+PAREN = re.compile(r"([가-힣]{1,4})\s*\(([A-Z][A-Za-z.'\- ]{2,40}?)\)")
+
+
+def all_bodies():
+    for f in glob.glob(os.path.join(ROOT, "*", "tr", "*.json")):
+        try:
+            d = json.load(open(f))
+        except Exception:
+            continue
+        if isinstance(d, dict):
+            yield d.get("ko") or ""
+
+
+def korean_to_latin():
+    """본문에서 「무초(Muccio)」 꼴을 긁어 한글 표기 → 로마자 성을 모은다.
+
+    옮긴 사람들이 첫 등장에 원어를 병기하도록 규칙에 적혀 있어서, 이것이
+    본문이 스스로 말해 주는 대조표가 된다. 사전 밖에서 얻은 지식이 아니다."""
+    m2l = collections.defaultdict(collections.Counter)
+    for f in glob.glob(os.path.join(ROOT, "*", "tr", "*.json")):
+        try:
+            d = json.load(open(f))
+        except Exception:
+            continue
+        if not isinstance(d, dict):
+            continue
+        for m in PAREN.finditer(d.get("ko") or ""):
+            lat = re.findall(r"[A-Z][a-z]+", m.group(2))
+            if lat:
+                m2l[m.group(1)][lat[-1]] += 1
+    return m2l
+
+
+def drop_conflicting_alias(items):
+    """딴 사람을 가리키는 짧은 한글 별명을 뺀다.
+
+    조지 애치슨(George Atcheson)의 별명에 「애치슨」이 들어 있었다. 그런데
+    본문의 「애치슨」은 국무장관 딘 애치슨(Dean Acheson)이다. 손말이가 엉뚱한
+    사람을 띄우는 것도 문제지만 **더 나쁜 것은 딘 애치슨이 사전에 아예 못
+    들어간 것이다.** 이미 소개가 있는 사람으로 잡혀서 「소개 없음」 목록에
+    뜨지 않았다. 번스(Byrnes)와 번스(Bunce)도 같았다.
+
+    그래서 본문의 병기 표기와 대조해, 한글 별명이 가리키는 로마자 성이 그
+    사람의 것이 아니면 별명을 뺀다."""
+    m2l = korean_to_latin()
+    bodies = None
+    dropped = []
+    for x in items:
+        own = {w for a in [x["term"]] + (x.get("alias") or [])
+               for w in re.findall(r"[A-Z][a-z]{2,}", a)}
+        keep = []
+        for a in (x.get("alias") or []):
+            if re.fullmatch(r"[가-힣]{1,3}", a):
+                seen = m2l.get(a) or {}
+                other = {k: v for k, v in seen.items() if k not in own}
+                if other and sum(other.values()) >= sum(
+                        v for k, v in seen.items() if k in own):
+                    dropped.append((x["term"], a, dict(other)))
+                    continue
+            keep.append(a)
+        x["alias"] = keep
+
+        # 대표 표기 자체가 딴 사람을 가리키는 일도 있다. 「번스」는 본문에서
+        # 일곱 번이 번스(Bunce, 경제협조처 고문)이고 두 번만 번스(Byrnes,
+        # 국무장관)다. 이럴 때는 표기를 빼 버리는 대신 **원어를 붙여 좁힌다.**
+        # 다만 좁힌 꼴이 본문에 실제로 있을 때만 그렇게 한다.
+        t = x["term"]
+        if re.fullmatch(r"[가-힣]{1,3}", t):
+            seen = m2l.get(t) or {}
+            other = {k: v for k, v in seen.items() if k not in own}
+            if other and sum(other.values()) >= sum(
+                    v for k, v in seen.items() if k in own):
+                if bodies is None:
+                    bodies = "\n".join(all_bodies())
+                for sur in sorted(own):
+                    if f"{t}({sur})" in bodies:
+                        # 맨 표기는 별명에서도 뺀다. 남겨 두면 좁힌 뜻이 없다.
+                        x["alias"] = [a for a in x["alias"] if a != t]
+                        x["term"] = f"{t}({sur})"
+                        print(f"  대표 표기 좁힘: 「{t}」 → 「{x['term']}」"
+                              f"  (본문의 「{t}」는 {other})")
+                        break
+                else:
+                    print(f"  ! 「{t}」가 딴 사람과 겹치는데 좁힐 꼴이 본문에 없다"
+                          f"  {other}")
+    for t, a, o in dropped:
+        print(f"  별명 뺌: {t} 의 「{a}」 → 본문에서는 {o}")
+    return dropped
+
+
 def main(argv):
     raw, where = gather()
     groups = cluster(raw)
@@ -149,6 +239,12 @@ def main(argv):
             if x.get("term"):
                 bios[x["term"]] = x
     print(f"  소개가 쓰인 인물 {len(bios)}명 ({bio_dir}/)")
+    # **묶기 전에 걸러야 한다.** 별명을 달고 있는 채로 두면 딴 사람의 묶음이
+    # 「이미 소개가 있는 사람」으로 잡혀 목록에서 사라진다.
+    drop_conflicting_alias(list(bios.values()))
+    # 표기를 좁혔으면 열쇠도 새 표기로 다시 잡는다. 옛 열쇠를 그대로 두면
+    # 아래에서 「번스」로 짝을 찾아 버려서 좁힌 것이 없던 일이 된다.
+    bios = {b["term"]: b for b in bios.values()}
 
     if "--check" in argv:
         return

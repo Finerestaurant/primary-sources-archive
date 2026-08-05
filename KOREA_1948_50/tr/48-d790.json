@@ -1,0 +1,34 @@
+{
+  "doc_id": "48-d790",
+  "date": "1948-04-28",
+  "time": null,
+  "doc_type": "전보",
+  "place": "Seoul 서울",
+  "from": "The Political Adviser in Korea (Jacobs) 주조선 정치고문 제이컵스",
+  "to": "The Secretary of State 국무장관",
+  "msg_nr": "280",
+  "classification": "confidential",
+  "source_note": "501.BB Korea/4–2848: Telegram",
+  "title_en": "The Political Adviser in Korea (Jacobs) to the Secretary of State",
+  "title_ko": "주조선 정치고문 제이컵스가 국무장관에게",
+  "subject_ko": "유엔조선임시위원단이 「상당한 정도의 자유로운 분위기」가 있다고 판정하고 5월 10일 선거를 감시하기로 결정했다.",
+  "key_points_ko": [
+    "4월 28일 오전 본회의에서 UNTCOK이 「상당한 정도의 자유로운 분위기(reasonable degree of free atmosphere)」를 확인했다고 보고 5월 10일 선거 감시를 진행하기로 결정했다.",
+    "표결은 찬성 5, 기권 3이었다. 기권은 패터슨, 무기르, 폴 봉쿠르다.",
+    "앞의 두 사람이 기권한 이유는 아직 모른다. 봉쿠르는 상당한 정도를 넘는 자유가 있다고 보아 기권했다.",
+    "위원단은 그날 오후부터 선거 이후에 무엇을 할지 논의에 들어간다.",
+    "제이컵스는 그 문제에 관한 지침을 레이크석세스 사무국을 통해 보내려면 서둘러야 한다고 요청한다."
+  ],
+  "ko": "confidential\npriority\n\n서울, 1948년 4월 28일.\n\n280. Zpol 548 인용. 오늘 오전 본회의에서 UNTCOK 유엔조선임시위원단은 「상당한 정도의 자유로운 분위기」를 확인하였으므로 5월 10일 선거의 감시를 진행하기로 결정하였다. [주1] 표결은 찬성 5, 기권 3이었던 것으로 안다. 기권자는 패터슨(Patterson), 무기르(Mughir), 폴 봉쿠르(Paul Boncour)이다. 앞의 두 사람이 기권한 이유는 아직 알려지지 않았고, 마지막 사람은 상당한 정도를 넘는 자유로운 분위기가 존재한다고 느끼기 때문이다.\n\n위원단은 오늘 오후 선거 이후에 무엇을 할 것인가에 관한 논의를 시작한다. 따라서 그 문제에 관하여 국무부가 레이크석세스의 사무국으로 하여금 UNTCOK 또는 이곳 사무국에 보내도록 하고자 하는 지도 지령이 있다면 서둘러야 할 것이다.\n\n제이컵스",
+  "notes_ko": [
+    "[주1] 이 문제에 관한 UNTCOK 보도자료 57호(4월 28일)는 서울발 4월 29일자 전보 283호에 인용되어 있으나 수록하지 않았다. 4월 28일 유엔 공보국이 발표한 본문은 Department of State Bulletin, 1948년 5월 30일, 700면 참조."
+  ],
+  "people": [
+    "Jacobs 제이컵스 (주조선 정치고문)",
+    "Patterson 패터슨 (캐나다 대표)",
+    "Mughir 무기르 (시리아 대표)",
+    "Paul Boncour 폴 봉쿠르 (프랑스 대표)"
+  ],
+  "confidence": "high",
+  "notes": "기권자 세 명의 소속국은 원문에 없다. 위원단 구성으로 미루어 붙였다. 「reasonable degree of free atmosphere」는 위원단이 선거 감시 여부를 가르는 판정 문구여서 낫표를 살려 옮겼다."
+}

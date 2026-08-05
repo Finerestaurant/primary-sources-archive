@@ -1,0 +1,29 @@
+{
+  "doc_id": "49-d216",
+  "date": "1949-04-12",
+  "time": "1949년 4월 12일 오전 10시",
+  "doc_type": "전보",
+  "place": "Seoul 서울",
+  "from": "The Special Representative in Korea (Muccio) 주한 특별대표 무초",
+  "to": "The Secretary of State 국무장관",
+  "msg_nr": "370",
+  "classification": "top secret",
+  "source_note": "895.20 Mission/4–1249: Telegram",
+  "title_en": "The Special Representative in Korea (Muccio) to the Secretary of State",
+  "title_ko": "주한 특별대표 무초가 국무장관에게",
+  "subject_ko": "군사고문단을 두어 달라는 이승만의 요청에 이제 긍정으로 답하고 전달 직후 공표해도 좋을 때가 되었다고 무초가 알린다.",
+  "key_points_ko": [
+    "4월 5일자 국무부 전보 210과 관련하여, 군사고문단을 두어 달라는 이승만(李承晩)의 요청에 긍정으로 회답하고 그것을 전달한 뒤 즉시 공표하는 것이 이제 시의적절하다고 본다.",
+    "처음의 누설이 호놀룰루에서 있었던 것으로 보이며, 그 뒤로 미국인 특파원들이 철수에 관하여 상당히 캐고 다녔다.",
+    "지금까지 그 추측은 주로 미국인들 사이에 머물렀고 난처할 정도에 이르지는 않았다."
+  ],
+  "ko": "top secret\npriority\n\n서울, 1949년 4월 12일 오전 10시.\n\n370. 4월 5일자 국무부 전보 210과 관련하여, 본인은 이제 군사고문단에 관한 이승만의 요청에 긍정적으로 회답하고 그것을 전달한 뒤 즉시 공개하는 것이 시의적절하다고 본다.\n\n애초의 누설이 호놀룰루에서 있었던 것으로 보이는 뒤로 미국인 특파원들이 철수에 관하여 상당히 캐어 왔다. 지금까지 그 억측은 주로 미국인들 사이에 머물러 왔으며 난처한 정도에 이르지는 않았다.\n\n무초(Muccio)",
+  "notes_ko": [],
+  "people": [
+    "John J. Muccio 무초 (주한 특별대표)",
+    "Dean Acheson 애치슨 (국무장관)",
+    "Syngman Rhee 이승만(李承晩)"
+  ],
+  "confidence": "high",
+  "notes": "전보 머리의 「priority」는 기밀 등급이 아니라 긴급도 표시다. 등급은 top secret이다. 원문은 전보 약어체로 「Deptel」(국무부 전보), 「re」(관하여) 등이 쓰였다. 6행의 「I now consider it timely further re Deptel 210」은 어순이 헝클어진 전신문 그대로여서 뜻을 살려 옮겼다."
+}

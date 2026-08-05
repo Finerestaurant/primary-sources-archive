@@ -1,0 +1,30 @@
+{
+  "doc_id": "48-d925",
+  "date": "1948-12-13",
+  "time": "오후 3시",
+  "doc_type": "전보",
+  "place": "Paris 파리",
+  "from": "The Acting United States Representative at the United Nations (Dulles) 미국 유엔 대표 대리 덜레스",
+  "to": "The Secretary of State 국무장관",
+  "msg_nr": "Delga 1179",
+  "classification": "restricted",
+  "source_note": "501.BB Korea/12–1348: Telegram",
+  "title_en": "The Acting United States Representative at the United Nations (Dulles) to the Secretary of State",
+  "title_ko": "미국 유엔 대표 대리 덜레스가 국무장관에게",
+  "subject_ko": "총회의 압도적 표결로 남조선이 유엔을 통해 모을 수 있는 만큼의 정치적·도의적 뒷받침을 얻고 출발한다고 러스크가 전한다.",
+  "key_points_ko": [
+    "조선에 관한 총회의 압도적 표결로 남조선이 유엔을 통하여 모을 수 있는 최대한의 정치적·도의적 뒷받침을 안고 출발한다고 적는다.",
+    "조선 문제를 떠나서도 총회에서의 조선 안건이 극동 여러 민족과 미국 사이의 관계를 더 우호적으로 만드는 데 이바지하였다고 본다.",
+    "제이컵스(Jacobs)가 이곳에서 곧바로 새 부임지로 가므로, 이 안건에서 그가 한 값을 매길 수 없는 일에 대해 국무부의 사의를 표하기를 바란다고 버터워스에게 적는다."
+  ],
+  "ko": "restricted\n\n파리, 1948년 12월 13일 오후 3시.\n\nDelga 1179호. 버터워스(Butterworth) 앞, 러스크(Rusk) 발신. 조선에 관한 총회의 압도적 표결은 남조선이 유엔을 통하여 결집할 수 있는 만큼의 정치적·도의적 뒷받침을 안고 출발하게 한다. 조선 자체를 떠나서도, 총회에서의 조선 안건이 극동 여러 민족과 미국 사이의 보다 우호적인 관계에 이바지하였다고 믿는다. 제이컵스(Jacobs)가 이곳에서 곧바로 새 부임지로 가므로, 귀하께서 이 안건에 관하여 이곳에서 그가 한 값을 매길 수 없는 일에 대하여 국무부의 사의를 표하고자 하시리라 믿는다. [러스크.]\n\n덜레스(Dulles)",
+  "notes_ko": [],
+  "people": [
+    "John Foster Dulles 덜레스 (미국 유엔 대표 대리)",
+    "Dean Rusk 러스크",
+    "W. Walton Butterworth 버터워스 (극동국장)",
+    "Joseph E. Jacobs 제이컵스"
+  ],
+  "confidence": "high",
+  "notes": "머리의 「restricted」는 기밀 등급이다. 본문 말미의 「[Rusk.]」는 FRUS 편집자가 넣은 대괄호 보완이며 그대로 두었다."
+}
