@@ -235,7 +235,6 @@ def main():
             "primary": t.get("ko") or "",
             "secondary": raw,
             "notes": t.get("notes_ko") or [],
-            "note": t.get("notes") or "",
             "warn": bool(low),
             "pages": pages,
             "search": " ".join(filter(None, [t.get("title_ja"), " ".join(t.get("people") or [])])),

@@ -79,7 +79,6 @@
    "[주13] 앞의 247면.",
    "[주14] 이 지도는 Matloff, 341면 맞은편에 실려 있다."
   ],
-  "note": "번역자 주. (1) 장소 표기: 원문 머리에 「Moscow, November 19, 1943, 2 p.m.」이라고 되어 있으나, 이 회의는 카이로로 향하는 항해 중에 열린 대통령·합동참모본부 회의다. 원문 표기를 그대로 옮기고 place 필드에도 원문 표기임을 명시했다. TEI 추출 과정의 표제 혼입일 가능성이 있으므로 원본 대조 대상. (2) 조선 관련 핵심 대목은 [257면] 직후, 부속서 「A」 항목 1b 논의 중이다. 원문 「The Generalissimo desires a trusteeship over Korea, administered by Russia, China and the United States as trustees.」를 스펙에 따라 trusteeship=신탁통치로 옮겼다. 이 문서에는 tutelage(후견)라는 낱말은 나오지 않는다. (3) 원문의 「Kuzan [Pusan?]」은 FRUS 편집자가 원 기록의 표기 Kuzan에 대해 부산으로 추정하는 각괄호를 넣은 것이다. 번역에서도 「쿠잔(Kuzan [Pusan?], 부산?)」으로 편집자의 물음표를 그대로 살렸다. 임의로 「부산」으로 확정하지 않았다. (4) 그 밖의 편집자 각괄호 교정도 원문 그대로 유지: 「Wurtenburg [Württemberg]」, 「the Rhine [Main?]」, 「Ardenne[s]」, 「McKean's [McCain's]」, 「item 1b [d]」. (5) 「the hump」는 히말라야 항공 수송로를 가리키는 당시 통칭으로, 첫 등장에만 괄호로 설명을 달았다. (6) 「United Nations」는 1943년 시점에서 전후 국제기구가 아니라 연합국(추축국에 맞선 서명국들)을 뜻하지만, 원문 낱말을 살려 「국제연합(United Nations)」으로 옮겼다. 대통령의 「four United Nations」는 미·영·소·중 4강을 가리킨다. (7) 「France is a British 'baby.'」는 직역해 「프랑스는 영국의 「아이(baby)」다」로 옮겼다. (8) 「Formosa」는 스펙에 따라 「타이완(포모사)」로, 「Bonins」는 「오가사와라(보닌) 제도」로 옮겼다. 「Pescadores 펑후 제도」는 이 문서에 나오지 않는다. (9) 본문에 「Japanese fighter opposition」은 나오나 멸칭 「Japs」는 이 문서에 없다. (10) 원문 중 elision 표시 「. . . . . . . . . . . . . .」는 FRUS 편집자가 회의록 일부(항목 1, 4 등)를 생략했음을 뜻하며 그대로 두었다.",
   "warn": true,
   "pages": [
    "248",
@@ -169,7 +168,6 @@
    "[주4] 후술, 388면 참조.",
    "[주5] 루스벨트의 답은 부정적이었다. 후술, 748면 참조. 이 주제에 대한 연합참모본부(CCS)의 검토에 관해서는 전술, 305, 320면도 참조."
   ],
-  "note": "번역자 주. 1) 원문 표제가 raw 파일에 포함되어 있지 않아 title_en은 본문 성격(중국 측 요약 기록의 영역본, 'Translation' 표기)과 날짜 표기에 근거해 기술적으로 붙였다. 2) 항목 (5)의 'under the trusteeship of an international organization'은 규칙에 따라 '신탁통치'로 옮겼다. 이 문서에 'tutelage'는 나오지 않는다. 3) 'Generalissimo'는 '총통'으로 옮겼다(장제스의 직함). 4) 원문의 'Taiwan and the Penghu Islands [Pescadores]'는 대괄호까지 원문의 편집자 삽입이므로 첫 등장에 원어를 병기했다. 5) 원문 'U. S.', 'Port of Arthur'(통상 'Port Arthur') 등의 표기는 원문 그대로 두었다. 6) 말미의 만찬 참석자 명단은 원문에서 두 열(미국/영국)로 배열된 것을 표로 옮겼다. 7) 각주 참조 기호가 본문 텍스트에 남아 있지 않아 [주N] 표시를 본문에 삽입하지 못했다.",
   "warn": false,
   "pages": [
    "323",
@@ -243,7 +241,6 @@
   "notes": [
    "[주1] 1943년 11월 21일 처칠이 영국 참모총장단에게 보낸 각서와 비교할 것. Churchill, 686면."
   ],
-  "note": "번역자 주. (1) 조선 관련 대목의 원문은 \"There was no doubt that China had wide aspirations which included the re-occupation of Manchuria and Korea.\"이다. re-occupation을 '재점령'으로 직역했다. '수복'이나 '회복'으로 옮기면 원문에 없는 정당성 함의가 붙는다. 조선을 중국의 '열망' 목록에 넣은 이 문장은 조선 처리를 중국의 영토 요구라는 틀로 서술한 것이므로 원문 어조를 그대로 두었다. 강조 표시(**)는 열람 편의를 위한 번역자 표시이며 원문에는 없다. (2) 원문 파일에는 표제가 없고 날짜·기밀 표시로 바로 시작한다. title_en은 문서 성격(연합참모본부 회의 기록)에 따라 번역자가 붙인 것이며 FRUS 원 표제와 자구가 다를 수 있다. (3) Premier Stalin은 '수상', Prime Minister(처칠)은 '총리'로 구분해 옮겼다. 원문이 두 호칭을 구분해 쓰므로 통일하지 않았다. (4) 작전명 Overlord, Culverin, Torch는 음역(오벌로드·컬버린·토치)으로 두었다. (5) 'First Culverin'은 원문에서 줄바꿈으로 분리되어 있어 작전명의 일부(First Culverin)인지 부사 'first'인지 모호하다. '최초의 컬버린 작전'으로 옮겼다. (6) 'We were in it up to the hilt.'는 칼을 자루 끝까지 박아 넣는다는 관용구로, '자루 끝까지 박혀 있었다'로 직역하고 뜻(전면적으로 관여했다)은 주석으로 남긴다. (7) 'whoever holds Rome holds the title deeds of Italy'의 title deeds는 부동산 권리증서를 뜻해 그대로 옮겼다. (8) 본문에는 [주1] 참조 표시가 없다. 각주는 문서 말미에만 붙어 있어 notes_ko에만 실었다. (9) 원문의 'the 8,000 Germans', 'the 3rd U. S. Division' 등 수치·부대명은 원문 그대로다. (10) 말미의 오찬 참석자 명단은 원문에서 미국/중국 2열 표 형태이므로 마크다운 표로 옮겼다.",
   "warn": false,
   "pages": [
    "330",
@@ -321,7 +318,6 @@
    "[주3] 푸빙창(Foo Ping-sheung).",
    "[주4] 마지막 문장은 해리먼이 손으로 덧붙인 것이다."
   ],
-  "note": "번역자 주. 1) 제5항의 'it would be consistent for them to agree to the independence of Korea under some type of trusteeship in which the four great powers would participate'가 조선 관련 핵심 대목이다. 'trusteeship'은 규칙대로 '신탁통치'로 옮겼고, 이 문서에 'tutelage'는 나오지 않는다. 2) 원문은 'There is no indication yet…'로 부동항 문제와 조선 독립을 한 문장에 담고 있는데, 이 마지막 문장 자체가 해리먼의 가필이라는 점(각주4)을 유의해야 한다. 3) 'the Generalissimo'는 본문 어디에도 이름이 나오지 않으나 문맥상 장제스이므로 people에 그 취지를 밝혀 적었고, 본문에는 원문대로 '총통'으로만 옮겼다. 4) 각주2가 가리키는 손으로 써 넣은 낱말 'political'은 제4항의 'an independent political party'에 해당한다. 5) 각주 참조 기호가 본문 텍스트에 남아 있지 않아 [주N] 표시를 본문에 삽입하지 못했다. 6) 표제 자체가 문서 첫머리에 놓인 원문 표제이므로 title_en에 그대로 옮겼다.",
   "warn": false,
   "pages": [
    "376",
@@ -396,7 +392,6 @@
    "[주4] 앞의 382면 각주 4를 보라.",
    "[주5] 「독일의 잔학 행위에 관한 선언」, 1943년 11월 1일. Decade, 13면."
   ],
-  "note": "번역자 주. 조선 관련 대목 원문: `China, Great Britain, and the United States should agree to recognize the independence of Korea after the war. The adherence of the U. S. S. R. to this agreement for the recognition of Korea's independence is welcomed at any time.` 조선 독립을 \"승인(recognize)\"하는 데 3국이 \"합의하여야 한다(should agree)\"는 표현으로, 시점 조건이나 절차 조건이 전혀 붙어 있지 않다. 이 각서에는 `in due course`도 `trusteeship`도 `tutelage`도 나오지 않는다. 이틀 뒤 확정되는 최종 코뮈니케(d343)의 `in due course`와 대조하여 읽어야 할 지점이다.\n\n원문 제목이 복수형 `Memoranda`인 것은 이 문서가 주제별로 나뉜 여러 각서를 묶은 것이기 때문이다. 본문의 소제목(4대국 이사회 설치, 과도기 국제 안보, 유럽 문제와 독일의 항복, 극동에 관한 문제)은 원문의 구획을 그대로 살렸다.\n\n용어: `Presidium`은 \"간부회\"로 옮겼다. `Council of Chiefs-of-Staff`는 스펙에 나오는 `연합참모본부(CCS)`와 표기가 다른 별개 명칭이므로 원문대로 \"참모총장 이사회\"로 직역했다. 이 각서는 기존 영미 기구를 3국 기구로 \"확대\"하자는 제안이므로 기존 CCS를 가리키는 것으로 보이나, 원문이 `Anglo-American Council of Chiefs-of-Staff`라는 별도 표현을 쓰므로 임의로 CCS로 바꾸지 않았다. `Inter-Allied Military Technical Commission`은 \"연합국 군사기술위원회\", `Far Eastern Committee`는 \"극동위원회\", `Committee of Experts`는 \"전문가 위원회\"로 옮겼다.\n\n지명: `Dairen 다롄`, `Port Arthur 뤼순`, `Chungking 충칭`. `Formosa`는 스펙에 따라 \"타이완(포모사)\", `Pescadores`는 \"펑후 제도\".\n\n`Wang`은 원문에 성만 나오고 이름이 밝혀져 있지 않아 \"왕\"으로만 옮겼다. 추측하지 않았다. 각주의 중국 대사 `Tong` 역시 성만 표기되어 있어 \"둥\"으로 두었다. `September 18, 1931`은 만주사변 발발일이나 원문에 그 설명이 없으므로 본문에는 날짜만 두었다.",
   "warn": false,
   "pages": [
    "387",
@@ -474,7 +469,6 @@
    "[주6] 이 대목에 홉킨스는 \"Steinhardt(스타인하트)\"라는 이름을 추가하였다.",
    "[주7] 이 대목에 \"amongst others(그 밖에도)\"라는 말이 홉킨스의 필적으로 추가되었다."
   ],
-  "note": "번역자 주. 핵심 문구 대조: 이 초안의 조선 조항 원문은 \"that country, at the earliest possible moment after the downfall of Japan, shall become a free and independent country\"로, \"가능한 한 가장 이른 시점에\"로 옮겼다. 같은 날 홉킨스가 구술한 수정안 d308에서는 이 대목이 \"at the proper moment(적절한 시점에)\"로 약화되고, 영국 초안 d309와 최종 코뮈니케 d343에서는 \"in due course(적절한 절차를 거쳐)\"가 된다. 세 표현을 통일하지 않고 각각 다르게 옮겼다. / 원문에 본문 내 [주N] 참조 표시가 붙어 있지 않아(각주는 말미에 별도로 열거됨) 본문에 각주 번호를 임의로 삽입하지 않았다. 각주 3~7이 가리키는 정확한 삽입 위치는 원문 텍스트만으로는 특정할 수 없다. / 원문은 \"Madam Chiang\"으로 표기하며(통상적 \"Madame\"이 아님) 그대로 두었다. \"Formosa\"는 규칙대로 \"타이완(포모사)\"로 옮겼다. 참석자 명단의 계급 표기는 원문 약어(Admiral, Rear Admiral, Lt. General 등)를 따랐다. / 일본을 \"our brutal enemy(우리의 잔학한 적)\"로, 조선 지배를 \"treacherous enslavement(배신적 노예화)\"로 부르는 시대적 표현을 완화하지 않고 그대로 옮겼다.",
   "warn": false,
   "pages": [
    "401",
@@ -545,7 +539,6 @@
   "notes": [
    "[주1] 이 수정 초안은 1943년 11월 25일 오전에 홉킨스가 코닐리어스(Cornelius) 준위에게 구술한 것이다(앨버트 M. 코닐리어스가 국무부 역사국에 보낸 서한, 023.1/3–257). 이 초안의 먹지 사본 하나에는 \"11/25/43 edition(1943년 11월 25일판)\"이라는 타자 표기가 적혀 있다."
   ],
-  "note": "번역자 주. 핵심 문구 대조: 이 수정안의 조선 조항 원문은 \"that country, at the proper moment after the downfall of Japan, shall become a free and independent country\"로, \"적절한 시점에\"로 옮겼다. 같은 날 앞선 초안 d307은 \"at the earliest possible moment(가능한 한 가장 이른 시점에)\"였고, 영국 초안 d309와 최종 코뮈니케 d343은 \"in due course(적절한 절차를 거쳐)\"다. 세 표현은 서로 다른 강도를 지니므로 통일하지 않고 각각 다르게 옮겼다. 특히 d307→d308의 변화는 \"조선 독립 시점\"이 확정 시점에서 불확정 시점으로 물러난 첫 단계이며, d309에서 \"in due course\"로 한 번 더 물러난다. / 원문 \"contrary to Japan's specific and definite pledge not to militarize them\"은 d307의 \"not to so militarize them\"에서 \"so\"가 빠진 것으로, 원문 차이를 그대로 반영해 옮겼다. / 원문은 \"Madam Chiang\"(통상적 \"Madame\"이 아님)으로 표기하며 그대로 두었다. / 인용부호 안 각 단락이 여는 따옴표만 있고 닫는 따옴표는 마지막 단락에만 붙는 원문 관행을 그대로 살렸다. / 일본을 \"우리의 잔학한 적\"으로, 조선 지배를 \"배신적 노예화\"로 부르는 시대적 표현을 완화하지 않았다.",
   "warn": false,
   "pages": [
    "402",
@@ -616,7 +609,6 @@
   "notes": [
    "[주1] 필적은 처칠의 것으로 보인다. 날짜와 작성자는 표시되어 있지 않으나, 수정된 상태의 본문은 뒤의 448면에 인쇄된 최종본과 매우 유사하다."
   ],
-  "note": "번역자 주. 원문의 오탈자·미완성 대목을 고치지 않고 그대로 두었다. 초안이라는 증거이므로 여기에 기록한다. (1) `taken by violence ad greed`의 `ad`는 `and`의 오기다. 번역에서는 \"폭력과 탐욕으로\"로 옮겼으나 원문 철자는 `ad greed`이다. 최종본(d343)은 `by violence and greed`. (2) `such as Manchuria Formosa,`에는 두 지명 사이 쉼표가 없고, 최종본에 있는 `and the Pescadores`(펑후 제도)가 아직 없다. (3) `With these objects in views`. 최종본은 `in view`. (4) `in harmony with the United Nations`. 최종본은 `in harmony with those of the United Nations at war with Japan`. (5) 최종본 둘째 문단의 \"They covet no gain for themselves and have no thought of territorial expansion\"이 이 초안에는 없다.\n\n핵심 문구 대조: 조선 조항의 원문은 `The aforesaid three Great Powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent.` 여기서 `in due course`를 스펙에 따라 \"적절한 절차를 거쳐\"로 옮겼다. 관례역 \"머지않아\"는 시간의 임박함을 함의하지만 `in due course`는 시점을 특정하지 않고 절차를 전제하는 표현이며, 이 모호함 자체가 사건이다. 미국 초안(d307)의 `at the earliest possible moment after the downfall of Japan`(일본이 무너진 뒤 가능한 한 가장 이른 시점에), 미국 수정안(d308)의 `at the proper moment after the downfall of Japan`(일본이 무너진 뒤 적절한 시점에)과 반드시 구분해서 읽어야 한다. 이 영국 초안에서 시점 표현이 사라지고 절차 표현으로 바뀌었다.\n\n`are determined that`은 스펙 3번에 따라 \"결의한다\"로 옮겼고 \"약속한다\"로 강화하지 않았다. `the enslavement of the people of Korea`는 \"조선 인민의 노예 상태\"로 직역했다.",
   "warn": false,
   "pages": [
    "404",
@@ -686,7 +678,6 @@
   "notes": [
    "[주1] 이것은 1943년 11월 26일 오후 홉킨스가 커크(Kirk)에게 건넨 합의 본문이다. 바로 아래의 커크 비망록을 보라. 코뮈니케의 이전 초안들에 대해서는 앞의 399–404면을 보라. 이 코뮈니케는 1943년 12월 1일 백악관에 의해 언론에 공표되었고, 약간의 편집상 이문(異文)과 함께 『국무부 회보(Department of State Bulletin)』 제9권, 1943년 12월 4일자, 393면에 인쇄되었다."
   ],
-  "note": "번역자 주. 핵심 문구 대조. 조선 조항 원문: `The aforesaid three great powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent.` `in due course`는 스펙에 따라 \"적절한 절차를 거쳐\"로 옮겼다. 관례역 \"머지않아\"를 쓰지 않았다. 이 문구가 시점을 특정하지 않고 절차를 전제한 모호한 표현이라는 점이 사료의 핵심이기 때문이다.\n\n초안(d309)과의 차이: (1) 초안의 오기 `ad greed`가 여기서는 `and greed`로 바로잡혔다. (2) `such as Manchuria, Formosa, and the Pescadores`에서는 펑후 제도가 추가되고 쉼표가 정리되었다. (3) `With these objects in view`(초안은 `in views`). (4) `in harmony with those of the United Nations at war with Japan`은 초안의 `in harmony with the United Nations`보다 범위가 좁혀졌다. (5) \"They covet no gain for themselves and have no thought of territorial expansion\" 문단이 추가되었다. (6) 초안에서 소문자·대문자가 섞이던 `three Great Powers`가 여기서는 `three great powers`.\n\n원문에 `Chiang Kai-Shek`으로 S가 대문자인 표기가 나오나 표기 그대로 두고 번역은 \"장제스\"로 통일했다. `are determined that`은 \"결의한다\"로 직역했고 \"약속한다\"로 강화하지 않았다. 본문 중 [449면] 쪽수 표시는 원문 위치 그대로 두었다.",
   "warn": false,
   "pages": [
    "448",
@@ -768,7 +759,6 @@
    "[주9] 오후 4시에 시작된 제3차 전체회의의 회의록은 뒤의 576면을 보라.",
    "[주10] 1943년 12월 1일 오후에 열린 3국 특별 정치회의의 회의록은 뒤의 596면을 보라."
   ],
-  "note": "번역자 주. 조선 관련 핵심 대목 원문: \"He said it was right that Korea should be independent, and that Manchuria, Formosa and the Pescadores Islands should be, returned to China.\" 스탈린이 카이로 코뮈니케를 승인하며 조선 독립을 지지한 발언이다. 원문의 \"should be, returned\"에 불필요한 쉼표가 들어가 있으나 정본 그대로 두고 번역에서는 자연스럽게 이어 옮겼다. / 회의록 발언은 스펙 7항에 따라 발언자(\"스탈린 원수는 … 말하였다\")를 살려 옮겼다. / 문서 제목은 index.json의 \"Bohlen Minutes\"를 따랐다. 본문에 볼렌의 서명은 없으나 FRUS 편집 표제가 볼렌 회의록임을 밝힌다. / 문서 말미의 \"홉킨스–이든–몰로토프 오찬 회동\" 참석자 명단은 원문에서 3열 표 형태로 조판된 것으로 보여 마크다운 표로 옮겼다. 이 명단은 본문에 기록된 정상 오찬과는 별개의 동시각 회동을 가리키며, 그 회동 자체의 기록은 이 문서에 포함되어 있지 않다. / 각주 번호가 [주2]부터 시작하고 [주1]이 없는 것은 원문 발췌 상태 그대로다. / \"Petropavlovsk or [on?] Kamchatka\"의 대괄호 편집자 주는 번역문에서 \"캄차카의 페트로파블롭스크\"로 정리했다. 원문 편집자가 \"or\"를 \"on\"의 오식으로 의심한 대목이다. / \"Overlord\"는 작전명이므로 음역해 두었다.",
   "warn": false,
   "pages": [
    "565",
@@ -851,7 +841,6 @@
    "[주6] 이 항을 변경하기로 한 연합참모본부(CCS)의 결정에 관해서는 전술, 736면 참조. C. C. S. 397호(수정)의 후속 판본에서 제8절은 — 사소한 편집상의 변경을 제외하고 — C. C. S. 417호의 \"동남아시아 전구(Southeast Asia Theater)\" 표제 아래 실려 있는 두 문단으로 이루어져 있다(전술, 765면).",
    "[주7] 이 일정표는 매틀로프(Matloff), 377면에 수록되어 있다."
   ],
-  "note": "번역자 주. 1) **이 문서에서 조선(Korea)은 본문이 아니라 각주 [주*]에만 나온다.** 제7항이 청두 전진기지 초장거리 폭격의 목표로 지목한 일본의 \"inner zone\"을 원문 각주가 정의하는데, 원문은 'Includes: Japan proper, Manchuria, Korea, North China, Karafuto (Japanese Sakhalin) and Formosa.'이다. 이 각주는 편집자 주가 아니라 원문 문서 자체에 붙어 있던 각주로('[Footnote in the source text.]'), 각주 번호가 숫자가 아니라 별표(*)다. 즉 1943년 12월 시점 연합참모본부의 작전 문서가 조선을 만주·북중국·가라후토·타이완과 나란히 일본 제국의 핵심 권역이자 전략폭격 대상 구역으로 분류하고 있었다는 증거다. 카이로 선언(12월 1일 발표)의 조선 독립 조항과 이틀 간격의 문서라는 점이 대비된다.\n2) \"inner zone\"은 「내권(inner zone)」으로 옮기고 원어를 병기했다. 원문에 한자어 대응어가 없으므로 역어 선택은 번역자 판단이다.\n3) 원문의 'U. S. S. E.'는 'U. S. S. R.'(소련)의 오식으로 보이나 정본 그대로 두었고, 번역에서도 '소련(U. S. S. E.)'처럼 원문 표기를 병기했다. 제1항과 첨부물 d항 두 곳에 나온다.\n4) 원문 제8항의 'attaining the maximum attrition practicable on [of?] his air and naval forces'에서 대괄호 '[of?]'는 원문 편집자가 붙인 의문 표시다. 고치지 않았고, 번역에서는 뜻이 통하는 '…에 소모를 가할'로 옮긴 뒤 이 사실을 여기에 적어둔다.\n5) 발신 주체는 문서번호 C. C. S.와 본문의 'We are agreed', 'We have directed'라는 어투로 보아 연합참모본부(CCS, 미·영 합동)다. 미국 합동참모본부(JCS) 단독 문서가 아니다.\n6) 'N. E. I.'는 네덜란드령 동인도(Netherlands East Indies)로 풀어 옮겼다.\n7) 'United Nations'는 이 시점에서 국제기구가 아니라 대추축국 연합국을 가리키므로 '연합국'으로 옮기고 원어를 병기했다.\n8) 'trusteeship'과 'tutelage'는 이 문서에 나오지 않는다.\n9) raw/d470.txt의 각주 절에 있는 참조 기호는 [주1]~[주7]과 [주*]이며 [주8]은 존재하지 않는다. 본문의 [주4]·[주5]는 원문에서 각각 'Quadrant' 뒤와 'C. C. S. 380/2,' 뒤에 붙어 있어 그 위치를 그대로 살렸다.\n10) 이 번역은 각주 [주*]가 누락된 이전 판본을 대체하는 재번역이다.",
   "warn": false,
   "pages": [
    "779",
@@ -937,7 +926,6 @@
    "[주11] 테헤란에서 있었던 종속 민족의 복리에 관한 논의는 앞의 485면, 486면, 571면을 보라.",
    "[주12] 신탁통치(trusteeship) 아래 놓일 수 있는 기지의 점령 비용에 관한 언급은 앞의 554면을 보라."
   ],
-  "note": "번역자 주. 스펙 10번(차별적 표현을 부드럽게 만들지 말 것)에 해당하는 대목이 있다. 원문: `that the Koreans are not yet capable of exercising and maintaining independent government and that they should be placed under a 40-year tutelage`. 이를 \"조선인은 아직 독립정부를 운영하고 유지할 능력이 없으며, 따라서 40년의 후견에 두어야 한다\"로 완화 없이 직역했다. `not yet capable of`를 \"준비가 더 필요하다\" 따위로 눅이지 않았고, `40-year tutelage`의 기간도 그대로 두었다. 이 서술은 카이로 선언의 `in due course`가 실제로 무엇을 뜻했는지 보여주는 핵심 대목이므로 표현을 다듬으면 사료 가치가 사라진다.\n\n용어 구분: 본문의 `tutelage`는 스펙에 따라 \"후견\"으로만 옮겼고 \"신탁통치\"로 바꾸지 않았다. 각주 [주12]의 `trusteeship`은 \"신탁통치\"로 옮겼다. 원문이 두 낱말을 구분해 쓰므로 번역에서도 섞지 않았다. 참고로 이 회의록 본문에는 `trusteeship`이 나오지 않는다. 조선에 대해 쓰인 낱말은 `tutelage`뿐이다.\n\n각주 [주6]에 주목: FRUS 편집자 자신이 \"40년 후견에 관해 카이로나 테헤란에서 합의가 있었다는 다른 기록은 발견되지 않았다\"고 밝히고 있다. 즉 이 40년 후견 서술은 이 회의록에만 남은 루스벨트의 전언이다. 이는 본문에 섞지 않고 각주 번역과 이 난에만 적었다(스펙 8번).\n\n원문 서술 구조: 두 번째 문단은 `Marshal Stalin had specifically agreed to the idea that … ; that … ; that …`로 that절이 세미콜론으로 이어지는 긴 한 문장이다. 한국어로 그대로 이으면 조선 관련 대목이 문장 속에 묻히므로 \"스탈린 원수는 다음의 사항에 명시적으로 동의하였다\"로 받고 항목을 나누어 옮겼다. 술어의 강도(`specifically agreed` 명시적으로 동의)는 그대로 유지했다.\n\n원문에 `Liuchiu Islands`(류큐의 옛 표기)로 되어 있어 \"리우추(류큐) 제도\"로 병기했다. 각주 [주10]은 `Ryukyu (Liuchiu)`로 쓴다. `Wei Tao-ming`은 중국 대사 웨이다오밍이다. `Sergio Osmena`는 원문에 물결표(ñ) 없이 표기되어 있어 그대로 두었다. 회의록 본문 앞뒤의 점선(`. . . . . . . . . . . . . .`)은 FRUS의 발췌 생략 표시이므로 원문대로 남겼다. 조선 대목이 회의록 전체 중 발췌된 부분임을 보여준다.\n\n분류: index.json의 제목 끝에 \"secret\"이 붙어 있어 classification을 \"Secret\"으로 기재했다. raw 본문 안에는 분류 표시가 없다.",
   "warn": false,
   "pages": [
    "868",

@@ -248,7 +248,11 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
 .col:hover{border-color:var(--link)}
 .col-top{display:flex;justify-content:space-between;align-items:baseline;
   gap:14px;flex-wrap:wrap;margin-bottom:5px}
-.col h3{margin:0;font-size:18px;font-weight:650}
+.col h3{margin:0;font-size:18px;font-weight:650;display:flex;align-items:center;gap:8px}
+/* 제목 옆의 국기. 자랑이 아니라 표시이니 작고 조용하게 둔다 */
+.col-fl{display:inline-flex;gap:3px;align-items:center}
+.col-fl svg{display:block;border:.5px solid var(--edge);border-radius:1px;
+  box-shadow:0 0 0 .5px rgba(0,0,0,.04)}
 .col .n{font-family:var(--mono);font-size:12px;color:var(--ink-3);
   font-variant-numeric:tabular-nums;white-space:nowrap}
 .col .period{font-family:var(--mono);font-size:12px;color:var(--ink-3);
@@ -426,8 +430,13 @@ cards_js = json.dumps(cards, ensure_ascii=False).replace("</", "<\\/")
 cols = []
 for c in built:
     scans = "" if NO_SCANS else f" · 원본 지면 {c.get('_pages', 0)}면"
+    # 그 문서를 쓴 쪽의 국기를 제목 옆에 단다. 문서철을 고를 때
+    # 「누가 남긴 기록인가」가 제목 다음으로 먼저 알아야 할 것이다.
+    fl = "".join(
+        f'<svg viewBox="0 0 15 10" width="15" height="10" aria-hidden="true">{FLAGS[k]}</svg>'
+        for k in (c.get("flags") or []) if k in FLAGS)
     cols.append(f"""<a class="col" href="{c['slug']}/">
-      <div class="col-top"><h3>{H.escape(c['title'])}</h3>
+      <div class="col-top"><h3>{H.escape(c['title'])}{f'<span class="col-fl">{fl}</span>' if fl else ''}</h3>
         <span class="n">{c['n']}건{scans}</span></div>
       <div class="period">{H.escape(c['period'])}</div>
       <p class="blurb">{H.escape(c['blurb'])}</p>

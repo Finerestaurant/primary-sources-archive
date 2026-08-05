@@ -70,8 +70,6 @@ for i, d in enumerate(sorted(src, key=lambda x: x["page_start"])):
         "primary": pagemarks(d.get("ko")),
         "secondary": reflow(pagemarks(d.get("en"))),
         "notes": [],
-        "note": (f"기계 판독 참고 — {d['notes']}" if d.get("notes") else None)
-                or (f"이 문서는 {d.get('of')}조각 중 {d['done']}조각만 번역됐다." if part else None),
         "warn": d.get("confidence") == "low",
         "pages": d.get("pages") or [],
     })

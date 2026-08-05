@@ -58,7 +58,6 @@ def main():
             "points": t.get("key_points_ko") or [],
             "primary": t.get("ko") or "",
             "secondary": raw,
-            "note": t.get("notes") or "",
             "warn": t.get("confidence") not in (None, "high"),
             "search": " ".join(filter(None, [t.get("title_en"),
                                              " ".join(t.get("people") or [])])),
