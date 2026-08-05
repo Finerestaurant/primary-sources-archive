@@ -1,33 +1,33 @@
 {
-  "doc_id": "d206",
-  "date": "1945-05-02",
-  "time": "May 2, 1945.",
-  "doc_type": "서한",
-  "place": "Moscow",
-  "from": "The Chairman of the Council of Peoples' Commissars of the Soviet Union (Stalin) 소련 인민위원회의 의장 스탈린",
-  "to": "President Truman 트루먼 대통령",
-  "msg_nr": null,
-  "source_note": "740.00/119 E. W./5–445",
-  "title_en": "The Chairman of the Council of Peoples’ Commissars of the Soviet Union (Stalin) to President Truman",
-  "title_ko": "소련 인민위원회의 의장(스탈린)이 트루먼 대통령에게",
-  "subject_ko": "소련군과 연합군이 만날 때 소련군 지휘부가 즉시 미·영군 지휘부와 접촉하여 잠정 전술 분계선과 독일군 저항 진압 조치를 합의하도록 지시했다고 통보한다.",
-  "key_points_ko": [
-    "4월 28일 독일·오스트리아 점령 절차에 관한 처칠의 전언에 트루먼이 동의한 데 대한 회답이다.",
-    "소련 최고사령부가 이미 지시를 내렸다고 밝힌다 — 소련군과 연합군이 만나면 소련군 지휘부가 즉시 미군 또는 영국군 지휘부와 접촉한다.",
-    "합의 사항 두 가지: (1) 잠정 전술 분계선의 확정, (2) 그 잠정 분계선 안에서 독일군의 모든 저항을 진압하기 위한 조치.",
-    "[주98] 스탈린이 처칠에게도 실질적으로 같은 내용의 전언을 보냈다.",
-    "엘베강 회동 이후 미·소 양군의 현지 접촉 절차를 다룬 문서다."
-  ],
-  "ko": "1945년 5월 2일.\n\n본인은, 4월 28일 독일 및 오스트리아의 점령 절차 문제에 관한 처칠(W. Churchill) 수상의 전언에 귀하가 동의를 표명한 전언을 받았습니다. [주99]\n\n본인은 다음과 같이 말씀드려야 하겠습니다. 소련 최고사령부는, 소련군이 연합군과 만날 때 소련군 지휘부가 즉시 미군 또는 영국군 지휘부와 접촉하고 다음 사항에 합의하도록 지시를 내렸습니다.\n\n1.\n\n잠정 전술 분계선의 확정, 그리고\n\n2.\n\n그들의 잠정 분계선의 한계 안에서 독일군의 모든 저항을 진압하기 위한 조치의 실시.\n\n[260면]",
-  "notes_ko": [
-    "[주98] 스탈린 원수는 처칠 수상에게도 실질적으로 같은 전언을 보냈다. 원문은 Churchill, Triumph and Tragedy, p. 518을 보라.",
-    "[주99] 언급된 전언은 트루먼 대통령이 스탈린 원수에게 보낸 제225호로, 4월 28일자 케넌의 비신스키 앞 각서(246면)에 인용되어 있다."
-  ],
-  "people": [
-    "Stalin 스탈린(소련 인민위원회의 의장)",
-    "Truman 트루먼(미국 대통령)",
-    "Churchill 처칠(영국 수상)"
-  ],
-  "confidence": "high",
-  "notes": "영역문 특유의 어색한 표현(「occupation procedure of Germany and Austria」, 「Undertaking of measures」)은 다듬지 않고 직역했다. 원문은 러시아어에서 옮긴 영역문이다."
+ "doc_id": "d206",
+ "date": "1945-05-02",
+ "time": "May 2, 1945.",
+ "doc_type": "서한",
+ "place": "Moscow",
+ "from": "The Chairman of the Council of Peoples' Commissars of the Soviet Union (Stalin) 소련 인민위원회의 의장 스탈린",
+ "to": "President Truman 트루먼 대통령",
+ "msg_nr": null,
+ "source_note": "740.00/119 E. W./5–445",
+ "title_en": "The Chairman of the Council of Peoples’ Commissars of the Soviet Union (Stalin) to President Truman",
+ "title_ko": "소련 인민위원회의 의장(스탈린)이 트루먼 대통령에게",
+ "subject_ko": "소련군과 연합군이 만날 때 소련군 지휘부가 즉시 미·영군 지휘부와 접촉하여 잠정 전술 분계선과 독일군 저항 진압 조치를 합의하도록 지시했다고 통보한다.",
+ "key_points_ko": [
+  "4월 28일 독일·오스트리아 점령 절차에 관한 처칠의 전언에 트루먼이 동의한 데 대한 회답이다.",
+  "소련 최고사령부가 이미 지시를 내렸다고 밝힌다. 소련군과 연합군이 만나면 소련군 지휘부가 즉시 미군 또는 영국군 지휘부와 접촉한다.",
+  "합의 사항 두 가지: (1) 잠정 전술 분계선의 확정, (2) 그 잠정 분계선 안에서 독일군의 모든 저항을 진압하기 위한 조치.",
+  "[주98] 스탈린이 처칠에게도 실질적으로 같은 내용의 전언을 보냈다.",
+  "엘베강 회동 이후 미·소 양군의 현지 접촉 절차를 다룬 문서다."
+ ],
+ "ko": "1945년 5월 2일.\n\n본인은, 4월 28일 독일 및 오스트리아의 점령 절차 문제에 관한 처칠(W. Churchill) 수상의 전언에 귀하가 동의를 표명한 전언을 받았습니다. [주99]\n\n본인은 다음과 같이 말씀드려야 하겠습니다. 소련 최고사령부는, 소련군이 연합군과 만날 때 소련군 지휘부가 즉시 미군 또는 영국군 지휘부와 접촉하고 다음 사항에 합의하도록 지시를 내렸습니다.\n\n1.\n\n잠정 전술 분계선의 확정, 그리고\n\n2.\n\n그들의 잠정 분계선의 한계 안에서 독일군의 모든 저항을 진압하기 위한 조치의 실시.\n\n[260면]",
+ "notes_ko": [
+  "[주98] 스탈린 원수는 처칠 수상에게도 실질적으로 같은 전언을 보냈다. 원문은 Churchill, Triumph and Tragedy, p. 518을 보라.",
+  "[주99] 언급된 전언은 트루먼 대통령이 스탈린 원수에게 보낸 제225호로, 4월 28일자 케넌의 비신스키 앞 각서(246면)에 인용되어 있다."
+ ],
+ "people": [
+  "Stalin 스탈린(소련 인민위원회의 의장)",
+  "Truman 트루먼(미국 대통령)",
+  "Churchill 처칠(영국 수상)"
+ ],
+ "confidence": "high",
+ "notes": "영역문 특유의 어색한 표현(「occupation procedure of Germany and Austria」, 「Undertaking of measures」)은 다듬지 않고 직역했다. 원문은 러시아어에서 옮긴 영역문이다."
 }

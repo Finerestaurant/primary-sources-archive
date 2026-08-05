@@ -1,30 +1,30 @@
 {
-  "doc_id": "toyoda-0",
-  "src": "toyoda",
-  "kind": "요약",
-  "date": "1945-11-13",
-  "title_en": "JAPANESE WAR PLANS AND PEACE MOVES — Interrogation NAV No. 75, USSBS No. 378",
-  "title_ko": "심문 표제와 도요다 소에무의 이력 — 「일본의 전쟁 계획과 화평 공작」",
-  "subject_ko": "USSBS 해군 제75호 심문의 표제부로, 도요다 소에무 대장의 보직 이력과 심문관·배석자 명단, 그리고 심문 전체가 다루는 주제를 밝힌 대목이다.",
-  "key_points_ko": [
-    "심문 표제는 「일본의 전쟁 계획과 화평 공작(Japanese War Plans and Peace Moves)」이며, 1945년 11월 13~14일 도쿄에서 이루어졌다.",
-    "도요다는 1941년 9월 구레(KURE) 진수부 사령장관, 1942년 11월 군사참의관(도쿄 거주), 1943년 5월 요코스카(YOKOSUKA) 진수부 사령장관을 지냈다.",
-    "1944년 5월, 전사한 고가(KOGA) 대장의 뒤를 이어 연합함대 사령장관이 되었다.",
-    "1945년 5월 군령부총장에 임명되었고, 그 자리는 1945년 9월 해군총사령관직으로 대체되어 1945년 10월 15일 그 조직이 해체될 때까지 재임했다.",
-    "심문관은 오프스티(OFSTIE) 해군소장, 앤더슨(ANDERSON) 육군소장, 와일즈(WILDS) 해군예비역 소령이며, 니츠(NITZE) USSBS 부위원장 등이 배석했다.",
-    "다루는 주제는 육군의 정치 개입과 그것이 일본 팽창사에 미친 영향, 대미 전쟁 기본 계획의 전략과 경제, 군의 관여 문제, 그리고 1945년 여름 어전회의에서의 항복 문제 심의다."
-  ],
-  "ko": "**USSBS: 일본 관계자 심문록 — 도요다 소에무(豊田副武) 대장**\n\n**심문 NAV 제75호**\n\n**USSBS 제378호**\n\n**일본의 전쟁 계획과 화평 공작(JAPANESE WAR PLANS AND PEACE MOVES)**\n\n도쿄(TOKYO)\n\n1945년 11월 13~14일\n\n**심문 대상자와 각자의 이력:**\n\n심문 대상: 도요다 소에무(TOYODA, Soemu) 대장.\n\n1941년 9월 구레(KURE) 진수부 사령장관(CinC KURE NavSta). 1942년 11월 군사참의관(Supreme Military Counsellor)에 임명되어 도쿄(TOKYO)에 거주. 1943년 5월 요코스카(YOKOSUKA) 진수부 사령장관이 됨. 1944년 5월, 고가(KOGA) 대장이 전사하자 그 뒤를 이어 연합함대 사령장관(CinC Combined Fleet)이 됨. 1945년 5월 군령부총장(Chief of Naval General Staff)에 임명. 이후 이 직위는 1945년 9월 해군총사령관(Chief, Naval Combined Forces) 직위로 대체되었으며, 그는 1945년 10월 15일 그 조직이 해체될 때까지 이 자리를 맡았다.\n\n**심문자:** R. A. 오프스티(OFSTIE) 해군소장(USN); O. A. 앤더슨(ANDERSON) 육군소장(USA); W. 와일즈(WILDS) 해군예비역 소령(USNR).\n\n**배석한 연합국 측 인원:** P. H. 니츠(NITZE) 씨, USSBS 부위원장; T. J. 헤딩(HEDDING) 해군대령(USN); J. A. 필드 2세(FIELD, Jr.) 해군예비역 소령(USNR).\n\n도요다 대장은 일본 육군의 정치적 영향력과 그 영향력이 일본 팽창의 역사에서 갖는 함의, 대(對)미국 전쟁을 위한 일본의 기본 계획의 전략과 경제, 군의 관여 문제, 그리고 1945년 여름 어전회의(Imperial Conferences)에서의 항복 문제 심의에 관하여 논한다.",
-  "people": [
-    "豊田副武 도요다 소에무 (TOYODA Soemu) — 대장, 연합함대 사령장관·군령부총장",
-    "古賀峯一 고가 미네이치 (KOGA) — 대장, 도요다의 전임 연합함대 사령장관",
-    "R. A. Ofstie 오프스티 — 미 해군소장, 심문자",
-    "O. A. Anderson 앤더슨 — 미 육군소장, 심문자",
-    "W. Wilds 와일즈 — 미 해군예비역 소령, 심문자",
-    "P. H. Nitze 니츠 — USSBS 부위원장",
-    "T. J. Hedding 헤딩 — 미 해군대령",
-    "J. A. Field, Jr. 필드 — 미 해군예비역 소령"
-  ],
-  "confidence": "high",
-  "notes": "원문에 고가(KOGA) 대장의 이름(峯一 미네이치)은 성만 표기되어 있어 병기는 역자가 보충했다. 원문 마지막 문단의 'the question of implication of the armed forces'는 문맥상 '군의 (전쟁 개시에 대한) 관여·책임 문제'로 옮겼으나, implication의 함의가 모호하여 그대로의 어감을 살렸다. 원문 'CinC ... NavSta'는 진수부 사령장관으로 옮겼다."
+ "doc_id": "toyoda-0",
+ "src": "toyoda",
+ "kind": "요약",
+ "date": "1945-11-13",
+ "title_en": "JAPANESE WAR PLANS AND PEACE MOVES — Interrogation NAV No. 75, USSBS No. 378",
+ "title_ko": "심문 표제와 도요다 소에무의 이력 — 「일본의 전쟁 계획과 화평 공작」",
+ "subject_ko": "USSBS 해군 제75호 심문의 표제부로, 도요다 소에무 대장의 보직 이력과 심문관·배석자 명단, 그리고 심문 전체가 다루는 주제를 밝힌 대목이다.",
+ "key_points_ko": [
+  "심문 표제는 「일본의 전쟁 계획과 화평 공작(Japanese War Plans and Peace Moves)」이며, 1945년 11월 13~14일 도쿄에서 이루어졌다.",
+  "도요다는 1941년 9월 구레(KURE) 진수부 사령장관, 1942년 11월 군사참의관(도쿄 거주), 1943년 5월 요코스카(YOKOSUKA) 진수부 사령장관을 지냈다.",
+  "1944년 5월, 전사한 고가(KOGA) 대장의 뒤를 이어 연합함대 사령장관이 되었다.",
+  "1945년 5월 군령부총장에 임명되었다. 이 직책은 1945년 9월 해군총사령관직으로 대체되었고, 1945년 10월 15일 그 조직이 해체될 때까지 재임했다.",
+  "심문관은 오프스티(OFSTIE) 해군소장, 앤더슨(ANDERSON) 육군소장, 와일즈(WILDS) 해군예비역 소령이며, 니츠(NITZE) USSBS 부위원장 등이 배석했다.",
+  "다루는 주제는 육군의 정치 개입과 그것이 일본 팽창사에 미친 영향, 대미 전쟁 기본 계획의 전략과 경제, 군의 관여 문제, 그리고 1945년 여름 어전회의에서의 항복 문제 심의다."
+ ],
+ "ko": "**USSBS: 일본 관계자 심문록 — 도요다 소에무(豊田副武) 대장**\n\n**심문 NAV 제75호**\n\n**USSBS 제378호**\n\n**일본의 전쟁 계획과 화평 공작(JAPANESE WAR PLANS AND PEACE MOVES)**\n\n도쿄(TOKYO)\n\n1945년 11월 13~14일\n\n**심문 대상자와 각자의 이력:**\n\n심문 대상: 도요다 소에무(TOYODA, Soemu) 대장.\n\n1941년 9월 구레(KURE) 진수부 사령장관(CinC KURE NavSta). 1942년 11월 군사참의관(Supreme Military Counsellor)에 임명되어 도쿄(TOKYO)에 거주. 1943년 5월 요코스카(YOKOSUKA) 진수부 사령장관이 됨. 1944년 5월, 고가(KOGA) 대장이 전사하자 그 뒤를 이어 연합함대 사령장관(CinC Combined Fleet)이 됨. 1945년 5월 군령부총장(Chief of Naval General Staff)에 임명. 이후 이 직위는 1945년 9월 해군총사령관(Chief, Naval Combined Forces) 직위로 대체되었으며, 그는 1945년 10월 15일 그 조직이 해체될 때까지 이 자리를 맡았다.\n\n**심문자:** R. A. 오프스티(OFSTIE) 해군소장(USN); O. A. 앤더슨(ANDERSON) 육군소장(USA); W. 와일즈(WILDS) 해군예비역 소령(USNR).\n\n**배석한 연합국 측 인원:** P. H. 니츠(NITZE) 씨, USSBS 부위원장; T. J. 헤딩(HEDDING) 해군대령(USN); J. A. 필드 2세(FIELD, Jr.) 해군예비역 소령(USNR).\n\n도요다 대장은 일본 육군의 정치적 영향력과 그 영향력이 일본 팽창의 역사에서 갖는 함의, 대(對)미국 전쟁을 위한 일본의 기본 계획의 전략과 경제, 군의 관여 문제, 그리고 1945년 여름 어전회의(Imperial Conferences)에서의 항복 문제 심의에 관하여 논한다.",
+ "people": [
+  "豊田副武 도요다 소에무 (TOYODA Soemu) — 대장, 연합함대 사령장관·군령부총장",
+  "古賀峯一 고가 미네이치 (KOGA) — 대장, 도요다의 전임 연합함대 사령장관",
+  "R. A. Ofstie 오프스티 — 미 해군소장, 심문자",
+  "O. A. Anderson 앤더슨 — 미 육군소장, 심문자",
+  "W. Wilds 와일즈 — 미 해군예비역 소령, 심문자",
+  "P. H. Nitze 니츠 — USSBS 부위원장",
+  "T. J. Hedding 헤딩 — 미 해군대령",
+  "J. A. Field, Jr. 필드 — 미 해군예비역 소령"
+ ],
+ "confidence": "high",
+ "notes": "원문에 고가(KOGA) 대장의 이름(峯一 미네이치)은 성만 표기되어 있어 병기는 역자가 보충했다. 원문 마지막 문단의 'the question of implication of the armed forces'는 문맥상 '군의 (전쟁 개시에 대한) 관여·책임 문제'로 옮겼으나, implication의 함의가 모호하여 그대로의 어감을 살렸다. 원문 'CinC ... NavSta'는 진수부 사령장관으로 옮겼다."
 }

@@ -1,32 +1,32 @@
 {
-  "doc_id": "d499",
-  "date": "1945-04-13",
-  "time": "Bern, April 13, 1945—11 a.m. [Received April 13—9:53 a.m.]",
-  "doc_type": "전보",
-  "place": "Bern",
-  "from": "주스위스 공사 해리슨(Leland Harrison)",
-  "to": "국무장관 (Secretary of State)",
-  "msg_nr": "2168",
-  "source_note": "711.62114A/4–1345: Telegram",
-  "title_en": "The Minister in Switzerland (Harrison) to the Secretary of State",
-  "title_ko": "주스위스 공사(해리슨)가 국무장관에게",
-  "subject_ko": "스위스 외무부의 4월 11일자 각서가 앞선 보고를 확인하되, 연합국이 포로를 「독일에 맞선 현역」이 아니라 「현역」으로 복귀시키지 않겠다는 의무를 지는 것으로 문구가 다르다고 알린다.",
-  "key_points_ko": [
-    "스위스 외무부의 4월 11일자 각서(aide-mémoire)는 공사관 4월 11일자 제2132호의 내용을 확인한다.",
-    "다만 문구가 다르다 — 연합국 정부들이 그러한 포로를 「독일에 맞선 현역(active duty against Germany)」이 아니라 그냥 「현역(active duty)」으로 복귀시키지 않을 의무를 진다는 것. 낱말 하나로 의무의 범위가 달라지는 대목.",
-    "스위스 관리는 구두로, 독일측이 분명히 독일 전선만을 가리킨 것이지만 이 점을 질문받는다면 모든 전선을 가리킨 것이라고 답할 수밖에 없다고 느낄 것이 틀림없다고 말하였다.",
-    "런던(머피), 파리(스파츠·매도널드·브래드퍼드), SHAEF(바커 장군), 카세르타에 중계."
-  ],
-  "ko": "베른, 1945년 4월 13일 오전 11시.\n[접수 4월 13일 오전 9시 53분]\n\n2168. 4월 11일자 외무부 각서(aide-mémoire)는 공사관의 4월 11일자 제2132호에 담긴 정보를 확인하나, 다만 연합국 정부들이 그러한 포로를 공사관 제2132호에 적힌 대로 「독일에 맞선 현역(active duty against Germany)」이 아니라 현역(active duty)으로 복귀시키지 않을 의무를 진다는 점이 다르다.\n\n스위스측 관리는 구두로, 독일측이 분명히 독일 전선만을 가리킨 것이기는 하나, 만일 이 점에 관하여 질문을 받는다면 모든 전선을 가리킨 것이라고 답하지 않을 수 없다고 그들이 느낄 것이 틀림없다고 말한다.\n\n[712면]\n\n제1081호와 관련하여 런던의 머피 앞으로, 제323호와 관련하여 파리의 「와이드윙(Widewing) B」편으로 스파츠(Spaatz) 앞 매도널드(McDonald) 수신 브래드퍼드(Bradford) 참조 및 SHAEF의 바커(Barker) 장군 앞으로, 그리고 제93호와 관련하여 카세르타 앞으로 중계함.\n\n해리슨",
-  "notes_ko": [],
-  "people": [
-    "Harrison 해리슨 (Leland Harrison, 주스위스 공사)",
-    "Murphy 머피 (Robert Murphy, 대독일 정치고문)",
-    "Spaatz 스파츠 (Carl Spaatz)",
-    "McDonald 매도널드",
-    "Bradford 브래드퍼드",
-    "Barker 바커 (장군)"
-  ],
-  "confidence": "medium",
-  "notes": "마지막 중계 문단은 전보 약호(「Widewing B」는 파리의 미 전략공군 사령부 통신 호출부호)가 압축되어 있어 구문이 모호하다. 원문의 어순과 번호를 그대로 살려 옮겼으나 수신 계통의 해석에 확신이 없다. 「active duty against Germany」와 「active duty」의 차이가 이 전보의 핵심이므로 영문을 병기하였다."
+ "doc_id": "d499",
+ "date": "1945-04-13",
+ "time": "Bern, April 13, 1945—11 a.m. [Received April 13—9:53 a.m.]",
+ "doc_type": "전보",
+ "place": "Bern",
+ "from": "주스위스 공사 해리슨(Leland Harrison)",
+ "to": "국무장관 (Secretary of State)",
+ "msg_nr": "2168",
+ "source_note": "711.62114A/4–1345: Telegram",
+ "title_en": "The Minister in Switzerland (Harrison) to the Secretary of State",
+ "title_ko": "주스위스 공사(해리슨)가 국무장관에게",
+ "subject_ko": "스위스 외무부의 4월 11일자 각서가 앞선 보고를 확인하되, 연합국이 포로를 「독일에 맞선 현역」이 아니라 「현역」으로 복귀시키지 않겠다는 의무를 지는 것으로 문구가 다르다고 알린다.",
+ "key_points_ko": [
+  "스위스 외무부의 4월 11일자 각서(aide-mémoire)는 공사관 4월 11일자 제2132호의 내용을 확인한다.",
+  "다만 문구가 다르다. 연합국 정부들이 그러한 포로를 「독일에 맞선 현역(active duty against Germany)」이 아니라 그냥 「현역(active duty)」으로 복귀시키지 않을 의무를 진다는 것이다. 낱말 하나로 의무의 범위가 달라지는 대목이다.",
+  "스위스 관리는 구두로, 독일측이 분명히 독일 전선만을 가리킨 것이지만 이 점을 질문받는다면 모든 전선을 가리킨 것이라고 답할 수밖에 없다고 느낄 것이 틀림없다고 말하였다.",
+  "런던(머피), 파리(스파츠·매도널드·브래드퍼드), SHAEF(바커 장군), 카세르타에 중계."
+ ],
+ "ko": "베른, 1945년 4월 13일 오전 11시.\n[접수 4월 13일 오전 9시 53분]\n\n2168. 4월 11일자 외무부 각서(aide-mémoire)는 공사관의 4월 11일자 제2132호에 담긴 정보를 확인하나, 다만 연합국 정부들이 그러한 포로를 공사관 제2132호에 적힌 대로 「독일에 맞선 현역(active duty against Germany)」이 아니라 현역(active duty)으로 복귀시키지 않을 의무를 진다는 점이 다르다.\n\n스위스측 관리는 구두로, 독일측이 분명히 독일 전선만을 가리킨 것이기는 하나, 만일 이 점에 관하여 질문을 받는다면 모든 전선을 가리킨 것이라고 답하지 않을 수 없다고 그들이 느낄 것이 틀림없다고 말한다.\n\n[712면]\n\n제1081호와 관련하여 런던의 머피 앞으로, 제323호와 관련하여 파리의 「와이드윙(Widewing) B」편으로 스파츠(Spaatz) 앞 매도널드(McDonald) 수신 브래드퍼드(Bradford) 참조 및 SHAEF의 바커(Barker) 장군 앞으로, 그리고 제93호와 관련하여 카세르타 앞으로 중계함.\n\n해리슨",
+ "notes_ko": [],
+ "people": [
+  "Harrison 해리슨 (Leland Harrison, 주스위스 공사)",
+  "Murphy 머피 (Robert Murphy, 대독일 정치고문)",
+  "Spaatz 스파츠 (Carl Spaatz)",
+  "McDonald 매도널드",
+  "Bradford 브래드퍼드",
+  "Barker 바커 (장군)"
+ ],
+ "confidence": "medium",
+ "notes": "마지막 중계 문단은 전보 약호(「Widewing B」는 파리의 미 전략공군 사령부 통신 호출부호)가 압축되어 있어 구문이 모호하다. 원문의 어순과 번호를 그대로 살려 옮겼으나 수신 계통의 해석에 확신이 없다. 「active duty against Germany」와 「active duty」의 차이가 이 전보의 핵심이므로 영문을 병기하였다."
 }

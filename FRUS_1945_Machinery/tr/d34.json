@@ -1,29 +1,29 @@
 {
-  "doc_id": "d34",
-  "date": "1945-04-06",
-  "time": "1945년 4월 6일 오후 7시",
-  "doc_type": "전보",
-  "place": "Washington",
-  "from": "국무장관 대리 애치슨(Dean Acheson)",
-  "to": "주영대사 위넌트(John G. Winant)",
-  "msg_nr": "2696",
-  "source_note": "740.00119 EAC/4–545: Telegram",
-  "title_en": "The Acting Secretary of State to the Ambassador in the United Kingdom (Winant)",
-  "title_ko": "국무장관 대리가 주영대사(위넌트)에게",
-  "subject_ko": "대오스트리아 통제기구 합의를 서두르기 위해 통제 부서 명칭에 「배상」이라는 낱말을 넣는 데 동의할 권한을 위넌트에게 주는 전보.",
-  "key_points_ko": [
-    "오스트리아 통제기구에 관한 합의를 앞당기기 위하여, 문제의 통제 부서(control division) 명칭에 「배상(reparation)」이라는 낱말을 넣는 데 동의할 권한을 위넌트에게 준다.",
-    "미국 정부는 오스트리아의 배상 지급에 원칙적으로 동의할 뜻이 있음을 분명히 하라는 지시.",
-    "다만 모스크바 배상위원회가 배상의 형태와 규모를 충분히 검토하기 전까지는 그러한 배상을 징수하지 않는다는 양해 위에서만 그러하다.",
-    "1월 1일자 국무부 각서(d6)의 「오스트리아는 배상을 내지도 받지도 말아야 한다」는 권고에서 물러선 대목 — 낱말 하나(「배상」)를 두고 벌어진 절충이다.",
-    "위넌트의 347호(4월 5일 오후 8시) Cornea 208 에 대한 회신이다."
-  ],
-  "ko": "워싱턴, 1945년 4월 6일 — 오후 7시.\n\n2696. 귀 전보 347호 4월 5일 오후 8시 회신. Cornea 208. 오스트리아를 위한 통제기구에 관한 합의를 앞당기기 위하여, 귀하는 문제의 통제 부서 명칭에 「배상(reparation)」이라는 낱말을 넣는 데 동의할 권한을 부여받는다. 귀하는 본국 정부가 오스트리아에 의한 배상의 지급에 원칙적으로 동의할 뜻이 있음을 분명히 하여야 하되, 그러한 배상은 모스크바 배상위원회가 그 형태와 규모를 충분히 검토하기 전까지는 징수되지 않는다는 양해 위에서 그러하다.\n\n애치슨\n\n[49면]",
-  "notes_ko": [],
-  "people": [
-    "Acheson 애치슨(Dean Acheson) — 국무장관 대리",
-    "Winant 위넌트(John G. Winant) — 주영대사"
-  ],
-  "confidence": "high",
-  "notes": "「Reurtel」은 reference your telegram(귀 전보 회신)의 전신 약어다. 「Cornea」는 오스트리아 관련 전문에 붙은 전신 표제어(code word)로 보이며 그대로 두었다. index.json 은 이 문서의 발신자를 The Acting Secretary of State 로 적고 있고 서명은 애치슨이다. 각주는 원문에 없다."
+ "doc_id": "d34",
+ "date": "1945-04-06",
+ "time": "1945년 4월 6일 오후 7시",
+ "doc_type": "전보",
+ "place": "Washington",
+ "from": "국무장관 대리 애치슨(Dean Acheson)",
+ "to": "주영대사 위넌트(John G. Winant)",
+ "msg_nr": "2696",
+ "source_note": "740.00119 EAC/4–545: Telegram",
+ "title_en": "The Acting Secretary of State to the Ambassador in the United Kingdom (Winant)",
+ "title_ko": "국무장관 대리가 주영대사(위넌트)에게",
+ "subject_ko": "대오스트리아 통제기구 합의를 서두르기 위해 통제 부서 명칭에 「배상」이라는 낱말을 넣는 데 동의할 권한을 위넌트에게 주는 전보.",
+ "key_points_ko": [
+  "오스트리아 통제기구에 관한 합의를 앞당기기 위하여, 문제의 통제 부서(control division) 명칭에 「배상(reparation)」이라는 낱말을 넣는 데 동의할 권한을 위넌트에게 준다.",
+  "미국 정부는 오스트리아의 배상 지급에 원칙적으로 동의할 뜻이 있음을 분명히 하라는 지시.",
+  "다만 모스크바 배상위원회가 배상의 형태와 규모를 충분히 검토하기 전까지는 그러한 배상을 징수하지 않는다는 양해 위에서만 그러하다.",
+  "1월 1일자 국무부 각서(d6)의 「오스트리아는 배상을 내지도 받지도 말아야 한다」는 권고에서 물러선 대목이다. 낱말 하나(「배상」)를 두고 벌어진 절충이다.",
+  "위넌트의 347호(4월 5일 오후 8시) Cornea 208 에 대한 회신이다."
+ ],
+ "ko": "워싱턴, 1945년 4월 6일 — 오후 7시.\n\n2696. 귀 전보 347호 4월 5일 오후 8시 회신. Cornea 208. 오스트리아를 위한 통제기구에 관한 합의를 앞당기기 위하여, 귀하는 문제의 통제 부서 명칭에 「배상(reparation)」이라는 낱말을 넣는 데 동의할 권한을 부여받는다. 귀하는 본국 정부가 오스트리아에 의한 배상의 지급에 원칙적으로 동의할 뜻이 있음을 분명히 하여야 하되, 그러한 배상은 모스크바 배상위원회가 그 형태와 규모를 충분히 검토하기 전까지는 징수되지 않는다는 양해 위에서 그러하다.\n\n애치슨\n\n[49면]",
+ "notes_ko": [],
+ "people": [
+  "Acheson 애치슨(Dean Acheson) — 국무장관 대리",
+  "Winant 위넌트(John G. Winant) — 주영대사"
+ ],
+ "confidence": "high",
+ "notes": "「Reurtel」은 reference your telegram(귀 전보 회신)의 전신 약어다. 「Cornea」는 오스트리아 관련 전문에 붙은 전신 표제어(code word)로 보이며 그대로 두었다. index.json 은 이 문서의 발신자를 The Acting Secretary of State 로 적고 있고 서명은 애치슨이다. 각주는 원문에 없다."
 }

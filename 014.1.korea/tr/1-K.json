@@ -1,35 +1,35 @@
 {
-  "serial": "1-K",
-  "date": "1945-10-27",
-  "date_note": "색인 항목의 문서 일자는 1945년 10월 27일. 편철된 종이 위의 실제 날짜는 쪽지에 적힌 문서번호 일자(SWNCC 79/1 = 1945년 9월 27일, SWNCC 101/4 = 1945년 10월 24일)와 라우팅 슬립의 1945년 11월 4일이다",
-  "doc_type": "첨부물",
-  "classification": "Top Secret",
-  "from": "육군부 부관감(AGWAR)",
-  "to": "태평양미육군총사령관 전진지휘소(CINCAFPAC ADV)",
-  "info": null,
-  "msg_nr": "SWNCC 79/1 · SWNCC 101/4",
-  "subject_en": "Structure and composition of civil affairs administration in Korea (SWNCC 79/1); A temporary international authority in Korea (SWNCC 101/4)",
-  "subject_ko": "조선 민사행정의 구조와 구성(SWNCC 79/1); 조선의 임시 국제기구(SWNCC 101/4)",
-  "summary_ko": "SWNCC 79/1 「조선 민사행정의 구조와 구성」과 SWNCC 101/4 「조선의 임시 국제기구」의 본체 각서는 참모장실로 반출되고, 그 자리를 표시하는 기록용 쪽지 두 장과 1945년 11월 4일자 부관부 라우팅 슬립 한 장만 편철되어 있다.",
-  "key_points_ko": [
-    "본체 각서 두 건 모두 편철되어 있지 않다 — 쪽지에 「THIS MEMO PULLED AND SENT TO O OF C/S」(이 각서는 빼내어 참모장실로 보냄)라고 적혀 있다.",
-    "SWNCC 79/1 (1945년 9월 27일) — 건명 「조선 민사행정의 구조와 구성」.",
-    "SWNCC 101/4 (1945년 10월 24일) — 건명 「조선의 임시 국제기구(A temporary international authority in Korea)」. 즉 신탁통치 기구에 관한 문서다.",
-    "함께 편철된 라우팅 슬립(0151)은 1945년 11월 4일자 부관부 발행으로, 총사령관 (1) → 참모장 (2) → 작전담당 부참모장 (3) → 정부과장 (4)의 순서로 회부하고, 용도는 「정보」와 「열람 후 반송」에 표시되어 있다.",
-    "라우팅 슬립에는 편철기호가 없어 1-K 로의 배정은 편철 위치에 따른 추정이다."
-  ],
-  "ko": "## 1. 기록용 쪽지 (0149)\n\n**기록용 쪽지(NOTE FOR RECORD)**\n\nSWNCC 79/1\n\n일자: 1945년 9월 27일\n\n건명: 조선 민사행정의 구조와 구성\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(하단 연필: 1-K)\n\n## 2. 기록용 쪽지 (0150)\n\n**기록용 쪽지(NOTE FOR RECORD)**\n\nSWNCC 101/4\n\n일자: 1945년 10월 24일\n\n건명: 조선의 임시 국제기구\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(하단 연필: 1-K)\n\n## 3. 라우팅 슬립 (0151)\n\n**1급비밀**\n\n연합국최고사령관 겸 태평양미육군총사령부 전진제대\n\n**라우팅 슬립**\n\n발신: 부관부(A.G.) — 1945년 11월 4일\n\n수신:\n- 총사령관 …… (1)\n- 참모장 …… (2)\n- 작전담당 부참모장 …… (3)\n- 정부과장 …… (4)\n\n용도:\n- 정보 …… ✓\n- 열람 후 반송 …… ✓\n\n(좌하단 연필: 051000)",
-  "en": "## 1. Note for Record (0149)\n\nNOTE FOR RECORD\n\nSWNCC 79/1\n\nDATE: 27 Sep 45\n\nSUBJ: Structure and composition of civil affairs administration in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil: 1-K]\n\n## 2. Note for Record (0150)\n\nNOTE FOR RECORD\n\nSWNCC 101/4\n\nDATE: 24 Oct 45\n\nSUBJ: A Temporary international authority in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil: 1-K]\n\n## 3. Routing Slip (0151)\n\nGENERAL HEADQUARTERS\nSUPREME COMMANDER FOR THE ALLIED POWERS\nAND\nUNITED STATES ARMY FORCES, PACIFIC\nADVANCE ECHELON\n\nROUTING SLIP\n\nFROM: A. G.        4 NOV 1945\n\nTO:\n  Commander-in-Chief    (1)\n  Chief of Staff        (2)\n  D C/S for Opns        (3)\n  C Govt Sec            (4)\n  [remaining printed addressees unmarked: Military Secretary / Aides-de-Camp / G-1 / G-2 / G-3 / G-4 / Adjutant General / C Signal O / C Engineer / Antiaircraft O / Public Relations O / Inspector General / Judge Advocate / C QM O / C Ord O / C Surgeon / C Counter Intel O / C Publ Health & Welfare / Fiscal Director / C of I & E Services / C Econ & Sc Sec / Gen Procurement Agent / C Natural Resources / C Stat & Reports / C Legal Sec / Headquarters Commandant / PHILOSCAP]\n\nFOR:\n  Information  ✓\n  [Note &] Return  ✓\n  [unmarked: Approval / Comment or Concurrence / Initials / Issuance of Orders / Necessary Action / Distribution Desired / Signature / Dispatch / Attachment of Reference / File]\n\nTOP SECRET\n\n[pencil, lower left: 051000]",
-  "stamps_ko": [
-    "(0149·0150) 하단 연필 편철기호: 「1-K」",
-    "(0151) 부관부 대형 고무인: 「A. G.」, 날짜 「4 NOV 1945」",
-    "(0151) 하단 「TOP SECRET」 고무인",
-    "(0151) 수신 항목 옆 자필 서명·이니셜 3점 [판독불가] — 참모장·정부과·하단 각 1점",
-    "(0151) 상단 자필 「3」 및 서명 [판독불가]",
-    "(0151) 좌하단 연필: 「051000」",
-    "(0151) 편철기호 없음"
-  ],
-  "people": [],
-  "confidence": "medium",
-  "notes": "1) 본체 각서 두 건이 모두 반출되어 이 문서철에는 남아 있지 않다. 남은 것은 자리표시 쪽지 2장과 라우팅 슬립 1장이다. 2) 0151 라우팅 슬립에는 편철기호가 없다. 1-K 로 묶은 것은 편철 위치(0150 뒤, 0152=1-J 앞)와 이 문서철의 편철 관행(라우팅 슬립이 해당 문서 바로 뒤에 붙는다)에 따른 추정이며 확정이 아니다. 다만 슬립의 날짜(1945년 11월 4일)가 SWNCC 101/4(10월 24일)·색인 일자(10월 27일) 직후이고 회부처에 정부과(Govt Sec)가 들어 있어 조선 민사행정 건과 어긋나지 않는다. 3) 색인 1-K 의 발신·수신(AGWAR→CINCAFPAC ADV)은 쪽지에 적혀 있지 않다 — 색인 항목에서 가져온 것이다. 4) SWNCC 79/1, SWNCC 101/4 는 문서번호이므로 번역하지 않았다. 5) 0150 원문은 'A Temporaty'로 오타가 있고 OCR 은 날짜를 '24 vet 45'로 읽었으나 24 Oct 45 다. 6) 0149·0150 원문 'NOTE FOR REOCRD'/'REGORD'는 원본 타자 상태와 OCR 오독이 겹친 것으로, 양식은 'NOTE FOR RECORD'다."
+ "serial": "1-K",
+ "date": "1945-10-27",
+ "date_note": "색인 항목의 문서 일자는 1945년 10월 27일. 편철된 종이 위의 실제 날짜는 쪽지에 적힌 문서번호 일자(SWNCC 79/1 = 1945년 9월 27일, SWNCC 101/4 = 1945년 10월 24일)와 라우팅 슬립의 1945년 11월 4일이다",
+ "doc_type": "첨부물",
+ "classification": "Top Secret",
+ "from": "육군부 부관감(AGWAR)",
+ "to": "태평양미육군총사령관 전진지휘소(CINCAFPAC ADV)",
+ "info": null,
+ "msg_nr": "SWNCC 79/1 · SWNCC 101/4",
+ "subject_en": "Structure and composition of civil affairs administration in Korea (SWNCC 79/1); A temporary international authority in Korea (SWNCC 101/4)",
+ "subject_ko": "조선 민사행정의 구조와 구성(SWNCC 79/1); 조선의 임시 국제기구(SWNCC 101/4)",
+ "summary_ko": "SWNCC 79/1 「조선 민사행정의 구조와 구성」과 SWNCC 101/4 「조선의 임시 국제기구」의 본체 각서는 참모장실로 반출되고, 그 자리를 표시하는 기록용 쪽지 두 장과 1945년 11월 4일자 부관부 라우팅 슬립 한 장만 편철되어 있다.",
+ "key_points_ko": [
+  "본체 각서 두 건 모두 편철되어 있지 않다. 쪽지에 「THIS MEMO PULLED AND SENT TO O OF C/S」(이 각서는 빼내어 참모장실로 보냄)라고 적혀 있다.",
+  "SWNCC 79/1(1945년 9월 27일). 건명은 「조선 민사행정의 구조와 구성」이다.",
+  "SWNCC 101/4(1945년 10월 24일). 건명은 「조선의 임시 국제기구(A temporary international authority in Korea)」다. 즉 신탁통치 기구에 관한 문서다.",
+  "함께 편철된 라우팅 슬립(0151)은 1945년 11월 4일자 부관부 발행으로, 총사령관 (1) → 참모장 (2) → 작전담당 부참모장 (3) → 정부과장 (4)의 순서로 회부하고, 용도는 「정보」와 「열람 후 반송」에 표시되어 있다.",
+  "라우팅 슬립에는 편철기호가 없어 1-K 로의 배정은 편철 위치에 따른 추정이다."
+ ],
+ "ko": "## 1. 기록용 쪽지 (0149)\n\n**기록용 쪽지(NOTE FOR RECORD)**\n\nSWNCC 79/1\n\n일자: 1945년 9월 27일\n\n건명: 조선 민사행정의 구조와 구성\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(하단 연필: 1-K)\n\n## 2. 기록용 쪽지 (0150)\n\n**기록용 쪽지(NOTE FOR RECORD)**\n\nSWNCC 101/4\n\n일자: 1945년 10월 24일\n\n건명: 조선의 임시 국제기구\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(하단 연필: 1-K)\n\n## 3. 라우팅 슬립 (0151)\n\n**1급비밀**\n\n연합국최고사령관 겸 태평양미육군총사령부 전진제대\n\n**라우팅 슬립**\n\n발신: 부관부(A.G.) — 1945년 11월 4일\n\n수신:\n- 총사령관 …… (1)\n- 참모장 …… (2)\n- 작전담당 부참모장 …… (3)\n- 정부과장 …… (4)\n\n용도:\n- 정보 …… ✓\n- 열람 후 반송 …… ✓\n\n(좌하단 연필: 051000)",
+ "en": "## 1. Note for Record (0149)\n\nNOTE FOR RECORD\n\nSWNCC 79/1\n\nDATE: 27 Sep 45\n\nSUBJ: Structure and composition of civil affairs administration in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil: 1-K]\n\n## 2. Note for Record (0150)\n\nNOTE FOR RECORD\n\nSWNCC 101/4\n\nDATE: 24 Oct 45\n\nSUBJ: A Temporary international authority in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil: 1-K]\n\n## 3. Routing Slip (0151)\n\nGENERAL HEADQUARTERS\nSUPREME COMMANDER FOR THE ALLIED POWERS\nAND\nUNITED STATES ARMY FORCES, PACIFIC\nADVANCE ECHELON\n\nROUTING SLIP\n\nFROM: A. G.        4 NOV 1945\n\nTO:\n  Commander-in-Chief    (1)\n  Chief of Staff        (2)\n  D C/S for Opns        (3)\n  C Govt Sec            (4)\n  [remaining printed addressees unmarked: Military Secretary / Aides-de-Camp / G-1 / G-2 / G-3 / G-4 / Adjutant General / C Signal O / C Engineer / Antiaircraft O / Public Relations O / Inspector General / Judge Advocate / C QM O / C Ord O / C Surgeon / C Counter Intel O / C Publ Health & Welfare / Fiscal Director / C of I & E Services / C Econ & Sc Sec / Gen Procurement Agent / C Natural Resources / C Stat & Reports / C Legal Sec / Headquarters Commandant / PHILOSCAP]\n\nFOR:\n  Information  ✓\n  [Note &] Return  ✓\n  [unmarked: Approval / Comment or Concurrence / Initials / Issuance of Orders / Necessary Action / Distribution Desired / Signature / Dispatch / Attachment of Reference / File]\n\nTOP SECRET\n\n[pencil, lower left: 051000]",
+ "stamps_ko": [
+  "(0149·0150) 하단 연필 편철기호: 「1-K」",
+  "(0151) 부관부 대형 고무인: 「A. G.」, 날짜 「4 NOV 1945」",
+  "(0151) 하단 「TOP SECRET」 고무인",
+  "(0151) 수신 항목 옆 자필 서명·이니셜 3점 [판독불가] — 참모장·정부과·하단 각 1점",
+  "(0151) 상단 자필 「3」 및 서명 [판독불가]",
+  "(0151) 좌하단 연필: 「051000」",
+  "(0151) 편철기호 없음"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "1) 본체 각서 두 건이 모두 반출되어 이 문서철에는 남아 있지 않다. 남은 것은 대체 쪽지 2장과 라우팅 슬립 1장이다. 2) 0151 라우팅 슬립에는 편철기호가 없다. 1-K 로 묶은 것은 편철 위치(0150 뒤, 0152=1-J 앞)와 이 문서철의 편철 관행(라우팅 슬립이 해당 문서 바로 뒤에 붙는다)에 따른 추정이며 확정이 아니다. 다만 슬립의 날짜(1945년 11월 4일)가 SWNCC 101/4(10월 24일)·색인 일자(10월 27일) 직후이고 회부처에 정부과(Govt Sec)가 들어 있어 조선 민사행정 건과 어긋나지 않는다. 3) 색인 1-K 의 발신·수신(AGWAR→CINCAFPAC ADV)은 쪽지에 적혀 있지 않다. 색인 항목에서 가져온 것이다. 4) SWNCC 79/1, SWNCC 101/4 는 문서번호이므로 번역하지 않았다. 5) 0150 원문은 'A Temporaty'로 오타가 있고 OCR 은 날짜를 '24 vet 45'로 읽었으나 24 Oct 45 다. 6) 0149·0150 원문 'NOTE FOR REOCRD'/'REGORD'는 원본 타자 상태와 OCR 오독이 겹친 것으로, 양식은 'NOTE FOR RECORD'다."
 }

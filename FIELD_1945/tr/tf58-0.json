@@ -1,22 +1,22 @@
 {
-  "doc_id": "tf58-0",
-  "src": "tf58",
-  "kind": "표제",
-  "date": "1945-06-18",
-  "title_en": "Report of Operations of Task Force FIFTY-EIGHT in Support of Landings at OKINAWA, 14 March through 28 May",
-  "title_ko": "보고서 표제부 — 발신·수신 계통, 기함 교체 내역, 첨부 문서 목록",
-  "subject_ko": "미처 중장이 1945년 6월 18일 제58기동부대 사령관 명의로 미 함대 사령장관에게 올린 오키나와 지원 작전 보고서의 표제부로, 발신·경유·수신 계통과 보고 대상 기간, 기함 세 척의 교체 내역, 첨부 문서 여덟 건의 목록을 밝힌다.",
-  "key_points_ko": [
-    "발신은 제58기동부대 사령관(제1항모기동부대 사령관, 태평양) M. A. 미처(MITSCHER) 중장, 수신은 미 함대 사령장관, 경유는 제5함대 사령관과 미 태평양함대 사령장관이다.",
-    "문서 기호는 A16-3, 일련번호 00222, 날짜는 1945년 6월 18일이다.",
-    "기함은 세 차례 바뀌었다 — USS Bunker Hill(벙커힐) 3월 14일~5월 11일, USS Enterprise(엔터프라이즈) 5월 11일~15일, USS Randolph(랜돌프) 5월 15일~28일.",
-    "보고 범위는 1945년 3월 14일부터 5월 28일(동경 기준 날짜)까지이며, KYUSHU(규슈)·NANSI SHOTO(난세이 제도) 공격, 구레(Kure)의 일본 함대와 야마토(Yamato) 공격, 오키나와 상륙 직접 지원 작전을 포함한다.",
-    "첨부는 (A) 운용 일지부터 (H) 오키나와 방공 계획 도해까지 여덟 건이며, 그중 (D)는 1945년 4월 7일 야마토 기동부대 격멸, (F)는 규슈 공격 시 비행 계획표다."
-  ],
-  "ko": "**HyperWar: 작전 보고 — 오키나와의 제58기동부대**\n\n**미합중국 태평양함대**\n\n**제1항모기동부대 사령관**\n\nA16-3\n\n일련번호: 00222\n\n1945년 6월 18일.\n\n**발신:**\n\n제58기동부대 사령관(Commander Task Force FIFTY-EIGHT)\n\n(제1항모기동부대 사령관, 태평양 — M. A. 미처(MITSCHER) 중장.\n\n기함: U.S.S. Bunker Hill(벙커힐), 1945년 3월 14일부터 5월 11일까지\n\nU.S.S. Enterprise(엔터프라이즈), 1945년 5월 11일부터 5월 15일까지\n\nU.S.S. Randolph(랜돌프), 1945년 5월 15일부터 5월 28일까지).\n\n**수신:**\n\n미합중국 함대 사령장관(Commander in Chief, United States Fleet).\n\n**경유:**\n\n(1) 제5함대 사령관(Commander FIFTH Fleet).\n\n(2) 미 태평양함대 사령장관(Commander in Chief, U.S. Pacific Fleet).\n\n**제목:**\n\nOKINAWA(오키나와) 상륙 지원을 위한 제58기동부대 작전 보고, 1945년 3월 14일부터 5월 28일까지(동경 기준 날짜). KYUSHU(규슈), NANSI SHOTO(난세이 쇼토), 구레(Kure)의 일본 함대, 야마토(Yamato)에 대한 작전 및 오키나와 상륙 직접 지원 작전을 포함한다.\n\n**참조:**\n\n(a) 제5함대 사령관 작전계획 1-45호.\n\n(b) 제58기동부대 사령관(CTF 58) 작전명령 2-45호.\n\n**첨부:**\n\n(A) 운용 일지(Calendar of Employment).\n\n(B) 편성의 변경 및 개별 함정의 손상과 이동에 관한 연대기적 기록.\n\n(C) 1945년 3월 18일부터 4월 18일까지의 기간에 대한 제58기동부대 보충 소요.\n\n(D) 1945년 4월 7일 야마토(Yamato) 기동부대의 격멸.\n\n(E) 병참 보고(제50.8기동부대군(TG 50.8) 수치).\n\n(F) 규슈(KYUSHU)에서의 제58기동부대 비행 계획표.\n\n(G) 항공전대 정원(제1항모기동부대 사령관(CFCTFP) 기밀 서한 일련번호 00220, 1945년 5월 31일자).\n\n(H) 오키나와(OKINAWA)를 위한 제58기동부대 방공 계획 도해.",
-  "people": [
-    "Marc A. Mitscher 마크 A. 미처 — 미 해군 중장, 제58기동부대 사령관(제1항모기동부대 사령관, 태평양)"
-  ],
-  "confidence": "high",
-  "notes": "원문 첫 줄 'HyperWar: Action Report--Task Force 58 at Okinawa'는 원 문서의 일부가 아니라 이 텍스트를 전사한 HyperWar Foundation 웹판의 표제 줄이나, 원문 그대로 옮겼다. 원문의 'NANSI SHOTO'는 통상 표기인 'NANSEI SHOTO(난세이 제도)'의 오식으로 보이나 원문 철자를 그대로 두었다. 'From:' 항목의 여는 괄호가 닫히지 않은 채 문단이 끝나는 것도 원문 그대로다."
+ "doc_id": "tf58-0",
+ "src": "tf58",
+ "kind": "표제",
+ "date": "1945-06-18",
+ "title_en": "Report of Operations of Task Force FIFTY-EIGHT in Support of Landings at OKINAWA, 14 March through 28 May",
+ "title_ko": "보고서 표제부 — 발신·수신 계통, 기함 교체 내역, 첨부 문서 목록",
+ "subject_ko": "미처 중장이 1945년 6월 18일 제58기동부대 사령관 명의로 미 함대 사령장관에게 올린 오키나와 지원 작전 보고서의 표제부로, 발신·경유·수신 계통과 보고 대상 기간, 기함 세 척의 교체 내역, 첨부 문서 여덟 건의 목록을 밝힌다.",
+ "key_points_ko": [
+  "발신은 제58기동부대 사령관(제1항모기동부대 사령관, 태평양) M. A. 미처(MITSCHER) 중장, 수신은 미 함대 사령장관, 경유는 제5함대 사령관과 미 태평양함대 사령장관이다.",
+  "문서 기호는 A16-3, 일련번호 00222, 날짜는 1945년 6월 18일이다.",
+  "기함은 세 차례 바뀌었다. USS Bunker Hill(벙커힐) 3월 14일~5월 11일, USS Enterprise(엔터프라이즈) 5월 11일~15일, USS Randolph(랜돌프) 5월 15일~28일.",
+  "보고 범위는 1945년 3월 14일부터 5월 28일(동경 기준 날짜)까지이며, KYUSHU(규슈)·NANSI SHOTO(난세이 제도) 공격, 구레(Kure)의 일본 함대와 야마토(Yamato) 공격, 오키나와 상륙 직접 지원 작전을 포함한다.",
+  "첨부는 (A) 운용 일지부터 (H) 오키나와 방공 계획 도해까지 여덟 건이며, 그중 (D)는 1945년 4월 7일 야마토 기동부대 격멸, (F)는 규슈 공격 시 비행 계획표다."
+ ],
+ "ko": "**HyperWar: 작전 보고 — 오키나와의 제58기동부대**\n\n**미합중국 태평양함대**\n\n**제1항모기동부대 사령관**\n\nA16-3\n\n일련번호: 00222\n\n1945년 6월 18일.\n\n**발신:**\n\n제58기동부대 사령관(Commander Task Force FIFTY-EIGHT)\n\n(제1항모기동부대 사령관, 태평양 — M. A. 미처(MITSCHER) 중장.\n\n기함: U.S.S. Bunker Hill(벙커힐), 1945년 3월 14일부터 5월 11일까지\n\nU.S.S. Enterprise(엔터프라이즈), 1945년 5월 11일부터 5월 15일까지\n\nU.S.S. Randolph(랜돌프), 1945년 5월 15일부터 5월 28일까지).\n\n**수신:**\n\n미합중국 함대 사령장관(Commander in Chief, United States Fleet).\n\n**경유:**\n\n(1) 제5함대 사령관(Commander FIFTH Fleet).\n\n(2) 미 태평양함대 사령장관(Commander in Chief, U.S. Pacific Fleet).\n\n**제목:**\n\nOKINAWA(오키나와) 상륙 지원을 위한 제58기동부대 작전 보고, 1945년 3월 14일부터 5월 28일까지(동경 기준 날짜). KYUSHU(규슈), NANSI SHOTO(난세이 쇼토), 구레(Kure)의 일본 함대, 야마토(Yamato)에 대한 작전 및 오키나와 상륙 직접 지원 작전을 포함한다.\n\n**참조:**\n\n(a) 제5함대 사령관 작전계획 1-45호.\n\n(b) 제58기동부대 사령관(CTF 58) 작전명령 2-45호.\n\n**첨부:**\n\n(A) 운용 일지(Calendar of Employment).\n\n(B) 편성의 변경 및 개별 함정의 손상과 이동에 관한 연대기적 기록.\n\n(C) 1945년 3월 18일부터 4월 18일까지의 기간에 대한 제58기동부대 보충 소요.\n\n(D) 1945년 4월 7일 야마토(Yamato) 기동부대의 격멸.\n\n(E) 병참 보고(제50.8기동부대군(TG 50.8) 수치).\n\n(F) 규슈(KYUSHU)에서의 제58기동부대 비행 계획표.\n\n(G) 항공전대 정원(제1항모기동부대 사령관(CFCTFP) 기밀 서한 일련번호 00220, 1945년 5월 31일자).\n\n(H) 오키나와(OKINAWA)를 위한 제58기동부대 방공 계획 도해.",
+ "people": [
+  "Marc A. Mitscher 마크 A. 미처 — 미 해군 중장, 제58기동부대 사령관(제1항모기동부대 사령관, 태평양)"
+ ],
+ "confidence": "high",
+ "notes": "원문 첫 줄 'HyperWar: Action Report--Task Force 58 at Okinawa'는 원 문서의 일부가 아니라 이 텍스트를 전사한 HyperWar Foundation 웹판의 표제 줄이나, 원문 그대로 옮겼다. 원문의 'NANSI SHOTO'는 통상 표기인 'NANSEI SHOTO(난세이 제도)'의 오식으로 보이나 원문 철자를 그대로 두었다. 'From:' 항목의 여는 괄호가 닫히지 않은 채 문단이 끝나는 것도 원문 그대로다."
 }

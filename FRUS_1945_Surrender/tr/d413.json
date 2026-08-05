@@ -1,37 +1,37 @@
 {
-  "doc_id": "d413",
-  "date": "1945-08-11",
-  "time": "1945년 8월 11일 오전 10시 46분 (전화를 건 시각, at 10:46 this morning)",
-  "date_note": "원문 표기 「[Washington,] August 11, 1945.」 — 발신지 표기는 원문에서도 대괄호로 보충되어 있다.",
-  "doc_type": "전화 비망록",
-  "classification": null,
-  "place": "Washington",
-  "from": "유럽국장 매슈스(H. Freeman Matthews)",
-  "to": null,
-  "msg_nr": null,
-  "source_note": "740.00119 PW/8–1145",
-  "title_en": "Memorandum of Telephone Conversation, by the Director of the Office of European Affairs (Matthews)",
-  "title_ko": "유럽국장(매슈스)의 전화 대화 비망록",
-  "subject_ko": "매슈스가 8월 11일 오전 10시 46분 스위스 대리대사 그레슬리에게 전화하여, 방금 전달한 연합국 회답에 대해 일본 정부의 신속한 회답을 기대한다는 뜻을 스위스 정부가 일본에 전해 줄 것을 요청한 기록.",
-  "key_points_ko": [
-    "차관(그루)의 지시가 던을 통해 매슈스에게 전달되었다.",
-    "매슈스가 그날 오전 10시 46분에 스위스 대리대사 그레슬리에게 전화했다 — 분 단위까지 기록된 시각이다.",
-    "직전에 월너가 그레슬리에게 두고 온 통첩, 즉 일본의 평화 제의에 대한 회답을 언급.",
-    "요청 내용: 미국·영국·소련·중국 4개국 정부를 대신하여 전달된 그 메시지에 대해 본국 정부가 신속한 회답을 기대한다는 것을 스위스 정부가 일본 정부에 전해 달라는 것.",
-    "회답이 「4개국 정부를 대신하여(on behalf of the Governments of…)」 전달되었음을 명시한 대목이 소련이 요구했던 「주요 교전국들의 이름으로」와 맞물린다."
-  ],
-  "ko": "[워싱턴,] 1945년 8월 11일.\n\n차관의 지시에 따라(던 씨 [주53] 를 통하여 나에게 전달됨) 나는 오늘 아침 10시 46분에 스위스 대리대사 그레슬리 씨에게 전화하였다. 나는 방금 월너 씨 [주54] 가 그에게 두고 온, 일본의 평화 제의에 대한 회답을 담은 통첩을 언급하면서, 미합중국·영국·소비에트 사회주의 공화국 연방 및 중국 정부를 대신하여 전달된 그 메시지에 대하여 본국 정부가 신속한 회답을 기대하고 있음을 스위스 정부가 일본 정부에 전달하도록 요청해 줄 것을 그에게 요청하였다.\n\nH. F[리먼] M[매슈스]",
-  "notes_ko": [
-    "[주53] 제임스 클레먼트 던(James Clement Dunn), 유럽·극동·근동 및 아프리카 담당 국무차관보.",
-    "[주54] 우드러프 월너(Woodruff Wallner), 서유럽과(Division of Western European Affairs)."
-  ],
-  "people": [
-    "Matthews 매슈스(H. Freeman Matthews, 유럽국장)",
-    "Dunn 던(James Clement Dunn, 국무차관보)",
-    "Grässli 그레슬리(Max Grässli, 스위스 대리대사)",
-    "Wallner 월너(Woodruff Wallner, 국무부 서유럽과)",
-    "the Under Secretary 국무차관 (그루Joseph C. Grew)"
-  ],
-  "confidence": "high",
-  "notes": "「Under Secretary」는 본문에 이름이 없으나 당시 국무차관은 그루다 — 본문에는 원문대로 「차관」으로만 두고 people에만 병기했다. 서명 「H. F[reeman] M[atthews]」의 대괄호는 원문 편집자가 이니셜을 풀어 보충한 것이며 그 형태를 유지했다."
+ "doc_id": "d413",
+ "date": "1945-08-11",
+ "time": "1945년 8월 11일 오전 10시 46분 (전화를 건 시각, at 10:46 this morning)",
+ "date_note": "원문 표기 「[Washington,] August 11, 1945.」 — 발신지 표기는 원문에서도 대괄호로 보충되어 있다.",
+ "doc_type": "전화 비망록",
+ "classification": null,
+ "place": "Washington",
+ "from": "유럽국장 매슈스(H. Freeman Matthews)",
+ "to": null,
+ "msg_nr": null,
+ "source_note": "740.00119 PW/8–1145",
+ "title_en": "Memorandum of Telephone Conversation, by the Director of the Office of European Affairs (Matthews)",
+ "title_ko": "유럽국장(매슈스)의 전화 대화 비망록",
+ "subject_ko": "매슈스가 8월 11일 오전 10시 46분 스위스 대리대사 그레슬리에게 전화하여, 방금 전달한 연합국 회답에 대해 일본 정부의 신속한 회답을 기대한다는 뜻을 스위스 정부가 일본에 전해 줄 것을 요청한 기록.",
+ "key_points_ko": [
+  "차관(그루)의 지시가 던을 통해 매슈스에게 전달되었다.",
+  "매슈스가 그날 오전 10시 46분에 스위스 대리대사 그레슬리에게 전화했다. 분 단위까지 기록된 시각이다.",
+  "직전에 월너가 그레슬리에게 두고 온 통첩, 즉 일본의 평화 제의에 대한 회답을 언급.",
+  "요청 내용: 미국·영국·소련·중국 4개국 정부를 대신하여 전달된 그 메시지에 대해 본국 정부가 신속한 회답을 기대한다는 것을 스위스 정부가 일본 정부에 전해 달라는 것.",
+  "회답이 「4개국 정부를 대신하여(on behalf of the Governments of…)」 전달되었음을 명시한 대목이 소련이 요구했던 「주요 교전국들의 이름으로」와 맞물린다."
+ ],
+ "ko": "[워싱턴,] 1945년 8월 11일.\n\n차관의 지시에 따라(던 씨 [주53] 를 통하여 나에게 전달됨) 나는 오늘 아침 10시 46분에 스위스 대리대사 그레슬리 씨에게 전화하였다. 나는 방금 월너 씨 [주54] 가 그에게 두고 온, 일본의 평화 제의에 대한 회답을 담은 통첩을 언급하면서, 미합중국·영국·소비에트 사회주의 공화국 연방 및 중국 정부를 대신하여 전달된 그 메시지에 대하여 본국 정부가 신속한 회답을 기대하고 있음을 스위스 정부가 일본 정부에 전달하도록 요청해 줄 것을 그에게 요청하였다.\n\nH. F[리먼] M[매슈스]",
+ "notes_ko": [
+  "[주53] 제임스 클레먼트 던(James Clement Dunn), 유럽·극동·근동 및 아프리카 담당 국무차관보.",
+  "[주54] 우드러프 월너(Woodruff Wallner), 서유럽과(Division of Western European Affairs)."
+ ],
+ "people": [
+  "Matthews 매슈스(H. Freeman Matthews, 유럽국장)",
+  "Dunn 던(James Clement Dunn, 국무차관보)",
+  "Grässli 그레슬리(Max Grässli, 스위스 대리대사)",
+  "Wallner 월너(Woodruff Wallner, 국무부 서유럽과)",
+  "the Under Secretary 국무차관 (그루Joseph C. Grew)"
+ ],
+ "confidence": "high",
+ "notes": "「Under Secretary」는 본문에 이름이 없으나 당시 국무차관은 그루다. 본문에는 원문대로 「차관」으로만 두고 people에만 병기했다. 서명 「H. F[reeman] M[atthews]」의 대괄호는 원문 편집자가 이니셜을 풀어 보충한 것이며 그 형태를 유지했다."
 }

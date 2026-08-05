@@ -1,34 +1,34 @@
 {
-  "doc_id": "d413",
-  "date": "1941-12-02",
-  "time": null,
-  "doc_type": "성명",
-  "place": "Washington",
-  "from": "일본대사관 1등서기관 데라사키(寺崎英成, Terasaki)",
-  "to": "조지프 W. 밸런타인(Joseph W. Ballantine)",
-  "msg_nr": null,
-  "source_note": "711.94/25944/8",
-  "title_en": "Statement Handed by the First Secretary of the Japanese Embassy (Terasaki) to Mr. Joseph W. Ballantine on December 2, 1941",
-  "title_ko": "일본대사관 1등서기관 데라사키가 1941년 12월 2일 조지프 W. 밸런타인 씨에게 건넨 성명",
-  "subject_ko": "이른바 11월 30일 도조 총리 연설은 총리가 실제로 행한 것이 아니라 흥아동맹 사무국원이 초안한 축사가 결재 전에 신문에 넘어간 것이며, 문제된 구절도 오역이라는 일본 측 해명.",
-  "key_points_ko": [
-    "이른바 도조 연설은 동아부흥연맹(East Asia Restoration League)이라는 민간 단체의 사무국원들이 작성한 축사 초안이었다 — 도조는 마침 그 단체의 총재였을 뿐이라고 한다.",
-    "축사는 11월 30일 일화기본관계조약 체결 1주년 기념 행사에서 낭독될 예정이었다.",
-    "11월 30일이 마침 일요일이어서, 사무국원들이 29일(토요일) 밤 기자들의 요청에 따라 원고를 건넸고, 총리도 다른 정부 관계자도 검토하기 전이었는데 그 미결재 원고가 도쿄 신문들에 실렸다.",
-    "실제로 총리는 30일에 어떠한 연설도 하지 않았고, 총리도 다른 정부 당국도 그 연설의 내용을 알지 못했다고 한다.",
-    "보도된 「인류의 명예와 긍지를 위하여 우리는 이런 종류의 관행을 동아시아에서 기어이 소탕해야 한다」는 구절은 오역이며, 원문에는 「소탕(purge)」이나 「기어이(with a vengeance)」에 해당하는 표현이 없다고 한다.",
-    "올바른 번역은 「인류의 명예와 긍지를 위하여 이런 종류의 관행은 제거되어야 한다」라는 것이다."
-  ],
-  "ko": "1941년 12월 2일\n\n이른바 도조 히데키(東條英機, Hideki Tojo) 총리의 연설은, 본래 동아부흥연맹(East Asia Restoration League)—도조 씨가 마침 그 총재로 있는 비정부 단체—의 사무국원들이 초안한 것으로, 동 연맹의 주최로 11월 30일 일화기본관계조약[주68a] 체결 1주년을 기념하는 자리에서 낭독될 축사였다.\n\n그런데 11월 30일이 마침 일요일이었으므로, 연맹 사무국원들이 11월 29일(토요일) 밤 신문기자들의 요청에 따라 그 원고를 내주었는데, 이는 해당 초안이 총리 자신이나 다른 정부 관계자에 의하여 검토되기 전이었으며, 이 결재되지 않은 원고가 도쿄의 신문들에 실린 것이다.\n\n사실인즉, 총리 자신은 30일에 어떠한 종류의 연설도 하지 않았다. 더욱이 총리도 다른 정부 당국자도 해당 연설의 내용에 관하여 아무런 지식이 없었다.\n\n또한 다음을 유의해야 한다. 보도된 「인류의 명예와 긍지를 위하여 우리는 이런 종류의 관행을 동아시아에서 기어이 소탕해야 한다(For the honor and pride of mankind we must purge this sort of practice from East Asia with a vengeance)」라는 말은 원문의 오역이다. 원문에는 「소탕한다(purge)」거나 「기어이(with a vengeance)」와 같은 표현이 없다. 그 말의 올바른 번역은 「인류의 명예와 긍지를 위하여 이런 종류의 관행은 제거되어야 한다(For the honor and pride of mankind, this sort of practice must be removed)」라야 한다.",
-  "notes_ko": [
-    "[주68a] 1940년 11월 30일 난징에서 왕징웨이(汪精衛, Wang Ching-wei)와 서명한 조약, 117면."
-  ],
-  "people": [
-    "데라사키(寺崎英成, Terasaki) — 주미 일본대사관 1등서기관",
-    "밸런타인(Joseph W. Ballantine)",
-    "도조(東條英機, Hideki Tojo) — 일본 총리",
-    "왕징웨이(汪精衛, Wang Ching-wei) — 각주에만 나온다"
-  ],
-  "confidence": "high",
-  "notes": "「East Asia Restoration League」는 흥아동맹(興亞同盟)을 가리키는 것으로 보이나 원문 영문 표기를 그대로 두고 「동아부흥연맹」으로 직역한 뒤 영문을 병기했다. 「Treaty Concerning the Basic Relations between Japan and China」는 일화기본관계조약(日華基本條約)으로 옮겼다. 문제된 두 구절은 오역 여부 자체가 이 문서의 논점이므로 영문을 함께 남겼다."
+ "doc_id": "d413",
+ "date": "1941-12-02",
+ "time": null,
+ "doc_type": "성명",
+ "place": "Washington",
+ "from": "일본대사관 1등서기관 데라사키(寺崎英成, Terasaki)",
+ "to": "조지프 W. 밸런타인(Joseph W. Ballantine)",
+ "msg_nr": null,
+ "source_note": "711.94/25944/8",
+ "title_en": "Statement Handed by the First Secretary of the Japanese Embassy (Terasaki) to Mr. Joseph W. Ballantine on December 2, 1941",
+ "title_ko": "일본대사관 1등서기관 데라사키가 1941년 12월 2일 조지프 W. 밸런타인 씨에게 건넨 성명",
+ "subject_ko": "이른바 11월 30일 도조 총리 연설은 총리가 실제로 행한 것이 아니라 흥아동맹 사무국원이 초안한 축사가 결재 전에 신문에 넘어간 것이며, 문제된 구절도 오역이라는 일본 측 해명.",
+ "key_points_ko": [
+  "이른바 도조 연설은 동아부흥연맹(East Asia Restoration League)이라는 민간 단체의 사무국원들이 작성한 축사 초안이었다. 도조는 마침 그 단체의 총재였을 뿐이라고 한다.",
+  "축사는 11월 30일 일화기본관계조약 체결 1주년 기념 행사에서 낭독될 예정이었다.",
+  "11월 30일이 마침 일요일이어서, 사무국원들이 29일(토요일) 밤 기자들의 요청에 따라 원고를 건넸고, 총리도 다른 정부 관계자도 검토하기 전이었는데 그 미결재 원고가 도쿄 신문들에 실렸다.",
+  "실제로 총리는 30일에 어떠한 연설도 하지 않았고, 총리도 다른 정부 당국도 그 연설의 내용을 알지 못했다고 한다.",
+  "보도된 「인류의 명예와 긍지를 위하여 우리는 이런 종류의 관행을 동아시아에서 기어이 소탕해야 한다」는 구절은 오역이며, 원문에는 「소탕(purge)」이나 「기어이(with a vengeance)」에 해당하는 표현이 없다고 한다.",
+  "올바른 번역은 「인류의 명예와 긍지를 위하여 이런 종류의 관행은 제거되어야 한다」라는 것이다."
+ ],
+ "ko": "1941년 12월 2일\n\n이른바 도조 히데키(東條英機, Hideki Tojo) 총리의 연설은, 본래 동아부흥연맹(East Asia Restoration League)—도조 씨가 마침 그 총재로 있는 비정부 단체—의 사무국원들이 초안한 것으로, 동 연맹의 주최로 11월 30일 일화기본관계조약[주68a] 체결 1주년을 기념하는 자리에서 낭독될 축사였다.\n\n그런데 11월 30일이 마침 일요일이었으므로, 연맹 사무국원들이 11월 29일(토요일) 밤 신문기자들의 요청에 따라 그 원고를 내주었는데, 이는 해당 초안이 총리 자신이나 다른 정부 관계자에 의하여 검토되기 전이었으며, 이 결재되지 않은 원고가 도쿄의 신문들에 실린 것이다.\n\n사실인즉, 총리 자신은 30일에 어떠한 종류의 연설도 하지 않았다. 더욱이 총리도 다른 정부 당국자도 해당 연설의 내용에 관하여 아무런 지식이 없었다.\n\n또한 다음을 유의해야 한다. 보도된 「인류의 명예와 긍지를 위하여 우리는 이런 종류의 관행을 동아시아에서 기어이 소탕해야 한다(For the honor and pride of mankind we must purge this sort of practice from East Asia with a vengeance)」라는 말은 원문의 오역이다. 원문에는 「소탕한다(purge)」거나 「기어이(with a vengeance)」와 같은 표현이 없다. 그 말의 올바른 번역은 「인류의 명예와 긍지를 위하여 이런 종류의 관행은 제거되어야 한다(For the honor and pride of mankind, this sort of practice must be removed)」라야 한다.",
+ "notes_ko": [
+  "[주68a] 1940년 11월 30일 난징에서 왕징웨이(汪精衛, Wang Ching-wei)와 서명한 조약, 117면."
+ ],
+ "people": [
+  "데라사키(寺崎英成, Terasaki) — 주미 일본대사관 1등서기관",
+  "밸런타인(Joseph W. Ballantine)",
+  "도조(東條英機, Hideki Tojo) — 일본 총리",
+  "왕징웨이(汪精衛, Wang Ching-wei) — 각주에만 나온다"
+ ],
+ "confidence": "high",
+ "notes": "「East Asia Restoration League」는 흥아동맹(興亞同盟)을 가리키는 것으로 보이나 원문 영문 표기를 그대로 두고 「동아부흥연맹」으로 직역한 뒤 영문을 병기했다. 「Treaty Concerning the Basic Relations between Japan and China」는 일화기본관계조약(日華基本條約)으로 옮겼다. 문제된 두 구절은 오역 여부 자체가 이 문서의 논점이므로 영문을 함께 남겼다."
 }

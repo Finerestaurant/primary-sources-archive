@@ -1,42 +1,42 @@
 {
-  "serial": "1-C",
-  "date": "1945-09-17",
-  "date_note": "본문 타자 표기는 '16 SEPTEMBER 1945'이나 TOO는 170625 Z, 접수 도장은 19 SEP 1945. 색인은 1945년 9월 17일로 잡는다",
-  "doc_type": "전문",
-  "classification": "Top Secret",
-  "from": "태평양미육군총사령관 전진지휘소(CINCAFPAC, ADV)",
-  "to": "제24군단장(CG, XXIV Corps) — 우선(PRIORITY)",
-  "info": "태평양미육군총사령부 마닐라(CINCAFPAC, MANILA) — 군정부(MIL GOVT SEC)로 전달 — 우선(PRIORITY)",
-  "msg_nr": "CAX 52020",
-  "subject_en": "Removal of Japanese officials in Korea as soon as possible (ref WX 61967)",
-  "subject_ko": "조선 내 일본인 관리의 조속한 파면 (WX 61967 참조)",
-  "summary_ko": "이미 파면된 총독 아베와 총독부 국장들에 더하여, 육군부가 정치적 이유로 도지사 및 도경찰부장의 조속한 해임을 권고하며, 국무·육군·해군 3부는 이들 일본인 관리의 근무가 기술적 능력 때문에 필요하다고 보지 않는다고 통보하고, 부일협력 조선인 행정관과 그 밖의 일본인 관리도 가능한 한 신속히 파면하라고 지시한 발신 전문.",
-  "key_points_ko": [
-    "귀관이 이미 파면한 총독 아베(Abe)와 총독부 국장들에 더하여, 육군부는 정치적 이유로 도지사 및 도경찰부장의 조속한 해임을 권고한다 — 아직 실행되지 않았다면.",
-    "국무부·육군부·해군부는 위에 든 일본인 관리들의 근무가 기술적 능력 때문에 필요하다고 보지 않는다.",
-    "부일협력 조선인 행정관 및 그 밖의 일본인 관리의 파면도 가능한 한 신속히 이루어져야 한다.",
-    "지령안 WX 61967(전문에서는 'WILLIAM XRAY SIX ONE NINE SIX SEVEN'으로 철자 호출) 요약본 제2항을 참조하라.",
-    "그 요약본 5부를 최단 시일의 항공 파발로 귀 사령부에 송부 중이다.",
-    "발신 명의: 부관 B. M. 피치 준장, 승인 군정장관 W. E. 크리스트 준장."
-  ],
-  "ko": "귀관이 이미 파면한 총독 아베(Abe) 및 총독부 국장들에 더하여, 육군부는 정치적 이유로 도지사(GOVERNORS OF PROVINCES) 및 도경찰부장(PROVINCIAL CHIEFS OF POLICE)을 그 직에서 조속히 해임할 것을 권고함. 아직 시행되지 않았다면 그러하다. 마침표. 국무부, 육군부 및 해군부는 위에 거명된 일본인 관리들의 근무가 기술적 능력 때문에 필요하다고는 보지 않음. 마침표. 또한 부일협력 조선인 행정관 및 그 밖의 일본인 관리의 파면도 가능한 한 신속히 이루어져야 함. 마침표. 지령안 — 반복함, 지령안 — WX 61967 요약본의 제2항을 참조할 것. 그 요약본 5부를 참고용으로 최단 시일의 항공 파발편으로 귀관에게 송부 중임.\n\nCAX 52020\n\n공식:\n[서명] B. M. 피치(B. M. FITCH)\n준장, 미육군, 부관\n\n승인:\n[서명] W. E. 크리스트(W. E. CRIST)\n준장, 미육군, 군정장관",
-  "en": "TOP SECRET\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES PACIFIC\n\nOUTGOING MESSAGE\nWEC/HES/hac\n16 SEPTEMBER 1945\n\nFROM: CINCAFPAC, ADV\nTO  : CG, XXIV CORPS .......................... PRIORITY\nINFO: CINCAFPAC, MANILA (PASS TO MIL GOVT SEC) ...... PRIORITY\n\nIN ADDITION TO GOVERNOR GENERAL ABE AND BUREAU CHIEFS OF THE GOVERNMENT GENERAL CMA WHICH YOU HAVE ALREADY REMOVED CMA WAR DEPARTMENT ADVISES FOR POLITICAL REASONS EARLIEST RELIEF FROM OFFICE OF GOVERNORS OF PROVINCES AND PROVINCIAL CHIEFS OF POLICE CMA IF NOT ALREADY ACCOMPLISHED PD THE STATE CMA WAR AND NAVY DEPARTMENTS DO NOT BELIEVE THE SERVICES OF JAPANESE OFFICIALS NAMED ABOVE ARE NECESSARY BECAUSE OF TECHNICAL ABILITIES PD ALSO REMOVAL OF COLLABORATIONIST KOREAN ADMINISTRATORS AND OTHER JAPANESE OFFICIALS SHOULD BE ACCOMPLISHED AS RAPIDLY AS POSSIBLE PD REFERENCE IS MADE TO PROPOSED RPT PROPOSED DIRECTIVE WILLIAM XRAY SIX ONE NINE SIX SEVEN CMA PARAGRAPH TWO OF SUMMARY CMA FIVE COPIES OF WHICH ARE BEING FURNISHED YOU BY EARLIEST AIR COURIER FOR YOUR INFORMATION\n\nCAX 52020\n\nOFFICIAL:\n[signed] BEG\nB. M. FITCH,\nBrigadier General, U. S. Army,\nAdjutant General.\n\nApproved by:\n[signed] WEC\nW. E. CRIST,\nBrigadier General, U. S. Army,\nChief Military Government Officer.\n\nTOP SECRET",
-  "stamps_ko": [
-    "고무인(우상단, 세로): 「GHQ / AGO RECORDS / 19 SEP 1945」, 옆에 손글씨 '014.1 Korea'",
-    "손글씨(도장 아래): '170625 Z' — 발신 시각(TOO)을 손으로 적어 넣음",
-    "손글씨(본문 말미): 'CAX 52020' — 전문 일련번호를 손으로 기입",
-    "손글씨 서명: 'BEG'(부관 피치 대리 서명), 'WEC'(승인, 크리스트)",
-    "손글씨(하단): 'Copies furnished MG C/S' — 군정부·참모장에 사본 교부",
-    "손글씨(우하단): 'AG FILE'",
-    "하단 중앙 'TOP SECRET' 고무인(상단에도 겹쳐 찍힘)",
-    "좌하단 연필 정리기호: '1-C'(원본에서는 '/-C'처럼 보임)",
-    "상단 여백(마이크로필름 촬영 시 삽입): 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775091'"
-  ],
-  "people": [
-    "아베(阿部信行, Nobuyuki Abe) — 조선총독. 전문에는 'GOVERNOR GENERAL ABE'로만 표기",
-    "피치(Burdette M. Fitch) — 준장, 태평양미육군 부관",
-    "크리스트(William E. Crist) — 준장, 군정장관"
-  ],
-  "confidence": "high",
-  "notes": "**같은 배치의 `1-H`(0154~0155면, JCS 1483/6 「특정 일본인 관리의 즉시 파면」)와 짝을 이루는 실제 하달 전문이다.** 이미 번역해 둔 `../FRUS_1945_Korea`의 d777(SWNCC 권고 각서)에서 시작된 계통이 여기서 제24군단에 도달한다.\n\n**날짜에 불일치가 있다.** 본문에는 '16 SEPTEMBER 1945'로 타자되어 있으나, 손으로 적힌 발신 시각은 170625 Z이고 부관부 접수 도장은 19 SEP 1945다. 색인과 `raw/documents.json`은 17일로 잡는다. 숫자는 고치지 않고 읽은 그대로 두었으며, 타자 날짜(16일)는 기안일, 170625 Z가 실제 발신 시각으로 보인다.\n\n전문 부호는 그대로 두고 번역에서 풀어 옮겼다 — 'CMA' = comma(쉼표), 'PD' = period(마침표), 'RPT' = repeat(반복). 'WILLIAM XRAY SIX ONE NINE SIX SEVEN'은 음성 알파벳으로 철자한 'WX 61967'이다.\n\n원문 전체가 대문자 전신문이고 타자가 흐려 OCR 오독이 많았으나, 원본 스캔에서 전 행 판독했다.\n\n좌상단 발신 참조 'WEC/HES/hac'는 기안·타자자 이니셜이다.\n\n'GOVERNMENT GENERAL'은 조선총독부, 'GOVERNORS OF PROVINCES'는 도지사, 'PROVINCIAL CHIEFS OF POLICE'는 도경찰부장으로 옮겼다."
+ "serial": "1-C",
+ "date": "1945-09-17",
+ "date_note": "본문 타자 표기는 '16 SEPTEMBER 1945'이나 TOO는 170625 Z, 접수 도장은 19 SEP 1945. 색인은 1945년 9월 17일로 잡는다",
+ "doc_type": "전문",
+ "classification": "Top Secret",
+ "from": "태평양미육군총사령관 전진지휘소(CINCAFPAC, ADV)",
+ "to": "제24군단장(CG, XXIV Corps) — 우선(PRIORITY)",
+ "info": "태평양미육군총사령부 마닐라(CINCAFPAC, MANILA) — 군정부(MIL GOVT SEC)로 전달 — 우선(PRIORITY)",
+ "msg_nr": "CAX 52020",
+ "subject_en": "Removal of Japanese officials in Korea as soon as possible (ref WX 61967)",
+ "subject_ko": "조선 내 일본인 관리의 조속한 파면 (WX 61967 참조)",
+ "summary_ko": "이미 파면된 총독 아베와 총독부 국장들에 더하여, 육군부가 정치적 이유로 도지사 및 도경찰부장의 조속한 해임을 권고하며, 국무·육군·해군 3부는 이들 일본인 관리의 근무가 기술적 능력 때문에 필요하다고 보지 않는다고 통보하고, 부일협력 조선인 행정관과 그 밖의 일본인 관리도 가능한 한 신속히 파면하라고 지시한 발신 전문.",
+ "key_points_ko": [
+  "귀관이 이미 파면한 총독 아베(Abe)와 총독부 국장들에 더하여, 육군부는 정치적 이유로 도지사 및 도경찰부장의 조속한 해임을 권고한다. 아직 실행되지 않은 경우에 한한다.",
+  "국무부·육군부·해군부는 위에 든 일본인 관리들의 근무가 기술적 능력 때문에 필요하다고 보지 않는다.",
+  "부일협력 조선인 행정관 및 그 밖의 일본인 관리의 파면도 가능한 한 신속히 이루어져야 한다.",
+  "지령안 WX 61967(전문에서는 'WILLIAM XRAY SIX ONE NINE SIX SEVEN'으로 철자 호출) 요약본 제2항을 참조하라.",
+  "그 요약본 5부를 최단 시일의 항공 파발로 귀 사령부에 송부 중이다.",
+  "발신 명의: 부관 B. M. 피치 준장, 승인 군정장관 W. E. 크리스트 준장."
+ ],
+ "ko": "귀관이 이미 파면한 총독 아베(Abe) 및 총독부 국장들에 더하여, 육군부는 정치적 이유로 도지사(GOVERNORS OF PROVINCES) 및 도경찰부장(PROVINCIAL CHIEFS OF POLICE)을 그 직에서 조속히 해임할 것을 권고함. 아직 시행되지 않았다면 그러하다. 마침표. 국무부, 육군부 및 해군부는 위에 거명된 일본인 관리들의 근무가 기술적 능력 때문에 필요하다고는 보지 않음. 마침표. 또한 부일협력 조선인 행정관 및 그 밖의 일본인 관리의 파면도 가능한 한 신속히 이루어져야 함. 마침표. 지령안 — 반복함, 지령안 — WX 61967 요약본의 제2항을 참조할 것. 그 요약본 5부를 참고용으로 최단 시일의 항공 파발편으로 귀관에게 송부 중임.\n\nCAX 52020\n\n공식:\n[서명] B. M. 피치(B. M. FITCH)\n준장, 미육군, 부관\n\n승인:\n[서명] W. E. 크리스트(W. E. CRIST)\n준장, 미육군, 군정장관",
+ "en": "TOP SECRET\nGENERAL HEADQUARTERS\nUNITED STATES ARMY FORCES PACIFIC\n\nOUTGOING MESSAGE\nWEC/HES/hac\n16 SEPTEMBER 1945\n\nFROM: CINCAFPAC, ADV\nTO  : CG, XXIV CORPS .......................... PRIORITY\nINFO: CINCAFPAC, MANILA (PASS TO MIL GOVT SEC) ...... PRIORITY\n\nIN ADDITION TO GOVERNOR GENERAL ABE AND BUREAU CHIEFS OF THE GOVERNMENT GENERAL CMA WHICH YOU HAVE ALREADY REMOVED CMA WAR DEPARTMENT ADVISES FOR POLITICAL REASONS EARLIEST RELIEF FROM OFFICE OF GOVERNORS OF PROVINCES AND PROVINCIAL CHIEFS OF POLICE CMA IF NOT ALREADY ACCOMPLISHED PD THE STATE CMA WAR AND NAVY DEPARTMENTS DO NOT BELIEVE THE SERVICES OF JAPANESE OFFICIALS NAMED ABOVE ARE NECESSARY BECAUSE OF TECHNICAL ABILITIES PD ALSO REMOVAL OF COLLABORATIONIST KOREAN ADMINISTRATORS AND OTHER JAPANESE OFFICIALS SHOULD BE ACCOMPLISHED AS RAPIDLY AS POSSIBLE PD REFERENCE IS MADE TO PROPOSED RPT PROPOSED DIRECTIVE WILLIAM XRAY SIX ONE NINE SIX SEVEN CMA PARAGRAPH TWO OF SUMMARY CMA FIVE COPIES OF WHICH ARE BEING FURNISHED YOU BY EARLIEST AIR COURIER FOR YOUR INFORMATION\n\nCAX 52020\n\nOFFICIAL:\n[signed] BEG\nB. M. FITCH,\nBrigadier General, U. S. Army,\nAdjutant General.\n\nApproved by:\n[signed] WEC\nW. E. CRIST,\nBrigadier General, U. S. Army,\nChief Military Government Officer.\n\nTOP SECRET",
+ "stamps_ko": [
+  "고무인(우상단, 세로): 「GHQ / AGO RECORDS / 19 SEP 1945」, 옆에 손글씨 '014.1 Korea'",
+  "손글씨(도장 아래): '170625 Z' — 발신 시각(TOO)을 손으로 적어 넣음",
+  "손글씨(본문 말미): 'CAX 52020' — 전문 일련번호를 손으로 기입",
+  "손글씨 서명: 'BEG'(부관 피치 대리 서명), 'WEC'(승인, 크리스트)",
+  "손글씨(하단): 'Copies furnished MG C/S' — 군정부·참모장에 사본 교부",
+  "손글씨(우하단): 'AG FILE'",
+  "하단 중앙 'TOP SECRET' 고무인(상단에도 겹쳐 찍힘)",
+  "좌하단 연필 정리기호: '1-C'(원본에서는 '/-C'처럼 보임)",
+  "상단 여백(마이크로필름 촬영 시 삽입): 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775091'"
+ ],
+ "people": [
+  "아베(阿部信行, Nobuyuki Abe) — 조선총독. 전문에는 'GOVERNOR GENERAL ABE'로만 표기",
+  "피치(Burdette M. Fitch) — 준장, 태평양미육군 부관",
+  "크리스트(William E. Crist) — 준장, 군정장관"
+ ],
+ "confidence": "high",
+ "notes": "**같은 배치의 `1-H`(0154~0155면, JCS 1483/6 「특정 일본인 관리의 즉시 파면」)와 짝을 이루는 실제 하달 전문이다.** 이미 번역해 둔 `../FRUS_1945_Korea`의 d777(SWNCC 권고 각서)에서 시작된 계통이 여기서 제24군단에 도달한다.\n\n**날짜에 불일치가 있다.** 본문에는 '16 SEPTEMBER 1945'로 타자되어 있으나, 손으로 적힌 발신 시각은 170625 Z이고 부관부 접수 도장은 19 SEP 1945다. 색인과 `raw/documents.json`은 17일로 잡는다. 숫자는 고치지 않고 읽은 그대로 두었으며, 타자 날짜(16일)는 기안일, 170625 Z가 실제 발신 시각으로 보인다.\n\n전문 부호는 그대로 두고 번역에서 풀어 옮겼다. 'CMA'는 comma(쉼표), 'PD'는 period(마침표), 'RPT'는 repeat(반복)다. 'WILLIAM XRAY SIX ONE NINE SIX SEVEN'은 음성 알파벳으로 철자한 'WX 61967'이다.\n\n원문 전체가 대문자 전신문이고 타자가 흐려 OCR 오독이 많았으나, 원본 스캔에서 전 행 판독했다.\n\n좌상단 발신 참조 'WEC/HES/hac'는 기안·타자자 이니셜이다.\n\n'GOVERNMENT GENERAL'은 조선총독부, 'GOVERNORS OF PROVINCES'는 도지사, 'PROVINCIAL CHIEFS OF POLICE'는 도경찰부장으로 옮겼다."
 }

@@ -1,32 +1,32 @@
 {
-  "doc_id": "d217",
-  "date": "1945-05-05",
-  "time": "London, May 5, 1945—8 p.m. [Received May 5—3:55 p.m.]",
-  "doc_type": "전보",
-  "place": "London",
-  "from": "위넌트(John G. Winant) — 주영대사(The Ambassador in the United Kingdom)",
-  "to": "국무장관(The Secretary of State) — 국무장관 대리와 매슈스 씨 앞",
-  "msg_nr": "4580 (Special German Series 7)",
-  "source_note": "740.00119 EAC/5–545: Telegram",
-  "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
-  "title_ko": "주영대사(위넌트)가 국무장관에게",
-  "subject_ko": "처칠이 EAC 회의 도중 스트랭을 불러 항복문서와 항복 선언문을 논의하였음을 알리고, 항복문서 제12조 A항에 들어간 낱말 하나를 프랑스에 통보할 것인가에 대한 구세프의 개인적 견해를 전한다.",
-  "key_points_ko": [
-    "「신속한 조치에 감사한다」는 인사로 시작한다 — 랭스 서명 이틀 전 문안 조정이 시간 단위로 오갔음을 보여 준다.",
-    "수상(처칠)이 위넌트 일행이 오늘 오후 유럽자문위원회 회의에 있는 동안 스트랭을 불러들여 항복문서(surrender instrument)와 항복 선언문(surrender declaration)을 논의하였다.",
-    "위넌트는 그 전에 구세프를 만났고, 구세프는 위넌트가 어젯밤 전화 통화에서 제기한 문제에 관하여 자국 정부에 타전하였다.",
-    "구세프는 개인적으로는 항복문서 제12조 A항에 추가된 낱말을 프랑스 측에 통보하여야 한다고 느끼는 한편, 선언문 초안 전문(前文)의 표현 때문에 그 문서에서는 그 추가된 낱말을 빼도 된다는 위넌트의 견해에 개인적으로 동의한다고 말하였다."
-  ],
-  "ko": "런던, 1945년 5월 5일—오후 8시.\n [5월 5일—오후 3시 55분 접수.]\n\n4580. 국무장관 대리와 매슈스(Matthews) 씨 앞. 특별 독일 시리즈 제7호(Special German Series 7). 신속한 조치에 감사드립니다. 오늘 오후 우리가 유럽자문위원회 회의에 있는 동안, 수상(the Prime Minister)이 항복문서(the surrender instrument)와 항복 선언문(the surrender declaration)을 논의하고자 윌리엄 스트랭 경(Sir William Strang)을 불러들였습니다.\n\n나는 그에 앞서 구세프(Gousev)를 만났고, 그는 내가 어젯밤 전화 통화에서 제기한 문제와 관련하여 자국 정부에 타전하였습니다. 구세프는 나에게, 개인적으로는 프랑스 측에 항복문서 제12조 A항(article 12 A of the instrument)에 추가된 낱말을 통보하여야 한다고 느끼며, 다른 한편으로는 선언문 초안 전문(前文)의 표현 때문에 그 문서에서는 그 추가된 낱말을 빼도 된다는 나의 견해에 개인적으로 동의한다고 말하였습니다.\n\n위넌트(Winant)",
-  "notes_ko": [],
-  "people": [
-    "John G. Winant 위넌트 — 주영대사",
-    "Joseph C. Grew 그루 — 국무장관 대리",
-    "H. Freeman Matthews 매슈스",
-    "Winston Churchill 처칠 — 영국 수상",
-    "Sir William Strang 스트랭 — EAC 영국 대표",
-    "Fedor T. Gousev 구세프 — EAC 소련 대표(주영 소련대사)"
-  ],
-  "confidence": "high",
-  "notes": "원문에서 문제가 된 「추가된 낱말(the additional word)」이 무엇인지는 밝혀져 있지 않아 그대로 두었다. surrender instrument(항복문서)와 surrender declaration(항복 선언문)은 서로 다른 문서이므로 구별하여 옮겼다."
+ "doc_id": "d217",
+ "date": "1945-05-05",
+ "time": "London, May 5, 1945—8 p.m. [Received May 5—3:55 p.m.]",
+ "doc_type": "전보",
+ "place": "London",
+ "from": "위넌트(John G. Winant) — 주영대사(The Ambassador in the United Kingdom)",
+ "to": "국무장관(The Secretary of State) — 국무장관 대리와 매슈스 씨 앞",
+ "msg_nr": "4580 (Special German Series 7)",
+ "source_note": "740.00119 EAC/5–545: Telegram",
+ "title_en": "The Ambassador in the United Kingdom (Winant) to the Secretary of State",
+ "title_ko": "주영대사(위넌트)가 국무장관에게",
+ "subject_ko": "처칠이 EAC 회의 도중 스트랭을 불러 항복문서와 항복 선언문을 논의하였음을 알리고, 항복문서 제12조 A항에 들어간 낱말 하나를 프랑스에 통보할 것인가에 대한 구세프의 개인적 견해를 전한다.",
+ "key_points_ko": [
+  "「신속한 조치에 감사한다」는 인사로 시작한다. 랭스 서명 이틀 전 문안 조정이 시간 단위로 오갔음을 보여 준다.",
+  "수상(처칠)이 위넌트 일행이 오늘 오후 유럽자문위원회 회의에 있는 동안 스트랭을 불러들여 항복문서(surrender instrument)와 항복 선언문(surrender declaration)을 논의하였다.",
+  "위넌트는 그 전에 구세프를 만났고, 구세프는 위넌트가 어젯밤 전화 통화에서 제기한 문제에 관하여 자국 정부에 타전하였다.",
+  "구세프는 개인적으로는 항복문서 제12조 A항에 추가된 낱말을 프랑스 측에 통보하여야 한다고 느끼는 한편, 선언문 초안 전문(前文)의 표현 때문에 그 문서에서는 그 추가된 낱말을 빼도 된다는 위넌트의 견해에 개인적으로 동의한다고 말하였다."
+ ],
+ "ko": "런던, 1945년 5월 5일—오후 8시.\n [5월 5일—오후 3시 55분 접수.]\n\n4580. 국무장관 대리와 매슈스(Matthews) 씨 앞. 특별 독일 시리즈 제7호(Special German Series 7). 신속한 조치에 감사드립니다. 오늘 오후 우리가 유럽자문위원회 회의에 있는 동안, 수상(the Prime Minister)이 항복문서(the surrender instrument)와 항복 선언문(the surrender declaration)을 논의하고자 윌리엄 스트랭 경(Sir William Strang)을 불러들였습니다.\n\n나는 그에 앞서 구세프(Gousev)를 만났고, 그는 내가 어젯밤 전화 통화에서 제기한 문제와 관련하여 자국 정부에 타전하였습니다. 구세프는 나에게, 개인적으로는 프랑스 측에 항복문서 제12조 A항(article 12 A of the instrument)에 추가된 낱말을 통보하여야 한다고 느끼며, 다른 한편으로는 선언문 초안 전문(前文)의 표현 때문에 그 문서에서는 그 추가된 낱말을 빼도 된다는 나의 견해에 개인적으로 동의한다고 말하였습니다.\n\n위넌트(Winant)",
+ "notes_ko": [],
+ "people": [
+  "John G. Winant 위넌트 — 주영대사",
+  "Joseph C. Grew 그루 — 국무장관 대리",
+  "H. Freeman Matthews 매슈스",
+  "Winston Churchill 처칠 — 영국 수상",
+  "Sir William Strang 스트랭 — EAC 영국 대표",
+  "Fedor T. Gousev 구세프 — EAC 소련 대표(주영 소련대사)"
+ ],
+ "confidence": "high",
+ "notes": "원문에서 문제가 된 「추가된 낱말(the additional word)」이 무엇인지는 밝혀져 있지 않아 그대로 두었다. surrender instrument(항복문서)와 surrender declaration(항복 선언문)은 서로 다른 문서이므로 구별하여 옮겼다."
 }

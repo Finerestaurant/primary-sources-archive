@@ -1,28 +1,28 @@
 {
-  "serial": "1-I",
-  "date": "1945-10-17",
-  "date_note": "쪽지에 타자된 「DATE: 17 Oct 45」 그대로",
-  "doc_type": "첨부물",
-  "classification": "Top Secret",
-  "from": "합동참모본부, 워싱턴(JCS WASH)",
-  "to": "태평양미육군총사령관(CINCAFPAC)",
-  "info": null,
-  "msg_nr": "J.C.S. 1483/15",
-  "subject_en": "Basic initial directive for civil affairs in Korea (J.C.S. 1483/15)",
-  "subject_ko": "조선 민사에 관한 기본 초기지령 (J.C.S. 1483/15)",
-  "summary_ko": "조선 민사에 관한 기본 초기지령 J.C.S. 1483/15(1945년 10월 17일)의 본체 각서는 참모장실로 반출되었고, 그 자리를 표시하는 기록용 쪽지 한 장만 편철되어 있다.",
-  "key_points_ko": [
-    "본체 각서는 편철되어 있지 않다 — 「THIS MEMO PULLED AND SENT TO O OF C/S」(이 각서는 빼내어 참모장실로 보냄).",
-    "문서번호 J.C.S. 1483/15, 일자 1945년 10월 17일.",
-    "건명은 「조선 민사에 관한 기본 초기지령」 — 남조선 군정의 근거가 된 지령 계통의 문서다.",
-    "이 문서철에 남은 것은 145자 분량의 쪽지 한 장뿐이다."
-  ],
-  "ko": "**기록용 쪽지(NOTE FOR RECORD)**\n\nJ.C.S. 1483/15\n\n일자: 1945년 10월 17일\n\n건명: 조선 민사에 관한 기본 초기지령\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(좌하단 연필 편철기호: 1-I)",
-  "en": "NOTE FOR RECORD\n\nJ.C.S. 1483/15\n\nDATE: 17 Oct 45\n\nSUBJ: Basic initial directive for civil affairs in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil, lower left: 1-I]",
-  "stamps_ko": [
-    "좌하단 연필 편철기호: 「1-I」 (OCR 은 「I-L」로 오독)"
-  ],
-  "people": [],
-  "confidence": "high",
-  "notes": "1) 본체 각서가 반출되어 이 문서철에는 자리표시 쪽지 한 장만 남았다. 실제 지령 내용은 여기서 확인할 수 없다. 2) OCR 은 문서번호를 'j,c,S, K473.ks'로 읽었으나 색인 및 편철 맥락상 J.C.S. 1483/15 다. 문서번호는 번역하지 않고 그대로 두었다. 3) 편철기호 손글씨는 OCR 이 'I-L'로 읽었으나 앞뒤(0152=1-J, 0154=1-H)의 역순 배열상 1-I 다. 4) 발신·수신(JCS WASH → CINCAFPAC)은 쪽지에 적혀 있지 않고 색인 항목에서 가져온 것이다."
+ "serial": "1-I",
+ "date": "1945-10-17",
+ "date_note": "쪽지에 타자된 「DATE: 17 Oct 45」 그대로",
+ "doc_type": "첨부물",
+ "classification": "Top Secret",
+ "from": "합동참모본부, 워싱턴(JCS WASH)",
+ "to": "태평양미육군총사령관(CINCAFPAC)",
+ "info": null,
+ "msg_nr": "J.C.S. 1483/15",
+ "subject_en": "Basic initial directive for civil affairs in Korea (J.C.S. 1483/15)",
+ "subject_ko": "조선 민사에 관한 기본 초기지령 (J.C.S. 1483/15)",
+ "summary_ko": "조선 민사에 관한 기본 초기지령 J.C.S. 1483/15(1945년 10월 17일)의 본체 각서는 참모장실로 반출되었고, 그 자리를 표시하는 기록용 쪽지 한 장만 편철되어 있다.",
+ "key_points_ko": [
+  "본체 각서는 편철되어 있지 않다. 「THIS MEMO PULLED AND SENT TO O OF C/S」(이 각서는 빼내어 참모장실로 보냄)라고 적혀 있다.",
+  "문서번호 J.C.S. 1483/15, 일자 1945년 10월 17일.",
+  "건명은 「조선 민사에 관한 기본 초기지령」이다. 남조선 군정의 근거가 된 지령 계통의 문서다.",
+  "이 문서철에 남은 것은 145자 분량의 쪽지 한 장뿐이다."
+ ],
+ "ko": "**기록용 쪽지(NOTE FOR RECORD)**\n\nJ.C.S. 1483/15\n\n일자: 1945년 10월 17일\n\n건명: 조선 민사에 관한 기본 초기지령\n\n이 각서는 빼내어 참모장실로 보냄.\n\n(좌하단 연필 편철기호: 1-I)",
+ "en": "NOTE FOR RECORD\n\nJ.C.S. 1483/15\n\nDATE: 17 Oct 45\n\nSUBJ: Basic initial directive for civil affairs in Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S\n\n[pencil, lower left: 1-I]",
+ "stamps_ko": [
+  "좌하단 연필 편철기호: 「1-I」 (OCR 은 「I-L」로 오독)"
+ ],
+ "people": [],
+ "confidence": "high",
+ "notes": "1) 본체 각서가 반출되어 이 문서철에는 대체 쪽지 한 장만 남았다. 실제 지령 내용은 여기서 확인할 수 없다. 2) OCR 은 문서번호를 'j,c,S, K473.ks'로 읽었으나 색인 및 편철 맥락상 J.C.S. 1483/15 다. 문서번호는 번역하지 않고 그대로 두었다. 3) 편철기호 손글씨는 OCR 이 'I-L'로 읽었으나 앞뒤(0152=1-J, 0154=1-H)의 역순 배열상 1-I 다. 4) 발신·수신(JCS WASH → CINCAFPAC)은 쪽지에 적혀 있지 않고 색인 항목에서 가져온 것이다."
 }

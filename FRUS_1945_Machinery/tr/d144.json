@@ -1,37 +1,37 @@
 {
-  "doc_id": "d144",
-  "date": "1945-02-01",
-  "time": null,
-  "doc_type": "전보",
-  "place": "Malta",
-  "from": "국무장관 스테티니어스(Edward R. Stettinius, Jr.)",
-  "to": "국무장관 대리(Acting Secretary of State) 그루(Joseph C. Grew)",
-  "msg_nr": "Cricket 45",
-  "source_note": "740.00119 Control (Germany)/2–145: Telegram",
-  "title_en": "The Secretary of State to the Acting Secretary of State",
-  "title_ko": "국무장관이 국무장관 대리에게",
-  "subject_ko": "몰타에서 이든·마셜·브룩과 협의한 뒤, 국무장관은 독일 점령지대에 관한 의정서를 미국 정부가 승인했음을 유럽자문위원회에 즉시 알리도록 위넌트에게 지시했다고 보고한다.",
-  "key_points_ko": [
-    "몰타 회담 중 이든과 국무장관이 마셜 육군참모총장, 알란 브룩 영제국참모총장과 협의한 뒤에 나온 결정",
-    "독일 점령지대 의정서에 대한 미국 정부의 승인을 유럽자문위원회에 즉시 통보하도록 위넌트에게 권한 부여",
-    "이든도 같은 취지로 영국 정부의 승인을 타전",
-    "매클로이에게 알릴 것을 지시 — 육군부와의 연동"
-  ],
-  "ko": "몰타, 1945년 2월 1일.\n\nCricket[주46] 45호. 이든(Eden)과 내가 마셜(Marshall) 장군[주47] 및 알란 브룩(Sir Alan Brooke) 원수[주48]와 가진 협의를 마친 뒤, 위넌트에게 다음을 발송하였습니다.\n\n“귀하는 독일 점령지대에 관한 의정서를 본국 정부가 승인하였음을 유럽자문위원회에 즉시 통보할 권한을 부여받습니다. 이든도 마찬가지로 영국 정부의 승인을 타전하고 있습니다.”\n\n매클로이(McCloy)에게 알려 주십시오.",
-  "notes_ko": [
-    "[주46] 몰타 회담발 전보에 붙는 계열 표시. 1945년 1월 30일–2월 2일 몰타에서 루스벨트 대통령과 영국 처칠 총리 및 그 보좌진 사이에 열린 회담의 기록은 Conferences at Malta and Yalta, 1945, 459–546면 참조.",
-    "[주47] 미 육군참모총장 조지 C. 마셜 육군원수(General of the Army George C. Marshall).",
-    "[주48] 영제국참모총장."
-  ],
-  "people": [
-    "Stettinius 스테티니어스 — 국무장관",
-    "Grew 그루 — 국무장관 대리",
-    "Eden 이든 — 영국 외무장관",
-    "Marshall 마셜 — 미 육군참모총장",
-    "Alan Brooke 알란 브룩 — 영제국참모총장",
-    "Winant 위넌트 — 주영대사, 유럽자문위원회 미국 대표",
-    "McCloy 매클로이 — 육군차관보"
-  ],
-  "confidence": "high",
-  "notes": "전보 안에 인용된 위넌트 앞 훈령은 원문의 인용부호를 그대로 살렸다."
+ "doc_id": "d144",
+ "date": "1945-02-01",
+ "time": null,
+ "doc_type": "전보",
+ "place": "Malta",
+ "from": "국무장관 스테티니어스(Edward R. Stettinius, Jr.)",
+ "to": "국무장관 대리(Acting Secretary of State) 그루(Joseph C. Grew)",
+ "msg_nr": "Cricket 45",
+ "source_note": "740.00119 Control (Germany)/2–145: Telegram",
+ "title_en": "The Secretary of State to the Acting Secretary of State",
+ "title_ko": "국무장관이 국무장관 대리에게",
+ "subject_ko": "몰타에서 이든·마셜·브룩과 협의한 뒤, 국무장관은 독일 점령지대에 관한 의정서를 미국 정부가 승인했음을 유럽자문위원회에 즉시 알리도록 위넌트에게 지시했다고 보고한다.",
+ "key_points_ko": [
+  "몰타 회담 중 이든과 국무장관이 마셜 육군참모총장, 알란 브룩 영제국참모총장과 협의한 뒤에 나온 결정",
+  "독일 점령지대 의정서에 대한 미국 정부의 승인을 유럽자문위원회에 즉시 통보하도록 위넌트에게 권한 부여",
+  "이든도 같은 취지로 영국 정부의 승인을 타전",
+  "매클로이에게 알릴 것을 지시한다. 육군부와 연동한다"
+ ],
+ "ko": "몰타, 1945년 2월 1일.\n\nCricket[주46] 45호. 이든(Eden)과 내가 마셜(Marshall) 장군[주47] 및 알란 브룩(Sir Alan Brooke) 원수[주48]와 가진 협의를 마친 뒤, 위넌트에게 다음을 발송하였습니다.\n\n“귀하는 독일 점령지대에 관한 의정서를 본국 정부가 승인하였음을 유럽자문위원회에 즉시 통보할 권한을 부여받습니다. 이든도 마찬가지로 영국 정부의 승인을 타전하고 있습니다.”\n\n매클로이(McCloy)에게 알려 주십시오.",
+ "notes_ko": [
+  "[주46] 몰타 회담발 전보에 붙는 계열 표시. 1945년 1월 30일–2월 2일 몰타에서 루스벨트 대통령과 영국 처칠 총리 및 그 보좌진 사이에 열린 회담의 기록은 Conferences at Malta and Yalta, 1945, 459–546면 참조.",
+  "[주47] 미 육군참모총장 조지 C. 마셜 육군원수(General of the Army George C. Marshall).",
+  "[주48] 영제국참모총장."
+ ],
+ "people": [
+  "Stettinius 스테티니어스 — 국무장관",
+  "Grew 그루 — 국무장관 대리",
+  "Eden 이든 — 영국 외무장관",
+  "Marshall 마셜 — 미 육군참모총장",
+  "Alan Brooke 알란 브룩 — 영제국참모총장",
+  "Winant 위넌트 — 주영대사, 유럽자문위원회 미국 대표",
+  "McCloy 매클로이 — 육군차관보"
+ ],
+ "confidence": "high",
+ "notes": "전보 안에 인용된 위넌트 앞 훈령은 원문의 인용부호를 그대로 살렸다."
 }

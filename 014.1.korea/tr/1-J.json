@@ -1,30 +1,30 @@
 {
-  "serial": "1-J",
-  "date": "1945-10-25",
-  "date_note": "슬립에 타자된 날짜는 'DATE: 28 Sep 45'로 J.C.S. 1483/9 문서 자체의 날짜다. 1945-10-25는 색인상의 발신일.",
-  "doc_type": "라우팅 슬립",
-  "classification": null,
-  "from": null,
-  "to": null,
-  "info": null,
-  "msg_nr": null,
-  "subject_en": "Structure and composition of civil affairs administration of Korea",
-  "subject_ko": "조선 민사행정의 구조와 구성",
-  "summary_ko": "J.C.S. 1483/9(1945년 9월 28일자, 조선 민사행정의 구조와 구성) 각서가 참모장실로 반출되었음을 알리는 기록용 쪽지.",
-  "key_points_ko": [
-    "본문 각서는 이 문서철에 없다 — 'THIS MEMO PULLED AND SENT TO O OF C/S'(본 각서는 반출되어 참모장실로 보내졌음).",
-    "반출된 문서는 J.C.S. 1483/9, 날짜 1945년 9월 28일.",
-    "건명은 '조선 민사행정의 구조와 구성'.",
-    "남은 것은 이 NOTE FOR RECORD 슬립 한 장뿐이며, 좌하단에 연필로 '1-J'가 적혀 있다."
-  ],
-  "ko": "**기록용 쪽지(NOTE FOR RECORD)**\n\nJ.S.C. 1483/9\n\n날짜: 1945년 9월 28일\n\n건명: 조선 민사행정의 구조와 구성\n\n본 각서는 반출되어 참모장실로 보내졌음.",
-  "en": "NOTE FOR RECORD\n\nJ.S.C. 1483/9\n\nDATE: 28 Sep 45\n\nSUBJ: Structure and composition of civil affairs. administration of Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S",
-  "stamps_ko": [
-    "타자 표제: NOTE FOR RECORD (기록용 쪽지)",
-    "타자 회부 표시: THIS MEMO PULLED AND SENT TO O OF C/S — 본 각서는 반출되어 참모장실(Office of Chief of Staff)로 보내졌음",
-    "좌하단 연필: 1-J"
-  ],
-  "people": [],
-  "confidence": "high",
-  "notes": "문서번호가 원문에 'J.S.C. 1483/9'로 타자되어 있다. 통상 표기는 J.C.S.(합동참모본부) 1483/9이며 색인도 그렇게 적고 있으나, 원저자의 오타이므로 en 에는 타자된 그대로 두었다. 건명 중간의 마침표('civil affairs. administration')도 타자 그대로다. 이 면에는 TOP SECRET 고무인이 없다 — 본문 각서가 빠져나간 뒤 남은 대체 쪽지이기 때문으로 보인다. 상단에 편철용 천공 두 개."
+ "serial": "1-J",
+ "date": "1945-10-25",
+ "date_note": "슬립에 타자된 날짜는 'DATE: 28 Sep 45'로 J.C.S. 1483/9 문서 자체의 날짜다. 1945-10-25는 색인상의 발신일.",
+ "doc_type": "라우팅 슬립",
+ "classification": null,
+ "from": null,
+ "to": null,
+ "info": null,
+ "msg_nr": null,
+ "subject_en": "Structure and composition of civil affairs administration of Korea",
+ "subject_ko": "조선 민사행정의 구조와 구성",
+ "summary_ko": "J.C.S. 1483/9(1945년 9월 28일자, 조선 민사행정의 구조와 구성) 각서가 참모장실로 반출되었음을 알리는 기록용 쪽지.",
+ "key_points_ko": [
+  "본문 각서는 이 문서철에 없다. 'THIS MEMO PULLED AND SENT TO O OF C/S'(본 각서는 반출되어 참모장실로 보내졌음)라고 적혀 있다.",
+  "반출된 문서는 J.C.S. 1483/9, 날짜 1945년 9월 28일.",
+  "건명은 '조선 민사행정의 구조와 구성'.",
+  "남은 것은 이 NOTE FOR RECORD 슬립 한 장뿐이며, 좌하단에 연필로 '1-J'가 적혀 있다."
+ ],
+ "ko": "**기록용 쪽지(NOTE FOR RECORD)**\n\nJ.S.C. 1483/9\n\n날짜: 1945년 9월 28일\n\n건명: 조선 민사행정의 구조와 구성\n\n본 각서는 반출되어 참모장실로 보내졌음.",
+ "en": "NOTE FOR RECORD\n\nJ.S.C. 1483/9\n\nDATE: 28 Sep 45\n\nSUBJ: Structure and composition of civil affairs. administration of Korea\n\nTHIS MEMO PULLED AND SENT TO O OF C/S",
+ "stamps_ko": [
+  "타자 표제: NOTE FOR RECORD (기록용 쪽지)",
+  "타자 회부 표시: THIS MEMO PULLED AND SENT TO O OF C/S — 본 각서는 반출되어 참모장실(Office of Chief of Staff)로 보내졌음",
+  "좌하단 연필: 1-J"
+ ],
+ "people": [],
+ "confidence": "high",
+ "notes": "문서번호가 원문에 'J.S.C. 1483/9'로 타자되어 있다. 통상 표기는 J.C.S.(합동참모본부) 1483/9이며 색인도 그렇게 적고 있으나, 원저자의 오타이므로 en 에는 타자된 그대로 두었다. 건명 중간의 마침표('civil affairs. administration')도 타자 그대로다. 이 면에는 TOP SECRET 고무인이 없다. 본문 각서가 빠져나간 뒤 남은 대체 쪽지이기 때문으로 보인다. 상단에 편철용 천공 두 개."
 }
