@@ -81,6 +81,9 @@ for c in site["collections"]:
                 shutil.copyfile(sp, dp)
             n += 1
         c[f"_{kind}"] = n
+    dj = os.path.join(reading, "docs.json")
+    if os.path.exists(dj):
+        c["_docs"] = json.load(open(dj))
     built.append(c)
     print(f"  {c['slug']:12} 열람기 + 썸네일 {c.get('_thumbs',0)}장"
           + ("" if NO_SCANS else f" + 스캔 {c.get('_pages',0)}장"))
@@ -89,6 +92,18 @@ if not built:
     sys.exit("모을 문서철이 없다.")
 
 TOTAL = sum(c["n"] for c in built)
+
+# 머리에 적는 기간. **손으로 적어 두었더니 문서철이 늘어도 그대로였다.**
+# 1953년까지 자료가 들어왔는데 1948년까지라고 적혀 있었다. 세어서 적는다.
+_dates = sorted(d["date"] for c in built for d in c.get("_docs", []) if d.get("date"))
+if _dates:
+    _a, _b = _dates[0], _dates[-1]
+    _y = (int(_b[:4]) - int(_a[:4])) * 12 + int(_b[5:7]) - int(_a[5:7])
+    SPAN = (f"{_y // 12}년 반" if 5 <= _y % 12 <= 7 else
+            f"{_y // 12}년" if _y % 12 < 5 else f"{_y // 12 + 1}년")
+    RANGE = f"{_a[:4]}.{_a[5:7]} – {_b[:4]}.{_b[5:7]}"
+else:
+    SPAN, RANGE = "", ""
 
 # ---------------------------------------------------------------- 앵커 검사
 # 연표가 가리키는 문서가 실제로 있는지 본다. 틀린 앵커는 화면에서 조용히
@@ -240,6 +255,12 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
 .ev a:hover .body{color:var(--ink)}
 .ev a:focus-visible{outline:2px solid var(--link);outline-offset:1px}
 .ev.key a{border-left-color:var(--stamp)}
+/* 아직 옮기지 않아 문서가 걸리지 않은 항목. 링크가 없다고 왼쪽 띠까지 없으면
+   줄이 들쭉날쭉해 고장난 것으로 보인다. 점선으로 자리를 지키고, 옅게 둔다 */
+.ev.pending>div{border-left:2px dashed var(--edge);padding-left:12px;
+  margin-left:-12px}
+.ev.pending p{color:var(--ink-3)}
+.ev.pending strong{color:var(--ink-2);font-weight:600}
 
 /* ── 문서철 ── */
 .cols{display:grid;gap:14px}
@@ -365,7 +386,13 @@ FLAGS = {
 
 def flag_of(e):
     """깃발은 문서철에서 정한다 — 일본 외무성 자료면 일장기, 나머지는 성조기.
-    소련·영국처럼 다른 쪽이 말하는 자리는 항목에 `flag` 를 적어 덮어쓴다."""
+    소련·영국처럼 다른 쪽이 말하는 대목은 항목에 `flag` 를 적어 덮어쓴다.
+
+    **문서가 걸리지 않은 항목에는 깃발을 달지 않는다.** 깃발은 「이것을 누가
+    적었는가」를 가리키는데, 아직 옮기지 않아 문서가 없는 항목은 적은 사람이
+    없다. 성조기를 달아 두면 「중공군」이나 「판문점」 옆에 성조기가 붙는다."""
+    if not e.get("col"):
+        return ""
     f = e.get("flag") or ("jp" if e.get("col") == "mofa-1945" else "us")
     svg = FLAGS.get(f)
     if not svg:
@@ -379,6 +406,7 @@ def render_events(events, cards):
     for e in events:
         inner = (f'<span class="who">{H.escape(e["who"])}{flag_of(e)}</span>'
                  f'<p class="body">{md(e["what"])}</p>')
+        linked = e.get("col") in by_slug
         if e.get("col") in by_slug:
             href = e["col"] + "/"
             attr = ""
@@ -389,7 +417,8 @@ def render_events(events, cards):
                 cards[key] = card_of(e["col"], did)
                 attr = f' data-card="{H.escape(key)}"'
             inner = f'<a href="{H.escape(href)}"{attr}>{inner}</a>'
-        out.append(f'<div class="ev{" key" if e.get("key") else ""}">'
+        out.append(f'<div class="ev{" key" if e.get("key") else ""}'
+                   f'{"" if linked else " pending"}">'
                    f'<time>{H.escape(e["when"])}</time><div>{inner}</div></div>')
     return "".join(out)
 
@@ -488,7 +517,7 @@ page = f"""<!doctype html>
     <div class="counts">
       <span><b>{TOTAL}</b>건</span>
       <span><b>{len(built)}</b>개 문서철</span>
-      <span><b>4년 반</b>1943.11 – 1948.04</span>
+      <span><b>{SPAN}</b>{RANGE}</span>
     </div>
   </div>
 </header>
