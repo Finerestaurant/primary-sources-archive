@@ -47,5 +47,8 @@
   "thumbs": "../thumbs",
   "thumb_ext": "jpg"
  },
- "warn_text": "번역 확신이 낮다. 원본 지면 대조 필요."
+ "warn_text": "번역 확신이 낮다. 원본 지면 대조 필요.",
+ "terms": [
+  "../../열람기/people.json"
+ ]
 }

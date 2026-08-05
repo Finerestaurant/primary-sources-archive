@@ -1,0 +1,31 @@
+{
+  "doc_no": "459",
+  "pages": ["nichibei2_05_074", "nichibei2_05_075"],
+  "date": "1941-12-07",
+  "date_src": "昭和16年12月7日",
+  "doc_type": "電報",
+  "from": "東郷外務大臣 (도고 시게노리, 東郷茂徳)",
+  "to": "在米国野村大使 (노무라 기치사부로, 野村吉三郎)",
+  "msg_nr": "第九一一号（緊急、館長符号）",
+  "sent_recv": "本省 12月7日後7時20分発",
+  "title_ja": "「対米覚書」の一部修正方訓令",
+  "title_ko": "「대미 각서」의 일부 수정 훈령",
+  "subject_ko": "각서 III 항 첫머리 영문의 한 낱말을 고치라는 훈령이다. 12월 7일 오후 7시 20분에 나갔다.",
+  "key_points_ko": [
+    "본성 12월 7일 후7시20분 발신. 각서 수교 훈령(457호, 후5시30분 발신)보다 1시간 50분 뒤다.",
+    "고치라 한 곳은 각서 III의 첫머리, 「But the American Government, adhering steadfastly to its original proposal」 안의 proposal 이다.",
+    "proposal 을 assertions 로 바꾸라 했다. 개전 직전에 각서 문면을 낱말 하나까지 손보고 있었다는 기록이다.",
+    "왕전 제九〇二호에 잇대는 전보다."
+  ],
+  "ja": "[257면]\n第九一一号（緊急、館長符号）\n往電第九〇二号ニ関シ\n[258면]\n対米覚書中IIIノ初メノ方 But the American Government, adhering steadfastly to its original proposal ノ proposal ヲ assertions ニ訂正アリ度",
+  "ko": "[257면]\n제九一一호（긴급, 관장부호）\n\n왕전 제九〇二호에 관하여\n\n[258면]\n대미 각서 중 III의 첫머리 쪽 「But the American Government, adhering steadfastly to its original proposal」의 proposal 을 assertions 로 정정하기 바람.",
+  "notes_ko": [
+    "「館長符号」는 공관장이 직접 다루는 암호를 가리킨다."
+  ],
+  "people": [
+    "東郷茂徳 (도고 시게노리, 외무대신)",
+    "野村吉三郎 (노무라 기치사부로, 주미대사)"
+  ],
+  "confidence": "high",
+  "notes": "머리글을 지면에서 확대해 확인했다. 초벌 OCR은 날짜를 「昭和10年2月7日」로, 발신시각을 「本省12月7日後7時 分発」로 잘못 잡았다. 지면은 「昭和16年12月7日」, 「本 省 12月7日後7時20分発」이다. 20분이 통째로 빠져 있었다. 본문의 「III」도 초벌은 그냥 「中ノ」로 삼켰는데 지면에는 로마숫자 III가 박혀 있다."
+}

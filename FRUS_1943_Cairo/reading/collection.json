@@ -40,5 +40,8 @@
   "thumb_ext": "jpg"
  },
  "warn_text": "판독 신뢰도가 낮다. 원본 대조 필요.",
- "terms": "terms.json"
+ "terms": [
+  "terms.json",
+  "../../열람기/people.json"
+ ]
 }
