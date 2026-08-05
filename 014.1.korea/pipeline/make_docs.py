@@ -104,7 +104,7 @@ for i, d in enumerate(sorted(docs, key=lambda x: x["pages"][0])):
         "primary": (t.get("ko") or "").strip(),
         "secondary": reflow((t.get("en") or "").strip()),
         "notes": notes,
-        "note": f"번역자 주 — {t['notes']}" if t.get("notes") else None,
+        "note": f"번역자 주. {t['notes']}" if t.get("notes") else None,
         "warn": t.get("confidence") not in ("high", None),
         "pages": pages,
         "search": " ".join((t.get("people") or []) + [s, idx.get("synopsis") or ""]),

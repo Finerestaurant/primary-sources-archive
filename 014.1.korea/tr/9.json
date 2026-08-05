@@ -1,42 +1,42 @@
 {
-  "serial": "9",
-  "date": "1946-03-29",
-  "date_note": "본문 타자 표기 '29 March 1946'. TOO 291055-I",
-  "doc_type": "전문",
-  "classification": "Top Secret",
-  "from": "주한미군사령관(CG USAFIK) — 하지",
-  "to": "연합국최고사령관(SCAP), 맥아더 앞",
-  "info": "총사령관(COMMANDER-in-CHIEF), 참모장(CHIEF OF STAFF), 부관부(AG), 정부부(C GOVT SEC)",
-  "msg_nr": "TFGCG 334",
-  "subject_en": "Personal views of Balasanov, Political Advisor to the Soviet Commanding General",
-  "subject_ko": "소련군 사령관 정치고문 발라사노프의 개인적 견해",
-  "summary_ko": "하지가 소련 대표단 만찬에서 소련 정치고문 발라사노프가 랭던에게 흘린 개인적 견해 다섯 가지 — 5월 말 임시정부 수립, 외국인 고문에 의한 통제·감독, 지대 간 통행 제한 해제, 후견 기간 중 주둔군 유지, 외교대표 파견 — 를 보고한 전문.",
-  "key_points_ko": [
-    "3월 28일 저녁 소련 대표단을 위한 하지의 만찬 자리에서 랭던과 대화하던 중 발라사노프가 밝힌 견해다.",
-    "(A) 소련 대표단은 임시정부 구성이 5월 말까지 완료될 것으로 추산한다.",
-    "(B) 임시정부에 대한 통제와 감독은 아마도 외국인 고문(Foreign Advisors)만이 행사하게 될 것이다.",
-    "(C) 임시정부 수립 후에는 지대 간 인원·물자 이동에 대한 모든 제한이 해제될 것으로 예상된다.",
-    "(D) 군대는 (아마도 후견 기간 전체에 걸쳐) 민간 소요를 막기 위해 잔류할 것이다.",
-    "(E) 임시정부에 외교대표가 신임장을 제정할 것으로 예견된다.",
-    "하지는 이 견해가 랭던의 반응을 떠보려고 흘린 것일 수 있다고 단서를 달면서도, 국무부와 육군참모총장에게 참고가 될 수 있다고 판단했다.",
-    "이 전문은 신호소를 거쳐 국무장관 앞으로 육군참모총장에게 재발송되었다."
-  ],
-  "ko": "어젯밤 소련 대표단을 위한 나의 만찬회 석상에서 랭던(Langdon)과 대화를 나누던 중, 소련군 사령관의 정치고문 발라사노프(Balasanov)가 다음과 같은 개인적 견해를 내비쳤다. (A) 소련 대표단은 임시정부의 구성이 5월 말까지 완료될 것으로 추산했다. (B) 임시정부에 대한 통제와 감독은 아마도 외국인 고문(Foreign Advisors)에 의해서만 행사될 것이다. (C) 임시정부 수립 이후에는 지대(zone) 간 인원 및 물자의 이동에 대한 모든 제한이 철폐될 것으로 예상된다. (D) 군대는 (추정컨대 후견(Tutelary) 기간 전체에 걸쳐) 민간 소요를 방지하기 위하여 잔류할 것이다. (E) 임시정부에 외교대표(diplomatic representation)가 신임장을 제정하게 될 것으로 예견된다.\n\n이 견해들은 랭던의 반응을 얻어내기 위하여 흘린 것일 수도 있으나, 국무부 및 육군참모총장에게 관심거리가 될 수 있을 것이다.\n\nHODGE",
-  "en": "In course of conversation with Langdon at my dinner party last evening for the Soviet Delegation, Balasanov, Political Advisor to the Soviet Commanding General, intimated the following personal views: (A) Soviet Delegation estimated formation of Provisional Government will be completed by end of May; (B) Control and supervision of the Provisional Government would probably be exercised only by Foreign Advisors; (C) It is expected that all restrictions on movement of persons and goods between zones will be removed after establishment of Provisional Government; (D) Troops will remain (presumably during entire Tutelary period) to prevent civil disturbances; (E) It is anticipated that diplomatic representation will be accredited to Provisional Government.\n\nWhile these views may have been intimated in order to obtain Langdons reactions, they may be of interest to State Department and WARCOS.\n\nHODGE\n\nINFORMATION: COMMANDER-in-CHIEF, CHIEF OF STAFF. AG. C GOVT SEC\nNOTE: This message has been passed to Signal Center for re-dispatch to WARCOS for SECSTATE for information.\nPRIORITY  TOP SECRET\n86466   TOO: 291055-I   MCN: TJC 20/29\n\nHandling and transmission of the literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 44g and 53a (3) (Changes No. 3) of AR 380-5, 15 March 1944.\n\nTHE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN",
-  "stamps_ko": [
-    "고무인(우상단, 상자 안): 「GHQ. AFPAC / AGO RECORDS / 1 APR 1946」 — 총사령부 부관부 기록과 1946년 4월 1일 접수",
-    "손글씨(도장 위·옆): '014.1 Korea', 'SCAP 33'",
-    "손글씨(날짜 아래): 'X 014.1 Korea', 'X 042' — 상호참조 편철 지시, 그 아래 결재 이니셜(판독불가, 'McB'로 보임)",
-    "우하단 인쇄·손글씨: 'COPY NO.' 란에 '11', 'A. G. FILE'",
-    "좌하단 연필 이니셜: [판독불가]",
-    "상단 여백(마이크로필름 촬영 시 삽입): 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775091'"
-  ],
-  "people": [
-    "하지(John R. Hodge) — CG USAFIK, 발신자",
-    "맥아더(Douglas MacArthur) — SCAP, 수신자",
-    "랭던(William R. Langdon) — 주한 미국 정치고문",
-    "발라사노프(Gerasim M. Balasanov) — 소련군 사령관 정치고문"
-  ],
-  "confidence": "high",
-  "notes": "색인에서는 전문번호가 타자기로 덧쳐져 판독이 되지 않았으나, 원본 스캔(0016면) 상단 'NR : TFGCG 334'는 선명하게 판독된다. 전문번호는 TFGCG 334로 확정.\n\nOCR의 'TOCG 334'는 판독 오류다. 원저자 표기는 그대로 두었다 — 'Langdons'(어포스트로피 없음)는 원문 그대로.\n\n원문에 'Tutelary period'라 되어 있어 '후견 기간'으로 옮겼다(신탁통치 trusteeship와 구분).\n\n우하단 '11'은 사본번호(COPY NO.)이지 문서 일련번호가 아니다."
+ "serial": "9",
+ "date": "1946-03-29",
+ "date_note": "본문 타자 표기 '29 March 1946'. TOO 291055-I",
+ "doc_type": "전문",
+ "classification": "Top Secret",
+ "from": "주한미군사령관(CG USAFIK) — 하지",
+ "to": "연합국최고사령관(SCAP), 맥아더 앞",
+ "info": "총사령관(COMMANDER-in-CHIEF), 참모장(CHIEF OF STAFF), 부관부(AG), 정부부(C GOVT SEC)",
+ "msg_nr": "TFGCG 334",
+ "subject_en": "Personal views of Balasanov, Political Advisor to the Soviet Commanding General",
+ "subject_ko": "소련군 사령관 정치고문 발라사노프의 개인적 견해",
+ "summary_ko": "하지가 소련 대표단 만찬에서 소련 정치고문 발라사노프가 랭던에게 흘린 개인적 견해 다섯 가지 — 5월 말 임시정부 수립, 외국인 고문에 의한 통제·감독, 지대 간 통행 제한 해제, 후견 기간 중 주둔군 유지, 외교대표 파견 — 를 보고한 전문.",
+ "key_points_ko": [
+  "3월 28일 저녁 하지가 소련 대표단을 위해 연 만찬에서 랭던과 대화하던 중 발라사노프가 밝힌 견해다.",
+  "(A) 소련 대표단은 임시정부 구성이 5월 말까지 완료될 것으로 추산한다.",
+  "(B) 임시정부에 대한 통제와 감독은 아마도 외국인 고문(Foreign Advisors)만이 행사하게 될 것이다.",
+  "(C) 임시정부 수립 후에는 지대 간 인원·물자 이동에 대한 모든 제한이 해제될 것으로 예상된다.",
+  "(D) 군대는 (아마도 후견 기간 전체에 걸쳐) 민간 소요를 막기 위해 잔류할 것이다.",
+  "(E) 임시정부에 외교대표가 신임장을 제정할 것으로 예견된다.",
+  "하지는 이 견해가 랭던의 반응을 떠보려고 흘린 것일 수 있다고 단서를 달면서도, 국무부와 육군참모총장에게 참고가 될 수 있다고 판단했다.",
+  "이 전문은 신호소를 거쳐 국무장관 앞으로 육군참모총장에게 재발송되었다."
+ ],
+ "ko": "어젯밤 소련 대표단을 위한 나의 만찬회 석상에서 랭던(Langdon)과 대화를 나누던 중, 소련군 사령관의 정치고문 발라사노프(Balasanov)가 다음과 같은 개인적 견해를 내비쳤다. (A) 소련 대표단은 임시정부의 구성이 5월 말까지 완료될 것으로 추산했다. (B) 임시정부에 대한 통제와 감독은 아마도 외국인 고문(Foreign Advisors)에 의해서만 행사될 것이다. (C) 임시정부 수립 이후에는 지대(zone) 간 인원 및 물자의 이동에 대한 모든 제한이 철폐될 것으로 예상된다. (D) 군대는 (추정컨대 후견(Tutelary) 기간 전체에 걸쳐) 민간 소요를 방지하기 위하여 잔류할 것이다. (E) 임시정부에 외교대표(diplomatic representation)가 신임장을 제정하게 될 것으로 예견된다.\n\n이 견해들은 랭던의 반응을 얻어내기 위하여 흘린 것일 수도 있으나, 국무부 및 육군참모총장에게 관심거리가 될 수 있을 것이다.\n\nHODGE",
+ "en": "In course of conversation with Langdon at my dinner party last evening for the Soviet Delegation, Balasanov, Political Advisor to the Soviet Commanding General, intimated the following personal views: (A) Soviet Delegation estimated formation of Provisional Government will be completed by end of May; (B) Control and supervision of the Provisional Government would probably be exercised only by Foreign Advisors; (C) It is expected that all restrictions on movement of persons and goods between zones will be removed after establishment of Provisional Government; (D) Troops will remain (presumably during entire Tutelary period) to prevent civil disturbances; (E) It is anticipated that diplomatic representation will be accredited to Provisional Government.\n\nWhile these views may have been intimated in order to obtain Langdons reactions, they may be of interest to State Department and WARCOS.\n\nHODGE\n\nINFORMATION: COMMANDER-in-CHIEF, CHIEF OF STAFF. AG. C GOVT SEC\nNOTE: This message has been passed to Signal Center for re-dispatch to WARCOS for SECSTATE for information.\nPRIORITY  TOP SECRET\n86466   TOO: 291055-I   MCN: TJC 20/29\n\nHandling and transmission of the literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 44g and 53a (3) (Changes No. 3) of AR 380-5, 15 March 1944.\n\nTHE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN",
+ "stamps_ko": [
+  "고무인(우상단, 상자 안): 「GHQ. AFPAC / AGO RECORDS / 1 APR 1946」 — 총사령부 부관부 기록과 1946년 4월 1일 접수",
+  "손글씨(도장 위·옆): '014.1 Korea', 'SCAP 33'",
+  "손글씨(날짜 아래): 'X 014.1 Korea', 'X 042' — 상호참조 편철 지시, 그 아래 결재 이니셜(판독불가, 'McB'로 보임)",
+  "우하단 인쇄·손글씨: 'COPY NO.' 란에 '11', 'A. G. FILE'",
+  "좌하단 연필 이니셜: [판독불가]",
+  "상단 여백(마이크로필름 촬영 시 삽입): 'Declassified E.O. 12065 Section 3/402/ NNDG NO. 775091'"
+ ],
+ "people": [
+  "하지(John R. Hodge) — CG USAFIK, 발신자",
+  "맥아더(Douglas MacArthur) — SCAP, 수신자",
+  "랭던(William R. Langdon) — 주한 미국 정치고문",
+  "발라사노프(Gerasim M. Balasanov) — 소련군 사령관 정치고문"
+ ],
+ "confidence": "high",
+ "notes": "색인에서는 전문번호가 타자기로 덧쳐져 판독이 되지 않았으나, 원본 스캔(0016면) 상단 'NR : TFGCG 334'는 선명하게 판독된다. 전문번호는 TFGCG 334로 확정.\n\nOCR의 'TOCG 334'는 판독 오류다. 원저자 표기 'Langdons'(어포스트로피 없음)는 원문 그대로 두었다.\n\n원문에 'Tutelary period'라 되어 있어 '후견 기간'으로 옮겼다(신탁통치 trusteeship와 구분).\n\n우하단 '11'은 사본번호(COPY NO.)이지 문서 일련번호가 아니다."
 }

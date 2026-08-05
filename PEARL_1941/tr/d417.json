@@ -1,32 +1,32 @@
 {
-  "doc_id": "d417",
-  "date": "1941-12-06",
-  "time": null,
-  "doc_type": "서한",
-  "place": "Washington",
-  "from": "루스벨트 대통령(President Roosevelt)",
-  "to": "국무장관(the Secretary of State) — 헐(Cordell Hull)",
-  "msg_nr": null,
-  "source_note": "740.0011 Pacific War/856",
-  "title_en": "President Roosevelt to the Secretary of State",
-  "title_ko": "루스벨트 대통령이 국무장관에게",
-  "subject_ko": "루스벨트가 천황 앞 친전을 그루 대사에게 곧바로 타전하라고 헐에게 지시하며, 그레이 암호로 보내도 좋고 傍受되어도 상관없다고 적은 쪽지.",
-  "key_points_ko": [
-    "12월 6일 백악관에서 루스벨트가 헐에게 직접 쓴 짧은 쪽지다.",
-    "「이것」 — 각주에 따르면 바로 아래 문서, 즉 천황 앞 친전 — 을 그루에게 보내라고 지시한다.",
-    "그레이 암호(gray code)로 보내도 된다고 했다. 저급 암호이지만 시간을 아낀다는 이유다.",
-    "「누가 가로채도 상관없다(I don't mind if it gets picked up)」 — 傍受를 감수하겠다는 뜻이다.",
-    "서명은 직함 없이 「F.D.R.」 이니셜뿐이다."
-  ],
-  "ko": "백악관, 워싱턴, [1941년 12월 6일].\n\n친애하는 코델에게: 이것을[주69] 그루에게 쏘아 보내시오 — 그레이 암호로 가도 된다고 봅니다 — 시간이 절약되지요 — 누가 그것을 가로채도 나는 상관없습니다.\n\nF.D.R.",
-  "notes_ko": [
-    "[주69] 아래 문서를 보라."
-  ],
-  "people": [
-    "루스벨트(Franklin D. Roosevelt) — 미국 대통령, 「F.D.R.」로 서명",
-    "헐(Cordell Hull) — 국무장관, 「친애하는 코델」로 불린다",
-    "그루(Joseph Grew) — 주일 미국대사"
-  ],
-  "confidence": "high",
-  "notes": "원문의 「Shoot this to Grew」는 구어체 명령이라 「쏘아 보내시오」로 직역했다. 「gray code」는 국무부가 쓰던 등급이 낮은 전신 암호로, 원문 표기 그대로 「그레이 암호」로 옮겼다. 「it gets picked up」은 전문이 제3자에게 傍受·수신되는 것을 뜻하며, 대통령이 그 위험을 감수한 대목이다. 날짜의 대괄호와 각주 번호는 FRUS 편집자의 것이다."
+ "doc_id": "d417",
+ "date": "1941-12-06",
+ "time": null,
+ "doc_type": "서한",
+ "place": "Washington",
+ "from": "루스벨트 대통령(President Roosevelt)",
+ "to": "국무장관(the Secretary of State) — 헐(Cordell Hull)",
+ "msg_nr": null,
+ "source_note": "740.0011 Pacific War/856",
+ "title_en": "President Roosevelt to the Secretary of State",
+ "title_ko": "루스벨트 대통령이 국무장관에게",
+ "subject_ko": "루스벨트가 천황 앞 친전을 그루 대사에게 곧바로 타전하라고 헐에게 지시하며, 그레이 암호로 보내도 좋고 傍受되어도 상관없다고 적은 쪽지.",
+ "key_points_ko": [
+  "12월 6일 백악관에서 루스벨트가 헐에게 직접 쓴 짧은 쪽지다.",
+  "「이것」(각주에 따르면 바로 아래 문서, 즉 천황 앞 친전)을 그루에게 보내라고 지시한다.",
+  "그레이 암호(gray code)로 보내도 된다고 했다. 저급 암호이지만 시간을 아낀다는 이유다.",
+  "「누가 가로채도 상관없다(I don't mind if it gets picked up)」. 傍受를 감수하겠다는 뜻이다.",
+  "서명은 직함 없이 「F.D.R.」 이니셜뿐이다."
+ ],
+ "ko": "백악관, 워싱턴, [1941년 12월 6일].\n\n친애하는 코델에게: 이것을[주69] 그루에게 쏘아 보내시오 — 그레이 암호로 가도 된다고 봅니다 — 시간이 절약되지요 — 누가 그것을 가로채도 나는 상관없습니다.\n\nF.D.R.",
+ "notes_ko": [
+  "[주69] 아래 문서를 보라."
+ ],
+ "people": [
+  "루스벨트(Franklin D. Roosevelt) — 미국 대통령, 「F.D.R.」로 서명",
+  "헐(Cordell Hull) — 국무장관, 「친애하는 코델」로 불린다",
+  "그루(Joseph Grew) — 주일 미국대사"
+ ],
+ "confidence": "high",
+ "notes": "원문의 「Shoot this to Grew」는 구어체 명령이라 「쏘아 보내시오」로 직역했다. 「gray code」는 국무부가 쓰던 등급이 낮은 전신 암호로, 원문 표기 그대로 「그레이 암호」로 옮겼다. 「it gets picked up」은 전문이 제3자에게 傍受·수신되는 것을 뜻하며, 대통령이 그 위험을 감수한 대목이다. 날짜의 대괄호와 각주 번호는 FRUS 편집자의 것이다."
 }

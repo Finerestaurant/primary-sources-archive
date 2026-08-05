@@ -1,35 +1,35 @@
 {
-  "serial": "7-K",
-  "date": "1946-05-02",
-  "date_note": "면 상단 타자 '2 May 1946'. TOO 012155 Z(1일 발신)",
-  "doc_type": "전문",
-  "classification": "Top Secret",
-  "from": "워싱턴(WASHINGTON) — 서명 WARCOS(육군참모총장)",
-  "to": "태평양미육군총사령관(CINCAFPAC) — 주한미군사령관에게 전달 요망(PASS TO CG USAFIK)",
-  "info": null,
-  "msg_nr": "W 86432",
-  "subject_en": "Reference TFGCG 352, W 81417 and C-59120 — recommendation will receive early consideration",
-  "subject_ko": "TFGCG 352 · W 81417 · C-59120 관련 — 건의를 조속히 검토할 것",
-  "summary_ko": "주한미군사령부의 건의(TFGCG 352)를 국무·육군·해군 3부가 조속히 검토할 것임을 알리고, 그 전문을 기왕의 방침에 따라 주(駐)모스크바 미국 무관에게 전달해 줄 것을 요구한 짧은 전문이다.",
-  "key_points_ko": [
-    "참조 전문 — TFGCG 352, W 81417, C-59120.",
-    "건의는 국무·육군·해군 3부가 조속히 검토할 것이다.",
-    "W 81417과 귀 전문 C-59120으로 정해진 방침에 따라 TFGCG 352를 주모스크바 미국 무관에게 전달해 줄 것을 요구한다.",
-    "취급 구분은 ROUTINE(보통)이며, 조치는 참모총국(SEC GEN STAFF)이 맡는다.",
-    "면 하단 비고 — 'This message has ~~not~~ been passed'에서 'not'을 타자로 지워 이 전문이 실제로 전달되었음을 표시했다."
-  ],
-  "ko": "TFGCG 352, W 81417 및 C-59120 참조.\n\n건의는 국무부·육군부·해군부의 조속한 검토를 받을 것임.\n\nW 81417 및 귀 전문 C-59120으로 확립된 방침에 따라 TFGCG 352를 주(駐)모스크바 미국 무관(US Military Attache Moscow)에게 전달해 줄 것을 요구함.\n\nWARCOS(육군참모총장)\n\n[조치] 참모총국(SEC GEN STAFF)\n[정보] 총사령관(COMMANDER-IN-CHIEF), 참모장(CHIEF OF STAFF), G-2, 부관부(AG), 정부과장(C GOVT SEC), 외교과(DIPLOMATIC SECTION)\n[비고] 이 전문은 전달되었음.",
-  "en": "Reference TFGCG 352, W 81417 and C-59120.\n\nRecommendation will receive early consideration by State, War and Navy Departments.\n\nRequest you pass TFGCG 352 to US Military Attache Moscow in accordance with policy established by W 81417 and your C-59120.\n\nWARCOS\n\nACTION: SEC GEN STAFF\n\nINFORMATION: COMMANDER-IN-CHIEF, CHIEF OF STAFF, G-2, AG, C GOVT SEC, DIPLOMATIC SECTION\n\nNOTE: This message has [not — struck out] been passed.\n\nTOO: 012155 Z\nMCN: ZUB 6/2",
-  "stamps_ko": [
-    "우측 상단 접수 도장 — 'GHQ AFPAC AGO RECORDS', 그 안 손글씨 '014.1 Korea TS-3'",
-    "전문번호 옆 손글씨 — '014.1 Korea', '334(s)'(두 번 기입)",
-    "비고란 'NOTE: This message has not been passed.'에서 'not'을 타자로 지워 놓음",
-    "비고란 옆 손글씨 — '[판독불가] G-4-C / R/C'",
-    "좌하단 타자 '19351' · 하단 'TOP SECRET' 도장 · 'A. G. FILE' 도장 · 'COPY NO. 19'",
-    "하단 인쇄 — 'Handling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.'",
-    "좌하단 연필 편철기호 '7-K' 및 그 위 판독불가 연필 표시"
-  ],
-  "people": [],
-  "confidence": "high",
-  "notes": "전문번호와 참조번호(TFGCG 352, W 81417, C-59120, W 86432)는 읽은 그대로 두었다. 비고란의 손글씨는 활자가 겹쳐 'G-4-C R/C'로 읽히나 앞부분은 판독하지 못했다."
+ "serial": "7-K",
+ "date": "1946-05-02",
+ "date_note": "면 상단 타자 '2 May 1946'. TOO 012155 Z(1일 발신)",
+ "doc_type": "전문",
+ "classification": "Top Secret",
+ "from": "워싱턴(WASHINGTON) — 서명 WARCOS(육군참모총장)",
+ "to": "태평양미육군총사령관(CINCAFPAC) — 주한미군사령관에게 전달 요망(PASS TO CG USAFIK)",
+ "info": null,
+ "msg_nr": "W 86432",
+ "subject_en": "Reference TFGCG 352, W 81417 and C-59120 — recommendation will receive early consideration",
+ "subject_ko": "TFGCG 352 · W 81417 · C-59120 관련 건의를 조속히 검토할 것",
+ "summary_ko": "주한미군사령부의 건의(TFGCG 352)를 국무·육군·해군 3부가 조속히 검토할 것임을 알리고, 그 전문을 기왕의 방침에 따라 주(駐)모스크바 미국 무관에게 전달해 줄 것을 요구한 짧은 전문이다.",
+ "key_points_ko": [
+  "참조 전문은 TFGCG 352, W 81417, C-59120이다.",
+  "건의는 국무·육군·해군 3부가 조속히 검토할 것이다.",
+  "W 81417과 귀 전문 C-59120으로 정해진 방침에 따라 TFGCG 352를 주모스크바 미국 무관에게 전달해 줄 것을 요구한다.",
+  "취급 구분은 ROUTINE(보통)이며, 조치는 참모총국(SEC GEN STAFF)이 맡는다.",
+  "면 하단 비고에서는 'This message has ~~not~~ been passed'의 'not'을 타자로 지워 이 전문이 실제로 전달되었음을 표시했다."
+ ],
+ "ko": "TFGCG 352, W 81417 및 C-59120 참조.\n\n건의는 국무부·육군부·해군부의 조속한 검토를 받을 것임.\n\nW 81417 및 귀 전문 C-59120으로 확립된 방침에 따라 TFGCG 352를 주(駐)모스크바 미국 무관(US Military Attache Moscow)에게 전달해 줄 것을 요구함.\n\nWARCOS(육군참모총장)\n\n[조치] 참모총국(SEC GEN STAFF)\n[정보] 총사령관(COMMANDER-IN-CHIEF), 참모장(CHIEF OF STAFF), G-2, 부관부(AG), 정부과장(C GOVT SEC), 외교과(DIPLOMATIC SECTION)\n[비고] 이 전문은 전달되었음.",
+ "en": "Reference TFGCG 352, W 81417 and C-59120.\n\nRecommendation will receive early consideration by State, War and Navy Departments.\n\nRequest you pass TFGCG 352 to US Military Attache Moscow in accordance with policy established by W 81417 and your C-59120.\n\nWARCOS\n\nACTION: SEC GEN STAFF\n\nINFORMATION: COMMANDER-IN-CHIEF, CHIEF OF STAFF, G-2, AG, C GOVT SEC, DIPLOMATIC SECTION\n\nNOTE: This message has [not — struck out] been passed.\n\nTOO: 012155 Z\nMCN: ZUB 6/2",
+ "stamps_ko": [
+  "우측 상단 접수 도장 — 'GHQ AFPAC AGO RECORDS', 그 안 손글씨 '014.1 Korea TS-3'",
+  "전문번호 옆 손글씨 — '014.1 Korea', '334(s)'(두 번 기입)",
+  "비고란 'NOTE: This message has not been passed.'에서 'not'을 타자로 지워 놓음",
+  "비고란 옆 손글씨 — '[판독불가] G-4-C / R/C'",
+  "좌하단 타자 '19351' · 하단 'TOP SECRET' 도장 · 'A. G. FILE' 도장 · 'COPY NO. 19'",
+  "하단 인쇄 — 'Handling and transmission of literal plain text of this message as correspondence of the same classification has been authorized by the War Department in accordance with the provisions of paragraphs 16-C, 18-E, 53-A, 53-D (1) (2) (3), and 60-A (1) (2) (3) (4), AR 380-5, 6 March 1946.'",
+  "좌하단 연필 편철기호 '7-K' 및 그 위 판독불가 연필 표시"
+ ],
+ "people": [],
+ "confidence": "high",
+ "notes": "전문번호와 참조번호(TFGCG 352, W 81417, C-59120, W 86432)는 읽은 그대로 두었다. 비고란의 손글씨는 활자가 겹쳐 'G-4-C R/C'로 읽히나 앞부분은 판독하지 못했다."
 }

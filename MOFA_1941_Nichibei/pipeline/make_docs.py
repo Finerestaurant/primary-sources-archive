@@ -85,7 +85,7 @@ for f in sorted(os.listdir(TR)):
         "primary": ko,
         "secondary": ja,
         "notes": d.get("notes_ko") or [],
-        "note": f"번역자 주 — {d['notes']}" if d.get("notes") else None,
+        "note": f"번역자 주. {d['notes']}" if d.get("notes") else None,
         "warn": d.get("confidence") != "high",
         "pages": pages,
         "search": " ".join(d.get("people") or []),

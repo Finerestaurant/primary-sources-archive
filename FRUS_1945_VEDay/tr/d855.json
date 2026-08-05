@@ -1,27 +1,27 @@
 {
-  "doc_id": "d855",
-  "date": "1945-04-06",
-  "time": "Washington, April 6, 1945—8 a.m.",
-  "doc_type": "전보",
-  "place": "Washington",
-  "from": "스테티니어스(Edward R. Stettinius, Jr.) — 국무장관(The Secretary of State)",
-  "to": "일부 재외 외교대표(Certain Diplomatic Representatives) — 마드리드·리스본·베른·스톡홀름·더블린·바티칸시국·카불을 제외한 모든 미국 외교대표",
-  "msg_nr": null,
-  "source_note": "800.414/4–645: Circular telegram",
-  "title_en": "The Secretary of State to Certain Diplomatic Representatives",
-  "title_ko": "국무장관이 일부 재외 외교대표에게",
-  "subject_ko": "3월 31일 회람전보에 제시된 일방적 절차는 수신자들이 주재하는 나라에는 적용되지 않으며 참고용일 뿐이나, 그 나라들이 독일 기록을 어떻게 처분하는지는 계속 보고하라는 회람전보이다.",
-  "key_points_ko": [
-    "3월 31일 오후 3시자 국무부 회람전보에 개괄된 일방적 절차(unilateral procedure)는 수신자들이 신임장을 낸 나라들에는 적용되지 않으며, 그 언급은 참고용일 뿐이다.",
-    "다만 수신자들은 주재국이 그러한 기록을 어떻게 처분하는지를 국무부에 계속 알려야 한다."
-  ],
-  "ko": "워싱턴, 1945년 4월 6일—오전 8시.\n\n3월 31일 오후 3시자 국무부 회람전보(Deptelcirc March 31, 3 p.m.)에 개괄된 일방적 절차는 귀하가 신임장을 낸 나라들에는 적용되지 않으며, 그 언급은 오직 귀하의 참고를 위한 것이었습니다. 다만 귀하는 귀하가 신임장을 낸 나라들이 그러한 기록을 어떻게 처분하는지를 국무부에 계속 알려야 합니다.\n\n스테티니어스(Stettinius)",
-  "notes_ko": [
-    "[주18] 마드리드·리스본·베른·스톡홀름·더블린·바티칸시국·카불을 제외한 모든 미국 외교대표에게 발송."
-  ],
-  "people": [
-    "Edward R. Stettinius, Jr. 스테티니어스 — 국무장관"
-  ],
-  "confidence": "medium",
-  "notes": "날짜가 어긋난다. raw/index.json에는 이 문서가 1945-05-06으로 올라 있으나, 원문 머리는 「Washington, April 6, 1945—8 a.m.」이고 편철 표시도 800.414/4–645(4월 6일)이다. 원문 머리와 편철 표시를 따라 date를 1945-04-06으로 잡았다. 색인 쪽의 오류이거나 FRUS 편집에서 이 문서가 편철된 자리 때문에 생긴 표시로 보이며, 원문 지면 대조가 필요하다. 그 밖의 본문 자체는 짧고 뜻이 분명하다."
+ "doc_id": "d855",
+ "date": "1945-04-06",
+ "time": "Washington, April 6, 1945—8 a.m.",
+ "doc_type": "전보",
+ "place": "Washington",
+ "from": "스테티니어스(Edward R. Stettinius, Jr.) — 국무장관(The Secretary of State)",
+ "to": "일부 재외 외교대표(Certain Diplomatic Representatives) — 마드리드·리스본·베른·스톡홀름·더블린·바티칸시국·카불을 제외한 모든 미국 외교대표",
+ "msg_nr": null,
+ "source_note": "800.414/4–645: Circular telegram",
+ "title_en": "The Secretary of State to Certain Diplomatic Representatives",
+ "title_ko": "국무장관이 일부 재외 외교대표에게",
+ "subject_ko": "3월 31일 회람전보에 제시된 일방적 절차는 수신자들이 주재하는 나라에는 적용되지 않으며 참고용일 뿐이나, 그 나라들이 독일 기록을 어떻게 처분하는지는 계속 보고하라는 회람전보이다.",
+ "key_points_ko": [
+  "3월 31일 오후 3시자 국무부 회람전보에 개괄된 일방적 절차(unilateral procedure)는 수신자들이 신임장을 낸 나라들에는 적용되지 않으며, 그 언급은 참고용일 뿐이다.",
+  "다만 수신자들은 주재국이 그러한 기록을 어떻게 처분하는지를 국무부에 계속 알려야 한다."
+ ],
+ "ko": "워싱턴, 1945년 4월 6일—오전 8시.\n\n3월 31일 오후 3시자 국무부 회람전보(Deptelcirc March 31, 3 p.m.)에 개괄된 일방적 절차는 귀하가 신임장을 낸 나라들에는 적용되지 않으며, 그 언급은 오직 귀하의 참고를 위한 것이었습니다. 다만 귀하는 귀하가 신임장을 낸 나라들이 그러한 기록을 어떻게 처분하는지를 국무부에 계속 알려야 합니다.\n\n스테티니어스(Stettinius)",
+ "notes_ko": [
+  "[주18] 마드리드·리스본·베른·스톡홀름·더블린·바티칸시국·카불을 제외한 모든 미국 외교대표에게 발송."
+ ],
+ "people": [
+  "Edward R. Stettinius, Jr. 스테티니어스 — 국무장관"
+ ],
+ "confidence": "medium",
+ "notes": "날짜가 어긋난다. raw/index.json에는 이 문서가 1945-05-06으로 올라 있으나, 원문 머리는 「Washington, April 6, 1945—8 a.m.」이고 편철 표시도 800.414/4–645(4월 6일)이다. 원문 머리와 편철 표시를 따라 date를 1945-04-06으로 잡았다. 색인 쪽의 오류이거나 FRUS 편집에서 이 문서가 편철된 위치 때문에 생긴 표시로 보이며, 원문 지면 대조가 필요하다. 그 밖의 본문 자체는 짧고 뜻이 분명하다."
 }

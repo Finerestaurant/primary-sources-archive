@@ -80,7 +80,7 @@ for did in sorted(index, key=lambda x: (index[x].get("date",""), int(x[1:]))):
         "primary": (d.get("ko") or "").strip(),
         "secondary": body.strip(),
         "notes": d.get("notes_ko") or [],
-        "note": f"번역자 주 — {d['notes']}" if d.get("notes") else None,
+        "note": f"번역자 주. {d['notes']}" if d.get("notes") else None,
         "warn": d.get("confidence") != "high",
         "pages": pages.get(did, []),
         "search": " ".join((d.get("people") or []) + who),

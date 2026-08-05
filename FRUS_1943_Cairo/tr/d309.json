@@ -1,34 +1,34 @@
 {
-  "doc_id": "d309",
-  "date": "1943-11-25",
-  "date_note": "원문 첫 줄에 \"November 25, 1943\"으로 표기. 다만 각주 [주1]은 \"Date and authorship not indicated\"(날짜와 작성자가 표시되어 있지 않다)라고 하여, 이 날짜 표기가 문서 자체의 것인지 편집자가 붙인 것인지에 대해 원문 편집 방침과 다소 어긋난다. 표기 그대로 두었다.",
-  "doc_type": "코뮈니케 초안",
-  "classification": null,
-  "place": "10 Downing Street, Whitehall (런던)",
-  "from": "영국 측 (필적은 처칠의 것으로 보임)",
-  "to": null,
-  "participants": [],
-  "title_en": "British Draft of the Communiqué",
-  "title_ko": "영국 측 코뮈니케 초안",
-  "subject_ko": "카이로 회담 공동 코뮈니케의 영국 측 초안으로, 조선 관련 문구에 \"in due course\"(적절한 절차를 거쳐)가 처음 등장한다.",
-  "key_points_ko": [
-    "조선 조항이 \"the aforesaid three Great Powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent\"로 되어 있다 — 미국 초안(d307)의 `at the earliest possible moment after the downfall of Japan`, 미국 수정안(d308)의 `at the proper moment after the downfall of Japan`이 여기서 `in due course`(적절한 절차를 거쳐)로 바뀌었다.",
-    "이 `in due course` 문구가 그대로 최종 코뮈니케(d343)에 들어간다.",
-    "일본이 1914년 제1차 세계대전 개시 이후 탈취·점령한 태평양의 모든 도서를 박탈한다는 조항.",
-    "일본이 중국인으로부터 훔친 만주, 타이완(포모사) 등 모든 영토를 중화민국에 반환한다는 조항 — 최종본에 있는 \"펑후 제도(the Pescadores)\"가 아직 들어 있지 않고, \"such as Manchuria Formosa\"로 쉼표도 빠져 있다.",
-    "최종본의 \"세 대국은 스스로를 위한 이득을 탐하지 않으며 영토 확장의 뜻이 없다\"는 대목이 이 초안에는 아직 없다.",
-    "마지막 문단이 \"in harmony with the United Nations\"로만 되어 있어, 최종본의 \"in harmony with those of the United Nations at war with Japan\"(일본과 교전 중인 국제연합 제국과 보조를 맞추어)보다 범위가 넓게 잡혀 있다.",
-    "일본의 무조건 항복(unconditional surrender)을 얻어내기 위한 작전을 계속한다는 결의."
-  ],
-  "ko": "1943년 11월 25일\n\n다우닝가 10번지,\n\n화이트홀.\n\n**보도 코뮈니케**\n\n루스벨트 대통령, 장제스(Chiang Kai-shek) 총통, 처칠 총리는 각자의 군사·외교 고문들과 함께 북아프리카에서 회의를 마쳤다. 다음의 일반 성명이 발표되었다:\n\n\"여러 군사 사절단은 일본에 대한 향후 군사 작전에 합의하였다. 세 대(大)연합국은 그 흉포한 적들에게 해상·육상·공중에서 가차 없는 압력을 가하겠다는 결의를 표명하였다. 이 압력은 이미 높아지고 있다.\n\n일본이 1914년 제1차 세계대전 개시 이래 탈취하였거나 점령한 태평양의 모든 도서를 박탈당하도록 하고, 또 일본이 중국인으로부터 훔친 만주 타이완(포모사)과 같은 모든 영토를 중화민국에 반환하도록 하는 것이 그들의 목적이다. 일본은 또한 폭력과 탐욕으로 취한 그 밖의 모든 영토로부터 축출될 것이다. 앞서 말한 세 대국은 조선 인민의 노예 상태에 유의하여, **적절한 절차를 거쳐 조선을 자유롭고 독립된 나라가 되게 할 것을 결의한다**.\n\n이러한 목적을 염두에 두고 세 연합국은 국제연합(United Nations)과 보조를 맞추어, 일본의 무조건 항복을 얻어내는 데 필요한 중대하고도 장기적인 작전을 계속 견지해 나갈 것이다.\"\n\n[405면]",
-  "notes_ko": [
-    "[주1] 필적은 처칠의 것으로 보인다. 날짜와 작성자는 표시되어 있지 않으나, 수정된 상태의 본문은 뒤의 448면에 인쇄된 최종본과 매우 유사하다."
-  ],
-  "people": [
-    "Roosevelt 루스벨트",
-    "Chiang Kai-shek 장제스",
-    "Churchill 처칠"
-  ],
-  "confidence": "high",
-  "notes": "원문의 오탈자·미완성 대목을 고치지 않고 그대로 두었다. 초안이라는 증거이므로 여기에 기록한다. (1) `taken by violence ad greed` — `ad`는 `and`의 오기. 번역에서는 \"폭력과 탐욕으로\"로 옮겼으나 원문 철자는 `ad greed`이다. 최종본(d343)은 `by violence and greed`. (2) `such as Manchuria Formosa,` — 두 지명 사이 쉼표가 없고, 최종본에 있는 `and the Pescadores`(펑후 제도)가 아직 없다. (3) `With these objects in views` — 최종본은 `in view`. (4) `in harmony with the United Nations` — 최종본은 `in harmony with those of the United Nations at war with Japan`. (5) 최종본 둘째 문단의 \"They covet no gain for themselves and have no thought of territorial expansion\"이 이 초안에는 없다.\n\n핵심 문구 대조: 조선 조항의 원문은 `The aforesaid three Great Powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent.` 여기서 `in due course`를 스펙에 따라 \"적절한 절차를 거쳐\"로 옮겼다. 관례역 \"머지않아\"는 시간의 임박함을 함의하지만 `in due course`는 시점을 특정하지 않고 절차를 전제하는 표현이며, 이 모호함 자체가 사건이다. 미국 초안(d307)의 `at the earliest possible moment after the downfall of Japan`(일본이 무너진 뒤 가능한 한 가장 이른 시점에), 미국 수정안(d308)의 `at the proper moment after the downfall of Japan`(일본이 무너진 뒤 적절한 시점에)과 반드시 구분해서 읽어야 한다. 이 영국 초안에서 시점 표현이 사라지고 절차 표현으로 바뀌었다.\n\n`are determined that`은 스펙 3번에 따라 \"결의한다\"로 옮겼고 \"약속한다\"로 강화하지 않았다. `the enslavement of the people of Korea`는 \"조선 인민의 노예 상태\"로 직역했다."
+ "doc_id": "d309",
+ "date": "1943-11-25",
+ "date_note": "원문 첫 줄에 \"November 25, 1943\"으로 표기. 다만 각주 [주1]은 \"Date and authorship not indicated\"(날짜와 작성자가 표시되어 있지 않다)라고 하여, 이 날짜 표기가 문서 자체의 것인지 편집자가 붙인 것인지에 대해 원문 편집 방침과 다소 어긋난다. 표기 그대로 두었다.",
+ "doc_type": "코뮈니케 초안",
+ "classification": null,
+ "place": "10 Downing Street, Whitehall (런던)",
+ "from": "영국 측 (필적은 처칠의 것으로 보임)",
+ "to": null,
+ "participants": [],
+ "title_en": "British Draft of the Communiqué",
+ "title_ko": "영국 측 코뮈니케 초안",
+ "subject_ko": "카이로 회담 공동 코뮈니케의 영국 측 초안으로, 조선 관련 문구에 \"in due course\"(적절한 절차를 거쳐)가 처음 등장한다.",
+ "key_points_ko": [
+  "조선 조항이 \"the aforesaid three Great Powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent\"로 되어 있다. 미국 초안(d307)의 `at the earliest possible moment after the downfall of Japan`, 미국 수정안(d308)의 `at the proper moment after the downfall of Japan`이 여기서 `in due course`(적절한 절차를 거쳐)로 바뀌었다.",
+  "이 `in due course` 문구가 그대로 최종 코뮈니케(d343)에 들어간다.",
+  "일본이 1914년 제1차 세계대전 개시 이후 탈취·점령한 태평양의 모든 도서를 박탈한다는 조항.",
+  "일본이 중국인으로부터 훔친 만주, 타이완(포모사) 등 모든 영토를 중화민국에 반환한다는 조항이다. 최종본에 있는 \"펑후 제도(the Pescadores)\"가 아직 들어 있지 않고, \"such as Manchuria Formosa\"로 쉼표도 빠져 있다.",
+  "최종본의 \"세 대국은 스스로를 위한 이득을 탐하지 않으며 영토 확장의 뜻이 없다\"는 대목이 이 초안에는 아직 없다.",
+  "마지막 문단이 \"in harmony with the United Nations\"로만 되어 있어, 최종본의 \"in harmony with those of the United Nations at war with Japan\"(일본과 교전 중인 국제연합 제국과 보조를 맞추어)보다 범위가 넓게 잡혀 있다.",
+  "일본의 무조건 항복(unconditional surrender)을 얻어내기 위한 작전을 계속한다는 결의."
+ ],
+ "ko": "1943년 11월 25일\n\n다우닝가 10번지,\n\n화이트홀.\n\n**보도 코뮈니케**\n\n루스벨트 대통령, 장제스(Chiang Kai-shek) 총통, 처칠 총리는 각자의 군사·외교 고문들과 함께 북아프리카에서 회의를 마쳤다. 다음의 일반 성명이 발표되었다:\n\n\"여러 군사 사절단은 일본에 대한 향후 군사 작전에 합의하였다. 세 대(大)연합국은 그 흉포한 적들에게 해상·육상·공중에서 가차 없는 압력을 가하겠다는 결의를 표명하였다. 이 압력은 이미 높아지고 있다.\n\n일본이 1914년 제1차 세계대전 개시 이래 탈취하였거나 점령한 태평양의 모든 도서를 박탈당하도록 하고, 또 일본이 중국인으로부터 훔친 만주 타이완(포모사)과 같은 모든 영토를 중화민국에 반환하도록 하는 것이 그들의 목적이다. 일본은 또한 폭력과 탐욕으로 취한 그 밖의 모든 영토로부터 축출될 것이다. 앞서 말한 세 대국은 조선 인민의 노예 상태에 유의하여, **적절한 절차를 거쳐 조선을 자유롭고 독립된 나라가 되게 할 것을 결의한다**.\n\n이러한 목적을 염두에 두고 세 연합국은 국제연합(United Nations)과 보조를 맞추어, 일본의 무조건 항복을 얻어내는 데 필요한 중대하고도 장기적인 작전을 계속 견지해 나갈 것이다.\"\n\n[405면]",
+ "notes_ko": [
+  "[주1] 필적은 처칠의 것으로 보인다. 날짜와 작성자는 표시되어 있지 않으나, 수정된 상태의 본문은 뒤의 448면에 인쇄된 최종본과 매우 유사하다."
+ ],
+ "people": [
+  "Roosevelt 루스벨트",
+  "Chiang Kai-shek 장제스",
+  "Churchill 처칠"
+ ],
+ "confidence": "high",
+ "notes": "원문의 오탈자·미완성 대목을 고치지 않고 그대로 두었다. 초안이라는 증거이므로 여기에 기록한다. (1) `taken by violence ad greed`의 `ad`는 `and`의 오기다. 번역에서는 \"폭력과 탐욕으로\"로 옮겼으나 원문 철자는 `ad greed`이다. 최종본(d343)은 `by violence and greed`. (2) `such as Manchuria Formosa,`에는 두 지명 사이 쉼표가 없고, 최종본에 있는 `and the Pescadores`(펑후 제도)가 아직 없다. (3) `With these objects in views`. 최종본은 `in view`. (4) `in harmony with the United Nations`. 최종본은 `in harmony with those of the United Nations at war with Japan`. (5) 최종본 둘째 문단의 \"They covet no gain for themselves and have no thought of territorial expansion\"이 이 초안에는 없다.\n\n핵심 문구 대조: 조선 조항의 원문은 `The aforesaid three Great Powers, mindful of the enslavement of the people of Korea, are determined that in due course Korea shall become free and independent.` 여기서 `in due course`를 스펙에 따라 \"적절한 절차를 거쳐\"로 옮겼다. 관례역 \"머지않아\"는 시간의 임박함을 함의하지만 `in due course`는 시점을 특정하지 않고 절차를 전제하는 표현이며, 이 모호함 자체가 사건이다. 미국 초안(d307)의 `at the earliest possible moment after the downfall of Japan`(일본이 무너진 뒤 가능한 한 가장 이른 시점에), 미국 수정안(d308)의 `at the proper moment after the downfall of Japan`(일본이 무너진 뒤 적절한 시점에)과 반드시 구분해서 읽어야 한다. 이 영국 초안에서 시점 표현이 사라지고 절차 표현으로 바뀌었다.\n\n`are determined that`은 스펙 3번에 따라 \"결의한다\"로 옮겼고 \"약속한다\"로 강화하지 않았다. `the enslavement of the people of Korea`는 \"조선 인민의 노예 상태\"로 직역했다."
 }
