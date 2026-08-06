@@ -29,13 +29,20 @@ GROUP = {"L": ("A", "1945 뉴욕 · OSS 외국인 전문가 조사"),
 def main():
     idx = {d["doc_id"]: d for d in json.load(open(os.path.join(ROOT, "raw/index.json")))}
     order = {d: i for i, d in enumerate(idx)}
-    docs = []
+    docs, missing = [], []
     for path in sorted(glob.glob(os.path.join(ROOT, "tr", "*.json"))):
-        t = json.load(open(path))
+        try:
+            t = json.load(open(path))
+        except json.JSONDecodeError as e:
+            print(f"!! {os.path.basename(path)} JSON 깨짐: {e}")
+            continue
         did = t.get("doc_id") or os.path.basename(path)[:-5]
         meta = idx.get(did)
         if not meta:
             print("  건너뜀 (원문 없음):", did)
+            continue
+        if not (t.get("ko") or "").strip():
+            print(f"!! {did} 본문이 비었다")
             continue
         grp, label = GROUP[did[0]]
         # 삭제·공개 표시는 각주로 올린다. **이 문서철에서는 그것이 내용이다** —
@@ -67,12 +74,19 @@ def main():
             "notes": notes,
             "note": t.get("notes"),
             "warn": t.get("confidence") == "low",
+            # 지워진 자리의 표시(`(b)(6)`, `25X1X6`)로도 찾아지게 한다.
+            # 이 문서철에서는 **무엇이 가려졌는가가 곧 찾을 거리**다.
+            "search": " ".join((t.get("people") or []) + (t.get("redactions") or [])
+                               + [t.get("title_en") or ""]),
         })
+    missing = [d for d in idx if d not in {x["id"] for x in docs}]
     docs.sort(key=lambda d: (d["date"], d["order"]))
     out = os.path.join(ROOT, "reading", "docs.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     json.dump(docs, open(out, "w"), ensure_ascii=False, indent=1)
     print(f"문서 {len(docs)}건 → {out}")
+    if missing:
+        print(f"!! 빠짐 {len(missing)}건: {' '.join(missing)}")
 
 
 if __name__ == "__main__":
