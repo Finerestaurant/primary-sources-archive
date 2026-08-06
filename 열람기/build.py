@@ -302,8 +302,10 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
   line-height:1;letter-spacing:.06em;white-space:nowrap;
   background:color-mix(in srgb,var(--panel) 80%,transparent);padding:1px 3px}
 /* 달·분기 눈금 — 해 안에서 어디쯤인지. 분기는 조금 길게 */
+/* 1px 짜리 표는 좌표에 걸터앉혀야 한다. 왼쪽 모서리를 좌표에 맞추면 표가
+   반 픽셀 오른쪽에 서서, 같은 날짜의 점과 어긋나 보인다. 아래 실·표도 같다. */
 .cq{position:absolute;top:calc(var(--axis,46px) - 1.5px);width:1px;height:4px;
-  background:var(--edge);opacity:.7}
+  margin-left:-.5px;background:var(--edge);opacity:.7}
 .cq.q{top:calc(var(--axis,46px) - 2.5px);height:6px;opacity:1}
 .cq[hidden]{display:none}
 
@@ -322,9 +324,10 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
   opacity:0;transition:opacity .2s ease}
 .chrono:hover .chrono-scale{opacity:1}
 
-/* 사건 점 */
+/* 사건 점 — 이름에서 내려오는 실보다 위다. 실이 점 위를 지나가면
+   점이 실에 꿰뚫린 것처럼 보이고, 어느 것이 사건 자리인지 흐려진다. */
 .cm{position:absolute;top:calc(var(--axis,46px) - 3px);width:7px;height:7px;
-  margin-left:-3.5px;border-radius:50%;background:var(--ink-3);z-index:1;
+  margin-left:-3.5px;border-radius:50%;background:var(--ink-3);z-index:2;
   border:1.5px solid var(--panel);cursor:help;
   transition:background .15s ease,transform .15s ease}
 .cm.key{background:var(--stamp);width:9px;height:9px;margin-left:-4.5px;
@@ -340,14 +343,15 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
 .cl:hover,.cl:focus-visible{color:var(--link);outline:0;
   background:color-mix(in srgb,var(--link) 12%,var(--panel))}
 /* 이름에서 축까지 내려/올려 긋는 실 — 어느 점의 이름인지 알아보게 */
-.cl::after{content:"";position:absolute;left:50%;width:1px;background:var(--edge)}
+.cl::after{content:"";position:absolute;left:calc(50% - .5px);width:1px;
+  background:var(--edge)}
 .cl.up::after{top:100%;height:var(--leg,0px)}
 .cl.dn::after{bottom:100%;height:var(--leg,0px)}
 
 /* 지금 읽는 문서가 놓인 자리. 문서를 고르면 이 표가 창 한가운데로 온다.
    손으로 띠를 밀면 표는 제 날짜에 남는다 — 표는 시간에 박혀 있지 창에 박혀 있지 않다. */
-.chrono-cursor{position:absolute;top:0;bottom:0;width:1px;z-index:2;
-  background:var(--stamp);pointer-events:none}
+.chrono-cursor{position:absolute;top:0;bottom:0;width:1px;z-index:3;
+  margin-left:-.5px;background:var(--stamp);pointer-events:none}
 /* 가상 요소는 위의 *{box-sizing:border-box}가 닿지 않는다 — 여기서 직접 잡아 주지
    않으면 테두리 2px 만큼 표시가 축 아래·오른쪽으로 밀려 앉는다. */
 .chrono-cursor::before{content:"";position:absolute;box-sizing:border-box;
@@ -357,7 +361,7 @@ input[type=search]:focus,button:focus-visible,.item:focus-visible{outline:2px so
 .chrono-date{position:absolute;bottom:2px;transform:translateX(-50%);
   font-family:var(--mono);font-size:10px;color:var(--stamp);
   font-variant-numeric:tabular-nums;background:var(--panel);
-  padding:0 5px;border-radius:2px;white-space:nowrap;z-index:2}
+  padding:0 5px;border-radius:2px;white-space:nowrap;z-index:3}
 .chrono[data-nodate="1"] .chrono-cursor,
 .chrono[data-nodate="1"] .chrono-date{display:none}
 
@@ -571,7 +575,22 @@ function visible(){
   return out;
 }
 
-function renderList(){
+/* 목록에서 지금 읽는 문서가 있는 자리로 목록을 옮긴다.
+   주제 화면이나 연표에서 문서를 찍고 들어오면 본문은 그 문서인데 목록은 맨 위에
+   서 있었다 — 152건 중 66번째를 읽으면서 내가 어디쯤인지 목록에서 찾아야 했다.
+   `center` 는 밖에서 들어왔을 때다. 앞뒤가 같이 보여야 어디쯤인지 알 수 있다.
+   목록 안에서 눌러 옮길 때는 이미 보이는 것을 굳이 움직이지 않는다. */
+function revealCur(center){
+  const list = $('#list');
+  const el = list.querySelector('.item[aria-current="true"]');
+  if (!el) return;                       // 갈래·검색에 걸려 목록 밖으로 나갔다
+  const r = el.getBoundingClientRect(), c = list.getBoundingClientRect();
+  if (center) list.scrollTop += (r.top - c.top) - (c.height - r.height) / 2;
+  else if (r.top < c.top) list.scrollTop += r.top - c.top - 8;
+  else if (r.bottom > c.bottom) list.scrollTop += r.bottom - c.bottom + 8;
+}
+
+function renderList(center){
   const items = visible();
   $('#count').textContent = `${items.length}건`;
   $('#list').innerHTML = items.map(d => `
@@ -583,6 +602,7 @@ function renderList(){
       ${d.summary?`<div class="item-hint">${esc(d.summary)}</div>`:''}
     </button>`).join('') ||
     '<div class="empty">해당하는 문서가 없다.</div>';
+  revealCur(center);
 }
 
 function pane(kind){
@@ -769,6 +789,18 @@ function initChrono(){
   if (!CH || !box){ if (box) box.hidden = true; return; }
   chFrom = Date.parse(CH.from);
   chEndT = Date.parse(CH.to);
+
+  // 연표는 문서철을 가리지 않고 공용이라, 문서철이 그 바깥으로 나갈 수 있다.
+  // 그러면 그 문서의 커서가 눈금 끝 너머에 놓여 띠가 끝에 붙박이고, 1949년
+  // 이후 문서를 아무리 넘겨도 띠는 같은 자리에서 움직이지 않는다.
+  // 자료를 연표에 맞추라고 할 수는 없으니 눈금 쪽을 자료에 맞춰 늘린다.
+  for (const d of DOCS){
+    const t = Date.parse(d.date || '');
+    if (isNaN(t)) continue;
+    if (t < chFrom) chFrom = t;
+    if (t > chEndT) chEndT = t;
+  }
+
   const track = $('#chronoTrack');
 
   // 연도는 「선」이다. 이 선부터 1944, 저 선부터 1945.
@@ -1108,12 +1140,23 @@ if (PG){
   });
 }
 
+/* 주소의 #문서번호 로 들어왔다. 밖에서 지정해 준 자리이므로 목록도 그 자리에
+   맞춰 세운다. 뒤로 가기로 되돌아오는 경우도 같다 — select() 는 주소만 바꾸므로
+   (replaceState) 여기서 열리는 것은 다른 화면에서 건너온 문서다. */
+addEventListener('hashchange', () => {
+  const id = decodeURIComponent((location.hash||'').slice(1));
+  if (!id || id === state.cur || !DOCS.some(d => d.id === id)) return;
+  state.cur = id;
+  renderList(true); renderDoc();
+  document.querySelector('.main').scrollTop = 0;
+});
+
 state.cur = decodeURIComponent((location.hash||'').slice(1)) ||
             visible()[0]?.id || DOCS[0]?.id;
 if (!DOCS.some(d => d.id === state.cur)) state.cur = DOCS[0].id;
 initChrono(); initChronoScroll();
 addEventListener('resize', () => { renderChrono(); markNow(chCur); });
-renderList(); renderDoc();
+renderList(true); renderDoc();
 """
 
 # ---------------------------------------------------------------- 조판
