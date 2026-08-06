@@ -96,6 +96,22 @@
   "url": "https://archive.org/details/0000139006"
  },
  {
+  "doc_id": "M15",
+  "crest": "cia-rdp82-00457r000100660006-6",
+  "date": "1946-08-14",
+  "title": "MILITARY INFORMATION: SOVIET ACTIVITIES",
+  "chars": 737,
+  "url": "https://archive.org/details/cia-rdp82-00457r000100660006-6"
+ },
+ {
+  "doc_id": "M16",
+  "crest": "cia-rdp82-00457r000100650005-8",
+  "date": "1946-08-15",
+  "title": "ECONOMIC INFORMATION: ECONOMIC CONDITIONS IN CHIENTAO PROVINCE KIRIN",
+  "chars": 3800,
+  "url": "https://archive.org/details/cia-rdp82-00457r000100650005-8"
+ },
+ {
   "doc_id": "M07",
   "crest": "cia-rdp82-00457r000300390009-1",
   "date": "1946-09-01",
@@ -128,6 +144,14 @@
   "url": "https://archive.org/details/cia-rdp82-00457r000300730006-6"
  },
  {
+  "doc_id": "M17",
+  "crest": "cia-rdp82-00457r000100370010-3",
+  "date": "1946-11-26",
+  "title": "MILITARY INFORMATION: MANCHURIA",
+  "chars": 844,
+  "url": "https://archive.org/details/cia-rdp82-00457r000100370010-3"
+ },
+ {
   "doc_id": "M11",
   "crest": "cia-rdp82-00457r000300450006-7",
   "date": "1946-12-10",
@@ -144,12 +168,28 @@
   "url": "https://archive.org/details/cia-rdp82-00457r000300550006-6"
  },
  {
+  "doc_id": "M18",
+  "crest": "cia-rdp82-00457r000200010010-1",
+  "date": "1946-12-11",
+  "title": "ECONOMIC INFORMATION: NATIONALIST USE OF FORMER JAPANESE FISHING BOATS",
+  "chars": 1835,
+  "url": "https://archive.org/details/cia-rdp82-00457r000200010010-1"
+ },
+ {
   "doc_id": "M13",
   "crest": "cia-rdp82-00457r000200200007-4",
   "date": "1946-12-18",
   "title": "MILITARY INFORMATION: CHINESE COMMUNISTS TRADING SUPPLIES WITH THE SOVIETS IN NORTH KOREA.",
   "chars": 955,
   "url": "https://archive.org/details/cia-rdp82-00457r000200200007-4"
+ },
+ {
+  "doc_id": "M19",
+  "crest": "cia-rdp82-00457r000200220009-0",
+  "date": "1946-12-19",
+  "title": "ECONOMIC INFORMATION: CURRENCY IN DAIREN",
+  "chars": 3742,
+  "url": "https://archive.org/details/cia-rdp82-00457r000200220009-0"
  },
  {
   "doc_id": "M14",

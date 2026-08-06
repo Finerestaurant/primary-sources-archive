@@ -1,0 +1,28 @@
+{
+  "doc_id": "M17",
+  "date": "1946-11-26",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Group 중앙정보단",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Military Information: Manchuria",
+  "title_ko": "군사 첩보: 만주",
+  "subject_ko": "뤼순 일대의 계엄과 통행금지, 그리고 안둥의 압록강 철교를 지키던 소련군이 조선 쪽으로 물러난 일을 적은 두 문단짜리 보고다.",
+  "key_points_ko": [
+    "국가 표시는 중국이나 둘째 문단은 압록강 국경을 다룬다.",
+    "뤼순 일대에 10월 10일부터 계엄이 시행된다. 통행금지는 오후 8시부터 이튿날 오전 5시까지다.",
+    "안둥의 압록강 철교를 지키던 소련군이 10월 28일 조선 쪽으로 물러난다. 다리를 지키던 병력이 강 건너로 옮겨간 것이다.",
+    "배포일은 1946년 11월 26일이고 면수는 한 면이다."
+  ],
+  "en": "[판독 불가]\nApproved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3\n\nCONFIDENTIAL\n25X1  CONFIDENTIAL\n\nCENTRAL INTELLIGENCE GROUP\n\nINTELLIGENCE REPORT   25X1\nCOUNTRY   China            DATE:  25X1\nINFO.\nSUBJECT   Military Information: Manchuria     DIST.  26 November 1946\n25X1     PAGES  1\n\nDISTRIBUTION\n\n1. Martial law has been enforced in the Port Arthur area since 10 October. Curfew hours are from 8 p.m. until 5 a.m. the following day.\n\n25X1  [판독 불가]\n\n2. The Soviet troops which were guarding the Yalu River bridge at An-tung withdrew to the Korean side on 28 October.\n\nDocument No. [판독 불가]\nNO CHANGE in Class. [판독 불가]\n[ ] DECLASSIFIED\nClass. CHANGED TO:  TS  S  C\nDDA Memo, 4 [판독 불가] 17   25X1\n\nCONFIDENTIAL\n\nApproved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3",
+  "ko": "[판독 불가]\n공개 승인 2005/07/12 : CIA-RDP82-00457R000100370010-3\n\n기밀(CONFIDENTIAL)\n25X1  기밀(CONFIDENTIAL)\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n첩보보고(INTELLIGENCE REPORT)   25X1\n국가   중국(China)            일자:  25X1\n정보(INFO.)\n주제   군사 첩보: 만주        배포(DIST.)  1946년 11월 26일\n25X1     면수  1\n\n배포처(DISTRIBUTION)\n\n1. 뤼순(Port Arthur 旅順) 일대에 10월 10일부터 계엄이 시행되고 있다. 통행금지 시간은 오후 8시부터 이튿날 오전 5시까지다.\n\n25X1  [판독 불가]\n\n2. 안둥(An-tung 安東)의 압록강(Yalu River) 철교를 지키던 소련군이 10월 28일 조선 쪽으로 물러났다.\n\n문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.) [판독 불가]\n[ ] 비밀해제(DECLASSIFIED)\n등급 변경(Class. CHANGED TO):  TS  S  C\nDDA 각서, 4 [판독 불가] 17   25X1\n\n기밀(CONFIDENTIAL)\n\n공개 승인 2005/07/12 : CIA-RDP82-00457R000100370010-3",
+  "redactions": [
+    "Approved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3 (앞뒤 두 곳의 공개 승인 도장)",
+    "25X1 (문서 머리, INTELLIGENCE REPORT 줄, DATE 줄, PAGES 줄 왼쪽, 1항과 2항 사이, 비밀해제 처리 도장 안)",
+    "Document No. 줄과 NO CHANGE in Class. 도장의 기재가 판독되지 않는다",
+    "DDA Memo 줄의 일자가 판독되지 않는다"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "본문이 두 문단뿐이고 비교적 온전하게 읽힌다. 국가 표시가 `Cina` 로 찍혀 China 로 읽었다. 표제의 `Milatery Information; Manchuria` 는 Military Information: Manchuria 로 읽었다. 낱말 교정은 `Maréial lew` 를 Martial law 로, `eines 10 Ostober` 를 since 10 October 로, `Carfew` 를 Curfew 로, `whieh` 를 which 로, `Eorean` 을 Korean 으로, `so the Korean side` 를 to the Korean side 로 한 것이다. 문서 첫 줄의 손글씨와 1항 옆의 `Meltdenf` 는 글자를 가릴 수 없어 판독 불가로 두었다. 등급 표시가 `CONFIDENTTAT,` 와 `SOMFIDENTIAL-` 로 두 번 찍혀 있고 둘 다 CONFIDENTIAL 로 읽었다. 날짜의 숫자는 고치지 않았다. 배포일 `26 November 1946` 과 본문의 `10 October`·`28 October` 는 원문대로다. 아래쪽 비밀해제 처리 도장의 `DDA Memo, 4 ... 17` 은 읽힌 그대로 두었다. 좌표는 이 문서에 나오지 않는다. 안둥의 압록강 철교는 안둥과 신의주를 잇는 다리다."
+}

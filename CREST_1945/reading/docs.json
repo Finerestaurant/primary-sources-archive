@@ -757,8 +757,139 @@
   "search": "CONTROL / U.S. AND BRITISH OFFICIALS ONLY — 상하단 배포 제한 도장 GUARD — 상단 취급 표시 APPROVED FOR RELEASE 78 DEC 1997 — 공개 승인 도장 Military Information: Soviet Officers Arrive in Yenchi from Korea"
  },
  {
-  "id": "M07",
+  "id": "M15",
   "order": 12,
+  "date": "1946-08-14",
+  "group": "B",
+  "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
+  "title": "군사 첩보: 소련군 활동",
+  "badge": "confidential (U.S. AND BRITISH OFFICIALS ONLY)",
+  "list_right": "첩보보고",
+  "meta": [
+   {
+    "k": "일자",
+    "v": "1946-08-14"
+   },
+   {
+    "k": "발신",
+    "v": "Central Intelligence Group 중앙정보단",
+    "txt": true
+   },
+   {
+    "k": "종류",
+    "v": "첩보보고"
+   },
+   {
+    "k": "원제",
+    "v": "Military Information: Soviet Activities",
+    "txt": true
+   },
+   {
+    "k": "CREST 번호",
+    "v": "cia-rdp82-00457r000100660006-6"
+   }
+  ],
+  "links": [
+   {
+    "k": "CREST",
+    "text": "아카이브닷오르그 원본",
+    "url": "https://archive.org/details/cia-rdp82-00457r000100660006-6"
+   }
+  ],
+  "summary": "소련과 조선의 국경 지대에 일본인과 만주인과 괴뢰 조선인이 섞인 「국민공산군(National Communist Troops)」이라는 조직이 있다고 적은 한 문단짜리 보고다.",
+  "points": [
+   "국가 표시가 Korea 다. 표제는 소련군 활동이고 보는 곳은 소·조선 국경 지대다.",
+   "「국민공산군(National Communist Troops)」은 일본인, 만주인, 괴뢰 조선인이 섞인 혼성 조직이다. 원문은 combined Japanese-Manchurian-puppet-Korean organization 이라고 적었다.",
+   "소련이 이 집단을 아직 조직하는 중이라고 보고한다. 이미 선 조직이 아니라 만들어지는 중인 것으로 본 것이다.",
+   "병력은 약 40¢,000명이고 세 파로 나뉜다. 병력 수의 자릿수가 스캔에서 뭉개져 있다.",
+   "본문이 이 한 문단뿐이고 출처와 정보 입수 일자는 지워져 있다."
+  ],
+  "primary": "기밀(CONFIDENTIAL)\n\n공개 승인 2001/0392 [원문 그대로] : CIA-RDP[판독 불가]-00457R0001[판독 불가]\n\n미국 및 영국 관리 전용(U.S. AND BRITISH OFFICIALS ONLY)\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n첩보보고(INTELLIGENCE REPORT)   25X1A2g\n\n국가   조선(Korea)            일자:  25X1A6a\n주제   군사 첩보: 소련군 활동\n배포(DIST.)  1646년 [원문 그대로] 11월 29일\n면수  1\n보충(SUPPLEMENT)\n출처(ORIGIN)  [삭제]\n\n이 문서는 이에 [판독 불가]\n[판독 불가] 에 따라 [판독 불가]\n\n1. 소련과 조선의 국경을 따라 놓인 지역에 일본인과 만주인과 괴뢰 조선인이 섞인 조직이 있으며, 「국민공산군(National Communist Troops)」([한자 판독 불가])이라 불린다. 소련은 이 집단을 아직 조직하려 하고 있으며, [판독 불가] 약 40¢,000 [원문 그대로] 명으로 이루어지고 세 파로 나뉜다.\n\n25X1A9a\n\n25X1A9a",
+  "secondary": "CONFIDENTIAL\n\nApproved For Release 2001/0392 [원문 그대로] : CIA-RDP[판독 불가]-00457R0001[판독 불가]\n\nU.S. AND BRITISH OFFICIALS ONLY\n\nCENTRAL INTELLIGENCE GROUP\n\nINTELLIGENCE REPORT   25X1A2g\n\nCOUNTRY   Korea            DATE:  25X1A6a\nSUBJECT   Military Information: Soviet Activities\nDIST.  29 November 1646 [원문 그대로]\nPAGES  1\nSUPPLEMENT\nORIGIN  [삭제]\n\nThis document is hereby [판독 불가]\n[판독 불가] with the [판독 불가]\n\n1. In the area along the USSR-Korean border, there is a combined Japanese-Manchurian-puppet-Korean organization called the \"National Communist Troops\" ([한자 판독 불가]). The Soviets are still trying to organize this group, [판독 불가] consists of approximately 40¢,000 [원문 그대로] men who are divided into three factions.\n\n25X1A9a\n\n25X1A9a",
+  "notes": [
+   "[삭제·공개 표시] Approved For Release 2001/0392 : CIA-RDP[판독 불가]-00457R0001 (공개 승인 도장)",
+   "[삭제·공개 표시] 25X1A2g (INTELLIGENCE REPORT 줄 오른쪽)",
+   "[삭제·공개 표시] 25X1A6a (DATE 줄)",
+   "[삭제·공개 표시] 25X1A9a (본문 아래 두 곳)",
+   "[삭제·공개 표시] ORIGIN 줄의 출처 표시가 비어 있어 [삭제]로 옮겼다",
+   "[삭제·공개 표시] 본문 위 재분류 도장의 글자 대부분이 판독되지 않는다"
+  ],
+  "note": "본문이 한 문단뿐이고 그 한 문단마저 여러 곳이 뭉개졌다. 병력 수가 `40¢,000` 으로 찍혀 있다. 40만인지 4만인지 40만 몇천인지 가릴 수 없어 숫자를 고치지 않고 원문 그대로 두었다. 배포일은 `29 November 1646` 으로 찍혀 있다. 1946년이 분명하나 날짜의 숫자는 고치지 않았다. 조직 이름 뒤에 달린 한자 병기가 `(19 2 op }` 로 뭉개져 한 글자도 확정되지 않는다. 「National Communist Troops」의 우리말 이름은 확정할 수 없어 원어를 앞세우고 음을 따 「국민공산군」으로 달았다. `The Soviets are still trying to organize this group, la Sn consists of` 에서 `la Sn` 은 관계절을 여는 말로 보이나 확정되지 않아 판독 불가로 두었다. 낱말 교정은 `INTELNGENCE` 를 INTELLIGENCE 로, `Militury`·`.ctivities` 를 Military·Activities 로, `Japunese~Venchuri an~puppet-Koreun` 을 Japanese-Manchurian-puppet-Korean 으로, `orgunive` 를 organize 로, `upproxim tely` 를 approximately 로, `uiviaea into three fuctions` 를 divided into three factions 로 한 것이다. 좌표는 이 문서에 나오지 않는다.",
+  "warn": true,
+  "search": "Approved For Release 2001/0392 : CIA-RDP[판독 불가]-00457R0001 (공개 승인 도장) 25X1A2g (INTELLIGENCE REPORT 줄 오른쪽) 25X1A6a (DATE 줄) 25X1A9a (본문 아래 두 곳) ORIGIN 줄의 출처 표시가 비어 있어 [삭제]로 옮겼다 본문 위 재분류 도장의 글자 대부분이 판독되지 않는다 Military Information: Soviet Activities"
+ },
+ {
+  "id": "M16",
+  "order": 13,
+  "date": "1946-08-15",
+  "group": "B",
+  "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
+  "title": "경제 첩보: 지린성 간도성의 경제 사정",
+  "badge": "restricted",
+  "list_right": "첩보보고",
+  "meta": [
+   {
+    "k": "일자",
+    "v": "1946-08-15"
+   },
+   {
+    "k": "발신",
+    "v": "Central Intelligence Group 중앙정보단",
+    "txt": true
+   },
+   {
+    "k": "종류",
+    "v": "첩보보고"
+   },
+   {
+    "k": "원제",
+    "v": "Economic Information: Economic Conditions in Chientao Province, Kirin",
+    "txt": true
+   },
+   {
+    "k": "CREST 번호",
+    "v": "cia-rdp82-00457r000100650005-8"
+   }
+  ],
+  "links": [
+   {
+    "k": "CREST",
+    "text": "아카이브닷오르그 원본",
+    "url": "https://archive.org/details/cia-rdp82-00457r000100650005-8"
+   }
+  ],
+  "summary": "간도성(間島省)의 석탄 생산, 기계 공업, 식량 사정, 통화, 옌지 시내 사정, 철도를 항목별로 적은 두 면짜리 보고다.",
+  "points": [
+   "라오터우거우(老頭溝) 탄광을 중국공산군이 운영한다. 정전과 부품 부족으로 하루 평균 생산이 들쭉날쭉하다. 일본인 밑에서는 네 갱에서 하루 7,000톤을 냈으나 지금은 제2갱과 제3갱만 쓴다. 1946년 7월 1일 제4갱에 불이 났다.",
+   "화룡(和龍)의 다섯 갱은 아직 생산이 없고 쌓아 둔 저탄을 헐어 쓴다. 저탄은 1945년 8월에 8,000톤이었다. 세 광산의 석탄은 공산군이 운영하는 철도가 쓴다.",
+   "농기계 공작소가 7월 1일 옌지에서 훈춘으로 옮겨졌고 라오터우거우 탄광의 수리 기계도 같이 갔다. 중국공산군은 일본인 기술자를 계속 쓰고 옌지에 스무 명이 있다.",
+   "간도성은 일본인 밑에서도 식량을 들여오던 곳이다. 교통이 어지러워 사정이 심각하다. 6월 한 달 동안 굶어 죽은 사람이 나온다. 누구의 처와 아이인지는 지워져 있다.",
+   "공산군은 만주족과 중국인에게 팔 식량을 열차로 들여왔고 일본인에게는 값을 더 받고 팔았다. 수수는 16킬로에 650엔이고 쌀값은 알려져 있지 않다.",
+   "만주국폐, 소련군표, 치둥은행권, 둥베이은행권 네 가지가 같은 값어치로 돈다.",
+   "옌지는 전등과 물이 평소대로 들어오고 평온하다. 조선인 조직의 본부가 옛 일본인 건설 사무소에 있고 중국공산군 본부는 옛 성 경찰훈련소에 있다.",
+   "옌지에서 둔화까지 하루 한 번 열차가 다니고 노선은 모두 표준궤다. 일본인은 열차를 탈 수 없다."
+  ],
+  "primary": "문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.) [판독 불가]\n공개 승인 1999/09/08 : CIA-RDP82-00457R0001[판독 불가]006\n대외비(RESTRICTED)\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n첩보보고(INTELLIGENCE REPORT)\n\n일자:  [판독 불가]\n정보 입수 일자(INFO. DATE):  25X1A2\n주제   경제 첩보: [판독 불가]\n배포(DIST.)  1946년 11월 29일\n면수  2\n보충(SUPPLEMENT)\n출처(ORIGIN)\n25X1X6\n\n[국립문서보관관(Archivist) [판독 불가]]\n\n1. 석탄 생산\n\n25X1X6\n가. 라오터우거우(Laot'oukou 老頭溝) (1°9- 10, 4m 5h) [원문 그대로]의 탄광은 [삭제]가 마지막으로 관찰하였을 때 중국공산군이 운영하고 있었다. 생산량은 정전과 낡은 기계의 부품 부족 때문에 들쭉날쭉하며, 하루 평균 <00 [원문 그대로]톤이다.\n\n나. 1946년 7월 1일까지는 제4갱을 채굴하였다. 그날 갱 안에 불이 났고, 지금은 제2갱과 제3갱을 쓴다.\n\n다. 일본인 밑에서는 이 광산이 네 개의 갱으로 이루어져 있었고 만주철도회사(Manchuria Railroad Company)가 운영하였으며, 하루 생산량은 7,000톤이었다.\n\n라. 화룡(Holung 和龍) (129-39, 42-38)에는 만주탄광주식회사(Manchuria Tanko Kabushiki Kaisha)의 갱 두 개와 산와광업(Sanwa Kongyo Mining Companies)의 갱 세 개가 있다. 중국공산군이 이를 가동하려 하고 있으나 아직 생산은 없다. 25X1X6 다만 쌓아 둔 저탄을 헐어 쓰고 있으며, 저탄은 19455년 [원문 그대로] 8월에 8,000톤이었다. 현재 저탄의 규모는 알려져 있지 않다.\n\n마. 위 세 광산의 석탄은 공산군이 운영하는 철도가 쓰고 있다.\n\n2. 그 밖의 생산\n\n가. 옌지(Yenchi 延吉) (129-31, 12-55) [원문 그대로]에는 [판독 불가] 기계를 [판독 불가]하는 업체가 있다. 농기계 공작소는 7월 1일 옌지에서 훈춘(Hunchun 琿春) (13022, 42-52) [원문 그대로]으로 옮겨졌다. 라오터우거우 탄광의 수리 기계도 같은 곳으로 옮겨졌다.\n\n나. 중국공산군은 아직도 일본인 기술자를 쓰고 있다. 옌지에는 지금 스무 명이 고용되어 있다.\n\n3. 식량 사정\n\n일본인 밑에서도 간도성(Chien Tao Province 間島省)은 식량을 들여오는 지방이었다. 지금은 25X1X6 교통과 통신이 어지러운 상태여서 사정이 심각하다. 6월 한 달 동안 [삭제]의 처와 아이 둘이 굶어 죽었다. 공산군은 만주족과 중국인에게 팔 식량을 열차 단위로 들여왔고, 값을 더 매겨 일본인에게도 팔았다. 수수(kaoliang) 값은 16킬로에 650엔이었다. 25X1A8a 쌀값은 알려져 있지 않다. 주: 이 지역의 식량 부족은 전에 보고된 바 없다.\n\n4. 통화\n\n네 가지 지폐가 돌고 있으며 값어치와 선호도가 모두 같다. 만주국폐가 있고, 소련군표가 있으며, 중국공산군이 낸 두 가지 지폐로 치둥은행권(Chitung Bank Notes)과 둥베이은행권(Tung Pei Bank Notes)이 있다.\n\n[배포 도장: [판독 불가] 대외비(RESTRICTED)  25X1A9a  25X1A2g / ADSO / 부(DEP.) [판독 불가] / PLANS / DADSO / EXEC. / [판독 불가]]\n\n25X1X6\n\n공개 승인 1999/09/08 : CIA-RDP82-00457R000109650005-8 [원문 그대로]\n2\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n5. 옌지 시내 사정\n\n옌지는 전등과 물이 평소대로 들어온다. 평온하고 질서가 있다. 새로 세워지는 공공 시설은 없다. 조선인 [판독 불가]주의자 본부는 전에 일본인의 다쿠미(Takumi) 건설 또는 공무 사무소였던 건물에 있다. 중국공산군은 전에 성 정부의 경찰훈련소였던 건물에 본부를 두고 있다.\n\n6. 철도 노선\n\n옌지와 둔화(Tunhua 敦化) (128-14, 43-12) 사이에 하루 한 번 열차가 다니며 두 시간이 걸린다. [삭제]는 철도 선로를 따라 걸었다. 일본인은 열차를 타는 것이 허용되지 않는다. 둔화에서 자오허(Chiaoho 蛟河) (127-20, 43-43)까지의 철도 여정은 세 시간이 걸렸다. 자오허에서 마안산(Maanshan 馬鞍山)까지 (128-45, 44-18) 열차로 40분이 걸렸다. 그는 노선이 모두 표준궤임을 보았다. 새로 놓는 철도는 보지도 못하였고 듣지도 못하였다.\n\n공개 승인 1999/09/08 : CIA-RDP82-00457R000100650005-8",
+  "secondary": "Document No. [판독 불가]\nNO CHANGE in Class. [판독 불가]\nApproved For Release 1999/09/08 : CIA-RDP82-00457R0001[판독 불가]006\nRESTRICTED\n\nCENTRAL INTELLIGENCE GROUP\nINTELLIGENCE REPORT\n\nDATE:  [판독 불가]\nINFO. DATE:  25X1A2\nSUBJECT   Economic Information: [판독 불가]\nDIST.  29 November 1946\nPAGES  2\nSUPPLEMENT\nORIGIN\n25X1X6\n\n[Archivist [판독 불가]]\n\n1. Coal Production\n\n25X1X6\na. The coal mine at Laot'oukou (1°9- 10, 4m 5h) [원문 그대로] was being operated by the Chinese Communists when last observed by [삭제]. Production, which varies owing to electricity failures and lack of parts for worn machinery, averages <00 [원문 그대로] tons a day.\n\nb. Up to 1 July 1946 Shaft #4 was mined. On that date there was a fire in the shaft, and now Shafts #2 and #3 are in use.\n\nc. Under the Japanese, the mine consisted of four shafts and was operated by the Manchuria Railroad Company, with a daily production of 7,000 tons.\n\nd. At Holung (129-39, 42-38) there are two shafts of the Manchuria Tanko Kabushiki Kaisha and three shafts of Sanwa Kongyo Mining Companies. The Chinese Communists are attempting to put them in operation, but as yet there is no production. 25X1X6 They are, however, drawing on the stockpile, which consisted of 8,000 tons in August 19455 [원문 그대로]. The size of the present stockpile is unknown.\n\ne. The coal from the above three mines is being used by the Communist-operated railroads.\n\n2. Other Production\n\na. At Yenchi (129-31, 12-55) [원문 그대로] there are [판독 불가] firms [판독 불가] machinery. The farm machine tool plant was moved from Yenchi on 1 July to Hunchun (13022, 42-52) [원문 그대로]. Also moved to the same place was the repair machinery from the Laot'oukou coal mine.\n\nb. The Chinese Communists are still using Japanese technicians. In Yenchi twenty are now employed.\n\n3. Food Situation\n\nEven under the Japanese, Chien Tao Province was a food-importing district. Now with 25X1X6 communications in a state of confusion, the situation is critical. During the month of June [삭제] wife and 2 children died of starvation. The Communists have shipped in trainloads of food for sale to the Manchus and Chinese, and also, though at a higher price, to the Japanese. The price of kaoliang was 650 yen for 16 kilos. 25X1A8a The price of rice is unknown. Note: No reports have been received previously of food shortages this area.\n\n4. Currency\n\nThere are four kinds of notes in circulation, all of equal value and desirability. There is Manchukuo currency; Soviet Military notes; and two kinds of currency issued by the Chinese Communists, Chitung Bank Notes and Tung Pei Bank Notes.\n\n[Routing block: [판독 불가] RESTRICTED  25X1A9a  25X1A2g / ADSO / DEP. [판독 불가] / PLANS / DADSO / EXEC. / [판독 불가]]\n\n25X1X6\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000109650005-8 [원문 그대로]\n2\n\nCENTRAL INTELLIGENCE GROUP\n\n5. Yenchi City Conditions\n\nYenchi has lights and water as usual. There is peace and good order. There are no new public installations being erected. The Korean [판독 불가]ist Headquarters is in the former Japanese Takumi Construction or Works Office; the Chinese Communists have their headquarters in the former Provincial Government Police Training School.\n\n6. Rail Lines\n\nTrains run once a day between Yenchi and Tunhua (128-14, 43-12), a two hour trip. [삭제] walked along rail line. No Japanese are permitted on the trains. The rail trip from Tunhua to Chiaoho (127-20, 43-43) took three hours. From Chiaoho to Maanshan (128-45, 44-18) by train took 40 minutes. He observed that the lines are all standard gauge. He did not see, nor was he informed, of any new rail construction.\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000100650005-8",
+  "notes": [
+   "[삭제·공개 표시] Approved For Release 1999/09/08 : CIA-RDP82-00457R000109650005-8 및 CIA-RDP82-00457R000100650005-8 (두 면의 공개 승인 도장. 문서번호가 두 곳에서 달리 찍혔다)",
+   "[삭제·공개 표시] 25X1X6 (ORIGIN 줄, 1항 앞, 라 항 안, 3항 안, 2면 머리)",
+   "[삭제·공개 표시] 25X1A2 (INFO. DATE 줄)",
+   "[삭제·공개 표시] 25X1A8a (3항 안)",
+   "[삭제·공개 표시] 25X1A9a, 25X1A2g (아래쪽 배포 도장 옆)",
+   "[삭제·공개 표시] 1항 가에서 관찰자를 가리키는 표시가 지워져 [삭제]로 옮겼다",
+   "[삭제·공개 표시] 3항에서 굶어 죽은 이가 누구의 처와 아이인지 그 이름이 지워져 [삭제]로 옮겼다",
+   "[삭제·공개 표시] 6항에서 선로를 따라 걸은 사람의 표시가 지워져 [삭제]로 옮겼다",
+   "[삭제·공개 표시] SUBJECT 줄의 표제 뒷부분이 판독되지 않는다",
+   "[삭제·공개 표시] Document No. 줄과 NO CHANGE in Class. 도장의 기재가 판독되지 않는다"
+  ],
+  "note": "표제는 색인의 원제 ECONOMIC INFORMATION: ECONOMIC CONDITIONS IN CHIENTAO PROVINCE KIRIN 에 따라 읽었다. 스캔에서는 `SUBJECT Economic Information:` 뒤가 떨어져 나갔다. 지명은 원문 표기를 앞세우고 병기했다. Laot'oukou 라오터우거우(老頭溝), Holung 화룡(和龍), Yenchi 옌지(延吉), Hunchun 훈춘(琿春), Tunhua 둔화(敦化), Chiaoho 자오허(蛟河), Maanshan 마안산(馬鞍山), Chien Tao Province 간도성(間島省). 원문은 `Chien Tao` 로 띄어 썼고 색인 제목은 `Chientao` 로 붙여 썼다. 둘 다 간도다. 좌표는 고치지 않았다. 라오터우거우의 `(1°9- 10, 4m 5h)` 는 도와 분이 성립하지 않는 값이다. 옌지의 `(129-31, 12-55)` 는 위도가 12도로 찍혔고 훈춘의 `(13022, 42-52)` 는 경도의 도와 분 사이가 붙어 있다. 둔화·자오허·마안산·화룡의 좌표는 형태가 온전하다. 숫자는 고치지 않았다. 하루 평균 생산량이 `<00 tons` 로 찍혀 앞 숫자를 가릴 수 없다. 저탄이 쌓인 시점이 `August 19455` 로 찍혀 있다. 1945년으로 보이나 날짜의 숫자는 고치지 않았다. 3항에서 굶어 죽은 사람 대목은 원문이 `During the month of June ___ wife and 2 children died of starvation` 이고 앞의 소유자 이름이 지워져 있다. 채우지 않았다. 5항의 `The Korean ___ist Headquarters` 는 가운데가 떨어져 나가 어떤 조직인지 확정되지 않는다. 접미사 ist 만 남은 그대로 두었다. 낱말 교정은 `Leotioukow` 를 Laot'oukou 로, `Shaw. #4` 를 Shaft #4 로, `Manchuria Reilroad` 를 Manchuria Railroad 로, `Tonko Kabue shikikaisha` 를 Tanko Kabushiki Kaisha 로, `attompiing`·`cperation`·`productioa` 를 attempting·operation·production 으로, `d>aving` 을 drawing 으로, `Yenehi` 를 Yenchi 로, `etill`·`Japenese`·`technicians` 를 still·Japanese·technicians 로, `Eyeu` 를 Even 으로, `evitical` 을 critical 로, `cied` 를 died 로, `trainleada` 를 trainloads 로, `kacliang` 을 kaoliang 으로, `shorteges` 를 shortages 로, `Manchukvo` 를 Manchukuo 로, `Yoviet` 를 Soviet 으로, `* Pung Pei` 를 Tung Pei 로, `lighta` 를 lights 로, `ron once a day` 를 run once a day 로, `Chiacho` 를 Chiaoho 로, `tha`·`ses`·`ef` 를 the·see·of 로 한 것이다. 2항 가의 `there are rere firms vormintne nechinery` 는 업체 수와 업종을 가리키는 두 낱말이 뭉개져 판독 불가로 두었다. 마지막 문장의 `food shortages this area` 는 전치사가 빠진 채로 찍혀 있고 그대로 두었다. 아래쪽 배포 도장은 부서 약호만 몇 개 읽히고 나머지는 판독되지 않는다.",
+  "warn": false,
+  "search": "Approved For Release 1999/09/08 : CIA-RDP82-00457R000109650005-8 및 CIA-RDP82-00457R000100650005-8 (두 면의 공개 승인 도장. 문서번호가 두 곳에서 달리 찍혔다) 25X1X6 (ORIGIN 줄, 1항 앞, 라 항 안, 3항 안, 2면 머리) 25X1A2 (INFO. DATE 줄) 25X1A8a (3항 안) 25X1A9a, 25X1A2g (아래쪽 배포 도장 옆) 1항 가에서 관찰자를 가리키는 표시가 지워져 [삭제]로 옮겼다 3항에서 굶어 죽은 이가 누구의 처와 아이인지 그 이름이 지워져 [삭제]로 옮겼다 6항에서 선로를 따라 걸은 사람의 표시가 지워져 [삭제]로 옮겼다 SUBJECT 줄의 표제 뒷부분이 판독되지 않는다 Document No. 줄과 NO CHANGE in Class. 도장의 기재가 판독되지 않는다 Economic Information: Economic Conditions in Chientao Province, Kirin"
+ },
+ {
+  "id": "M07",
+  "order": 14,
   "date": "1946-09-01",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -823,7 +954,7 @@
  },
  {
   "id": "M08",
-  "order": 13,
+  "order": 15,
   "date": "1946-10-01",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -885,7 +1016,7 @@
  },
  {
   "id": "M09",
-  "order": 14,
+  "order": 16,
   "date": "1946-10-31",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -946,7 +1077,7 @@
  },
  {
   "id": "M10",
-  "order": 15,
+  "order": 17,
   "date": "1946-11-11",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -1005,8 +1136,67 @@
   "search": "Approved For Release 1999/09/08 : CIA-RDP82-00457R000300730006-6 (면마다 찍힌 공개 승인 도장, 세 번) 25X1X6 (DATE 줄과 ORIGIN 줄) 25X1A6a, 25X1A6, 25X1A2g, 25X1A8a, 25X1A9a (본문 여백의 면제 표시) 머리 주에서 참조 보고서 번호와 접수처 두 곳이 먹칠되어 [삭제]로 옮겼다 Military Information: Disposition of Soviet Troops in Northern Korea"
  },
  {
+  "id": "M17",
+  "order": 18,
+  "date": "1946-11-26",
+  "group": "B",
+  "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
+  "title": "군사 첩보: 만주",
+  "badge": "confidential",
+  "list_right": "첩보보고",
+  "meta": [
+   {
+    "k": "일자",
+    "v": "1946-11-26"
+   },
+   {
+    "k": "발신",
+    "v": "Central Intelligence Group 중앙정보단",
+    "txt": true
+   },
+   {
+    "k": "종류",
+    "v": "첩보보고"
+   },
+   {
+    "k": "원제",
+    "v": "Military Information: Manchuria",
+    "txt": true
+   },
+   {
+    "k": "CREST 번호",
+    "v": "cia-rdp82-00457r000100370010-3"
+   }
+  ],
+  "links": [
+   {
+    "k": "CREST",
+    "text": "아카이브닷오르그 원본",
+    "url": "https://archive.org/details/cia-rdp82-00457r000100370010-3"
+   }
+  ],
+  "summary": "뤼순 일대의 계엄과 통행금지, 그리고 안둥의 압록강 철교를 지키던 소련군이 조선 쪽으로 물러난 일을 적은 두 문단짜리 보고다.",
+  "points": [
+   "국가 표시는 중국이나 둘째 문단은 압록강 국경을 다룬다.",
+   "뤼순 일대에 10월 10일부터 계엄이 시행된다. 통행금지는 오후 8시부터 이튿날 오전 5시까지다.",
+   "안둥의 압록강 철교를 지키던 소련군이 10월 28일 조선 쪽으로 물러난다. 다리를 지키던 병력이 강 건너로 옮겨간 것이다.",
+   "배포일은 1946년 11월 26일이고 면수는 한 면이다."
+  ],
+  "primary": "[판독 불가]\n공개 승인 2005/07/12 : CIA-RDP82-00457R000100370010-3\n\n기밀(CONFIDENTIAL)\n25X1  기밀(CONFIDENTIAL)\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n첩보보고(INTELLIGENCE REPORT)   25X1\n국가   중국(China)            일자:  25X1\n정보(INFO.)\n주제   군사 첩보: 만주        배포(DIST.)  1946년 11월 26일\n25X1     면수  1\n\n배포처(DISTRIBUTION)\n\n1. 뤼순(Port Arthur 旅順) 일대에 10월 10일부터 계엄이 시행되고 있다. 통행금지 시간은 오후 8시부터 이튿날 오전 5시까지다.\n\n25X1  [판독 불가]\n\n2. 안둥(An-tung 安東)의 압록강(Yalu River) 철교를 지키던 소련군이 10월 28일 조선 쪽으로 물러났다.\n\n문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.) [판독 불가]\n[ ] 비밀해제(DECLASSIFIED)\n등급 변경(Class. CHANGED TO):  TS  S  C\nDDA 각서, 4 [판독 불가] 17   25X1\n\n기밀(CONFIDENTIAL)\n\n공개 승인 2005/07/12 : CIA-RDP82-00457R000100370010-3",
+  "secondary": "[판독 불가]\nApproved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3\n\nCONFIDENTIAL\n25X1  CONFIDENTIAL\n\nCENTRAL INTELLIGENCE GROUP\n\nINTELLIGENCE REPORT   25X1\nCOUNTRY   China            DATE:  25X1\nINFO.\nSUBJECT   Military Information: Manchuria     DIST.  26 November 1946\n25X1     PAGES  1\n\nDISTRIBUTION\n\n1. Martial law has been enforced in the Port Arthur area since 10 October. Curfew hours are from 8 p.m. until 5 a.m. the following day.\n\n25X1  [판독 불가]\n\n2. The Soviet troops which were guarding the Yalu River bridge at An-tung withdrew to the Korean side on 28 October.\n\nDocument No. [판독 불가]\nNO CHANGE in Class. [판독 불가]\n[ ] DECLASSIFIED\nClass. CHANGED TO:  TS  S  C\nDDA Memo, 4 [판독 불가] 17   25X1\n\nCONFIDENTIAL\n\nApproved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3",
+  "notes": [
+   "[삭제·공개 표시] Approved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3 (앞뒤 두 곳의 공개 승인 도장)",
+   "[삭제·공개 표시] 25X1 (문서 머리, INTELLIGENCE REPORT 줄, DATE 줄, PAGES 줄 왼쪽, 1항과 2항 사이, 비밀해제 처리 도장 안)",
+   "[삭제·공개 표시] Document No. 줄과 NO CHANGE in Class. 도장의 기재가 판독되지 않는다",
+   "[삭제·공개 표시] DDA Memo 줄의 일자가 판독되지 않는다"
+  ],
+  "note": "본문이 두 문단뿐이고 비교적 온전하게 읽힌다. 국가 표시가 `Cina` 로 찍혀 China 로 읽었다. 표제의 `Milatery Information; Manchuria` 는 Military Information: Manchuria 로 읽었다. 낱말 교정은 `Maréial lew` 를 Martial law 로, `eines 10 Ostober` 를 since 10 October 로, `Carfew` 를 Curfew 로, `whieh` 를 which 로, `Eorean` 을 Korean 으로, `so the Korean side` 를 to the Korean side 로 한 것이다. 문서 첫 줄의 손글씨와 1항 옆의 `Meltdenf` 는 글자를 가릴 수 없어 판독 불가로 두었다. 등급 표시가 `CONFIDENTTAT,` 와 `SOMFIDENTIAL-` 로 두 번 찍혀 있고 둘 다 CONFIDENTIAL 로 읽었다. 날짜의 숫자는 고치지 않았다. 배포일 `26 November 1946` 과 본문의 `10 October`·`28 October` 는 원문대로다. 아래쪽 비밀해제 처리 도장의 `DDA Memo, 4 ... 17` 은 읽힌 그대로 두었다. 좌표는 이 문서에 나오지 않는다. 안둥의 압록강 철교는 안둥과 신의주를 잇는 다리다.",
+  "warn": false,
+  "search": "Approved For Release 2005/07/12 : CIA-RDP82-00457R000100370010-3 (앞뒤 두 곳의 공개 승인 도장) 25X1 (문서 머리, INTELLIGENCE REPORT 줄, DATE 줄, PAGES 줄 왼쪽, 1항과 2항 사이, 비밀해제 처리 도장 안) Document No. 줄과 NO CHANGE in Class. 도장의 기재가 판독되지 않는다 DDA Memo 줄의 일자가 판독되지 않는다 Military Information: Manchuria"
+ },
+ {
   "id": "M11",
-  "order": 16,
+  "order": 19,
   "date": "1946-12-10",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -1068,7 +1258,7 @@
  },
  {
   "id": "M12",
-  "order": 17,
+  "order": 20,
   "date": "1946-12-11",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -1131,8 +1321,71 @@
   "search": "WU [판독 불가] (25톤 배의 선주) WANG Ch'ing-kung (어민, 배를 나포당함) Kie-la-fu-fu 대령 (신의주 주둔 러시아군 사령부, 러시아인 이름의 중국식 음역) LIAO [판독 불가] 장군 (제3수정구사령부 참모장) LIU Ch'ing-t'ou (국제운수공사 직원) CHU [판독 불가] (보안대 사령관으로 보인다) Sanitized - Approved For Release : CIA-RDP82-00457R000300550006-6 (두 면의 공개 승인 도장) 25X1X6, 25X1X6a (DATE 줄과 ORIGIN 줄) 25X1A6a, 25X1A9a, 25X1A2g (여백의 면제 표시) ORIGIN 줄의 출처 표시가 먹칠되어 [삭제]로 옮겼다 마지막 문단에서 보안대 사령관의 이름이 들어갈 자리가 먹칠되어 [삭제]로 옮겼다 Political Information: Seizure of Fishing Boats on Yalu River"
  },
  {
+  "id": "M18",
+  "order": 21,
+  "date": "1946-12-11",
+  "group": "B",
+  "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
+  "title": "경제 첩보: 국민당 측의 옛 일본 어선 사용",
+  "badge": null,
+  "list_right": "첩보보고",
+  "meta": [
+   {
+    "k": "일자",
+    "v": "1946-12-11"
+   },
+   {
+    "k": "발신",
+    "v": "Central Intelligence Group 중앙정보단",
+    "txt": true
+   },
+   {
+    "k": "종류",
+    "v": "첩보보고"
+   },
+   {
+    "k": "원제",
+    "v": "Economic Information: Nationalist Use of Former Japanese Fishing Boats",
+    "txt": true
+   },
+   {
+    "k": "CREST 번호",
+    "v": "cia-rdp82-00457r000200010010-1"
+   }
+  ],
+  "links": [
+   {
+    "k": "CREST",
+    "text": "아카이브닷오르그 원본",
+    "url": "https://archive.org/details/cia-rdp82-00457r000200010010-1"
+   }
+  ],
+  "summary": "옛 일본 어선 다섯 척의 제원과 쓰임, 승조원 임금표를 적은 한 장짜리 보고다. 운항 중인 두 척이 한약을 싣고 조선으로 떠난다고 적혀 있다.",
+  "points": [
+   "배의 제원이 먼저 나온다. 길이 66피트, 무게 약 45톤, 분당 1520회전에서 70마력, 속력 7노트다.",
+   "**운항 중인 두 척이 곧 한약을 싣고 조선으로 떠난다.** 조선과 이어지는 대목은 이 한 문장이다.",
+   "배의 내력이 두 단계다. 원래 일본 어선이었고, 전쟁이 끝나면서 중국공산군 손에 들어가 즈리만에서 어선으로 쓰였다. 제목은 국민당 측의 사용이라고 적고 있다.",
+   "다섯 척 중 두 척은 운항 중이고 세 척은 탕구에서 수리 중이다. 수리 중인 배는 기관의 마력이 다르다.",
+   "승조원 임금표가 붙어 있다. 선장 월 20만, 기관장 16만, 선원 5천 CNC다. 식비는 별도로 한 사람당 월 약 55,060 CNC다.",
+   "정보원 자신이 표 안에 관찰자(Observer)로 올라 있다."
+  ],
+  "primary": "[공개 승인 : CIA-RDP82- 90457R000200040010- 4 원문 그대로]\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n첩보보고(INTELLIGENCE REPORT)\n\n25X1X6\n\n국가  중국                            일자:\n첩보(INFO.)\n주제  경제 첩보: 국민당 측의 옛 일본 어선 사용\n배포(DIST.)  1946년 12월 11일\n\n25X1A6a\n\n25X1X6\n\n면수  1\n보충(SUPPLEMENT)\n\n1. 배는 길이 66피트, 너비 [판독 불가]피트이며 무게는 약 45톤이다. 이 배의 동력 장치는 [판독 불가]기통 기관으로, 분당 1520회전에서 지시마력 70마력을 내고 속력은 7노트다.\n\n2. 전쟁이 끝날 무렵 이 배 여러 척이 중국공산군(Chinese Communists)의 손에 들어갔고, 이들은 배를 주로 어선으로 써서 즈리만(Gulf of Chihli 直隷灣)에서 끌그물 조업을 했다. 연간 어획이 가장 적은 초가을 몇 달 동안에는 배를 화물 운송에 쓴다. 행선지는 [판독 불가]다.\n\n3. 수산국(The Fisheries)은 이 배를 다섯 척 가지고 있다. 두 척은 운항 중이고 세 척은 탕구(Tangku 塘沽)에서 수리 중이다. 정보원은 수리 중인 배의 기관이 지금 쓰이는 배의 기관과 마력이 같지 않다고 말한다. 운항 중인 두 척은 곧 한약(Chinese medicines)을 싣고 조선(Korea)으로 떠난다.\n\n4. 승조원 수와 임금: 이 배들은 화물을 실어 나를 때 각각 열 명의 승조원을 태운다. 어로에 나갈 때는 각각 선원 두 명을 더 태운다. 승조원에게는 식사가 지급되는데, 하루 세 끼 [판독 불가]에서 먹는 것으로 한 사람당 한 달에 약 CNC 55,060[원문 그대로]이 든다. 아래의 급료는 이 식비와 별도다.\n\n    선장(Master)                    200,000.  CNC 월\n    관찰자(Observer, 정보원)         [판독 불가]\n    기관장(Engineer)                160,000.  \"   \"    \"\n    선원 겸 취사(Sailor Cook)        [판독 불가]\n    제1기관원(No. 1 Engine man)      [판독 불가]\n    제2기관원(No. 2 Engine man)      [판독 불가]\n    제1선원(No. 1 Sailor)            [판독 불가]\n    선원(Sailors)                     5,000.  \"   \"    \"\n\n    [표에서 떨어져 나온 금액 두 줄]\n                                     10,000.  \"   \"    \"\n                                     12,000.  \"   \"    \"\n\n등급 변경(Class. CHANGED TO): [판독 불가]\n분류(CLASSIFICATION) [판독 불가]",
+  "secondary": "Approved For Release : CIA-RDP82- 90457R000200040010- 4 [원문 그대로]\n\nCENTRAL INTELLIGENCE GROUP\nINTELLIGENCE REPORT\n\n25X1X6\n\nCOUNTRY  China                        DATE:\nINFO.\nSUBJECT  Economic Information: Nationalist Use of Former Japanese Fishing Boats\nDIST.  11 December 1946\n\n25X1A6a\n\n25X1X6\n\nPAGES  1\nSUPPLEMENT\n\n1. The boats are 66 feet long, [판독 불가] feet wide, and weigh approximately 45 tons. The power plant of the craft is a [판독 불가]-cylinder engine with an indicated 70 horsepower at 1520 revolutions per minute and a speed of 7 knots.\n\n2. At the end of the war, a number of these craft fell into the hands of the Chinese Communists, who used them principally as fishing craft, trolling with them in the Gulf of Chihli. In the early autumn months when the yearly catch is at its lowest level, they use the boats to transport cargoes to [판독 불가].\n\n3. The Fisheries have five of these boats. Two are in operation and three are under repair at Tangku. Source says that the engines on the ships under repair do not have the same horsepower as those now in use. The two operating vessels will leave soon for Korea with a cargo of Chinese medicines.\n\n4. Crew strength and wages: These vessels each carry a crew of ten when hauling cargo. When on fishing trips they carry two additional sailors each. Members of the crew are furnished food at a cost of approximately CNC 55,060 [원문 그대로] each per month for three meals a day at [판독 불가]. The salaries below are in addition to this food allowance:\n\n    Master              200,000.  CNC per month\n    Observer (Source)   [판독 불가]\n    Engineer            160,000.  \"   \"    \"\n    Sailor Cook         [판독 불가]\n    No. 1 Engine man    [판독 불가]\n    No. 2 Engine man    [판독 불가]\n    No. 1 Sailor        [판독 불가]\n    Sailors               5,000.  \"   \"    \"\n\n    [표에서 떨어져 나온 금액 두 줄]\n                         10,000.  \"   \"    \"\n                         12,000.  \"   \"    \"\n\nClass. CHANGED TO: [판독 불가]\nCLASSIFICATION [판독 불가]",
+  "notes": [
+   "[삭제·공개 표시] 25X1X6 (표제부 DATE 줄 위)",
+   "[삭제·공개 표시] 25X1A6a (표제부 가운데)",
+   "[삭제·공개 표시] 25X1X6 (본문 앞)",
+   "[삭제·공개 표시] Approved For Release : CIA-RDP82- 90457R000200040010- 4 (공개 승인 도장. 문서번호를 읽힌 그대로 두었다)",
+   "[삭제·공개 표시] Class. CHANGED TO: (등급 변경 도장. 내용이 판독되지 않는다)",
+   "[삭제·공개 표시] CLASSIFICATION (아래쪽 분류 표시. 등급이 판독되지 않는다)"
+  ],
+  "note": "OCR 훼손이 심하다. 낱말은 고쳤다. `Chins`는 China, `Roats`는 Boats, `shinese Gomnists`는 Chinese Communists, `Fisherics`는 Fisheries, `chase boate`는 these boats, `gassels`는 vessels, `carge`는 cargo, `Grew atrength`는 Crew strength, `perry`는 carry, `havling`은 hauling, `feod`는 food, `Ceok`은 Cook, `thia faod`는 this food 로 읽었다. 통화 약호는 원문에 `CNG`와 `CHC`가 섞여 나오는데 둘 다 CNC(중국 법폐)로 읽었다. 금액은 한 자리도 고치지 않았다. 식비 `55,060`은 월 20만을 받는 선장의 급료에 견주면 자릿수가 어색하나 원문 그대로 두었다. 임금표는 원문에서 직책 이름 칸과 금액 칸이 어긋나 있다. 선장 200,000, 기관장 160,000, 선원 5,000 세 줄만 직책과 금액이 붙어 있고, `10,000`과 `12,000` 두 금액은 어느 직책의 것인지 판별되지 않아 표 아래에 따로 두었다. 나머지 직책의 금액은 [판독 불가]로 남겼다. 어느 직책에 붙일지 짐작하지 않았다. 배 너비와 기통 수도 원문에서 각각 `§`와 `@ geoylinder`로 뭉개져 [판독 불가]로 두었다. 하루 세 끼를 먹는 곳으로 적힌 `S88`도 판독되지 않는다. 둘째 항의 화물 행선지 `Ror Ga`는 조선으로 읽힐 여지가 있으나 확정할 수 없어 [판독 불가]로 두었다. 제목은 국민당 측의 사용이라고 하는데 본문 둘째 항은 배가 중국공산군 손에 들어갔다고 적는다. 원문의 이 어긋남을 그대로 두었다. 공개 승인 도장의 문서번호는 `90457R000200040010-4`로 읽히는데 목록의 문서번호(00457R000200010010-1)와 다르다. 숫자를 고치지 않았다. 같은 날짜의 M12와 이어진다. 12월 11일 압록강에서 배를 뺏긴 보고와 같은 날 다른 배들이 조선으로 떠난 보고다. 여드레 뒤 이 배의 선장 둘이 M19에서 다롄의 환율을 알려 준다.",
+  "warn": true,
+  "search": "25X1X6 (표제부 DATE 줄 위) 25X1A6a (표제부 가운데) 25X1X6 (본문 앞) Approved For Release : CIA-RDP82- 90457R000200040010- 4 (공개 승인 도장. 문서번호를 읽힌 그대로 두었다) Class. CHANGED TO: (등급 변경 도장. 내용이 판독되지 않는다) CLASSIFICATION (아래쪽 분류 표시. 등급이 판독되지 않는다) Economic Information: Nationalist Use of Former Japanese Fishing Boats"
+ },
+ {
   "id": "M13",
-  "order": 18,
+  "order": 22,
   "date": "1946-12-18",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
@@ -1192,8 +1445,77 @@
   "search": "Approved For Release 2001/03/22 : CIA-RDP82-00457R000200200007-4 (공개 승인 도장) 25X1A (DATE 줄과 문서 끝) 25X1C (PAGES 줄 앞) 25X1X (본문 앞) ORIGIN 줄의 출처 표시가 먹칠되어 [삭제]로 옮겼다 아래쪽 비밀해제 처리 도장의 문서번호와 일자, 담당자 란이 판독되지 않는다 Military Information: Chinese Communists Trading Supplies with the Soviets in North Korea."
  },
  {
+  "id": "M19",
+  "order": 23,
+  "date": "1946-12-19",
+  "group": "B",
+  "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
+  "title": "경제 첩보: 다롄의 통화",
+  "badge": "confidential",
+  "list_right": "첩보보고",
+  "meta": [
+   {
+    "k": "일자",
+    "v": "1946-12-19"
+   },
+   {
+    "k": "발신",
+    "v": "Central Intelligence Group 중앙정보단",
+    "txt": true
+   },
+   {
+    "k": "종류",
+    "v": "첩보보고"
+   },
+   {
+    "k": "원제",
+    "v": "Economic Information: Currency in Dairen",
+    "txt": true
+   },
+   {
+    "k": "CREST 번호",
+    "v": "cia-rdp82-00457r000200220009-0"
+   }
+  ],
+  "links": [
+   {
+    "k": "CREST",
+    "text": "아카이브닷오르그 원본",
+    "url": "https://archive.org/details/cia-rdp82-00457r000200220009-0"
+   }
+  ],
+  "summary": "다롄에서 도는 돈을 세 부분으로 나눠 적은 보고다. 유통 중인 통화, 환율, 유통 상황이다. 조선은행권이 세 통화 가운데 하나로 올라 있다.",
+  "points": [
+   "**다롄에서 쓰이는 통화가 세 가지뿐이라고 못 박는다.** 만주국폐, 소련군표, 그리고 조선은행권이다.",
+   "조선은행권이 만주 항구의 일상 통화로 돌고 있다. 해방 뒤에도 조선의 돈이 국경 밖에서 통용된다는 기록이다.",
+   "조선은행권과 소련군 통화가 100 대 100으로 교환된다는 대목이 있고, 뒤에 소련군표 1.80 대 조선은행권 1이라는 다른 숫자가 이어진다. 두 숫자가 어긋나는데 문서는 둘 다 싣고 있다.",
+   "가장 널리 도는 것은 소련군표다. 다만 원문 편집자가 「가장」이라는 낱말에 빗금을 쳐 판독을 확신하지 못한다고 표시했다.",
+   "소련 측이 중국공산당 측 지폐의 유통을 금지한다. 인플레이션을 피하려는 것이라고 적혀 있다.",
+   "국민당 측이 소련군표를 회수하자 그 돈이 공산당 측 지역과 다롄으로 몰려 물가가 두 배로 올랐다.",
+   "미화 달러가 정크선으로 상하이에서 다롄으로 들어온다. 앞서 붙잡힌 사람들은 체벌을 받고 재산을 몰수당했다.",
+   "정보원이 밝혀져 있다. 다롄과 국민당 측 항구, 공산당 측 항구를 오간 전직 어선 선장 두 사람이다. 통역은 자신이 사실이라고 본 부분만 옮겼다고 말했다."
+  ],
+  "primary": "문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.)\n[공개 승인 1999/09/08 : CIA-RDP82-00457R0002002960099 원문 그대로]\n\n[ ] 비밀해제(DECLASSIFIED)\n\n등급 변경(Class. CHANGED TO): TS  S\nDDA 각서, 1977년 4월 4일\n근거: DDA Reg. 77/1763[원문 그대로]\n일자: [판독 불가]  담당: [판독 불가]\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n첩보보고(INTELLIGENCE REPORT)\n\n국가  중국                            일자:\n첩보(INFO.)  기재된 대로\n배포(DIST.)  1946년 12월 19일\n\n면수  [판독 불가]\n보충(SUPPLEMENT)\n\n주제  경제 첩보: 다롄의 통화\n\n출처(ORIGIN)  기재된 대로   25X1X6\n\n25X1X6\n\n가. 유통 중인 통화\n\n1. 다롄(Dairen 大連)에서 유통되는 은행권은 다음과 같다.\n   ㄱ. 옛 만주중앙은행권(Central Bank of Manchuria notes, 만주국폐 Manchurian yuan).\n   ㄴ. 조선은행권(Bank of Korea notes).\n   ㄷ. 소련군표(Soviet Army notes).\n\n2. 다롄에서 /가장?/ 널리 유통되는 통화는 소련군표다. 몇 달 전 인민호성보(Jen Min Hu Sheng Pao)의 인쇄소가 [판독 불가] 지폐를 인쇄해도 좋다는 허가를 받았다. 그러나 아직 인쇄된 것은 없다.\n\n3. 다롄의 기준 /?/ 통화는 소련군표다.\n\n4. 다롄에서 쓰이는 통화는 세 가지뿐이다. 만주국폐, 소련군 통화, 조선은행권이다.\n\n25X1X6\n\n25X1A9a\n\n분류(CLASSIFICATION)  [판독 불가]   25X1A8a\n\n25X1A2g\n[공개 승인 1999/09/08 : CIA-RDP82-00457R [판독 불가] -0]\n\n25X1X6  나. 환율\n\n1. 미화 달러 환율은 다음과 같았다.\n\n   1946년 4월 3일    1달러를 만주국폐로 바꾸면   175.00\n   [판독 불가]         \"    \"     \"        \"       \"      209,00[원문 그대로]\n   [판독 불가]         \"    \"     \"        \"       \"      750 200[원문 그대로]\n   [판독 불가]         \"    \"     \"        \"       \"      550 600[원문 그대로]\n   [판독 불가] 9월      \"    \"     \"        \"       \"      43 »D0[판독 불가]\n\n   다롄의 환율은 톈진(Tientsin 天津)과 상하이(Shanghai 上海)의 환율에 [판독 불가]된다.\n\n25X1A6a\n\n   열흘에 한 번꼴로 미화 달러가 중국 정크선을 통해 상하이에서 다롄으로 [판독 불가]되어 들어온다. 지금 이 일에 관여하는 인원은 모두 중국인이다. 앞서 몇 차례는 [판독 불가]이 이 일을 하다 붙잡혔다. 이들은 체벌을 받았고 재산을 몰수당했다.\n\n25X1X6\n\n2. 만주국폐, 조선은행권, 소련군표 사이의 환율:\n   ㄱ. 만주국폐와 소련군표는 각각 100 대 159의 비율로 교환되었다.\n   ㄴ. 조선은행권과 소련군 통화는 각각 100 대 100의 비율로 교환되었다.\n25X1A6a\n\n   [주: 앞서 소련군표와 만주국폐가 같은 값이라고 보고된 바 있다.]\n\n25X1X6\n\n3. 만주국폐, 조선은행권, 소련군표 사이의 환율에 관한 추가 보고:\n   ㄱ. 소련군표 1.80 대 조선은행권 1.\n   ㄴ. 소련군표 1.50 대 만주국폐 1.\n\n   [정보원: 다롄과 국민당 측 항구, 공산당 측 항구를 오간 전직 어선 선장 두 사람. 통역은 톈진의 국립수산국(National Bureau of Fisheries)에 딸린 관찰자(observer)다. 그는 정보원의 진술 가운데 자신이 사실이라고 판단한 부분만 통역했다고 말했다. 면담 일자는 8월 28일이다. 정보의 일자는 밝혀지지 않았다. 출처지: 톈진.]\n\n4. 소련군표는 만주국폐 17410[원문 그대로]의 비율로 교환되었다.\n\n[공개 승인 1999/09/08 : CIA-RDP82-00457R000200220009-0]\n\n[공개 승인 1999/09/08 : CIA-RDP82-00457R000700220689-0 원문 그대로]\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n- 5 -[원문 그대로]\n\n25X1X6  다. 유통\n\n1. 소련 측은 공산당 측이 발행한 지폐의 유통을 금지했다. 이미 유통 중인 통화의 인플레이션을 피하려는 것이다. CRC[원문 그대로]는 아직 유통되지 않았다.\n\n2. 국민당 측이 자기가 장악한 지역에서 소련군표를 회수하기 시작한 뒤로, 이 지폐가 공산당 측이 쥐고 있는 지역으로, 특히 다롄으로 크게 흘러들었다. 이 때문에 여러 물품의 값이 이전의 두 배로 올랐다.\n\n기밀(CONFIDENTIAL)\n\n[공개 승인 1999/09/08 : CIA-RDP82-00457R000200220009-0]",
+  "secondary": "Document No. [판독 불가]\nNO CHANGE in Class.\nApproved For Release 1999/09/08 : CIA-RDP82-00457R0002002960099 [원문 그대로]\n\n[ ] DECLASSIFIED\n\nClass. CHANGED TO: TS  S\nDDA Memo, 4 Apr 77\nAuth: DDA Reg. 77/1763 [원문 그대로]\nDate: [판독 불가]  By: [판독 불가]\n\nCENTRAL INTELLIGENCE GROUP\nINTELLIGENCE REPORT\n\nCOUNTRY  China                        DATE:\nINFO.  As stated\nDIST.  19 December 1946\n\nPAGES  [판독 불가]\nSUPPLEMENT\n\nSUBJECT  Economic Information: Currency in Dairen\n\nORIGIN  As stated   25X1X6\n\n25X1X6\n\nA. Currency in circulation\n\n1. Bank notes in circulation in Dairen are as follows:\n   a. The former Central Bank of Manchuria notes (Manchurian yuan).\n   b. Bank of Korea notes.\n   c. Soviet Army notes.\n\n2. The currency in /greatest?/ circulation in Dairen is the Soviet Army note. A few months ago, the Jen Min Hu Sheng Pao's printing shop was given permission to print [판독 불가] notes. None have been printed yet, however.\n\n3. The standard /?/ Dairen currency is the Soviet Army note.\n\n4. Only three currencies are used in Dairen: Manchurian yuan, Soviet Army currency and Korean notes.\n\n25X1X6\n\n25X1A9a\n\nCLASSIFICATION  [판독 불가]   25X1A8a\n\n25X1A2g\nApproved For Release 1999/09/08 : CIA-RDP82-00457R [판독 불가] -0\n\n25X1X6  B. Exchange Rates\n\n1. U.S. dollar exchange rates were as follows:\n\n   3 April 1946     $1 exchanged for Manchurian yuan   175.00\n   [판독 불가]        \"    \"     \"        \"       \"      209,00 [원문 그대로]\n   [판독 불가]        \"    \"     \"        \"       \"      750 200 [원문 그대로]\n   [판독 불가]        \"    \"     \"        \"       \"      550 600 [원문 그대로]\n   [판독 불가] September  \"    \"     \"     \"       \"      43 »D0 [판독 불가]\n\n   The exchange rate in Dairen is [판독 불가] by the exchange rate in Tientsin and Shanghai.\n\n25X1A6a\n\n   About every ten days, U.S. dollars are [판독 불가] into Dairen from Shanghai by means of Chinese junks. Personnel involved in this traffic now are all Chinese. In several earlier cases, [판독 불가] were apprehended in this activity. They were given physical punishment and their property was confiscated.\n\n25X1X6\n\n2. Manchurian, Korean and Soviet Army dollar exchange rates:\n   a. Manchurian yuan and Soviet Army dollars were exchangeable at a rate of 100 to 159, respectively.\n   b. Korean notes and Soviet Army currency were exchangeable at a rate of 100 to 100, respectively.\n25X1A6a\n\n   [Note: It was previously reported that Soviet Army notes and Manchurian yuan were of equal value.]\n\n25X1X6\n\n3. Additional report on exchange rates between Manchurian, Korean and Soviet Army dollars:\n   a. Soviet 1.80 to 1 Korean.\n   b. Soviet 1.50 to 1 Manchurian yuan.\n\n   [Source: Two ex-fishing boat captains who travelled between Dairen and both Nationalist and Communist ports. Interpreter is an observer attached to the National Bureau of Fisheries at Tientsin. He stated that he had interpreted only such parts of source's reports as he considered true. Date of interview was 28 August. Date of information was not given. Origin: Tientsin.]\n\n4. Soviet Army notes were exchanged at a rate of 17410 [원문 그대로] Manchurian yuan.\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000200220009-0\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000700220689-0 [원문 그대로]\nCENTRAL INTELLIGENCE GROUP\n\n- 5 - [원문 그대로]\n\n25X1X6  C. Circulation\n\n1. The Soviets have forbidden the circulation of the paper money issued by the Communists because the Soviets wish to avoid inflation of the currency already in circulation. CRC [원문 그대로] has not yet been circulated.\n\n2. Since the Nationalists began to call in the Soviet Army notes in the areas they control, there has been a great influx of these notes into the Communist-held areas and into Dairen, in particular. This has caused the prices of many articles to rise to twice the former amount.\n\nCONFIDENTIAL\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000200220009-0",
+  "notes": [
+   "[삭제·공개 표시] Approved For Release 1999/09/08 : CIA-RDP82-00457R0002002960099 (첫 면 공개 승인 도장. 등급 변경 도장과 겹쳐 찍혀 문서번호가 목록의 것과 다르게 읽힌다)",
+   "[삭제·공개 표시] Approved For Release 1999/09/08 : CIA-RDP82-00457R [판독 불가] -0 (둘째 면 공개 승인 도장)",
+   "[삭제·공개 표시] Approved For Release 1999/09/08 : CIA-RDP82-00457R000200220009-0 (둘째 면 끝과 마지막 면 끝)",
+   "[삭제·공개 표시] Approved For Release 1999/09/08 : CIA-RDP82-00457R000700220689-0 (마지막 면 머리. 앞의 것과 번호가 다르게 읽힌다)",
+   "[삭제·공개 표시] 25X1X6 (ORIGIN 줄, 가·나·다 절 머리, 본문 여러 곳)",
+   "[삭제·공개 표시] 25X1A9a (첫 면 아래)",
+   "[삭제·공개 표시] 25X1A8a (CLASSIFICATION 줄 옆)",
+   "[삭제·공개 표시] 25X1A2g (둘째 면 공개 승인 도장 위)",
+   "[삭제·공개 표시] 25X1A6a (둘째 면 환율 항목 사이 두 곳)",
+   "[삭제·공개 표시] Class. CHANGED TO: TS  S / DDA Memo, 4 Apr 77 / Auth: DDA Reg. 77/1763 (등급 변경 도장. 일자와 담당자 란이 판독되지 않는다)"
+  ],
+  "note": "OCR 훼손이 심하다. 환율표가 가장 심하다. 낱말은 고쳤다. `Nanchuria`는 Manchuria, `Chine`은 China, `notea`는 notes, `exchanve`·`exchanveable`은 exchange·exchangeable, `Pientsin`은 Tientsin, `Shen-hat`·`Shen:hal`은 Shanghai, `Uatren`·`Leiren`·`Datran`은 Dairen, `funkse`는 junks, `Commmist`는 Communist, `sationalist`는 Nationalist, `ishsries`는 Fisheries, `rroat influx`는 great influx, `ctreuletian`은 circulation 으로 읽었다. 숫자는 한 자리도 고치지 않았다. 환율표 첫 줄만 날짜와 값이 붙어 있고(1946년 4월 3일, 만주국폐 175.00), 나머지 네 줄은 날짜가 뭉개져 [판독 불가]로 두었다. `209,00`은 소수점 자리에 쉼표가 찍혀 있고 `750 200`·`550 600`은 자릿점 없이 두 덩어리로 읽히며 `43 »D0`은 끝자리가 판독되지 않는다. 모두 읽힌 그대로 옮겼다. 마지막 항의 `17410`도 자릿점이 없으나 고치지 않았다. 나 절 2항의 조선은행권 대 소련군표 100 대 100과 3항의 소련군표 1.80 대 조선은행권 1은 서로 맞지 않는데 원문이 둘을 나란히 싣고 있어 그대로 두었다. `/greatest?/`와 `/?/`는 원문 편집자가 판독을 확신하지 못한다는 표시이므로 빗금째 살렸다. 미화 달러가 다롄으로 들어오는 방식을 적은 낱말(`anu:led`)과 앞서 붙잡힌 사람들의 국적을 적은 낱말(`vananess`)은 판독되지 않아 [판독 불가]로 두었다. 뒤의 것은 Japanese 로 읽힐 여지가 있으나 확정하지 않았다. 다 절 1항의 `crc`는 CRC 로 읽었고 어느 통화인지 확정하지 않았다. 마지막 면 쪽번호가 `- 5 -`로 읽히는데 세 면짜리 문서로 보인다. 공개 승인 도장의 문서번호가 면마다 다르게 읽히는 것도 고치지 않았다. 정보원 두 사람은 M18의 어선과 이어진다. 8월 28일 톈진에서 면담한 것이다.",
+  "warn": true,
+  "search": "Approved For Release 1999/09/08 : CIA-RDP82-00457R0002002960099 (첫 면 공개 승인 도장. 등급 변경 도장과 겹쳐 찍혀 문서번호가 목록의 것과 다르게 읽힌다) Approved For Release 1999/09/08 : CIA-RDP82-00457R [판독 불가] -0 (둘째 면 공개 승인 도장) Approved For Release 1999/09/08 : CIA-RDP82-00457R000200220009-0 (둘째 면 끝과 마지막 면 끝) Approved For Release 1999/09/08 : CIA-RDP82-00457R000700220689-0 (마지막 면 머리. 앞의 것과 번호가 다르게 읽힌다) 25X1X6 (ORIGIN 줄, 가·나·다 절 머리, 본문 여러 곳) 25X1A9a (첫 면 아래) 25X1A8a (CLASSIFICATION 줄 옆) 25X1A2g (둘째 면 공개 승인 도장 위) 25X1A6a (둘째 면 환율 항목 사이 두 곳) Class. CHANGED TO: TS  S / DDA Memo, 4 Apr 77 / Auth: DDA Reg. 77/1763 (등급 변경 도장. 일자와 담당자 란이 판독되지 않는다) Economic Information: Currency in Dairen"
+ },
+ {
   "id": "M14",
-  "order": 19,
+  "order": 24,
   "date": "1946-12-23",
   "group": "B",
   "eyebrow": "1946 만주·북조선 · 현장 첩보보고",
