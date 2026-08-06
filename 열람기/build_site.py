@@ -203,6 +203,20 @@ h1{font-size:clamp(21px,2.6vw,27px);line-height:1.2;margin:0 0 5px;
   border:1px solid var(--edge);color:var(--ink-2);border-radius:999px;
   padding:4px 12px;font:inherit;font-size:12px;cursor:pointer}
 
+/* ── 국면 고르기. 주제 위에 한 칸 더 있다 ──
+   주제가 여섯이 되면서 진주만(두 달)과 조선(열 해)이 한 줄에 나란히 서게 됐다.
+   읽는 사람은 둘이 같은 층위인 줄 알고 누른다. 국면으로 한 번 갈라 준다. */
+.arc-tabs{display:flex;flex-wrap:wrap;gap:0;margin:0 0 14px;
+  border-bottom:1px solid var(--edge)}
+.arc-tab{background:none;border:0;border-bottom:2px solid transparent;
+  margin-bottom:-1px;padding:7px 15px 8px;cursor:pointer;font:inherit;
+  color:var(--ink-3);font-size:14px;font-weight:600;letter-spacing:-.005em}
+.arc-tab:hover{color:var(--ink-2)}
+.arc-tab[aria-pressed="true"]{color:var(--link);border-bottom-color:var(--link)}
+.arc-tab i{font-style:normal;font-family:var(--mono);font-size:10.5px;
+  color:var(--ink-3);margin-left:6px;font-variant-numeric:tabular-nums}
+.th-tab[hidden]{display:none}
+
 /* ── 주제 고르기 ── */
 .th-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 26px}
 .th-tab{display:flex;flex-direction:column;gap:1px;align-items:flex-start;
@@ -436,11 +450,62 @@ def render_events(events, cards):
 
 cards = {}
 threads = site.get("threads", [])
+
+# 주제가 어느 국면에 속하는지는 **여기서 계산한다.** 사건에 적어 두면 규칙이
+# 바뀔 때마다 196개를 다시 써야 하고, 국면은 탭을 가르는 데만 쓰이며 탭은 주제
+# 단위다. 저장할 것이 아니다.
+#
+# 조선 이야기는 카이로에서 「in due course」가 만들어지고 얄타에서 신탁통치
+# 기간이 입에 오르고 일반명령 제1호가 38도선을 긋는 데까지가 전쟁의 뒤처리다.
+# 하지가 상륙한 1945년 9월부터는 다른 이야기가 시작된다.
+ARCS = json.load(open(_ef, encoding="utf-8")).get("arcs", [])
+KOREA_IN_WWII = "1945-08-31"
+KOREA_THREADS = {"in-due-course", "korea", "chinese-intervention"}
+
+
+def arc_of(thread_slug, date):
+    if thread_slug not in KOREA_THREADS:
+        return "wwii"
+    return "wwii" if date <= KOREA_IN_WWII else "korea-war"
+
+
+for _t in threads:
+    cnt = {}
+    for e in _t.get("events", []):
+        ev = EVENTS.get(e.get("ev"))
+        if not ev:
+            continue
+        a = arc_of(_t["slug"], ev["date"])
+        cnt[a] = cnt.get(a, 0) + 1
+    tot = sum(cnt.values()) or 1
+    # 한 국면이 2할을 넘으면 그 국면에 세운다. 「조선」만 둘 다에 선다 —
+    # 신탁통치에서 전쟁으로 이어지는 등뼈라 한쪽에 가둘 수 없다.
+    _t["_arcs"] = sorted((a for a, n in cnt.items() if n / tot >= 0.2),
+                         key=lambda a: -cnt[a])
+
+# 첫 화면에 열리는 국면은 **첫 주제가 속한 국면**이다. 순서대로 첫 국면을 눌러 두면
+# HTML 이 켜 둔 것과 JS 가 여는 것이 어긋나 한 번 깜빡인다.
+_first_arc = (threads[0]["_arcs"] or [None])[0] if threads else None
+
+arc_tabs = []
+for _a in ARCS:
+    _n = sum(1 for _t in threads if _a["key"] in _t["_arcs"])
+    if not _n:
+        continue
+    arc_tabs.append(
+        f'<button class="arc-tab" data-arc="{H.escape(_a["key"])}" '
+        f'aria-pressed="{"true" if _a["key"] == _first_arc else "false"}">'
+        f'{H.escape(_a["label"])}<i>{_n}</i></button>')
+
 th_tabs, th_panes = [], []
 for _i, _t in enumerate(threads):
     _on = "true" if _i == 0 else "false"
+    # 다른 국면의 주제는 처음부터 접어 둔다. JS 가 켜기 전에 여섯이 다 보이면
+    # 화면이 한 번 접혔다 펴진다.
+    _hide = "" if _first_arc in _t["_arcs"] else " hidden"
     th_tabs.append(f'<button class="th-tab" data-th="{H.escape(_t["slug"])}" '
-                   f'aria-pressed="{_on}"><b>{H.escape(_t["title"])}</b>'
+                   f'data-arcs="{H.escape(" ".join(_t["_arcs"]))}" '
+                   f'aria-pressed="{_on}"{_hide}><b>{H.escape(_t["title"])}</b>'
                    f'<span>{H.escape(_t.get("kicker",""))}</span></button>')
     _hint = (f' <span class="hint">{H.escape(_t["hint"])}</span>'
              if _t.get("hint") else "")
@@ -535,6 +600,7 @@ page = f"""<!doctype html>
 
 <div class="wrap">
   <section class="threads">
+    <div class="arc-tabs">{''.join(arc_tabs)}</div>
     <div class="th-tabs">{''.join(th_tabs)}</div>
     {''.join(th_panes)}
   </section>
@@ -573,18 +639,35 @@ page = f"""<!doctype html>
 HoverCard.init({cards_js});
 
 // 주제 전환. 주소에 #thread=... 를 남겨 링크로 공유할 수 있게 한다.
+// 위 칸은 국면이다. 국면을 고르면 그 아래 주제만 남고, 첫 주제가 열린다.
 const tabs = [...document.querySelectorAll('.th-tab')];
 const panes = [...document.querySelectorAll('.th-pane')];
+const arcs = [...document.querySelectorAll('.arc-tab')];
+const arcOf = t => (t.dataset.arcs || '').split(' ').filter(Boolean);
+
+function showArc(key){{
+  arcs.forEach(a => a.setAttribute('aria-pressed', a.dataset.arc === key));
+  tabs.forEach(t => t.hidden = !arcOf(t).includes(key));
+}}
 function showThread(slug, push){{
   const hit = tabs.find(t => t.dataset.th === slug) || tabs[0];
   if (!hit) return;
+  // 국면을 건너뛰고 주제 주소로 바로 들어올 수 있다. 그때는 그 주제가 속한
+  // 국면을 대신 골라 준다. 안 그러면 열린 주제의 탭이 숨어 있게 된다.
+  const cur = arcs.find(a => a.getAttribute('aria-pressed') === 'true');
+  if (!cur || !arcOf(hit).includes(cur.dataset.arc)) showArc(arcOf(hit)[0]);
   tabs.forEach(t => t.setAttribute('aria-pressed', t === hit));
   panes.forEach(p => p.hidden = p.dataset.th !== hit.dataset.th);
   if (push) history.replaceState(null, '', '#thread=' + hit.dataset.th);
 }}
+arcs.forEach(a => a.addEventListener('click', () => {{
+  showArc(a.dataset.arc);
+  const first = tabs.find(t => !t.hidden);
+  if (first) showThread(first.dataset.th, true);
+}}));
 tabs.forEach(t => t.addEventListener('click', () => showThread(t.dataset.th, true)));
 const m = (location.hash || '').match(/thread=([\w-]+)/);
-if (m) showThread(m[1], false);
+showThread(m ? m[1] : (tabs[0] && tabs[0].dataset.th), false);
 document.getElementById('themeBtn').addEventListener('click',()=>{{
   const r=document.documentElement;
   const dark=(r.getAttribute('data-theme')||
