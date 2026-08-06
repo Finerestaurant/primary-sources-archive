@@ -1,0 +1,28 @@
+{
+  "doc_id": "N02",
+  "date": "1947-01-14",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Group 중앙정보단",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Economic Information: Unemployment in North Korea",
+  "title_ko": "경제 첩보: 북조선의 실업",
+  "subject_ko": "북조선에 실업이 심하다. 당국이 노동자를 소련과 만주의 광산과 공장으로 내보내고 있고, 구호 단체가 그 알선을 맡고 있다는 한 쪽짜리 보고다.",
+  "key_points_ko": [
+    "북조선 당국이 노동자에게 소련과 만주의 광산·공장에서 일하라고 권하고 있다.",
+    "노동자 5천 명을 하얼빈 일대로 보냈다고 적었다. 문서에 찍힌 시점은 「1947년 5월」이나 배포일이 1947년 1월이다.",
+    "북조선 구호회(Pak Cho Bén Ha Ho Hoe)가 실업자와 빈민을 맡으려고 세워졌다.",
+    "구호회는 실제 구호는 거의 못 하고 소련과 만주의 일자리를 얻어 주는 일을 했다고 본다.",
+    "노동력을 국경 밖으로 내보내는 것이 실업 대책이 되고 있다는 관찰이다."
+  ],
+  "en": "CONFIDENTIAL\n\n25X1C    INTELLIGENCE REPORT\n\nCOUNTRY  Korea            DATE:\nINFO.\nDIST.  January 1947\nPAGES  1\nSUPPLEMENT\n\nSUBJECT  Economic Information: Unemployment in North Korea\n\n1. There is a serious unemployment problem in North Korea. As a result, the North Korean authorities have been urging the North Korean laborers to work in mines and factories in the USSR and Manchuria. In May 1947 [원문 그대로], five thousand North Korean laborers were sent by the North Korean authorities to the Harbin area.\n\n2. To take care of the unemployed and destitute in North Korea the North Korean Relief Society (Pak Cho Bén Ha Ho Hoe [원문 그대로] [한자 판독 불가]) was established. It has not been able to do much effective relief work, but has managed to obtain employment in the USSR and Manchuria for North Koreans.\n\nThis document contains information affecting the national defense of the United States within the meaning of the Espionage Act, 50, U.S.C. 31 and 32 as amended. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited by law.\n\nDocument No. [판독 불가]\nNO CHANGE in Class. [판독 불가]\nDECLASSIFIED\nClass. CHANGED TO: [판독 불가]\nAuth: [판독 불가]\nDate: [판독 불가]\n\nCLASSIFICATION [판독 불가]\n\nCONFIDENTIAL\n\nApproved For Release [판독 불가] 200540009-4",
+  "ko": "기밀(CONFIDENTIAL)\n\n25X1C    첩보보고(INTELLIGENCE REPORT)\n\n국가  조선(Korea)            일자:\n입수(INFO.)\n배포(DIST.)  1947년 1월\n면수  1\n보충(SUPPLEMENT)\n\n주제  경제 첩보: 북조선의 실업\n\n1. 북조선에는 심각한 실업 문제가 있다. 그 결과로 북조선 당국(North Korean authorities)은 북조선 노동자들에게 소련(USSR)과 만주(Manchuria)의 광산과 공장에서 일할 것을 권해 왔다. 1947년 5월 [원문 그대로]에 북조선 당국은 북조선 노동자 5,000명을 하얼빈(Harbin) 일대로 보냈다.\n\n2. 북조선의 실업자와 빈민을 돌보기 위하여 북조선 구호회(North Korean Relief Society, Pak Cho Bén Ha Ho Hoe [원문 그대로] [한자 판독 불가])가 설립되었다. 이 단체는 실효 있는 구호 사업은 별로 하지 못하였으나, 북조선 사람들을 위하여 소련과 만주에서 일자리를 얻어 주는 일은 해냈다.\n\n본 문서는 개정된 간첩법(Espionage Act, 50 U.S.C. 31조 및 32조)이 정한 뜻에서 미합중국의 국방에 관계되는 정보를 담고 있다. 이 문서를 전달하거나 그 내용을 어떠한 방법으로든 권한 없는 자에게 누설하는 것은 법으로 금지된다.\n\n문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.) [판독 불가]\n비밀해제(DECLASSIFIED)\n등급 변경(Class. CHANGED TO): [판독 불가]\n근거(Auth): [판독 불가]\n일자(Date): [판독 불가]\n\n분류(CLASSIFICATION) [판독 불가]\n\n기밀(CONFIDENTIAL)\n\n공개 승인(Approved For Release) [판독 불가] 200540009-4",
+  "redactions": [
+    "25X1C (INTELLIGENCE REPORT 줄 왼쪽 여백의 면제 표시)",
+    "Approved For Release [판독 불가] 200540009-4 (아래쪽 공개 승인 도장. 문서번호가 뭉개져 있다)",
+    "Document No. / NO CHANGE in Class. / DECLASSIFIED / Class. CHANGED TO / Auth / Date (등급 변경 도장. 채워 넣은 값이 모두 뭉개져 [판독 불가]로 옮겼다)"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "한 쪽짜리 짧은 보고이고 본문 두 문단은 비교적 잘 읽힌다. 머리글은 심하게 뭉개져 `OWINTRY`(COUNTRY), `INTELLIGERCE`(INTELLIGENCE), `SMISJECT`(SUBJECT), `Eecononia Inforration`(Economic Information), `Zorth Korea`(North Korea) 로 읽었다. 1항의 시점은 `in May 1947` 로 찍혀 있다. 배포일이 1947년 1월이므로 앞뒤가 맞지 않으나 날짜의 숫자는 고치지 않고 그대로 두었다. 노동자 수 `Live thousand` 는 five thousand 로 읽었다. 여백에 `/7 /` 같은 손글씨 자국이 함께 찍혔으나 숫자가 아니라 표시로 보아 옮기지 않았다. 2항의 단체명은 `Pak Cho Bén Ha Ho Hoe` 로 찍혀 있고 뒤따르는 문자가 뭉개져 한자를 확정할 수 없다. 로마자를 고치지 않고 그대로 두었고 영문 표기 North Korean Relief Society 를 북조선 구호회로 옮겼다. 간첩법 조항 `50, U.S.C. Sl and 32` 의 `Sl` 은 같은 문서철 N06 에 실린 같은 문구가 `31 and 32` 로 찍혀 있어 31로 읽었다. 다른 숫자는 고치지 않았다."
+}

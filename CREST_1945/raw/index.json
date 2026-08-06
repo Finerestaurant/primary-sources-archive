@@ -198,5 +198,551 @@
   "title": "ECONOMIC AND MILITARY INFORMATION: ANTUNG SOVIET ACTIVITIES",
   "chars": 1525,
   "url": "https://archive.org/details/cia-rdp82-00457r000200250005-1"
+ },
+ {
+  "doc_id": "N01",
+  "crest": "0000256989",
+  "date": "1947-01-03",
+  "title": "THE SITUATION IN KOREA (ORE 5/1)",
+  "chars": 25049,
+  "url": "https://archive.org/details/0000256989",
+  "note": "표지가 3 January 1947 이다. 메타데이터의 1947-01-05 는 틀렸다."
+ },
+ {
+  "doc_id": "N02",
+  "crest": "cia-rdp82-00457r001200540009-4",
+  "date": "1947-01-14",
+  "title": "ECONOMIC INFORMATION: UNEMPLOYMENT IN NORTH KOREA",
+  "chars": 1303,
+  "url": "https://archive.org/details/cia-rdp82-00457r001200540009-4"
+ },
+ {
+  "doc_id": "N03",
+  "crest": "cia-rdp82-00457r000400230006-0",
+  "date": "1947-03-14",
+  "title": "MILITARY INFORMATION: DISPOSITION OF SOVIET FORCES IN NORTH KOREA",
+  "chars": 1353,
+  "url": "https://archive.org/details/cia-rdp82-00457r000400230006-0"
+ },
+ {
+  "doc_id": "N04",
+  "crest": "cia-rdp82-00457r000400640001-0",
+  "date": "1947-03-28",
+  "title": "MILITARY INFORMATION: KOREAN COMMUNIST TROOPS",
+  "chars": 6742,
+  "url": "https://archive.org/details/cia-rdp82-00457r000400640001-0"
+ },
+ {
+  "doc_id": "N05",
+  "crest": "cia-rdp82-00457r000500010006-3",
+  "date": "1947-04-07",
+  "title": "POLITICAL INFORMATION: NORTHERN KOREA LABOR PARTY",
+  "chars": 3692,
+  "url": "https://archive.org/details/cia-rdp82-00457r000500010006-3"
+ },
+ {
+  "doc_id": "N06",
+  "crest": "cia-rdp82-00457r000500860007-9",
+  "date": "1947-05-14",
+  "title": "POLITICAL INFORMATION: MAIN EVENTS OF THE YEAR FOLLOWING THE LIBERATION OF NORTH KOREA",
+  "chars": 5802,
+  "url": "https://archive.org/details/cia-rdp82-00457r000500860007-9"
+ },
+ {
+  "doc_id": "N07",
+  "crest": "cia-rdp82-00457r000600070001-1",
+  "date": "1947-05-16",
+  "title": "MILITARY INFORMATION: KOREAN COMMUNIST VOLUNTEER CORPS",
+  "chars": 1107,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600070001-1"
+ },
+ {
+  "doc_id": "N08",
+  "crest": "cia-rdp82-00457r000600160001-1",
+  "date": "1947-05-20",
+  "title": "MILITARY INFORMATION: CHINESE COMMUNIST ARMY IN NORTH KOREA",
+  "chars": 1679,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600160001-1"
+ },
+ {
+  "doc_id": "N09",
+  "crest": "cia-rdp82-00457r000600170007-4",
+  "date": "1947-05-21",
+  "title": "MILITARY INFORMATION: KOREAN VOLUNTEER ARMY",
+  "chars": 1243,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600170007-4"
+ },
+ {
+  "doc_id": "N10",
+  "crest": "cia-rdp82-00457r000600210006-0",
+  "date": "1947-05-22",
+  "title": "POLITICAL INFORMATION: PROPOSED ACTIVITIES FOR RHEE SYNGMAN",
+  "chars": 3743,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600210006-0"
+ },
+ {
+  "doc_id": "N11",
+  "crest": "cia-rdp82-00457r000600430001-1",
+  "date": "1947-06-02",
+  "title": "POLITICAL INFORMATION: DISSATISFACTION WITH KIM IL-SUNG'S REGIME",
+  "chars": 1933,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600430001-1"
+ },
+ {
+  "doc_id": "N12",
+  "crest": "cia-rdp82-00457r000600510008-5",
+  "date": "1947-06-04",
+  "title": "ECONOMIC INFORMATION: PUBLIC DISCONTENT IN NORTH KOREA",
+  "chars": 2560,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600510008-5"
+ },
+ {
+  "doc_id": "N13",
+  "crest": "cia-rdp82-00457r000600680008-7",
+  "date": "1947-06-13",
+  "title": "POLITICAL INFORMATION: CONTROLS ENCOUNTERED ON A TRIP THROUGH NORTH KOREA",
+  "chars": 6701,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600680008-7"
+ },
+ {
+  "doc_id": "N14",
+  "crest": "cia-rdp82-00457r000600750002-5",
+  "date": "1947-06-18",
+  "title": "MILITARY INFORMATION: SOVIET TROOPS IN NORTH KOREA",
+  "chars": 4367,
+  "url": "https://archive.org/details/cia-rdp82-00457r000600750002-5"
+ },
+ {
+  "doc_id": "N15",
+  "crest": "cia-rdp82-00457r000700050002-1",
+  "date": "1947-06-24",
+  "title": "ECONOMIC INFORMATION: TRANSPORTATION IN NORTH KOREA",
+  "chars": 5335,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700050002-1"
+ },
+ {
+  "doc_id": "N16",
+  "crest": "cia-rdp82-00457r000700340002-9",
+  "date": "1947-07-10",
+  "title": "ECONOMIC INFORMATION: FOOD CONDITIONS IN NORTH KOREA; COMMODITY PRICES IN PYONGYANG",
+  "chars": 5736,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700340002-9"
+ },
+ {
+  "doc_id": "N17",
+  "crest": "cia-rdp82-00457r000700340003-8",
+  "date": "1947-07-10",
+  "title": "ECONOMIC INFORMATION: SHIPPING FROM CHINNAMPO",
+  "chars": 2066,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700340003-8"
+ },
+ {
+  "doc_id": "N18",
+  "crest": "cia-rdp82-00457r000700340004-7",
+  "date": "1947-07-11",
+  "title": "ECONOMIC INFORMATION: FOOD CONDITIONS IN NORTH KOREA",
+  "chars": 7842,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700340004-7"
+ },
+ {
+  "doc_id": "N19",
+  "crest": "cia-rdp82-00457r000700360008-1",
+  "date": "1947-07-11",
+  "title": "MILITARY INFORMATION: SOVIET TROOPS IN NORTH KOREA",
+  "chars": 7535,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700360008-1"
+ },
+ {
+  "doc_id": "N20",
+  "crest": "cia-rdp82-00457r000700370011-6",
+  "date": "1947-07-12",
+  "title": "ECONOMIC INFORMATION: TRANSPORTATION IN NORTHWEST KOREA",
+  "chars": 2626,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700370011-6"
+ },
+ {
+  "doc_id": "N21",
+  "crest": "cia-rdp82-00457r000700620009-1",
+  "date": "1947-07-14",
+  "title": "POLITICAL INFORMATION: PUBLIC DISCONTENT IN NORTH KOREA",
+  "chars": 2590,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700620009-1"
+ },
+ {
+  "doc_id": "N22",
+  "crest": "cia-rdp82-00457r000700420004-7",
+  "date": "1947-07-15",
+  "title": "MILITARY INFORMATION: NEW NORTH KOREAN ARMY IN MANCHURIA",
+  "chars": 6961,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700420004-7"
+ },
+ {
+  "doc_id": "N23",
+  "crest": "cia-rdp82-00457r000700450010-8",
+  "date": "1947-07-16",
+  "title": "MILITIARY INFORMATION: SOVIET, CHINESE COMMUNIST AND KOREAN TROOPS IN SAKCHU AND VICINITY",
+  "chars": 3037,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700450010-8"
+ },
+ {
+  "doc_id": "N24",
+  "crest": "cia-rdp82-00457r000700550002-6",
+  "date": "1947-07-18",
+  "title": "MILITARY INFORMATION: THE CONSTABULARY IN NORTHWEST KOREA",
+  "chars": 2329,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700550002-6"
+ },
+ {
+  "doc_id": "N25",
+  "crest": "cia-rdp82-00457r000700470008-9",
+  "date": "1947-07-21",
+  "title": "ECONOMIC INFORMATION: TRANSFER OF CAPITAL TO NORTH KOREA WITH SOVIET ASSISTANCE",
+  "chars": 4381,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700470008-9"
+ },
+ {
+  "doc_id": "N26",
+  "crest": "cia-rdp82-00457r000700730005-3",
+  "date": "1947-07-29",
+  "title": "ECONOMIC INFORMATION: EXCHANGE RATES AND COMMODITY PRICES, NORTH KOREA",
+  "chars": 1410,
+  "url": "https://archive.org/details/cia-rdp82-00457r000700730005-3"
+ },
+ {
+  "doc_id": "N27",
+  "crest": "cia-rdp82-00457r001000040001-9",
+  "date": "1947-08-10",
+  "title": "MILITARY INFORMATION: PEACE PRESERVATION CORPS OFFICERS SCHOOL BETWEEN CHONGJIN AND NANAM",
+  "chars": 2073,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000040001-9"
+ },
+ {
+  "doc_id": "N28",
+  "crest": "cia-rdp82-00457r000800300001-3",
+  "date": "1947-08-11",
+  "title": "ECONOMIC INFORMATION: SHIPMENT OF PERSONNEL AND MATERIALS FROM NORTH KOREA TO USSR",
+  "chars": 1088,
+  "url": "https://archive.org/details/cia-rdp82-00457r000800300001-3"
+ },
+ {
+  "doc_id": "N29",
+  "crest": "cia-rdp82-00457r000800370002-5",
+  "date": "1947-08-13",
+  "title": "POLITICAL INFORMATION: PUBLIC DISCONTENT IN NORTH KOREA",
+  "chars": 2217,
+  "url": "https://archive.org/details/cia-rdp82-00457r000800370002-5"
+ },
+ {
+  "doc_id": "N30",
+  "crest": "cia-rdp82-00457r000800840007-8",
+  "date": "1947-09-04",
+  "title": "MILITARY INFORMATION: PEACE PRESERVATION CORPS OFFICERS SCHOOLS IN NORTH KOREA.",
+  "chars": 10934,
+  "url": "https://archive.org/details/cia-rdp82-00457r000800840007-8"
+ },
+ {
+  "doc_id": "N31",
+  "crest": "cia-rdp82-00457r000900020007-7",
+  "date": "1947-09-08",
+  "title": "ECONOMIC INFORMATION: RELIEF IN NORTH KOREA",
+  "chars": 1966,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900020007-7"
+ },
+ {
+  "doc_id": "N32",
+  "crest": "cia-rdp82-00457r000900020008-6",
+  "date": "1947-09-08",
+  "title": "POLITICAL INFORMATION: PROPAGANDA IN NORTH KOREA",
+  "chars": 1794,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900020008-6"
+ },
+ {
+  "doc_id": "N33",
+  "crest": "cia-rdp82-00457r000900070010-8",
+  "date": "1947-09-10",
+  "title": "MILITARY INFORMATION: SOVIET COMMUNIST TROOP MANEUVERS IN NORTH KOREA",
+  "chars": 3696,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900070010-8"
+ },
+ {
+  "doc_id": "N34",
+  "crest": "cia-rdp82-00457r000900090003-4",
+  "date": "1947-09-10",
+  "title": "ECONOMIC INFORMATION: SHIPPING BETWEEN NORTH KOREA AND DAIREN",
+  "chars": 2027,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900090003-4"
+ },
+ {
+  "doc_id": "N35",
+  "crest": "cia-rdp82-00457r000900150010-9",
+  "date": "1947-09-11",
+  "title": "POLITICAL INFORMATION: SOVIET HANDLING OF CAPTURED SOUTH KOREAN AGENTS",
+  "chars": 2526,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900150010-9"
+ },
+ {
+  "doc_id": "N36",
+  "crest": "cia-rdp80r01731r003600060005-6",
+  "date": "1947-09-16",
+  "title": "APPROVAL OF NATIONAL INTELLIGENCE REQUIREMENTS FOR KOREA",
+  "chars": 2119,
+  "url": "https://archive.org/details/cia-rdp80r01731r003600060005-6"
+ },
+ {
+  "doc_id": "N37",
+  "crest": "cia-rdp82-00457r000900370003-3",
+  "date": "1947-09-18",
+  "title": "POLITICAL INFORMATION: COMMUNISTS FROM MANCHURIA AND NORTH KOREA MEET IN PORT ARTHUR",
+  "chars": 3735,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900370003-3"
+ },
+ {
+  "doc_id": "N38",
+  "crest": "cia-rdp82-00457r000900430009-0",
+  "date": "1947-09-23",
+  "title": "MILITARY INFORMATION: WONSAN (G[ ]EISAN) AREA",
+  "chars": 7565,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900430009-0"
+ },
+ {
+  "doc_id": "N39",
+  "crest": "cia-rdp82-00457r000900550011-4",
+  "date": "1947-09-26",
+  "title": "POLITICAL INFORMATION: PUBLIC OPINION AND DISCONTENT IN NORTH KOREA",
+  "chars": 1953,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900550011-4"
+ },
+ {
+  "doc_id": "N40",
+  "crest": "cia-rdp82-00457r000900550012-3",
+  "date": "1947-09-26",
+  "title": "AIR INFORMATION: CHONGJIN (SEISHIN) AREA",
+  "chars": 1681,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900550012-3"
+ },
+ {
+  "doc_id": "N41",
+  "crest": "cia-rdp82-00457r000900560002-3",
+  "date": "1947-09-26",
+  "title": "ECONOMIC INFORMATION: FOOD CONDITIONS AND COMMODITY PRICES IN CHONGJIN",
+  "chars": 1600,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900560002-3"
+ },
+ {
+  "doc_id": "N42",
+  "crest": "cia-rdp82-00457r000900560001-4",
+  "date": "1947-09-29",
+  "title": "MILITARY INFORMATION: SOVIET TROOP AND MATERIAL MOVEMENTS IN NORTH KOREA",
+  "chars": 2203,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900560001-4"
+ },
+ {
+  "doc_id": "N43",
+  "crest": "cia-rdp82-00457r000900550013-2",
+  "date": "1947-09-30",
+  "title": "MILITARY INFORMATION: SOVIET TROOPS IN THE CHONGJIN AREA",
+  "chars": 1847,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900550013-2"
+ },
+ {
+  "doc_id": "N45",
+  "crest": "cia-rdp82-00457r000900710009-9",
+  "date": "1947-10-02",
+  "title": "MILITARY INFORMATION: KOREAN COMMUNIST TROOPS IN ANTUNG PROVINCE",
+  "chars": 3587,
+  "url": "https://archive.org/details/cia-rdp82-00457r000900710009-9"
+ },
+ {
+  "doc_id": "N46",
+  "crest": "cia-rdp82-00457r001200870001-5",
+  "date": "1947-10-08",
+  "title": "POLITICAL INFORMATION: NEWSPAPERS IN NORTH KOREA",
+  "chars": 2145,
+  "url": "https://archive.org/details/cia-rdp82-00457r001200870001-5"
+ },
+ {
+  "doc_id": "N47",
+  "crest": "cia-rdp82-00457r001000030014-6",
+  "date": "1947-10-09",
+  "title": "POLITICAL INFORMATION: CONTROLS IN NORTH KOREA",
+  "chars": 4888,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000030014-6"
+ },
+ {
+  "doc_id": "N48",
+  "crest": "cia-rdp82-00457r001000030015-5",
+  "date": "1947-10-09",
+  "title": "POLITICAL INFORMATION: TRAVEL CONTROLS BETWEEN NORTH AND SOUTH KOREA",
+  "chars": 4309,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000030015-5"
+ },
+ {
+  "doc_id": "N49",
+  "crest": "cia-rdp82-00457r001000030013-7",
+  "date": "1947-10-13",
+  "title": "MILITARY INFORMATION: SOVIET AID TO COMMUNISTS, MANCHURIA; KOREAN AND MONGOLIAN TROOPS, MANCHURIA",
+  "chars": 2326,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000030013-7"
+ },
+ {
+  "doc_id": "N50",
+  "crest": "cia-rdp82-00457r001000320006-3",
+  "date": "1947-10-27",
+  "title": "ECONOMIC INFORMATION: RAIL TRAFFIC TO AND FROM CHONGJIN",
+  "chars": 3100,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000320006-3"
+ },
+ {
+  "doc_id": "N51",
+  "crest": "cia-rdp82-00457r001000360002-3",
+  "date": "1947-10-29",
+  "title": "ECONOMIC INFORMATION: KOREAN REPATRIATION FROM MANCHURIA",
+  "chars": 2034,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000360002-3"
+ },
+ {
+  "doc_id": "N52",
+  "crest": "cia-rdp82-00457r001000450005-0",
+  "date": "1947-10-29",
+  "title": "MILITARY INFORMATION: DISCONTENT IN PEACE PRESERVATION CORPS OFFICERS' SCHOOLS IN NORTH KOREA",
+  "chars": 2524,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000450005-0"
+ },
+ {
+  "doc_id": "N53",
+  "crest": "cia-rdp82-00457r001000450006-9",
+  "date": "1947-10-30",
+  "title": "MILITARY INFORMATION: UNIFORMS AND INSIGNIA IN NORTH KOREA",
+  "chars": 3500,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000450006-9"
+ },
+ {
+  "doc_id": "N54",
+  "crest": "cia-rdp82-00457r001200300009-0",
+  "date": "1947-10-30",
+  "title": "POLITICAL INFORMATION: FACTIONS IN NORTH KOREAN GOVERNMENT AND LABOR PARTY",
+  "chars": 2371,
+  "url": "https://archive.org/details/cia-rdp82-00457r001200300009-0"
+ },
+ {
+  "doc_id": "N55",
+  "crest": "cia-rdp82-00457r001000450007-8",
+  "date": "1947-11-03",
+  "title": "MILITARY INFORMATION: NORTH KOREAN PEOPLE'S ARMY OR PEACE PRESERVATION CORPS OFFICERS SCHOOLS",
+  "chars": 7309,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000450007-8"
+ },
+ {
+  "doc_id": "N56",
+  "crest": "cia-rdp82-00457r001000490007-4",
+  "date": "1947-11-03",
+  "title": "MILITARY INFORMATION: CHANGE IN NAME OF NORTH KOREAN CONSTABULARY (KYONG PI TAE) ORGANIZATIONS",
+  "chars": 2158,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000490007-4"
+ },
+ {
+  "doc_id": "N57",
+  "crest": "cia-rdp82-00457r001000490002-9",
+  "date": "1947-11-05",
+  "title": "POLITICAL INFORMATION: BUREAU OF INTERNAL AFFAIRS OF THE NORTH KOREA PEOPLE'S COMMITTEE",
+  "chars": 6787,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000490002-9"
+ },
+ {
+  "doc_id": "N58",
+  "crest": "cia-rdp82-00457r001000830006-7",
+  "date": "1947-11-12",
+  "title": "POLITICAL INFORMATION: THE KOREAN INDEPENDENCE PARTY IN MANCHURIA",
+  "chars": 2151,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000830006-7"
+ },
+ {
+  "doc_id": "N59",
+  "crest": "cia-rdp82-00457r001000850006-5",
+  "date": "1947-11-12",
+  "title": "POLITICAL INFORMATION: THE KOREAN REPRESENTATIVE GROUP IN MANCHURIA",
+  "chars": 8479,
+  "url": "https://archive.org/details/cia-rdp82-00457r001000850006-5"
+ },
+ {
+  "doc_id": "N60",
+  "crest": "cia-rdp82-00457r001100030007-3",
+  "date": "1947-11-13",
+  "title": "ECONOMIC INFORMAITON: ORDNANCE PLANTS IN PYONGYANG (HEIJO)",
+  "chars": 1880,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100030007-3"
+ },
+ {
+  "doc_id": "N61",
+  "crest": "cia-rdp82-00457r001100070007-9",
+  "date": "1947-11-17",
+  "title": "MILITARY INFORMATION; THE KOREAN VOLUNTEER ARMY IN MANCHURIA",
+  "chars": 8560,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100070007-9"
+ },
+ {
+  "doc_id": "N62",
+  "crest": "cia-rdp82-00457r001100070008-8",
+  "date": "1947-11-17",
+  "title": "MILITARY INFORMATION: THE KOREAN SELF DEFENSE ARMY IN MANCHURIA",
+  "chars": 5915,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100070008-8"
+ },
+ {
+  "doc_id": "N44",
+  "crest": "0000256631",
+  "date": "1947-11-18",
+  "title": "IMPLEMENTATION OF SOVIET OBJECTIVES IN KOREA (ORE 62)",
+  "chars": 19493,
+  "url": "https://archive.org/details/0000256631",
+  "note": "표지와 속표지가 모두 18 November 1947 이다. 본문이 11월 5일 유엔 총회 정치위원회 표결을 지난 일로 다룬다. 메타데이터의 1947-10-02 는 틀렸다."
+ },
+ {
+  "doc_id": "N63",
+  "crest": "cia-rdp82-00457r001100090002-2",
+  "date": "1947-11-18",
+  "title": "POLITICAL INFORMATION NORTH KOREAN FIVE PROVINCES ADMINISTRATION BUREAU",
+  "chars": 2042,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100090002-2"
+ },
+ {
+  "doc_id": "N64",
+  "crest": "cia-rdp82-00457r001100210002-8",
+  "date": "1947-11-20",
+  "title": "POLITICAL INFORMATION; KOREAN RESIDENTS ASSOCIATION IN MUKDEN",
+  "chars": 5107,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100210002-8"
+ },
+ {
+  "doc_id": "N65",
+  "crest": "cia-rdp82-00457r001100370003-0",
+  "date": "1947-11-28",
+  "title": "POLITICAL INFORMATION: KOREAN ORGANIZATIONS AND PERSONALITIES WITH CHINESE COMMUNIST AND SOVIET CONNECTIONS",
+  "chars": 4799,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100370003-0"
+ },
+ {
+  "doc_id": "N66",
+  "crest": "cia-rdp82-00457r001100630009-5",
+  "date": "1947-12-05",
+  "title": "ECONOMIC INFORMATION: SHIPPING BETWEEN NORTH KOREA AND MANCHURIA",
+  "chars": 2007,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100630009-5"
+ },
+ {
+  "doc_id": "N67",
+  "crest": "cia-rdp82-00457r001100730008-5",
+  "date": "1947-12-09",
+  "title": "MILITARY INFORMATION: CHANGE IN ORGANIZATION OF NORTH KOREAN PEOPLE S ARMY",
+  "chars": 1527,
+  "url": "https://archive.org/details/cia-rdp82-00457r001100730008-5"
+ },
+ {
+  "doc_id": "N68",
+  "crest": "cia-rdp82-00457r001200100010-0",
+  "date": "1947-12-29",
+  "title": "POLITICAL INFORMATION: POLITICAL PARTIES AND ORGANIZATIONS IN NORTH KOREA",
+  "chars": 7877,
+  "url": "https://archive.org/details/cia-rdp82-00457r001200100010-0"
  }
 ]

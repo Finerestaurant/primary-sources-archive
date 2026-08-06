@@ -11,7 +11,7 @@
 | 카이로 선언과 조선 | FRUS, The Conferences at Cairo and Tehran, 1943 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 얄타의 신탁통치 구두 양해 | FRUS, The Conferences at Malta and Yalta, 1945 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 미국의 대한정책 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
-| 조선을 밖에서 보다 | CIA Records Search Tool (CREST) · OSS 「외국인 전문가 조사」와 1946년 현장 첩보보고 | 미국 정부 저작물 · 퍼블릭 도메인 |
+| 조선을 밖에서 보다 | CIA Records Search Tool (CREST) · OSS 「외국인 전문가 조사」, 1946년 현장 첩보보고, 1947년 북조선 보고 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 일본의 항복 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 항복문서를 만들다 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 독일 항복 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
