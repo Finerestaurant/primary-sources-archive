@@ -1,15 +1,33 @@
 {
  "title": "전쟁의 세 해",
- "subtitle": "1950년 6월 25일 – 1953년 7월 27일 · FRUS 네 권에서 고른 175건 · 1950년 56건 공개",
+ "subtitle": "1950년 6월 25일 – 1953년 7월 27일 · FRUS 네 권에서 고른 175건 · 1950–51년 115건 공개",
  "source": "Foreign Relations of the United States 1950 vol. VII · 1951 vol. VII pt.1 · 1952–1954 vol. XV pt.1·pt.2 · 미국 국무부 역사실 · 미국 정부 저작물(퍼블릭 도메인)",
  "search_hint": "한국어·영문·인물·기관 검색",
  "groups": [
-  {"key": "A", "label": "전황"},
-  {"key": "B", "label": "결정"},
-  {"key": "C", "label": "정책"},
-  {"key": "D", "label": "정세 판단"},
-  {"key": "E", "label": "회담과 동맹국"},
-  {"key": "F", "label": "이승만과 포로"}
+  {
+   "key": "A",
+   "label": "전황"
+  },
+  {
+   "key": "B",
+   "label": "결정"
+  },
+  {
+   "key": "C",
+   "label": "정책"
+  },
+  {
+   "key": "D",
+   "label": "정세 판단"
+  },
+  {
+   "key": "E",
+   "label": "회담과 동맹국"
+  },
+  {
+   "key": "F",
+   "label": "이승만과 포로"
+  }
  ],
  "panes": {
   "primary": "한국어 번역",
@@ -17,8 +35,14 @@
   "both": "나란히"
  },
  "sorts": [
-  {"key": "date", "label": "시간순"},
-  {"key": "order", "label": "문서번호순"}
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "문서번호순"
+  }
  ],
  "pages": {
   "dir": "../pages",
