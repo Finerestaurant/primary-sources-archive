@@ -1,0 +1,30 @@
+{
+  "doc_id": "M13",
+  "date": "1946-12-18",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Group 중앙정보단",
+  "to": null,
+  "classification": "confidential (CONTROL — U.S. AND BRITISH OFFICIALS ONLY)",
+  "title_en": "Military Information: Chinese Communists Trading Supplies with the Soviets in North Korea.",
+  "title_ko": "군사 첩보: 중국공산군이 북조선에서 소련 측과 물자를 거래하다",
+  "subject_ko": "만주의 중국공산군이 식량과 금을 주고 북조선의 소련 측에게서 일본제 탄약과 군수품을 받는다는 두 문단짜리 보고다.",
+  "key_points_ko": [
+    "거래 품목이 분명하다. 중국공산군이 내놓는 것은 식량과 금이고, 받는 것은 일본제 탄약과 군수품이다.",
+    "물자는 정크선으로 서조선만을 건너 실어 나른다.",
+    "거래의 주선과 조건은 배가 떠나기 전에 다롄에서 정한다. 소련이 다롄과 북조선 양쪽에 걸쳐 있다는 것이 이 경로의 전제다.",
+    "국가란에 중국과 조선이 함께 올라 있다."
+  ],
+  "en": "Approved For Release 2001/03/22 : CIA-RDP82-00457R000200200007-4\n\nCONFIDENTIAL\n\nCONTROL\nU.S. AND BRITISH OFFICIALS ONLY\n\nCENTRAL INTELLIGENCE GROUP\nINTELLIGENCE REPORT\n\nCOUNTRY   China, Korea            DATE:  25X1A\nINFO.\nSUBJECT   Military Information: Chinese Communists Trading Supplies with the Soviets in North Korea.\nDIST.  18 December 1946\n25X1C  PAGES  1\n\nORIGIN  [삭제]   SUPPLEMENT\n\n25X1X\n\n1. The Chinese Communists in Manchuria are now trading food and gold for Japanese ammunition and military supplies with the Soviets in North Korea.\n\n2. Junks are used to carry the supplies through Korea Bay. Arrangements and terms of trade are generally made with the Soviets in Dairen before the junks leave for Korea.\n\nDocument No. [판독 불가]\nNO CHANGE in Class. [판독 불가]\n[ ] DECLASSIFIED\nClass. CHANGED TO: [판독 불가]\nDDA Memo, 4 Apr 77\nAuth: DDA REG. 77/1783\nDate: [판독 불가]  By: [판독 불가]\n\n25X1A",
+  "ko": "[공개 승인 2001/03/22 : CIA-RDP82-00457R000200200007-4]\n\n기밀(CONFIDENTIAL)\n\n통제(CONTROL)\n미국 및 영국 관리 전용(U.S. AND BRITISH OFFICIALS ONLY)\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n첩보보고(INTELLIGENCE REPORT)\n\n국가   중국, 조선            일자:  25X1A\n첩보(INFO.)\n주제   군사 첩보: 중국공산군이 북조선에서 소련 측과 물자를 거래하다.\n배포(DIST.)  1946년 12월 18일\n25X1C  면수  1\n\n출처(ORIGIN)  [삭제]   보충(SUPPLEMENT)\n\n25X1X\n\n1. 만주의 중국공산군은 지금 북조선에 있는 소련 측과 식량과 금을 주고 일본제 탄약 및 군수품을 받는 거래를 하고 있다.\n\n2. 물자는 정크선으로 서조선만(Korea Bay)을 건너 실어 나른다. 거래의 주선과 조건은 대체로 정크선이 조선으로 떠나기 전에 다롄(Dairen 大連)에서 소련 측과 정한다.\n\n문서번호 [판독 불가]\n등급 변경 없음(NO CHANGE in Class.) [판독 불가]\n[ ] 비밀해제(DECLASSIFIED)\n등급 변경(Class. CHANGED TO): [판독 불가]\nDDA 각서, 1977년 4월 4일\n근거: DDA REG. 77/1783\n일자: [판독 불가]  담당: [판독 불가]\n\n25X1A",
+  "redactions": [
+    "Approved For Release 2001/03/22 : CIA-RDP82-00457R000200200007-4 (공개 승인 도장)",
+    "25X1A (DATE 줄과 문서 끝)",
+    "25X1C (PAGES 줄 앞)",
+    "25X1X (본문 앞)",
+    "ORIGIN 줄의 출처 표시가 먹칠되어 [삭제]로 옮겼다",
+    "아래쪽 비밀해제 처리 도장의 문서번호와 일자, 담당자 란이 판독되지 않는다"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "본문이 두 문단뿐이고 비교적 온전하게 읽힌다. `Commmists` 는 Communists 로, `tera` 는 terms 로, `Kewrea`·`Worth Korea` 는 Korea·North Korea 로, `dunks` 는 Junks 로 고쳤다. 둘째 문단 앞의 `«,` 는 항목 번호 2로 읽었다. 아래쪽 비밀해제 처리 도장의 `DDA REG. 77/1783` 은 숫자를 고치지 않고 읽힌 그대로 두었다. `Korea Bay` 는 압록강 하구 앞의 만으로 서조선만에 해당한다."
+}

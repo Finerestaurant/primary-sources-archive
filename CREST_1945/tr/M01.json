@@ -1,0 +1,32 @@
+{
+  "doc_id": "M01",
+  "date": "1946-01-01",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Group 중앙정보단(CIG)",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Korean Communist Order of Battle",
+  "title_ko": "조선공산 전투서열",
+  "subject_ko": "중앙정보단이 낸 한 면짜리 첩보보고다. 만주 쪽 조선의용군 두 갈래의 병력과 배치를 적었다. 하나는 두만강 북안, 하나는 압록강 북안이다.",
+  "key_points_ko": [
+    "8월 24일 현재 YANG Chun-yu 양춘유가 지휘하는 조선의용군이 왕칭과 옌지 일대에서 활발히 움직였다. 총원 약 12,000명이다.",
+    "이 부대의 임무는 두만강 북안 경비다.",
+    "LI Hung-kuang 리훙광이 지휘하는 조선의용군은 6,600명이고 사령부는 콴뎬에 있다. 병력은 압록강 북안을 따라 늘어서 있다.",
+    "약 9할이 무장했고 서른 문이 넘는 포를 가졌다고 적었다.",
+    "본문 곳곳이 25X1 표시로 지워져 있다. 정보원에 관한 대목이 통째로 빠졌다."
+  ],
+  "en": "Approved For Release 2006/02/27 : CIA-RDP82-00457R000109470001-5\n\nCONFIDENTIAL   25X1\n\nCENTRAL INTELLIGENCE GROUP\n\nINTELLIGENCE REPORT\n\nCONFIDENTIAL\n\nSUBJECT   Korean Communist Order of Battle\nDIST.   29 October 1946\n25X1   PAGES 1\nORIGIN   [판독 불가]   SUPPLEMENT   25X1\n\nAs of 24 August, the Korean Voluntary Corps, under the command of YANG Chun-yu, was very active around Wang-ching (129-36, 43-16) and Yen-chi (129-31, 42-65). The Korean Corps totals about 12,000 men.\n\nTheir duty is to garrison the north bank of the Tumen River. [삭제] 25X1\n\n25X1 [삭제] The total strength of the Korean Voluntary Corps commanded by LI Hung-kuang is 6,600 men.\n\nHeadquarters is at Kuan-tien (124-46, 40-44) and the troops are distributed along the north bank of the Yalu River.\n\nAbout ninety per cent of these men are armed and they have over thir[ty] [판독 불가] guns. 25X1\n\nDocument No. [판독 불가]\n\nThis document is hereby [declassified from] CONFIDENTIAL in accordance with [the] letter of 16 October 1978 [from the] Director of Central Intelligence [to the] Archivist of the United States.\n\nNext Review [판독 불가]\n\nCONFIDENTIAL\n\nApproved For Release 2006/02/27 : CIA-RDP82-00457R000100170001-5",
+  "ko": "Approved For Release 2006/02/27 : CIA-RDP82-00457R000109470001-5\n\nCONFIDENTIAL(기밀)   25X1\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n첩보보고(INTELLIGENCE REPORT)\n\nCONFIDENTIAL\n\n제목   조선공산 전투서열(Korean Communist Order of Battle)\n배포   1946년 10월 29일\n25X1   면수 1\n출처지   [판독 불가]   보충   25X1\n\n8월 24일 현재, 조선의용군(Korean Voluntary Corps)은 YANG Chun-yu 양춘유의 지휘 아래 왕칭(Wang-ching 汪淸, 129-36, 43-16)과 옌지(Yen-chi 延吉, 129-31, 42-65) 일대에서 매우 활발히 움직였다. 조선인 부대의 총원은 약 12,000명이다.\n\n이들의 임무는 두만강(Tumen River) 북안을 경비하는 것이다. [삭제] 25X1\n\n25X1 [삭제] LI Hung-kuang 리훙광이 지휘하는 조선의용군의 총병력은 6,600명이다.\n\n사령부는 콴뎬(Kuan-tien 寬甸, 124-46, 40-44)에 있고 병력은 압록강(Yalu River) 북안을 따라 배치되어 있다.\n\n이들 가운데 약 9할이 무장하고 있으며 서른[판독 불가] 문이 넘는 포를 가지고 있다. 25X1\n\n문서번호 [판독 불가]\n\n이 문서는 중앙정보국장이 1978년 10월 16일 미합중국 문서보관관에게 보낸 서한에 따라 CONFIDENTIAL에서 비밀해제된다.\n\n다음 재검토 [판독 불가]\n\nCONFIDENTIAL\n\nApproved For Release 2006/02/27 : CIA-RDP82-00457R000100170001-5",
+  "redactions": [
+    "25X1 — 본문에 네 곳",
+    "Approved For Release 2006/02/27 : CIA-RDP82-00457R000109470001-5 — 첫 면 상단",
+    "Approved For Release 2006/02/27 : CIA-RDP82-00457R000100170001-5 — 하단",
+    "먹칠된 자리 두 곳을 [삭제]로 옮겼다"
+  ],
+  "people": [
+    "YANG Chun-yu 양춘유 (조선의용군 지휘관. 원문 OCR은 YARG)",
+    "LI Hung-kuang 리훙광 (조선의용군 지휘관. 원문 OCR은 LI Hungeicuang)"
+  ],
+  "confidence": "medium",
+  "notes": "옌지의 좌표가 (129-31, 42-65)로 적혀 있다. 분(分)은 60을 넘을 수 없으니 값이 깨진 것이다. 같은 문서철 M06은 같은 지명을 (129-31, 42-55)로 적었다. 그래도 이 문서의 숫자는 고치지 않고 그대로 두었다.\n\n지휘관 이름 둘은 OCR이 뭉개졌다. YARG Chun-yu를 YANG Chun-yu로, LI Hungeicuang을 LI Hung-kuang으로 읽었다. 확정은 아니다.\n\n두 상단 공개 도장의 문서번호가 서로 다르다. 앞은 R000109470001-5, 뒤는 R000100170001-5다. 앞쪽이 OCR 오류로 보이나 고치지 않았다.\n\n하단 비밀해제 도장은 글자가 심하게 뭉개져 문장 구조만 살리고 빠진 낱말을 대괄호로 채웠다.\n\n문서 자체의 배포일은 1946년 10월 29일이고 「8월 24일 현재」라고만 적혀 있다. raw/index.json의 날짜는 1946-01-01이다."
+}

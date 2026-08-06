@@ -1,0 +1,32 @@
+{
+  "doc_id": "M09",
+  "date": "1946-10-31",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Group 중앙정보단",
+  "to": null,
+  "classification": null,
+  "title_en": "Military Information: MAO Tze-tung Holds Meeting in Harbin",
+  "title_ko": "군사 첩보: 마오쩌둥이 하얼빈에서 회의를 열다",
+  "subject_ko": "10월 21일경 하얼빈에서 열린 긴급회의를 전한다. 중국공산당과 조선인 공산주의자, 몽골인민공화국 대표가 만주의 방어 구역을 나눴다는 내용이다.",
+  "key_points_ko": [
+    "회의 참석자는 고위 공산당원, 조선인 공산주의자 대표, 몽골인민공화국 대표 셋이다. 세 당사자가 군사작전에서 협력하기로 했다고 적었다.",
+    "조선민주연합정부가 북만주 28개 현의 방어를 맡는다.",
+    "조선공산독립군이 옌지와 안둥 관구의 12개 현의 방어를 맡는다.",
+    "몽골인민공화국은 싱안성을, 나머지 지역은 중국공산군이 맡는다. 중국공산군은 하얼빈 이남에 병력을 모아 공격에 나선다고 적었다.",
+    "중앙정보단이 주를 달아 국민당군이 1946년 10월 안둥을 점령했다는 보고가 있었다고 적었다. 본문의 안둥 방어 배정과 어긋나는 대목이다."
+  ],
+  "en": "25X1A2g\n\nApproved For Release 1999/09/08 : CIA-RDP82-00457R000100230013-5\n\nCENTRAL INTELLIGENCE GROUP\n\nINTELLIGENCE REPORT\n\nDATE:  25X1X6\n\nCOUNTRY   China\nSUBJECT   Military Information: MAO Tze-tung Holds Meeting in Harbin\nDIST.  31 October 19,6 [원문 그대로]\nPAGES  1\nSUPPLEMENT\n\n25X1A6a\n\n1. On about 21 October, MAO Tze-tung held an emergency meeting in Harbin which was attended by high ranking Communists, Korean Communist representatives and Mongolian People's Republic representatives. It was decided that the three parties would cooperate in military operations.\n\n2. The Korean Democratic Allied Government is to be responsible for the defense of twenty-eight hsiens in North Manchuria. The Korean Communist Independent Army is to be responsible for the defense of twelve hsiens of Yenchi and Antung Districts.\n\n25X1A6a\n[Note: It was reported that the Nationalists captured Antung on [판독 불가] October 1946.]\n\n3. The Mongolian People's Republic is to be responsible for the defense of Hsingan Provinces.\n\n4. All other areas are to be protected by the Chinese Communists who are to concentrate their forces south of Harbin to launch an attack.\n\n25X1A2g\n25X1A9a  25X1A9a",
+  "ko": "25X1A2g\n\n[공개 승인 1999/09/08 : CIA-RDP82-00457R000100230013-5]\n\n중앙정보단(CENTRAL INTELLIGENCE GROUP)\n\n첩보보고(INTELLIGENCE REPORT)\n\n일자:  25X1X6\n\n국가   중국\n주제   군사 첩보: 마오쩌둥(MAO Tze-tung)이 하얼빈에서 회의를 열다\n배포(DIST.)  19,6년 10월 31일 [원문 `31 October 19,6` 그대로]\n면수  1\n보충(SUPPLEMENT)\n\n25X1A6a\n\n1. 10월 21일경 마오쩌둥(MAO Tze-tung)이 하얼빈(Harbin)에서 긴급회의를 열었고, 고위 공산당원과 조선인 공산주의자 대표, 몽골인민공화국 대표가 참석하였다. 세 당사자가 군사작전에서 협력하기로 결정되었다.\n\n2. 조선민주연합정부(Korean Democratic Allied Government)가 북만주 28개 현(hsien)의 방어를 맡는다. 조선공산독립군(Korean Communist Independent Army)이 옌지(Yenchi 延吉)와 안둥(Antung 安東) 관구의 12개 현의 방어를 맡는다.\n\n25X1A6a\n[주: 국민당군이 1946년 10월 [판독 불가]일에 안둥을 점령하였다는 보고가 있었다.]\n\n3. 몽골인민공화국이 싱안성(Hsingan Provinces 興安)의 방어를 맡는다.\n\n4. 그 밖의 모든 지역은 중국공산군이 지킨다. 중국공산군은 하얼빈 이남에 병력을 집결시켜 공격에 나서기로 되어 있다.\n\n25X1A2g\n25X1A9a  25X1A9a",
+  "redactions": [
+    "25X1A2g (문서 첫 줄과 끝)",
+    "Approved For Release 1999/09/08 : CIA-RDP82-00457R000100230013-5 (공개 승인 도장)",
+    "25X1X6 (DATE 줄)",
+    "25X1A6a (본문 앞과 2항 뒤 주 앞)",
+    "25X1A9a 25X1A9a (문서 끝 배포처 표시)"
+  ],
+  "people": [
+    "MAO Tze-tung 마오쩌둥(毛澤東)"
+  ],
+  "confidence": "medium",
+  "notes": "배포일 `DIST. 31 October 19,6` 의 연도가 뭉개져 `19,6` 으로 찍혀 있다. 1946으로 보이나 날짜의 숫자는 고치지 않고 원문대로 두었다. `MAQ` 은 MAO 로, `Meebing` 은 Meeting 으로, `Feople's` 는 People's 로, `partles` 는 parties 로, `Ib` 는 It 로, `Ad. other` 는 All other 로, `coxentrate` 는 concentrate 로 고쳤다. 국민당군의 안둥 점령 날짜는 `on ober 1946` 으로 일자가 떨어져 나가 판독 불가로 두었다. `hsien` 은 현(縣)이나 원문 표기를 살렸다. 조선인 조직명 두 개(Korean Democratic Allied Government, Korean Communist Independent Army)는 이 시기 다른 자료에서 확인되는 정식 명칭이 아니어서 원문을 직역하고 로마자를 병기했다."
+}

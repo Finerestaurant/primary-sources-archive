@@ -1,0 +1,28 @@
+{
+  "doc_id": "M05",
+  "date": "1946-06-02",
+  "doc_type": "첩보보고",
+  "from": "Strategic Services Unit, War Department 전략첩보대(육군부), Washington, D.C.",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Military Information: Chinese Communists at Antung Receive Equipment from Korea",
+  "title_ko": "군사첩보: 안둥의 중국공산군이 조선에서 장비를 받다",
+  "subject_ko": "안둥의 중국공산군이 조선에서 트럭과 포를 받아 새 포병연대를 꾸린다는 두 줄짜리 보고다. 소련군은 강 건너편에 탄약 집적소를 두고 있다.",
+  "key_points_ko": [
+    "안둥(124-23, 40-09)의 중국공산군이 최근 조선에서 트럭 50대, 37밀리 포 15문, 75밀리 산포 10문을 받았다.",
+    "받은 목적은 새 포병연대의 편성이다.",
+    "소련군은 안둥 바로 건너편 강가에 탄약 집적소를 두고 있다.",
+    "SOURCE는 Z, SUB SOURCE는 국민정부 동북사령부, EVALUATION은 C-3이다.",
+    "M02와 방향이 반대다. 4월 보고는 물자가 조선으로 갔다고 했고, 이 보고는 장비가 조선에서 왔다고 한다."
+  ],
+  "en": "CONTROL\nU.S. AND BRITISH OFFICIALS ONLY\n\nSTRATEGIC SERVICES UNIT, WAR DEPARTMENT\nWASHINGTON, D.C.\n\nINTELLIGENCE DISSEMINATION NUMBER   A~-69173 [원문 그대로]\n\nCOUNTRY   China                                    ORIGINAL RPT.   RB-38905\nSUBJECT   Military Information: Chinese Communists  DATE OF INFO.   29 June 1946\n          at Antung Receive Equipment from Korea.   DATE OF RPT.    2 July 1946\n                                                    DISTRIBUTED     8 July 1946\nORIGIN    Shanghai\nTHEATRE                                            CONFIRMATION\n                                                   SUPPLEMENT\nSOURCE    Z\nSUB SOURCE   Nationalist Northeast Command Hq.      NO. OF PAGES  1\nEVALUATION   C-3                                    ATTACHMENTS\n\n1. The Chinese Communists at Antung (124-23, 40-09) have recently received fifty trucks, fifteen guns (37MM) and ten pack howitzers (75MM) from Korea for the organization of a new artillery regiment.\n\n2. The Russians have ammunition dumps just across the river from Antung.\n\nAPPROVED FOR RELEASE\n18 DEC 1997\n\nCONTROL   U.S. AND BRITISH OFFICIALS ONLY\n\nCONFIDENTIAL",
+  "ko": "CONTROL\n미국 및 영국 관리 전용(U.S. AND BRITISH OFFICIALS ONLY)\n\n전략첩보대, 육군부(STRATEGIC SERVICES UNIT, WAR DEPARTMENT)\n워싱턴 D.C.\n\n첩보 배포 번호(INTELLIGENCE DISSEMINATION NUMBER)   A~-69173 [원문 그대로]\n\n국가   중국(China)                          원보고(ORIGINAL RPT.)   RB-38905\n제목   군사첩보: 안둥의 중국공산군이       정보 일자(DATE OF INFO.)   1946년 6월 29일\n       조선에서 장비를 받다.               보고 일자(DATE OF RPT.)    1946년 7월 2일\n                                           배포(DISTRIBUTED)          1946년 7월 8일\n출처지   상하이(Shanghai)\n전구(THEATRE)                              확인(CONFIRMATION)\n                                           보충(SUPPLEMENT)\nSOURCE   Z\nSUB SOURCE   국민정부 동북사령부(Nationalist Northeast Command Hq.)   면수  1\nEVALUATION   C-3                            첨부(ATTACHMENTS)\n\n1. 안둥(Antung 安東, 124-23, 40-09)의 중국공산군은 최근 조선에서 트럭 50대, 포 15문(37밀리), 산포 10문(75밀리)을 받았다. 새 포병연대를 편성하기 위한 것이다.\n\n2. 소련군은 안둥 바로 건너편 강가에 탄약 집적소를 두고 있다.\n\nAPPROVED FOR RELEASE\n18 DEC 1997\n\nCONTROL   미국 및 영국 관리 전용\n\nCONFIDENTIAL",
+  "redactions": [
+    "CONTROL / U.S. AND BRITISH OFFICIALS ONLY — 상하단 배포 제한 도장",
+    "APPROVED FOR RELEASE 18 DEC 1997 — 공개 승인 도장",
+    "CONFIDENTIAL — 하단 등급 도장"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "EVALUATION은 C-3이다. 앞 글자는 정보원 신빙성, 뒤 숫자는 정보의 확실성을 가리키는 표기이며 풀어 쓰지 않고 그대로 두었다.\n\n안둥의 좌표 (124-23, 40-09)는 M02와 같다.\n\n배포 번호가 「A~-69173」으로 찍혀 있다. 물결표와 하이픈이 겹쳐 나오는데 문서번호라 손대지 않았다.\n\n본문에서 고친 것은 낱말뿐이다. Antuny를 Antung으로, [rom을 from으로 읽었다. 숫자와 좌표는 그대로다.\n\n문서 자체의 일자는 정보 1946년 6월 29일, 보고 7월 2일, 배포 7월 8일이다. raw/index.json의 날짜는 1946-06-02다."
+}

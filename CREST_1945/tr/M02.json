@@ -1,0 +1,31 @@
+{
+  "doc_id": "M02",
+  "date": "1946-04-02",
+  "doc_type": "첩보보고",
+  "from": "Strategic Services Unit, War Department 전략첩보대(육군부), Washington, D.C.",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Military Information: Chinese Communists Supply Russians in Korea",
+  "title_ko": "군사첩보: 중국공산군이 조선의 소련군에 물자를 대다",
+  "subject_ko": "안둥의 중국공산군이 조선에 있는 소련군에 기계와 물자를 몰래 실어 보낸다는 보고다. 정보원은 안둥현 국민당 당부 사람이고, 국민당은 그곳에서 지하활동밖에 못 한다.",
+  "key_points_ko": [
+    "중국공산군이 안둥(124-23, 40-09)을 장악하고 있어 국민당은 지하로만 움직인다. 사정이 나빠 사람들이 묵던으로 빠져나갔고, 국민당은 묵던에 이들을 접대할 시설을 두었다.",
+    "안둥의 중국공산군은 조선의 소련군에 기계와 물자를 은밀히 실어 보내는 일을 계속하고 있다.",
+    "거래가 극도로 비밀리에 이루어져 상세한 내용은 누구도 얻을 수 없다고 적었다.",
+    "린뱌오의 참모장이 기자회견에서 조선의 소련군을 위해 식량을 사들였음을 인정했다. 보고가 드는 유일한 공개 근거다.",
+    "SOURCE는 Z, SUB SOURCE는 See Note, EVALUATION은 OCR이 P23으로 뭉개져 읽을 수 없다."
+  ],
+  "en": "CONTROL\nU.S. AND BRITISH OFFICIALS ONLY\n\nSTRATEGIC SERVICES UNIT, WAR DEPARTMENT\nWASHINGTON, D.C.\n\nINTELLIGENCE DISSEMINATION NUMBER A4-68911\n\nCOUNTRY   China                                    ORIGINAL RPT.   LV-1559\nSUBJECT   Military Information: Chinese Communists  DATE OF INFO.   23 March 1946\n          Supply Russians in Korea.                 DATE OF RPT.    q May 1946 [원문 그대로]\n                                                    DISTRIBUTED     21 June 1946\nORIGIN    Shanghai\nTHEATRE                                            CONFIRMATION\n                                                   SUPPLEMENT\nSOURCE    Z\nSUB SOURCE   See Note                              NO. OF PAGES  1.\nEVALUATION   P23 [판독 불가]                        ATTACHMENTS\n\n(SSU China Note: Subsource is a member of the Antung Hsien Kuomintang Party Headquarters. Because the Chinese Communists control Antung (124-23, 40-09), the Kuomintang Party can only undertake underground activities there. Also, because of extremely bad conditions in Antung, many men have had to return to Mukden. The Kuomintang maintains an establishment in Mukden to entertain these Antung representatives. It was there that the following information was obtained.)\n\n1. The Chinese Communists in Antung are continuing to secretly transport machines and supplies to the Russian army in Korea. Because of the extreme secrecy with which the transactions are carried on, it is impossible for anyone to obtain any detailed information on these operations.\n\n2. However, WU Hsu-shu ([판독 불가]), Chief-of-Staff to General LIN Piao ([판독 불가]), during a press conference, admitted that the Chinese Communists had bought food supplies for the Russian Army in Korea.\n\nCONTROL\nCONFIDENTIAL   U.S. AND BRITISH OFFICIALS ONLY\n\n[판독 불가 면 표시]",
+  "ko": "CONTROL\n미국 및 영국 관리 전용(U.S. AND BRITISH OFFICIALS ONLY)\n\n전략첩보대, 육군부(STRATEGIC SERVICES UNIT, WAR DEPARTMENT)\n워싱턴 D.C.\n\n첩보 배포 번호(INTELLIGENCE DISSEMINATION NUMBER) A4-68911\n\n국가   중국(China)                          원보고(ORIGINAL RPT.)   LV-1559\n제목   군사첩보: 중국공산군이 조선의       정보 일자(DATE OF INFO.)   1946년 3월 23일\n       소련군에 물자를 대다.               보고 일자(DATE OF RPT.)    q May 1946 [원문 그대로]\n                                           배포(DISTRIBUTED)          1946년 6월 21일\n출처지   상하이(Shanghai)\n전구(THEATRE)                              확인(CONFIRMATION)\n                                           보충(SUPPLEMENT)\nSOURCE   Z\nSUB SOURCE   See Note                     면수   1.\nEVALUATION   P23 [판독 불가]               첨부(ATTACHMENTS)\n\n(SSU 중국지부 주: 부정보원은 안둥현(Antung Hsien 安東縣) 국민당 당부의 일원이다. 중국공산군이 안둥(Antung 安東, 124-23, 40-09)을 장악하고 있어 국민당은 그곳에서 지하활동밖에 할 수 없다. 또 안둥의 사정이 극도로 나빠 많은 사람이 묵던(Mukden 奉天)으로 돌아가야 했다. 국민당은 이 안둥 대표들을 접대하려고 묵던에 시설 하나를 두고 있다. 아래 정보는 그곳에서 얻은 것이다.)\n\n1. 안둥의 중국공산군은 조선에 있는 소련군에 기계와 물자를 은밀히 실어 보내는 일을 계속하고 있다. 거래가 극도로 비밀리에 이루어지므로 누구도 이 작업에 관한 상세한 정보를 얻을 수 없다.\n\n2. 그러나 LIN Piao 린뱌오([판독 불가]) 장군의 참모장인 WU Hsu-shu 우쉬수([판독 불가])는 기자회견에서 중국공산군이 조선의 소련군을 위해 식량을 사들였음을 인정했다.\n\nCONTROL\nCONFIDENTIAL   미국 및 영국 관리 전용\n\n[판독 불가 면 표시]",
+  "redactions": [
+    "CONTROL / U.S. AND BRITISH OFFICIALS ONLY — 상하단 배포 제한 도장",
+    "CONFIDENTIAL — 하단 등급 도장",
+    "인명 뒤 한자 표기가 스캔에서 뭉개져 [판독 불가]로 두었다"
+  ],
+  "people": [
+    "LIN Piao 린뱌오(林彪) (중국공산군 장군)",
+    "WU Hsu-shu 우쉬수 (린뱌오의 참모장. 원문 OCR 그대로 옮겼다)"
+  ],
+  "confidence": "medium",
+  "notes": "EVALUATION 줄이 OCR에서 P23으로 나온다. 이 계열의 등급 표기는 C-3처럼 글자 하나와 숫자 하나인데 여기서는 판독되지 않아 원문 표기를 그대로 두고 [판독 불가]를 붙였다.\n\n보고 일자가 「q May 1946」으로 찍혀 있다. 숫자로 보이나 고치지 않고 그대로 두었다.\n\n배포 번호가 A4-68911로 읽힌다. 이 계열의 다른 문서는 A-69173, A-70200처럼 A 다음에 바로 하이픈이 온다. 문서번호이므로 고치지 않았다.\n\n참모장 이름은 OCR이 「@U Hsu-shu」로 뭉개졌다. 앞 글자를 W로 읽어 WU Hsu-shu로 두었다. 린뱌오의 당시 참모장이라면 우슈취안(伍修權)일 가능성이 있으나 원문 표기와 다르므로 바꾸지 않았다.\n\n안둥의 좌표 (124-23, 40-09)는 M05와 같다.\n\n문서 자체의 일자는 정보 1946년 3월 23일, 보고 5월, 배포 6월 21일이다. raw/index.json의 날짜는 1946-04-02다."
+}

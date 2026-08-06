@@ -1,0 +1,27 @@
+{
+  "doc_id": "M06",
+  "date": "1946-07-05",
+  "doc_type": "첩보보고",
+  "from": "Strategic Services Unit, War Department 전략첩보대(육군부), Washington, D.C.",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Military Information: Soviet Officers Arrive in Yenchi from Korea",
+  "title_ko": "군사첩보: 소련군 장교들이 조선에서 옌지에 도착하다",
+  "subject_ko": "7월 초 소련군 장교 여섯이 조선에서 옌지로 와 중국공산당 관리들과 협의했다는 한 문장짜리 보고다.",
+  "key_points_ko": [
+    "7월 초 소련군 장교 여섯 명이 조선에서 옌지(129-31, 42-55)에 도착했다.",
+    "온 목적은 중국공산당 관리들과의 협의다.",
+    "SOURCE는 Z, SUB SOURCE는 동북중국사령부, EVALUATION은 C-O로 찍혀 있다.",
+    "본문은 이 한 문장이 전부다. 나머지는 등급 도장과 배포 제한 표시다."
+  ],
+  "en": "CONTROL\nU.S. AND BRITISH OFFICIALS ONLY\n\nGUARD\n\nSTRATEGIC SERVICES UNIT, WAR DEPARTMENT\nWASHINGTON, D.C.\n\nINTELLIGENCE DISSEMINATION NUMBER   h-70200 [원문 그대로]\n\nCOUNTRY   China                                    ORIGINAL RPT.   Rd-4O0562 part [원문 그대로]\nSUBJECT   Military Information: Soviet Officers     DATE OF INFO.   15 August 1946\n          Arrive in Yenchi from Korea.              DATE OF RPT.    lo August 1946 [원문 그대로]\n                                                    DISTRIBUTED     21 August 1946\nORIGIN    Shanghai\nTHEATRE                                            CONFIRMATION\n                                                   SUPPLEMENT\nSOURCE    Z\nSUB SOURCE   Northeast China Command.               NO. OF PAGES  1\nEVALUATION   C-O [원문 그대로]                      ATTACHMENTS\n\nIn early July, six Soviet officers arrived in Yenchi (129-31, 42-55) from Korea to confer with Chinese Communist officials.\n\nCONTROL\nU.S. AND BRITISH OFFICIALS ONLY\n\nAPPROVED FOR RELEASE\n\n78 DEC 1997 [원문 그대로]\n\n-37",
+  "ko": "CONTROL\n미국 및 영국 관리 전용(U.S. AND BRITISH OFFICIALS ONLY)\n\nGUARD\n\n전략첩보대, 육군부(STRATEGIC SERVICES UNIT, WAR DEPARTMENT)\n워싱턴 D.C.\n\n첩보 배포 번호(INTELLIGENCE DISSEMINATION NUMBER)   h-70200 [원문 그대로]\n\n국가   중국(China)                          원보고(ORIGINAL RPT.)   Rd-4O0562 part [원문 그대로]\n제목   군사첩보: 소련군 장교들이           정보 일자(DATE OF INFO.)   1946년 8월 15일\n       조선에서 옌지에 도착하다.           보고 일자(DATE OF RPT.)    lo August 1946 [원문 그대로]\n                                           배포(DISTRIBUTED)          1946년 8월 21일\n출처지   상하이(Shanghai)\n전구(THEATRE)                              확인(CONFIRMATION)\n                                           보충(SUPPLEMENT)\nSOURCE   Z\nSUB SOURCE   동북중국사령부(Northeast China Command).   면수  1\nEVALUATION   C-O [원문 그대로]              첨부(ATTACHMENTS)\n\n7월 초, 소련군 장교 여섯 명이 조선에서 옌지(Yenchi 延吉, 129-31, 42-55)에 도착해 중국공산당 관리들과 협의했다.\n\nCONTROL\n미국 및 영국 관리 전용\n\nAPPROVED FOR RELEASE\n\n78 DEC 1997 [원문 그대로]\n\n-37",
+  "redactions": [
+    "CONTROL / U.S. AND BRITISH OFFICIALS ONLY — 상하단 배포 제한 도장",
+    "GUARD — 상단 취급 표시",
+    "APPROVED FOR RELEASE 78 DEC 1997 — 공개 승인 도장"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "EVALUATION이 「C-O」로 찍혀 있다. 뒤 자리는 1에서 6까지의 숫자여야 하는데 글자 O로 읽힌다. 6이 뭉개진 것일 수 있으나 등급 표기는 고치지 않고 그대로 두었다.\n\n배포 번호 「h-70200」, 원보고 번호 「Rd-4O0562 part」, 보고 일자 「lo August 1946」, 공개 도장의 「78 DEC 1997」은 모두 문서번호와 날짜라 원문 그대로 두었다. 같은 계열 M05의 공개 도장은 「18 DEC 1997」이다.\n\n옌지의 좌표 (129-31, 42-55)는 정상 범위다. 같은 문서철 M01은 같은 지명을 (129-31, 42-65)로 적었다.\n\n정보 일자는 8월 15일인데 본문은 「7월 초」의 일을 말한다. 원문 그대로다.\n\n상단 배포 제한 줄은 스캔이 심하게 뭉개져 자모를 알아볼 수 없다. 같은 계열 문서들이 같은 위치에 찍은 문구로 복원해 옮겼다.\n\n문서 자체의 배포일은 1946년 8월 21일이다. raw/index.json의 날짜는 1946-07-05다."
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "M03",
+  "date": "1946-05-04",
+  "doc_type": "첩보보고",
+  "from": "Strategic Services Unit, War Department 전략첩보대(육군부)",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Military Information: Russian Troops in Korea",
+  "title_ko": "군사첩보: 조선의 소련군",
+  "subject_ko": "만주에서 물러난 소련군 약 1만 3천이 신의주로 들어가 압록강을 봉쇄했고, 북동 조선에 약 4만이 있다는 보고다. 절반은 차량화 부대다.",
+  "key_points_ko": [
+    "최근 만주에서 철수한 소련군 약 13,000명이 신의주(124-24, 40-06)로 갔고 압록강을 봉쇄했다.",
+    "북동 조선의 장진(127-10, 40-54), 백암(128-28, 41-12), 갑산(128-18, 41-05)에 소련군 약 40,000명이 있다.",
+    "그 절반은 VALIKOFF 소장이 지휘하는 차량화 부대다.",
+    "SOURCE는 Z, SUB SOURCE는 총통의 베이핑 사령부다. EVALUATION 줄은 스캔이 뭉개져 읽을 수 없다.",
+    "지명마다 일본식 이름과 좌표가 나란히 붙어 있다. 국경 밖에서 조선을 보던 방식이 표기에 남아 있다."
+  ],
+  "en": "INTELLIGENCE DISSEMINATION NUMBER   A~69294a8 [원문 그대로]\n\nCOUNTRY   Korea                                   ORIGINAL RPT.   YV-1L712 part [원문 그대로]\nSUBJECT   Military Information: Russian Troops    DATE OF INFO.   29-29 siay LIAL [원문 그대로]\n          in Korea.                               DATE OF RPT.    13 June 1946\n                                                  DISTRIBUTED     1Z July 1946 [원문 그대로]\nORIGIN    Shanghai\nTHEATRE                                           CONFIRMATION\n                                                  SUPPLEMENT\nSOURCE    Z\nSUB SOURCE   Generalissimo's Peking headquarters. NO. OF PAGES  1.\nEVALUATION   [판독 불가]                          ATTACHMENTS\n\nAbout 13,000 Russian troops, who were recently evacuated from Manchuria, have gone to Hsinichou /Shingishu, (124-24, 40-06)/ and they have blockaded the Yalu River.\n\nAbout 40,000 Russian troops are in Changchin /Choshin, (127-10, 40-54)/, Paiyen /Hakugan, (128-28, 41-12)/, and Chiashan /Kozan, (128-18, 41-05)/ in northeastern Korea. One half are motorized units under Major General VALIKOFF.\n\nAPPROVED FOR RELEASE\n18 DEC 1397 [원문 그대로]\n\nCONFIDENTIAL   CONTROL   U.S. AND BRITISH OFFICIALS ONLY\n\n227",
+  "ko": "첩보 배포 번호(INTELLIGENCE DISSEMINATION NUMBER)   A~69294a8 [원문 그대로]\n\n국가   조선(Korea)                          원보고(ORIGINAL RPT.)   YV-1L712 part [원문 그대로]\n제목   군사첩보: 조선의 소련군.             정보 일자(DATE OF INFO.)   29-29 siay LIAL [원문 그대로]\n                                            보고 일자(DATE OF RPT.)    1946년 6월 13일\n                                            배포(DISTRIBUTED)          1Z July 1946 [원문 그대로]\n출처지   상하이(Shanghai)\n전구(THEATRE)                               확인(CONFIRMATION)\n                                            보충(SUPPLEMENT)\nSOURCE   Z\nSUB SOURCE   총통의 베이핑 사령부(Generalissimo's Peking headquarters).   면수  1.\nEVALUATION   [판독 불가]                    첨부(ATTACHMENTS)\n\n최근 만주에서 철수한 소련군 약 13,000명이 신의주(Hsinichou /Shingishu, (124-24, 40-06)/)로 갔고, 압록강(Yalu River)을 봉쇄했다.\n\n소련군 약 40,000명이 북동 조선의 장진(Changchin /Choshin, (127-10, 40-54)/), 백암(Paiyen /Hakugan, (128-28, 41-12)/), 갑산(Chiashan /Kozan, (128-18, 41-05)/)에 있다. 그 절반은 VALIKOFF 발리코프 소장이 지휘하는 차량화 부대다.\n\nAPPROVED FOR RELEASE\n18 DEC 1397 [원문 그대로]\n\nCONFIDENTIAL   CONTROL   미국 및 영국 관리 전용\n\n227",
+  "redactions": [
+    "APPROVED FOR RELEASE 18 DEC 1397 — 공개 승인 도장",
+    "CONFIDENTIAL / CONTROL — U.S. AND BRITISH OFFICIALS ONLY — 하단 도장"
+  ],
+  "people": [
+    "VALIKOFF 발리코프 (소련군 소장. 차량화 부대 지휘)"
+  ],
+  "confidence": "medium",
+  "notes": "머리의 일자와 번호가 심하게 뭉개져 있다. 정보 일자 「29-29 siay LIAL」, 배포 「1Z July 1946」, 원보고 번호 「YV-1L712 part」, 배포 번호 「A~69294a8」은 날짜의 숫자와 문서번호라 고치지 않고 원문 그대로 두었다.\n\n공개 승인 도장이 「18 DEC 1397」로 찍혀 있다. 같은 계열 M05와 M06은 같은 도장이 「18 DEC 1997」이다. 그래도 이 문서의 숫자는 그대로 두었다.\n\n지명 뒤 빗금 안은 일본식 지명과 좌표다. 원문에서는 대괄호에 가까운 표시인데 스캔에서 빗금과 f 자로 뭉개졌다. 빗금으로 통일해 옮겼다. Hsinichou는 신의주, Changchin/Choshin은 장진, Paiyen/Hakugan은 백암, Chiashan/Kozan은 갑산으로 읽었다.\n\nEVALUATION 줄은 글자가 남아 있지 않아 [판독 불가]로 두었다. 등급을 짐작해 채우지 않았다.\n\n문서 자체의 보고 일자는 1946년 6월 13일, 배포는 7월이다. raw/index.json의 날짜는 1946-05-04다."
+}

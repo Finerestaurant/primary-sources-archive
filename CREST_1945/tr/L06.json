@@ -1,0 +1,35 @@
+{
+  "doc_id": "L06",
+  "date": "1945-07-17",
+  "doc_type": "각서",
+  "from": "Eric Straight 에릭 스트레이트 (외국인 전문가 조사, 뉴욕)",
+  "to": "Major Duncan C. Lee 던컨 C. 리 소령",
+  "classification": null,
+  "title_en": "Japanese Security Regulations in Korea",
+  "title_ko": "조선에서의 일본 보안 규정",
+  "subject_ko": "조선에서의 일본 보안 규정과 통제 조치를 다룬 면담 각서 두 건의 사본을 보내며 같은 사본이 모건 중령에게도 갔다고 알린다.",
+  "key_points_ko": [
+    "코넬 씨가 작성한 각서 두 건의 사본을 동봉한다.",
+    "각서의 내용은 조선에서의 일본 보안 규정과 통제 조치에 관한 면담이다.",
+    "면담 상대의 이름 자리는 지워져 있다.",
+    "같은 사본이 H. S. 모건(H.S. Morgan) 중령에게도 발송되고 있다.",
+    "발신 표시가 S.F.E. 뉴욕으로 줄어 있고 그 옆에 (b)(6) 삭제 표시가 붙어 있다."
+  ],
+  "en": "(b)(6)\nS.F.E. - New York (b)(6)\n\nMajor Duncan C. Lee\t\t\tJuly 17, 1945.\n\nEric Straight\nJapanese Security Regulations in Korea\n\nI enclose copies of two memoranda written by Mr. Cornell covering interviews held with [삭제] on Japanese Security Regulations and Control Measures in Korea.\n\nCopies of these memoranda are also being sent to Commander H.S. Morgan.\n\nE.W.S.\n\nEnclosures\nAPPROVED FOR RELEASE\nDATE: 08-Jun-2011",
+  "ko": "(b)(6)\nS.F.E. 뉴욕 (b)(6)\n\n던컨 C. 리 소령\t\t\t1945년 7월 17일.\n\n에릭 스트레이트\n조선에서의 일본 보안 규정\n\n코넬 씨가 작성한 각서 두 건의 사본을 동봉한다. 조선에서의 일본 보안 규정 및 통제 조치에 관해 [삭제] 와 가진 면담을 다룬 것이다.\n\n이 각서들의 사본은 H. S. 모건 중령에게도 발송되고 있다.\n\nE.W.S.\n\n동봉물\n공개 승인\n일자: 08-Jun-2011",
+  "redactions": [
+    "(b)(6)",
+    "(b)(6)",
+    "APPROVED FOR RELEASE",
+    "DATE: 08-Jun-2011",
+    "[삭제] (면담 상대의 이름)"
+  ],
+  "people": [
+    "Duncan C. Lee 던컨 C. 리 (소령, 수신인)",
+    "Eric Straight 에릭 스트레이트 (발신인, 서명 E.W.S.)",
+    "Cornell 코넬 (각서 작성자, L04의 면담자 Anthony Cornell 앤서니 코넬과 같은 사람으로 보인다)",
+    "H. S. Morgan H. S. 모건 (중령)"
+  ],
+  "confidence": "medium",
+  "notes": "머리의 삭제 표시가 OCR에서 `: b)\\(6` 과 `(2)(6)` 로 갈라져 읽혔다. 둘 다 정보자유법 제6항 면제 표시 (b)(6)로 보아 그대로 적었다. 발신 표시 `S.F..-` 는 Survey of Foreign Experts 의 약칭 S.F.E. 로 읽었다. `Dunven` 은 Duncan, `Seourity` 는 Security, `Kr. Cornell` 은 Mr. Cornell 로 바로잡았다. `held with` 다음의 면담 상대 이름 자리가 비어 있다. 같은 면에 (b)(6) 표시가 두 군데 붙어 있어 사생활을 이유로 지운 것으로 보고 [삭제] 로 적었으나 스캔에서 빠진 것일 가능성도 남는다. 모건 중령의 이름 뒤에 원문에는 쉼표와 함께 소속으로 보이는 대목이 이어지다 끊겨 있다."
+}
