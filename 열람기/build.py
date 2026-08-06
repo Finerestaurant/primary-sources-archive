@@ -828,9 +828,12 @@ function initChrono(){
   // 점과 이름을 한꺼번에 놓는다.
   // 점·이름 어느 쪽에 머물러도 그 사건이 무엇이었는지 카드로 뜬다 —
   // 이름 넉 자로는 「38선 획정」이 무슨 문서에서 어떻게 갈렸는지 알 수 없다.
+  // **바에는 이정표만 띄운다.** 사건 목록에는 주제 화면에 실리는 것까지
+  // 함께 들어 있어 184개인데, 그것을 다 찍으면 12년 치 띠가 빗금이 된다.
+  // 바가 성글어야 「지금 읽는 것이 어느 즈음인가」가 한눈에 잡힌다.
   const cards = {};
-  chMarks = CH.events.map(e => {
-    const t = Date.parse(e.date), key = 'ch:' + e.date;
+  chMarks = CH.events.filter(e => e.bar).map(e => {
+    const t = Date.parse(e.date), key = 'ch:' + e.id;
     cards[key] = {title: e.label, date: e.date, route: e.where || '',
                   sum: e.note || '', go: false};
 

@@ -116,23 +116,30 @@ for c in built:
     ids[c["slug"]] = {str(x["id"]) for x in dd}
     docmap[c["slug"]] = {str(x["id"]): x for x in dd}
 
+# 사건 목록을 여기서 한 번 읽어 둔다. 주제 항목은 `ev` 로 이 목록을 가리키고,
+# 날짜와 문서는 거기에만 있다.
+_ef = os.path.join(os.path.dirname(os.path.abspath(__file__)), "chrono.json")
+EVENTS = {e["id"]: e for e in json.load(open(_ef, encoding="utf-8"))["events"]}
+
 bad = []
 ALL_EV = [(t, e) for t in site.get("threads", []) for e in t.get("events", [])]
 for _t, e in ALL_EV:
-    col, doc = e.get("col"), e.get("doc")
-    if not doc:
+    ev = EVENTS.get(e.get("ev"))
+    if ev is None:
+        bad.append(f"[{_t['slug']}] 사건 '{e.get('ev')}' 이 chrono.json 에 없음")
         continue
-    if col not in ids:
-        bad.append(f"[{_t['slug']}] {e['when']} — 문서철 '{col}' 없음")
-    elif str(doc) not in ids[col]:
-        bad.append(f"[{_t['slug']}] {e['when']} — {col}/#{doc} 없음")
+    for col, doc in (ev.get("docs") or []):
+        if col not in ids:
+            bad.append(f"[{_t['slug']}] {ev['id']} — 문서철 '{col}' 없음")
+        elif str(doc) not in ids[col]:
+            bad.append(f"[{_t['slug']}] {ev['id']} — {col}/#{doc} 없음")
 if bad:
     print("\n!! 연표 링크가 어긋난다:")
     for b in bad:
         print("   " + b)
-    sys.exit("site.json 의 timeline 을 고쳐라.")
+    sys.exit("site.json 과 열람기/chrono.json 을 맞춰라.")
 
-linked = sum(1 for _t, e in ALL_EV if e.get("doc"))
+linked = sum(1 for _t, e in ALL_EV if (EVENTS.get(e.get("ev")) or {}).get("docs"))
 print(f"  주제 {len(site.get('threads', []))}개 · 연표 {len(ALL_EV)}항 · "
       f"문서까지 연결 {linked}항")
 
@@ -404,22 +411,26 @@ def flag_of(e):
 def render_events(events, cards):
     out = []
     for e in events:
+        # 날짜와 문서는 사건 목록(열람기/chrono.json)에 있다. 주제가 가진 것은
+        # 자기 문장뿐이다 — 같은 사건을 두 주제가 다르게 적을 수 있어서다.
+        ev = EVENTS.get(e.get("ev")) or {}
+        # 저장은 ISO(1943-11)로 하고 화면에는 점(1943.11)으로 찍는다. 이 화면이
+        # 줄곧 써 온 표기다. disp 가 있으면 그것이 우선 — 「08.14 20:05」처럼
+        # 해가 없고 시각이 붙은 것은 그 글자 자체가 내용이다.
+        when = ev.get("disp") or (ev.get("date") or "").replace("-", ".")
+        docs = [d for d in (ev.get("docs") or []) if d[0] in by_slug]
         inner = (f'<span class="who">{H.escape(e["who"])}{flag_of(e)}</span>'
                  f'<p class="body">{md(e["what"])}</p>')
-        linked = e.get("col") in by_slug
-        if e.get("col") in by_slug:
-            href = e["col"] + "/"
-            attr = ""
-            if e.get("doc"):
-                did = str(e["doc"])
-                href += "#" + urlquote(did, safe="")
-                key = f'{e["col"]}:{did}'
-                cards[key] = card_of(e["col"], did)
-                attr = f' data-card="{H.escape(key)}"'
-            inner = f'<a href="{H.escape(href)}"{attr}>{inner}</a>'
+        if docs:
+            col, did = docs[0][0], str(docs[0][1])
+            href = col + "/#" + urlquote(did, safe="")
+            key = f"{col}:{did}"
+            cards[key] = card_of(col, did)
+            inner = (f'<a href="{H.escape(href)}" '
+                     f'data-card="{H.escape(key)}">{inner}</a>')
         out.append(f'<div class="ev{" key" if e.get("key") else ""}'
-                   f'{"" if linked else " pending"}">'
-                   f'<time>{H.escape(e["when"])}</time><div>{inner}</div></div>')
+                   f'{"" if docs else " pending"}">'
+                   f'<time>{H.escape(when)}</time><div>{inner}</div></div>')
     return "".join(out)
 
 
