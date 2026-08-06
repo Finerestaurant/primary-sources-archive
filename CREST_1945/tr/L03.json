@@ -1,0 +1,35 @@
+{
+ "doc_id": "L03",
+ "date": "1945-03-26",
+ "doc_type": "서한",
+ "from": "「외국인 전문가 조사」 뉴욕 사무소 (Survey of Foreign Experts, New York) · 서명 E.W.S.",
+ "to": "던컨 리 소령 (Major Duncan Lee)",
+ "classification": "Confidential",
+ "title_en": "Survey of Foreign Experts - New York (Korean population map)",
+ "title_ko": "조선 인구 지도 송부",
+ "subject_ko": "장로회 해외선교부 월보에 실으려고 만든 조선 인구 지도의 사진 확대본 두 장을 보낸다.",
+ "key_points_ko": [
+  "조선 인구 지도의 사진 확대본 두 장을 동봉한다.",
+  "지도를 만든 사람 이름은 (b)(6)으로 지워졌다.",
+  "지도는 장로회 해외선교부 월보에 싣기 위한 것이었다.",
+  "사본 하나는 프레이지 소령을 거쳐 아이플러 대령에게 넘겨 달라고 부탁한다."
+ ],
+ "en": "APPROVED FOR RELEASE DATE: 08-Jun-2011\n(b)(6)\n\nSURVEY OF FOREIGN EXPERTS - NEW YORK\nCONFIDENTIAL\n\nMajor Duncan Lee                     March 26, 1045 [as in original]\nEric St[...]ght\n\nI enclose two photostatic enlargements of a Korean population map which you may find of interest.\n\nThis map was prepared by [(b)(6)] in May of 19[illegible], for publication in the monthly bulletin put out by the Presbyterian Board of Foreign Missions. The legend is self-explanatory.\n\nI have sent another copy to K & A and would appreciate your forwarding one of the enclosures to Major Frazee for Colonel Eifler's attention.\n\nE.W.S.\n\nEnclosures",
+ "ko": "공개 승인 날짜: 2011년 6월 8일\n(b)(6)\n\n「외국인 전문가 조사」 — 뉴욕\n기밀(CONFIDENTIAL)\n\n던컨 리 소령 앞                     1945년 3월 26일 [원문 연도 표기 1045 그대로]\n에릭 St[...]ght\n\n관심 있으실 만한 조선 인구 지도의 사진 확대본 두 장을 동봉한다.\n\n이 지도는 [(b)(6)]이(가) 19[판독 불가]년 5월에 만든 것으로, 장로회 해외선교부가 내는 월보에 싣기 위한 것이었다. 범례는 따로 설명이 필요 없다.\n\n사본 한 장은 K & A로 보냈고, 동봉한 것 가운데 하나는 프레이지 소령을 거쳐 아이플러 대령이 볼 수 있게 넘겨 주면 고맙겠다.\n\nE.W.S.\n\n첨부",
+ "redactions": [
+  "(b)(6)",
+  "APPROVED FOR RELEASE DATE: 08-Jun-2011",
+  "지도를 만든 사람 이름이 (b)(6)으로 지워져 있다. [삭제]"
+ ],
+ "people": [
+  "던컨 리 소령 (Major Duncan Lee)",
+  "프레이지 소령 (Major Frazee)",
+  "아이플러 대령 (Colonel Eifler)"
+ ],
+ "confidence": "medium",
+ "notes": [
+  "원문 날짜 연도가 OCR에서 1045로 찍혔다. 실제로는 1945년이나, 날짜 숫자를 고치지 않는 원칙에 따라 본문에는 1045를 남기고 표시만 달았다. 구조상 date 값은 저장소 색인의 1945-03-26을 따른다.",
+  "지도 제작 연도(원문 19[.]7)는 판독이 확실치 않아 [판독 불가]로 남겼다.",
+  "K & A는 수신처 약칭이다. 무엇인지 문서만으로는 확정할 수 없다."
+ ]
+}

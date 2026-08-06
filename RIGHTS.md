@@ -11,6 +11,7 @@
 | 카이로 선언과 조선 | FRUS, The Conferences at Cairo and Tehran, 1943 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 얄타의 신탁통치 구두 양해 | FRUS, The Conferences at Malta and Yalta, 1945 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 미국의 대한정책 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
+| 조선 첩보, 뉴욕 1945 | CIA Records Search Tool (CREST) · OSS 「외국인 전문가 조사」 | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 일본의 항복 | FRUS 1945, Volume VI | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 항복문서를 만들다 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
 | 독일 항복 | FRUS 1945, Volume III | 미국 정부 저작물 · 퍼블릭 도메인 |
@@ -23,7 +24,7 @@
 ### 미국 정부 저작물
 
 미국 저작권법 제105조에 따라 연방정부 공무원이 직무상 작성한 저작물에는 저작권이
-없다. FRUS, USSBS, 해군 작전 보고, SCAP 기록이 여기 해당한다.
+없다. FRUS, USSBS, 해군 작전 보고, SCAP 기록, OSS·CIA 공개 기록(CREST)이 여기 해당한다.
 
 ### 국립국회도서관(일본)
 

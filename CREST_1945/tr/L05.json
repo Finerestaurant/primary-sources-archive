@@ -1,0 +1,29 @@
+{
+ "doc_id": "L05",
+ "date": "1945-04-03",
+ "doc_type": "서한",
+ "from": "「외국인 전문가 조사」 뉴욕 사무소 (Survey of Foreign Experts, New York) · 서명 E.W.S.",
+ "to": "던컨 C. 리 소령 (Major Duncan C. Lee)",
+ "classification": null,
+ "title_en": "Korean Reports",
+ "title_ko": "조선 보고서 송부",
+ "subject_ko": "조선에 관한 보고서 N-9194와 N-9194/2를 두 부씩 보내니 프레이지 소령에게 넘겨 달라고 부탁한다.",
+ "key_points_ko": [
+  "조선에 관한 보고서 N-9194와 N-9194/2를 각각 두 부씩 동봉한다.",
+  "이 보고서들을 프레이지 소령에게 넘겨 달라고 부탁한다."
+ ],
+ "en": "Survey of Foreign Experts - New York\nMajor Duncan C. Lee                     April 3, 1945\nEric St[...]ght\nAPPROVED FOR RELEASE DATE: 08-Jun-2011\nKorean Reports\n\nI enclose two copies each of the following reports on Korea:\n\nN-9194\nN-9194/2\n\nI would appreciate your forwarding these to Major Frazee.\n\nE.W.S.",
+ "ko": "「외국인 전문가 조사」, 뉴욕\n던컨 C. 리 소령 앞                     1945년 4월 3일\n에릭 St[...]ght\n공개 승인 날짜: 2011년 6월 8일\n조선 보고서\n\n조선에 관한 다음 보고서를 각각 두 부씩 동봉한다.\n\nN-9194\nN-9194/2\n\n이 보고서들을 프레이지 소령에게 넘겨 주면 고맙겠다.\n\nE.W.S.",
+ "redactions": [
+  "APPROVED FOR RELEASE DATE: 08-Jun-2011"
+ ],
+ "people": [
+  "던컨 C. 리 소령 (Major Duncan C. Lee)",
+  "프레이지 소령 (Major Frazee)"
+ ],
+ "confidence": "high",
+ "notes": [
+  "보고서 번호 N-9194와 N-9194/2는 그대로 두었다.",
+  "발신인 서명은 OCR에서 뭉개졌고 이니셜은 E.W.S.다."
+ ]
+}
