@@ -1,0 +1,29 @@
+{
+  "doc_id": "P09",
+  "date": "1948-02-10",
+  "doc_type": "첩보보고",
+  "from": null,
+  "to": null,
+  "classification": "confidential",
+  "title_en": "Economic Information: Shipping to Dairen and Antung from South Korea",
+  "title_ko": "경제 첩보: 남조선에서 다롄과 안둥으로의 해운",
+  "subject_ko": "남조선에서 온 배 스무 척이 안둥 항구에 정박해 있고, 다롄에 들어오는 남조선 배에 대한 조사가 특히 엄하다는 짧은 보고다. 38선 남쪽과 만주 사이에 배가 오가고 있었다.",
+  "key_points_ko": [
+    "남조선에서 온 배 스무 척이 안둥 항구에 있다. 크기와 종류는 확인되지 않았다.",
+    "이 배들은 휘발유와 밀을 실어 왔다.",
+    "남조선에서 다롄으로 들어오는 배는 (원문이 소련 측인지 물음표를 달았다) 조사가 특히 엄하다.",
+    "그런데도 휘발유와 담배 따위를 실은 배는 물자와 맞바꾸는 것이 허용된다.",
+    "국가 칸은 중국으로 적혀 있다. 남조선 이야기가 중국 문서로 분류되어 들어왔다."
+  ],
+  "en": "[판독 불가 — 원문 `Nomar cnet ewer ee ene`]\n\nApproved For Release [판독 불가] : CIA-RDP82-00457R001300250006-1 (원문 `Approved For 'Release 4 OMAD EN B2- wcrrorehll`)\n\nINFORMATION REPORT [원문 `INFORM Ag OW “REPO`]\n\nCOUNTRY  China                          DATE DISTR.  10 February 1948\nSUBJECT  Economic Information: Shipping to Dairen    NO. OF PAGES  1\n         and Antung from South Korea\nPLACE                                   NO. OF ENCLS.\nACQUIRED  [판독 불가] (see below)\n\nREFERENCE CENTER LIBRARY [판독 불가] (원문 `OFFERENCE CENTER LIBRA Y CRY Ao.`)  25X1X\n\n1. Twenty ships (size and type undetermined) which came from South Korea are anchored in Antung (124-23, 40-09) harbor. These ships carried cargoes of gasoline and wheat.\n\n2. The investigation (? by the Soviets ?) of ships coming to Dairen from South Korea is particularly strict. However, ships entering Dairen with cargoes of [판독 불가], gasoline, and tobacco are allowed to barter [판독 불가] (원문 `barter BEaORY`) for goods.  25X1X\n\nThis docu[ment is hereby regraded] CONFIDEN[TIAL] [판독 불가]\n\nNext Re[view] Date: [판독 불가]\n\nCLASSIFICATION  CONFIDENTIAL [원문 `SOnFPPENTT AL`]\n\nApproved For Release [판독 불가] : CIA-RDP82-00457R001300250006-1 (원문 `COMEIBENT ATs 2-004572001300250006-1`)",
+  "ko": "[판독 불가 — 원문 `Nomar cnet ewer ee ene`]\n\n공개 승인 [판독 불가] : CIA-RDP82-00457R001300250006-1 (원문 `Approved For 'Release 4 OMAD EN B2- wcrrorehll`)\n\n첩보보고(INFORMATION REPORT) [원문 `INFORM Ag OW “REPO`]\n\n국가  중국(China)                       배포일(DATE DISTR.)  1948년 2월 10일\n주제  경제 첩보: 남조선에서 다롄과 안둥으로의   면수(NO. OF PAGES)  1\n      해운\n입수지                                  첨부(NO. OF ENCLS.)\n(PLACE ACQUIRED)  [판독 불가] (아래를 보라)\n\nREFERENCE CENTER LIBRARY [판독 불가] (원문 `OFFERENCE CENTER LIBRA Y CRY Ao.`)  25X1X\n\n1. 남조선(South Korea)에서 온 배 스무 척(크기와 종류는 확인되지 않았다)이 안둥(Antung 안둥(安東)) (124-23, 40-09) 항구에 정박해 있다. 이 배들은 휘발유와 밀을 싣고 왔다.\n\n2. 남조선에서 다롄(Dairen 다롄(大連))으로 들어오는 배에 대한 (? 소련 측의 ?) 조사는 특히 엄하다. 다만 [판독 불가]와 휘발유, 담배를 싣고 다롄에 들어오는 배는 물자와 맞바꾸는 것(barter)이 허용된다. [판독 불가] (원문 `barter BEaORY`)  25X1X\n\n이 문서는 [판독 불가] 기밀(CONFIDENTIAL)로 등급이 조정되었다.\n\n다음 재검토일(Next Review Date): [판독 불가]\n\n등급(CLASSIFICATION)  기밀(CONFIDENTIAL) [원문 `SOnFPPENTT AL`]\n\n공개 승인 [판독 불가] : CIA-RDP82-00457R001300250006-1 (원문 `COMEIBENT ATs 2-004572001300250006-1`)",
+  "redactions": [
+    "Approved For Release … : CIA-RDP82-00457R001300250006-1 (앞뒤 면의 공개 승인 도장. 날짜가 뭉개졌다)",
+    "25X1X (REFERENCE CENTER 줄과 2항 끝의 정보원 표시)",
+    "PLACE ACQUIRED 칸이 뭉개져 입수지를 읽을 수 없다",
+    "This document is hereby regraded CONFIDENTIAL / Next Review Date (등급 조정 도장)"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "이 문서는 머리 양식이 앞의 것들과 다르다. `CENTRAL INTELLIGENCE GROUP` 이 없고 `INFORMATION REPORT` 만 있으며 DATE DISTR. 칸을 쓴다. 발신 기관을 확정할 수 없어 from 을 비웠다. 안둥의 좌표 (124-23, 40-09)는 이 문서철의 다른 문서와 같다. 2항에서 화물 목록의 첫 품목과 `barter` 뒤에 오는 낱말이 뭉개져 [판독 불가]로 두었다. 원문은 `bs otald gasoline, and tobacco` 와 `barter BEaORY for goods` 다. `South Korea` 를 남조선으로 옮겼다. 1948년 2월 문서이므로 대한민국은 아직 서지 않았다. `Republic of Korea` 는 나오지 않는다."
+}

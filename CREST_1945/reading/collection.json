@@ -1,6 +1,6 @@
 {
  "title": "조선을 밖에서 보다",
- "subtitle": "1945년 2월 – 1947년 12월 · CIA 공개 기록(CREST)에서 고른 93건",
+ "subtitle": "1945년 2월 – 1948년 12월 · CIA 공개 기록(CREST)에서 고른 154건",
  "source": "CIA Records Search Tool (CREST) · 미국 중앙정보국 공개 기록 · 아카이브닷오르그 미러 · 미국 정부 저작물(퍼블릭 도메인)",
  "search_hint": "한국어·교정 영문·인물·지명 검색",
  "groups": [
@@ -15,6 +15,10 @@
   {
    "key": "C",
    "label": "1947 북조선"
+  },
+  {
+   "key": "D",
+   "label": "1948 두 정부"
   }
  ],
  "panes": {
