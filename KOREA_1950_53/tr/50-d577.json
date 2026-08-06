@@ -1,0 +1,39 @@
+{
+ "doc_id": "50-d577",
+ "date": "1950-09-30",
+ "time": null,
+ "doc_type": "각서",
+ "place": "Washington",
+ "from": "중국담당국장 클러브(O. Edmund Clubb)",
+ "to": "극동담당 차관보 러스크(Dean Rusk), 극동담당 부차관보 머천트(Livingston T. Merchant)",
+ "msg_nr": null,
+ "classification": "secret",
+ "source_note": "795.001/9–3050",
+ "title_en": "Memorandum by the Director of the Office of Chinese Affairs (Clubb) to the Assistant Secretary of State for Far Eastern Affairs (Rusk)",
+ "title_ko": "중국담당국장 클러브가 극동담당 차관보 러스크에게 보낸 각서",
+ "subject_ko": "포로 신문 보고를 근거로 북한군 내에 중국 공산군 출신 부대가 편입되어 있다고 보고한다.",
+ "key_points_ko": [
+  "극동군 총사령부(GHQ FEC) 정보 분석에 따르면 중공군 제164사단과 제166사단이 1949년 8~9월 신의주와 나남을 통해 북한으로 이동하여 북한군 제5사단과 제6사단으로 각각 재편성되었다.",
+  "이들 부대는 이동 전에는 만주에서 국민당군과 싸운 제3·제4 독립사단으로, 중공군에서 복무하던 조선인들로 구성되어 있었다.",
+  "중공군 부대 자체가 북한으로 옮겨간 것은 1949년이지만, 이후에도 귀환한 조선인이 있다는 북경의 최근 발표와 이 보고는 연결될 수 있다.",
+  "광저우 부시장이 마카오 비밀회의에서 유엔군이 제2전선을 열면 마오쩌둥이 인도차이나를 침공하고 동시에 타이완을 공격할 가능성이 있다고 발언했다는 별도 보고도 주목된다.",
+  "저우언라이가 '한국군이 만주 국경까지 밀리면 국경 밖에서 싸우겠다'고 말했다는 보고 등으로 볼 때 중공 당국은 한국 정세에 깊이 우려하고 있으며 유엔군의 만주 국경 진출을 정권에 대한 심각한 위협으로 간주한다.",
+  "중공군이 공개적으로 개입할지 최종 결정은 유엔군이 38선을 넘겠다고 위협할 때까지 내려지지 않을 수 있다."
+ ],
+ "ko": "[Washington,] September 30, 1950.\n\nSubject: Chinese Communist Troops—Korea\n\nReference: CA Memo 9/27/50: “Chinese Communist Intentions”\n\nGHQ FEC reports: “An analysis of Korean PW reports reveals conclusively that the Chinese Communist 164th and 166th Divisions were moved into North Korea, via Sinuiju and Nanam, during Aug and Sep 49, and were redesignated as the North Korean 5th and 6th Divisions, respectively. These divisions, prior to their transfer to North Korea, were composed of Koreans serving with the Chinese Communist Army, and as the 3rd and 4th Independent Divisions, fought against the Nationalists in Manchuria.” [주*]\n\nAlthough this transfer took place in 1949, this report can be related to the recent Peiping admission that Koreans had returned from China to their homeland to participate in its defense and construction. It is of course possible, as implicit in the Peiping statement, that other Koreans have returned home at more recent dates.\n\nNote the further report [주†] that Canton Deputy Mayor Ku Ta-tsun stated at a secret conference in Macao on Aug. 4 that if UN forces opened a second front in Korea Mao Tse-tung would invade Indo-China and probably attack Taiwan at the same time; and, “part of the Communist offensive would be the capturing of military materiel in Hong Kong …”. A source comment cited by GHQ FEC was that the report that Chou En-lai had told a conference that if the Koreans were pushed back to the Manchurian frontier China’s policy would be to fight outside her borders and not wait for the enemy to come inside, and other reports, “indicate that Chinese Communist authorities are deeply concerned over the course of events in Korea and would regard the advance of UN forces to the Manchurian border as a serious threat to their regime. The final decision on whether the Chinese Communists will resort to overt participation in Korea may not be made until UN forces threaten to cross the 38th Parallel.”\n\n[830면]",
+ "notes_ko": [
+  "[주1] 이 각서는 극동담당 부차관보 머천트(Livingston T. Merchant)에게도 발송되었다.",
+  "[주*] Information Summary #2929, 9/16/50, China, Manchuria, p. 5. [원문 각주]",
+  "[주†] 같은 글, p. 6. [원문 각주]"
+ ],
+ "people": [
+  "클러브(O. Edmund Clubb)",
+  "러스크(Dean Rusk)",
+  "머천트(Livingston T. Merchant)",
+  "Ku Ta-tsun",
+  "Mao Tse-tung 마오쩌둥(毛澤東)",
+  "Chou En-lai 저우언라이(周恩來)"
+ ],
+ "confidence": "high",
+ "notes": ""
+}
