@@ -252,9 +252,13 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
 .ev time{font-family:var(--mono);font-size:12px;color:var(--ink-3);
   text-align:right;padding-top:3px;font-variant-numeric:tabular-nums;
   white-space:nowrap}
-.ev::before{content:"";position:absolute;left:101px;top:16px;width:7px;height:7px;
+/* 점은 세로줄 한가운데(104.5px)와 첫 글줄에 맞춘다. 자리를 좌표로 적지 않고
+   한 점을 잡아 옮기는 까닭은, 굵은 점이 2px 크기 때문이다. 좌표로 적으면
+   크기를 고칠 때마다 두 벌을 같이 고쳐야 하고 실제로 1px 어긋나 있었다 */
+.ev::before{content:"";position:absolute;left:104.5px;top:18.5px;
+  transform:translate(-50%,-50%);width:7px;height:7px;
   border-radius:50%;background:var(--edge);border:1px solid var(--bg)}
-.ev.key::before{background:var(--stamp);width:9px;height:9px;left:100px}
+.ev.key::before{background:var(--stamp);width:9px;height:9px}
 .ev .who{font-family:var(--mono);font-size:11px;letter-spacing:.07em;
   text-transform:uppercase;color:var(--ink-3);display:flex;align-items:center;
   gap:6px;margin-bottom:1px}
@@ -328,8 +332,7 @@ footer a{color:var(--ink-3)}
 @media(max-width:640px){
   .tl::before{left:0}
   .ev{grid-template-columns:1fr;gap:0;padding-left:20px}
-  .ev::before{left:-3px;top:14px}
-  .ev.key::before{left:-4px}
+  .ev::before{left:.5px;top:19.5px}   /* 여기선 날짜가 본문 위로 올라온다 */
   .ev time{text-align:left;padding-top:0;display:block;margin-bottom:2px}
   .method div{grid-template-columns:1fr;gap:4px}
   header .wrap{padding-top:40px}
