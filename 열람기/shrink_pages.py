@@ -50,7 +50,22 @@ ROOT = os.path.dirname(HERE)
 
 CAP = 1600          # 긴 변. 이보다 크면 줄이고, 작으면 그대로 둔다
 Q = 75              # 품질
-Q_BY = {"014.1.korea": 80}   # 사진으로 찍은 것은 높게
+Q_BY = {"014.1.korea": 80,          # 사진으로 찍은 것은 높게
+        "NDL_점령기자료/pid_9850431": 82}   # 펼침면이라 한 쪽이 800px 뿐이다
+
+
+def page_dirs():
+    """지면 폴더를 찾는다. **한 겹 깊은 곳도 본다.**
+
+    처음엔 `*/pages` 만 훑었는데 `NDL_점령기자료/pid_9850431/pages` 가 통째로
+    빠졌다. 그 하나가 277MB, 사이트의 사분의 일이었다. 문서철이 한 기관 밑에
+    여럿 들어앉는 꼴이 앞으로 더 생기니 두 겹까지 훑는다.
+
+    `_site` 는 뺀다. 지어 낸 것이라 여기서 줄여 봐야 다음 빌드에 덮인다."""
+    d = (glob.glob(os.path.join(ROOT, "*", "pages"))
+         + glob.glob(os.path.join(ROOT, "*", "*", "pages")))
+    return sorted(p for p in d
+                  if not os.path.relpath(p, ROOT).startswith(("_", ".")))
 
 
 def shrink(src, dst, q):
@@ -64,8 +79,9 @@ def shrink(src, dst, q):
 
 def main(only=None, dry=False):
     tot_o = tot_n = 0
-    for pd in sorted(glob.glob(os.path.join(ROOT, "*", "pages"))):
-        coll = os.path.basename(os.path.dirname(pd))
+    for pd in page_dirs():
+        home = os.path.dirname(pd)                       # 문서철 폴더
+        coll = os.path.relpath(home, ROOT)               # 두 겹이면 두 겹째까지
         if only and coll not in only:
             continue
         files = sorted(glob.glob(os.path.join(pd, "*")))
@@ -74,9 +90,13 @@ def main(only=None, dry=False):
         q = Q_BY.get(coll, Q)
         o = sum(os.path.getsize(f) for f in files)
 
-        # 먼저 표본 다섯 장으로 어림해 본다. 줄지 않으면 손대지 않는다.
+        # 먼저 표본으로 어림해 본다. 줄지 않으면 손대지 않는다.
+        # **앞에서 다섯 장을 뽑으면 안 된다.** 앞머리는 표지와 백지라 가볍고,
+        # 그래서 MOFA_1941_Nichibei 를 20.9MB→16.1MB 로 잘못 어림해 헛되이
+        # 다시 인코딩했다. 문서철 전체에 고르게 흩어 뽑는다.
         import io
-        s = files[:5]
+        k = min(9, len(files))
+        s = [files[i * (len(files) - 1) // max(k - 1, 1)] for i in range(k)]
         est = 0
         for f in s:
             im = Image.open(f)
@@ -107,7 +127,7 @@ def main(only=None, dry=False):
             n = sum(os.path.getsize(f)
                     for f in glob.glob(os.path.join(pd, "*")))
             # 확장자가 바뀌었으면 규격에도 알려야 한다
-            cj = os.path.join(ROOT, coll, "reading", "collection.json")
+            cj = os.path.join(home, "reading", "collection.json")
             if os.path.exists(cj):
                 c = json.load(open(cj))
                 if (c.get("pages") or {}).get("ext") != "jpg":
