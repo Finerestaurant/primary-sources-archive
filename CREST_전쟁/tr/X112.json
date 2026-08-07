@@ -1,0 +1,25 @@
+{
+  "doc_id": "X112",
+  "date": "1951-03-24",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": "secret",
+  "title_en": "North Korean and Chinese Communist Military Information, Pyongyang",
+  "title_ko": "평양의 조선인민군·중국 공산군 군사 정보",
+  "subject_ko": "평양 인근 사동의 신병 훈련, 평안남도 내 조선인민군·중국 공산군 병력 소문, 중국 공산군 제1군의 강계 이동 소문을 짧게 적은 첩보 보고다.",
+  "key_points_ko": [
+    "조선인민군이 17세부터 [판독 불가, 숫자 일부 소실]세까지의 남성을 계속 징집하고 있으며 신병 2만 명이 사동 훈련소에 있다고 적었다.",
+    "평양에서는 조선인민군 내무서원과 극소수의 중국 공산군·조선인민군 병력만 관측되었으나, 평안남도에는 조선인민군 5만 명과 중국 공산군 5개 사단이 있다는 소문이 있었다고 적었다.",
+    "평양에서는 중국 공산군 제1군(원문에 `(sic)`로 표시)이 3월 3일 이전 만주에서 강계로 이동했다는 소문이 있었다고 적었다."
+  ],
+  "en": "[판독 불가, 상단 낙서] (원문 `INTELLOFAY 95`)\n\nCOUNTRY\nSUBJECT\nPLACE ACQUIRED\nDATE OF INFO.\n\nCLASSIFICATION   [판독 불가, 아마도 SECRET] (원문 `SLGALT`)\nCENTRAL INTELLIGENCE AGENCY   REPORT NO.\nINFORMATION REPORT   CD NO.\n\nDATE DISTR.   2[판독 불가] March 1951 (원문 `2, March 1951`; 문서철 색인은 1951년 3월 24일로 적는다)\n\nCOUNTRY   Korea/China\nSUBJECT   North Korean and Chinese Communist Military Information, Pyongyang   NO. OF PAGES 1\nPLACE ACQUIRED   [판독 불가] (원문 `25X1A`)\nSUPPLEMENT TO / REPORT NO.   [판독 불가] (원문 `25X1X`)\n\n1. The North Korean Army continues to recruit men aged 17 to [판독 불가, 숫자 일부 소실] (원문 `5.`). Twenty thousand recruits are in the training area at Sadong (125-19, 3901) [원문 그대로].\n\n2. The North Korean Interior Police and a very few Chinese Communist and North Korean troops were observed in Pyongyang. Fifty thousand North Korean troops and five Chinese Communist divisions were rumored to be in South Pyongan Province.\n\n3. It was rumored in Pyongyang that the Chinese Communist 1 (sic) Army moved from Manchuria to Kanggye (126-36, 40-58) prior to 3 March.\n\n4. [판독 불가, 항목 소실] (원문 `le.`)\n\nDocument No.   [판독 불가]\nNo Change in Class.\nDeclassified\nClass. Changed To:\nAuth.: HR 70-2\nDate: 8 JUL 1978   By: 037\n\n[판독 불가, 배포처 표] (원문 `COLNAVEE, / OFLT # ‘COlNAVPHI #` / `. iLE....:`)",
+  "ko": "[판독 불가, 상단 낙서] (원문 `INTELLOFAY 95`)\n\n국가\n주제\n입수처\n정보 일자\n\n등급 구분(CLASSIFICATION)   [판독 불가, 아마도 비밀(SECRET)] (원문 `SLGALT`)\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고 번호\n정보 보고(INFORMATION REPORT)   CD 번호\n\n배포일자(DATE DISTR.)   1951년 3월 2[판독 불가]일 (원문 `2, March 1951`; 문서철 색인은 1951년 3월 24일로 적는다)\n\n국가   조선/중국(Korea/China)\n주제   평양의 조선인민군·중국 공산군 군사 정보   면수   1\n입수처   [판독 불가] (원문 `25X1A`)\n보충 대상 / 보고 번호   [판독 불가] (원문 `25X1X`)\n\n1. 조선인민군은 17세부터 [판독 불가, 숫자 일부 소실](원문 `5.`)세까지의 남성을 계속 징집하고 있다. 신병 2만 명이 사동(125-19, 3901) [원문 그대로] 훈련소에 있다.\n\n2. 평양에서는 조선인민군 내무서원과 극소수의 중국 공산군·조선인민군 병력이 관측되었다. 평안남도에는 조선인민군 5만 명과 중국 공산군 5개 사단이 있다는 소문이 있었다.\n\n3. 평양에서는 중국 공산군 제1군(원문 `(sic)`)이 3월 3일 이전 만주에서 강계(126-36, 40-58)로 이동했다는 소문이 있었다.\n\n4. [판독 불가, 항목 소실] (원문 `le.`)\n\n문서 번호   [판독 불가]\n등급 변경 없음(No Change in Class.)\n비밀 해제됨(Declassified)\n등급 변경 사유(Class. Changed To):\n근거(Auth.): HR 70-2\n일자(Date): 1978년 7월 8일   By: 037\n\n[판독 불가, 배포처 표] (원문 `COLNAVEE, / OFLT # ‘COlNAVPHI #` / `. iLE....:`)",
+  "redactions": [
+    "25X1A, 25X1X (여러 곳)",
+    "배포처 표가 [판독 불가]로 지워짐"
+  ],
+  "people": [],
+  "confidence": "low",
+  "notes": "짧은 문서지만 손상이 커서 항목 4는 번호(`le.`)만 남고 본문이 통째로 소실되었다. `aged 17 to 5.`의 마지막 숫자는 자릿수가 잘려 있어 [판독 불가]로 두었고 짐작으로 채우지 않았다. `Sadong (125-19, 3901)`과 `Kanggye (126-36, 40-58)`의 좌표 숫자는 전혀 고치지 않았다. 배포일자 칸의 `2, March 1951`은 숫자 하나가 소실된 것으로 보이며 문서철 색인의 1951년 3월 24일과 대조해 `date` 필드는 색인을 따르되 본문 숫자는 원문 그대로 두었다. 중국 공산군 제1군이라는 표기에는 원문 자체에 `(sic)`가 붙어 있어 그대로 옮겼다. 실명으로 등장하는 인물은 없다."
+}
