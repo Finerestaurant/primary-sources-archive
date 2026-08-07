@@ -2,9 +2,10 @@
 
     python3 make_docs.py
 
-이 문서철에는 **스캔이 없다.** CREST 원본은 아카이브닷오르그에 스캔이 있으나
-저장소에 넣지 않았다(`조사/README.md` 참조). 그래서 `collection.json` 에
-`pages` 를 두지 않는다 — 열람기는 그러면 썸네일과 확대 뷰어를 통째로 뺀다.
+**스캔이 있다.** `pipeline/fetch_scans.py` 가 아카이브닷오르그에서 받아
+`pages/` 와 `thumbs/` 에 넣고, 문서마다 몇 면인지를 `pipeline/scans.json` 에
+적어 둔다. 여기서는 그것을 읽어 면 목록을 붙인다. **못 받은 문서는 면이 없고,
+열람기는 그런 문서에서 썸네일 줄을 알아서 뺀다.**
 
 **오른쪽 창에 무엇을 놓을 것인가.** 이 문서철에는 텍스트가 셋이다.
 
@@ -31,6 +32,8 @@ GROUP = {"L": ("A", "1945 뉴욕 · OSS 외국인 전문가 조사"),
 
 def main():
     idx = {d["doc_id"]: d for d in json.load(open(os.path.join(ROOT, "raw/index.json")))}
+    sp = os.path.join(HERE, "scans.json")
+    scans = json.load(open(sp)) if os.path.exists(sp) else {}
     order = {d: i for i, d in enumerate(idx)}
     docs, missing = [], []
     for path in sorted(glob.glob(os.path.join(ROOT, "tr", "*.json"))):
@@ -77,6 +80,7 @@ def main():
             "notes": notes,
             "note": t.get("notes"),
             "warn": t.get("confidence") == "low",
+            "pages": [f"{did}-{i:02d}" for i in range(1, scans.get(did, 0) + 1)],
             # 지워진 자리의 표시(`(b)(6)`, `25X1X6`)로도 찾아지게 한다.
             # 이 문서철에서는 **무엇이 가려졌는가가 곧 찾을 거리**다.
             "search": " ".join((t.get("people") or []) + (t.get("redactions") or [])

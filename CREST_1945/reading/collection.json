@@ -40,6 +40,13 @@
    "label": "문서번호순"
   }
  ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "jpg",
+  "label": "원본 지면",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
  "warn_text": "스캔에서 기계로 읽어 낸 텍스트를 교정한 것이다. 판독 신뢰도가 낮은 문서가 있다. 원문 대조 필요.",
  "home": {
   "url": "../",

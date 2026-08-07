@@ -1,0 +1,31 @@
+{
+  "doc_id": "W038",
+  "date": "1950-07-07",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "VULNERABLE SUPPLY LINES IN NORTH KOREA",
+  "title_ko": "북조선의 취약한 보급선",
+  "subject_ko": "소련에서 평양으로 이어지는 보급선의 약한 곳을 짚은 보고다. 성진 남쪽 철도 터널을 하나만 끊어도 소련발 철도 수송이 막힌다고 본다.",
+  "key_points_ko": [
+    "소련과 평양을 잇는 주 보급선은 청진과 원산을 잇는 본선 철도이고, 성진 남쪽 구간이 공중 폭격이나 함포 사격에 매우 약하다고 짚는다.",
+    "이 구간에 지도에 나오지 않는 터널이 여럿 있다. 그중 하나만 부수어도 성진 이남 북조선군으로 가는 소련발 철도 수송이 만주를 도는 우회로를 빼고는 모두 끊긴다.",
+    "우회 도로는 성진에서 단천으로 가는 자동차 길 하나뿐인데 기갑이 다닐 수 없다. 1945년 8월 소련군이 T-34 전차로 통과하지 못했고 그 뒤 개축된 바가 알려진 것이 없다.",
+    "24톤 GMC 트럭은 매우 어렵게나마 그 길을 지날 수 있다고 적는다.",
+    "격자 좌표 13/970-1850의 터널을 부수면 북조선의 동서 철도 수송이 모두 끊긴다고 본다.",
+    "표적 목록에 가깝다. 개전 열흘 남짓에 중앙정보국이 폭격 대상을 좌표로 집어 낸다."
+  ],
+  "redactions": [
+    "25X1A (NO. OF ENCLS. 칸 옆)",
+    "25X1X (1항 머리)",
+    "25X1A (각주 머리. 원문 `25x14 [ER the wap reference is to aus 1551`)",
+    "Approved For Release [판독 불가] (1면 머리 도장. 원문 `Approved For Release nae : NEIDENTIAL.`)",
+    "REPORT NO. Pod 440 [판독 불가]"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "en": "O2-040Y [판독 불가]\n\nApproved For Release [판독 불가] : CONFIDENTIAL [원문 `Approved For Release nae : NEIDENTIAL.`]\n\nCONFIDENTIAL\nCLASSIFICATION [원문 `§ CONFIDENTIAL eee 297,` / `& CLASSIFICATION quae`]\n\nCENTRAL INTELLIGENCE AGENCY        REPORT NO.   Pod 440 [원문 그대로]\nINFORMATION REPORT                 CD NO.\n\nCOUNTRY   Korea                    DATE DISTR.   7 July 1950\nSUBJECT   Vulnerable Supply Lines in North Korea [원문 `North horea`]        NO. OF PAGES   1 [원문 `lL`]\n                                   25X1A\n                                   NO. OF ENCLS.\n\nPLACE\nACQUIRED   [판독 불가 — 원문 `repress`]\nDATE OF                            SUPPLEMENT TO\nINFO.                              REPORT NO.\n\n(LISTED BELOW)\n\n25X1X\n1. The main supply line between the USSR and Pyongyang, the main-line railway between Chongjin and Wonsan, is extremely vulnerable to air or naval bombardment in the area south of Songjin. (Grid Reference 10/1200~2010, 10/1190-2010, and 10/1190~2000).* This portion of the rail line contains several tunnels not shown on maps. Destruction of any one of these tunnels will cut all rail transport from the USSR to the North Korean forces south of Songjin except for a circuitous detour thru Manchuria.\n\n2. The only highway detour around the above-mentioned tunnels is an auto road from Songjin to Tanchon. This road is not usable for armor. Soviet troops were unable to traverse this road with T-34 tanks in August 1945 and there has been no known reconstruction of the road since that date. A 24-ton GMC truck can traverse the road with great difficulty. [원문 `A 24-ton GNC truck`]\n\n3. The tunnel in the area of Grid Reference 13/970-1850, if destroyed, will cut all east-west rail traffic in North Korea.\n\n25X1A   * [삭제] The map reference is to AMS 1551, 1 = 250,000. [원문 `25x14 [ER the wap reference is to aus 1551, 1 = 250,000.`]\n\nThis document is hereby regraded to CONFIDENTIAL in accordance with the letter of 16 October 1978 from the Director of Central Intelligence to the Archivist of the United States.\n\nNext Review Date: 2008\n\nCONFIDENTIAL\nCLASSIFICATION",
+  "ko": "O2-040Y [판독 불가]\n\n공개 승인(Approved For Release) [판독 불가] : 기밀(CONFIDENTIAL) [원문 `Approved For Release nae : NEIDENTIAL.`]\n\n기밀(CONFIDENTIAL)\n등급 구분(CLASSIFICATION) [원문 `§ CONFIDENTIAL eee 297,` / `& CLASSIFICATION quae`]\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)        보고 번호(REPORT NO.)   Pod 440 [원문 그대로]\n첩보보고(INFORMATION REPORT)                   CD 번호\n\n국가   조선(Korea)                 배포일(DATE DISTR.)   1950년 7월 7일\n주제   북조선의 취약한 보급선\n       (Vulnerable Supply Lines in North Korea) [원문 `North horea`]        면수(NO. OF PAGES)   1 [원문 `lL`]\n                                   25X1A\n                                   첨부(NO. OF ENCLS.)\n\n입수지(PLACE ACQUIRED)   [판독 불가 — 원문 `repress`]\n정보 일자(DATE OF INFO.)           보충 대상(SUPPLEMENT TO)\n                                   보고 번호(REPORT NO.)\n\n(아래에 열거)\n\n25X1X\n1. 소련과 평양(Pyongyang)을 잇는 주 보급선, 곧 청진(Chongjin)과 원산(Wonsan)을 잇는 본선 철도는 성진(Songjin) 남쪽 구간에서 공중 폭격이나 함포 사격에 대단히 취약하다. (격자 좌표 10/1200~2010, 10/1190-2010, 10/1190~2000).* 이 철도 구간에는 지도에 나오지 않는 터널이 여럿 있다. 이 터널 가운데 어느 하나만 파괴해도 만주(Manchuria)를 도는 먼 우회로를 빼고는 소련에서 성진 이남의 북조선군으로 가는 철도 수송이 모두 끊긴다.\n\n2. 앞서 말한 터널들을 우회하는 유일한 도로는 성진에서 단천(Tanchon)으로 가는 자동차 길이다. 이 길은 기갑이 쓸 수 없다. 소련군은 1945년 8월에 T-34 전차로 이 길을 지나지 못했고 그 뒤로 도로가 개축되었다고 알려진 바 없다. 24톤 GMC 트럭은 대단히 어렵게나마 이 길을 지날 수 있다. [원문 `A 24-ton GNC truck`]\n\n3. 격자 좌표 13/970-1850 일대의 터널을 파괴하면 북조선의 동서 철도 수송이 모두 끊긴다.\n\n25X1A   * [삭제] 지도 참조는 AMS 1551, 1 = 250,000 이다. [원문 `25x14 [ER the wap reference is to aus 1551, 1 = 250,000.`]\n\n이 문서는 1978년 10월 16일 중앙정보국장이 미합중국 문서관리관에게 보낸 서한에 따라 기밀(CONFIDENTIAL)로 등급이 조정되었다.\n\n다음 재검토일(Next Review Date): 2008\n\n기밀(CONFIDENTIAL)\n등급 구분(CLASSIFICATION)",
+  "notes": "격자 좌표를 한 자리도 고치지 않았다. `10/1200~2010`, `10/1190-2010`, `10/1190~2000`, `13/970-1850` 이다. 붙임표와 물결표가 섞여 있는 것도 원문 그대로다. 각주의 `aus 1551` 은 미 육군 지도국(AMS) 도폭 번호로 읽어 AMS 로 옮겼다. 축척 `1 = 250,000` 도 원문 표기 그대로다.\n\n`24-ton GNC truck` 의 GNC 는 GMC 로 읽었다. 낱말 오독의 교정 범위로 보았고 톤수 24는 손대지 않았다.\n\n보고 번호 칸의 `Pod 440` 은 뭉개진 채로 두었다.\n\n지명은 `Chongjin` 청진, `Wonsan` 원산, `Songjin` 성진, `Tanchon` 단천으로 옮겼다. 좌표가 아니라 이름이므로 한국어를 병기했다.\n\n낱말 철자만 고쳤다. `iain`→`main`, `ionsan`→`Wonsan`, `bom bardment`→`bombardment`, `Uestruction`→`Destruction`, `UsSR`→`USSR`, `Hanchuria`→`Manchuria`, `tumels`→`tunnels`, `korea`→`Korea`, `wap`→`map`. `thru` 는 원문의 약식 표기라 그대로 두었다."
+}
