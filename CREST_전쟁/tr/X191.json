@@ -1,0 +1,27 @@
+{
+  "doc_id": "X191",
+  "date": "1951-06-01",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": null,
+  "title_en": "DOCUMENTATION, PRICES AND CURRENCY IN NORTH KOREA",
+  "title_ko": "북조선의 증명서류·물가·화폐",
+  "subject_ko": "북조선 원과 중국 화폐의 교환, 위조지폐, 시민증·여행허가증·영업허가 발급 비용, 평양 물가, 대한민국 원 소지 단속을 짧게 적은 첩보다.",
+  "key_points_ko": [
+    "북조선 원과 중국 공산군 화폐의 잦은 교환, 위조 북조선 원 유통을 적었다.",
+    "시민증 재발급·여행허가증·영업허가에 큰돈이 든다고 적었다.",
+    "평양 물가가 1950년 6월의 약 일곱 배이며 미군 군복 바지 6,000원, 군화 3,000원, 쌀 한 끼분 2,000원이라는 구체 수치를 적었다.",
+    "대한민국 원 사용은 금지되어 있고 소지자는 북조선 국가보위부가 단속한다고 적었다."
+  ],
+  "en": "Declassified in Part - Sanitized Copy Approved for Release 2013/12/16 : CIA-RDP82-00457R007800800011-3\n\n25X1\n\nCLASSIFICATION   [판독 불가]\nCENTRAL INTELLIGENCE AGENCY   REPORT\nINFORMATION REPORT   CD NO.\n\nCOUNTRY   Korea                              DATE DISTR.   1 June 1951 [원문 그대로, OCR `1 June 1952`]\nSUBJECT   Documentation, Prices and Currency in North Korea   NO. OF PAGES   1\nPLACE ACQUIRED\nDATE OF INFO.                                SUPPLEMENT TO\n                                              REPORT NO.   50X1-HUM\n\nTHIS IS UNEVALUATED INFORMATION\n50X1-HUM\n\n1. There is frequent exchange of North Korean won for Chinese Communist currency. Fake North Korean won notes have been in circulation.\n\n2. As of late April, North Korean citizenship certificates were being reissued, and cost a large sum. A permit required for travel was being issued by the local People's Committees or the interior police. Licenses to open restaurants and other businesses also cost large sums.\n\n3. Pyongyang prices are approximately seven times greater than in June 1950. 50X1-HUM American uniform trousers cost 6,000 North Korean won, army boots are 3,000 won, and a small meal of rice is 2,000 won. Medicine is obtainable only on the streets by bartering food.\n\n4. The use of ROK won is banned and people found with large quantities of ROK won are picked up by members of the North Korean State Security Bureau.\n\nCLASSIFICATION   [판독 불가]\n[STATE  ARMY  AIR  판독 불가]   DISTRIBUTION\n\nDeclassified in Part - Sanitized Copy Approved for Release 2013/12/16 : CIA-RDP82-00457R007800800011-3",
+  "ko": "일부 비밀해제 - 공개 승인 사본(Sanitized Copy Approved for Release) 2013/12/16 : CIA-RDP82-00457R007800800011-3\n\n25X1\n\n등급 구분(CLASSIFICATION)   [판독 불가]\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고(REPORT)\n첩보보고(INFORMATION REPORT)   CD 번호\n\n국가   조선(Korea)                          배포일자(DATE DISTR.)   1 June 1951 [원문 그대로, OCR `1 June 1952`]\n주제   북조선의 증명서류·물가·화폐(Documentation, Prices and Currency in North Korea)   면수   1\n입수 장소\n정보 일자                                    보충 대상\n                                             보고 번호   50X1-HUM\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION).\n50X1-HUM\n\n1. 북조선 원(North Korean won)을 중국 공산군 화폐로 바꾸는 일이 잦다. 위조 북조선 원 지폐도 유통되고 있다.\n\n2. 4월 하순 현재 북조선 시민증이 다시 발급되고 있었는데 큰돈이 들었다. 여행에 필요한 허가증은 지방 인민위원회나 내무서(interior police)가 발급하고 있었다. 식당이나 그 밖의 영업을 여는 인가에도 큰돈이 들었다.\n\n3. 평양의 물가는 1950년 6월보다 약 일곱 배 높다. 50X1-HUM 미군 군복 바지는 북조선 원 6,000원, 군화는 3,000원, 쌀 한 끼분 소량은 2,000원이다. 약은 식량과 물물교환하는 방식으로만 길거리에서 구할 수 있다.\n\n4. 대한민국 원(ROK won)의 사용은 금지되어 있으며 대한민국 원을 많이 지닌 사람이 적발되면 북조선 국가보위부(North Korean State Security Bureau) 요원들에게 붙잡힌다.\n\n등급 구분(CLASSIFICATION)   [판독 불가]\n[국무부(STATE)  육군(ARMY)  공군(AIR)  판독 불가]   배포처(DISTRIBUTION)\n\n일부 비밀해제 - 공개 승인 사본 2013/12/16 : CIA-RDP82-00457R007800800011-3",
+  "redactions": [
+    "50X1-HUM (본문 여러 곳)",
+    "Declassified in Part - Sanitized Copy Approved for Release 2013/12/16 : CIA-RDP82-00457R007800800011-3 (문서 앞뒤의 공개 승인 도장)",
+    "등급 구분과 배포처 칸이 훼손되어 판독 불가"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "배포일자 칸이 원문에서 `1 June 1952`로 찍혀 있으나 날과 달(1 June)이 색인 날짜 1951-06-01과 맞아떨어진다. TRANSLATION_SPEC 이 밝힌 DISTR 줄의 1952 오독(마지막 자리 1이 2로 읽힌 것) 패턴과 같은 것으로 보아 `date`는 색인의 1951-06-01을 썼고 본문의 `1952`는 원문 그대로 두었다. `interior police`는 원문 표현을 살려 내무서로 옮겼다. `50X1-HUM`이 보고 번호 칸과 3항 중간에 걸쳐 있어 문장을 끊는 위치가 어색하지만 원문의 삽입 위치를 그대로 따랐다. 숫자(6,000원·3,000원·2,000원·7배)는 고치지 않았다."
+}

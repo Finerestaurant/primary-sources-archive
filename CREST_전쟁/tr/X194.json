@@ -1,0 +1,26 @@
+{
+  "doc_id": "X194",
+  "date": "1951-06-01",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": null,
+  "title_en": "PROBLEMS OF THE NORTH KOREAN LABOR PARTY",
+  "title_ko": "북조선 노동당의 문제",
+  "subject_ko": "북조선 노동당 중앙집행위원회가 전쟁 중 당 일꾼들의 비효율을 놓고 스스로 짚은 세 가지 잘못을 적었다.",
+  "key_points_ko": [
+    "군내 당 일꾼들이 신병을 제대로 교화하지 못했고 대한민국 내 잠재적 유격대 지도자 동원에도 실패했다고 자인했다.",
+    "정부 기관 당원들이 전선 물자·원자재 동원에 실패했다고 자인했다.",
+    "본부 당원들이 외부 조직에 융통성 있는 지시를 못 내리고 국내 당원 조율에도 실패했다고 자인했다."
+  ],
+  "en": "Declassified in Part - Sanitized Copy Approved for Release 2013/10/18 : CIA-RDP82-00457R007800880013-3\n\nCLASSIFICATION   [판독 불가]\nCENTRAL INTELLIGENCE AGENCY   REPORT\nINFORMATION REPORT   CD NO.   50X1\nCOUNTRY   Korea                              DATE DISTR.   1 June 1951 [원문 그대로, OCR `1 June 1952`]\nSUBJECT   Problems of the North Korean Labor Party   NO. OF PAGES   1\nPLACE ACQUIRED                                SUPPLEMENT TO\nDATE OF INFO.                                 REPORT NO.   50X1-HUM\n\n[판독 불가, 통상 고지문]\n\nTHIS IS UNEVALUATED INFORMATION\n\n50X1-HUM\n\nthe North Korean Labor Party Central Executive Committee met to 50X1-HUM discuss the problem of the inefficiency of Party workers during the war. The committee agreed that the following errors were made:\n\na. Party workers in the army could not thoroughly indoctrinate new troops with Communism and could not effectively mobilize civilian leaders of potential guerrilla groups to fight for the North Koreans in the Republic of Korea.\n\nb. Party members in government agencies failed to mobilize raw materials and supplies needed by front line troops.\n\nc. Party members at headquarters failed to give flexible orders to Party workers in external organizations and failed to coordinate Party members at home.\n\nDocument No. [판독 불가]\nClass. [판독 불가]\nAuth [판독 불가]\nDate: [판독 불가]\n\n50X1\n\nCLASSIFICATION   [판독 불가]\nDISTRIBUTION   [판독 불가]   50X1\n\nDeclassified in Part - Sanitized Copy Approved for Release 2013/10/18 : CIA-RDP82-00457R007800880013-3",
+  "ko": "일부 비밀해제 - 공개 승인 사본(Sanitized Copy Approved for Release) 2013/10/18 : CIA-RDP82-00457R007800880013-3\n\n등급 구분(CLASSIFICATION)   [판독 불가]\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고(REPORT)\n첩보보고(INFORMATION REPORT)   CD 번호   50X1\n국가   조선(Korea)                          배포일자(DATE DISTR.)   1 June 1951 [원문 그대로, OCR `1 June 1952`]\n주제   북조선 노동당의 문제(Problems of the North Korean Labor Party)   면수   1\n입수 장소                                    보충 대상\n정보 일자                                    보고 번호   50X1-HUM\n\n[판독 불가, 통상 고지문]\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION).\n\n50X1-HUM\n\n북조선 노동당(North Korean Labor Party) 중앙집행위원회가 50X1-HUM 모여 전쟁 중 당 일꾼들의 비효율 문제를 논의했다. 위원회는 다음과 같은 잘못이 있었다는 데 합의했다.\n\n가. 군내 당 일꾼들이 신병에게 공산주의를 철저히 주입하지 못했고, 대한민국(the Republic of Korea) 내에서 북조선을 위해 싸울 잠재적 유격대 지도자들을 효과적으로 동원하지 못했다.\n\n나. 정부 기관의 당원들이 전선 부대에 필요한 원자재와 물자를 동원하는 데 실패했다.\n\n다. 본부의 당원들이 외부 조직의 당 일꾼들에게 융통성 있는 지시를 내리지 못했고 국내 당원들을 조율하는 데도 실패했다.\n\n문서 번호(Document No.) [판독 불가]\n등급(Class.) [판독 불가]\n근거(Auth) [판독 불가]\n일자(Date:) [판독 불가]\n\n50X1\n\n등급 구분(CLASSIFICATION)   [판독 불가]\n배포처(DISTRIBUTION)   [판독 불가]   50X1\n\n일부 비밀해제 - 공개 승인 사본 2013/10/18 : CIA-RDP82-00457R007800880013-3",
+  "redactions": [
+    "50X1 / 50X1-HUM (본문 여러 곳)",
+    "Declassified in Part - Sanitized Copy Approved for Release 2013/10/18 : CIA-RDP82-00457R007800880013-3 (문서 앞뒤의 공개 승인 도장)",
+    "등급 구분·배포처·문서 관리 도장 칸이 훼손되어 판독 불가"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "배포일자 칸이 원문에서 `1 June 1952`로 찍혀 있으나 날과 달(1 June)이 색인 날짜 1951-06-01과 맞고, TRANSLATION_SPEC 이 설명한 DISTR 마지막 자리 1→2 오독 패턴과 같은 사례로 보아 `date`는 색인의 1951-06-01을 썼다. 본문의 `1952`는 원문 그대로 두었다. `Republic of Korea`는 대한민국으로 옮겼다. 이 문서는 북조선 노동당이 스스로의 실패를 인정한 자기비판 성격의 첩보라 판단이 갈릴 대목은 따로 없다. 낱말 철자는 `Farty`→`Party`, `mobilice`→`mobilize` 같은 흔한 오독만 고쳤다."
+}
