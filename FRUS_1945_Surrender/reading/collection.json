@@ -38,7 +38,7 @@
  ],
  "pages": {
   "dir": "../pages",
-  "ext": "png",
+  "ext": "jpg",
   "label": "원본 지면",
   "thumbs": "../thumbs",
   "thumb_ext": "jpg"
