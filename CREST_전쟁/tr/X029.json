@@ -1,0 +1,28 @@
+{
+  "doc_id": "X029",
+  "date": "1951-01-29",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": "confidential",
+  "title_en": "North Korean Troop Locations",
+  "title_ko": "북조선군 위치",
+  "subject_ko": "1951년 1월 26일 조선 서해안 네 곳에서 관측된 북조선군 병력 수를 좌표와 함께 적은 짧은 첩보다.",
+  "key_points_ko": [
+    "1월 26일 양양에 약 1,000명이 관측되었다.",
+    "간성에 약 20명이 관측되었다.",
+    "속초리(통천리)에 약 100명이 관측되었다.",
+    "대재(태진리로 추정)에 약 300명이 관측되었다.",
+    "네 지점의 좌표 대부분이 조선 지역의 통상적인 경위도 범위(동경 124~131도, 북위 38도 안팎)를 벗어나 있어 원문 그대로 두고 판독 불가로 표시했다."
+  ],
+  "en": "Declassified in Part - Sanitized Copy Approved for Release 2012/04/03 : CIA-RDP82-00457R006800680002-8\n\n50X1-HUM\n\nCLASSIFICATION SECRET / CONFIDENTIAL (원문 `ywitt> / ‘sReaET CONFIDENTIAL`)\n\nCENTRAL INTELLIGENCE AGENCY REPORT\nINFORMATION REPORT   CD NO.\n\nCOUNTRY   Korea   DATE DISTR. 29 Jan, 1951 (원문 `79 Jan, 1951`)\nSUBJECT   North Korean Troop Locations   NO. OF PAGES 1\nPLACE ACQUIRED\n   (LISTED BELOW)   50X1-HUM\nDATE OF INFO.   SUPPLEMENT TO\n   REPORT NO.\n\nTHIS IS UNEVALUATED INFORMATION\n50X1-HUM\n\nThe following North Korean troops were observed on the Korean west coast on 26 January:\n\nApproximately 1,000 at Yangyang (178-38, 38-04) [원문 그대로]\n\n[판독 불가] Approximately 20 at Kansong (128-28, 28-22) [원문 그대로]\n\nApproximately 100 at Sokcho-ri (Tongcho-ri) (128-76, 38-12) [원문 그대로]\n\nApproximately 300 at Daejae (? Taejin-ni) (178-26, 38-30) [원문 그대로]\n\nCONFIDENTIAL\n\nCLASSIFICATION [판독 불가]\nDISTRIBUTION\nSTATE   NAVY   [판독 불가]\nARMY   AIR   [판독 불가]\n\nThis document is hereby regraded to CONFIDENTIAL in accordance with the letter of [판독 불가] from the Director of Central Intelligence to the Archivist of the United States.\n\n50X1-HUM\n\nDeclassified in Part - Sanitized Copy Approved for Release 2012/04/03 : CIA-RDP82-00457R006800680002-8",
+  "ko": "일부 비밀 해제(Declassified in Part). 공개 승인 사본 2012/04/03 : CIA-RDP82-00457R006800680002-8\n\n50X1-HUM\n\n등급 구분 비밀/기밀(SECRET / CONFIDENTIAL) (원문 `ywitt> / ‘sReaET CONFIDENTIAL`)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고\n첩보 보고(INFORMATION REPORT)   CD 번호\n\n국가   조선(Korea)   배포일자 1951년 1월 29일 (원문 `79 Jan, 1951`)\n주제   북조선군 위치(North Korean Troop Locations)   면수 1\n입수 장소\n   (아래 목록)   50X1-HUM\n정보 일자   보충 대상\n   보고 번호\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION).\n50X1-HUM\n\n다음의 북조선군이 1월 26일 조선 서해안에서 관측되었다.\n\n양양(Yangyang) (178-38, 38-04) [원문 그대로]에 약 1,000명\n\n[판독 불가] 간성(Kansong) (128-28, 28-22) [원문 그대로]에 약 20명\n\n속초리(Sokcho-ri, Tongcho-ri) (128-76, 38-12) [원문 그대로]에 약 100명\n\n대재(Daejae, ? 태진리(Taejin-ni)) (178-26, 38-30) [원문 그대로]에 약 300명\n\n기밀(CONFIDENTIAL)\n\n등급 구분 [판독 불가]\n배포처\n국무부(STATE)   해군부(NAVY)   [판독 불가]\n육군부(ARMY)   공군부(AIR)   [판독 불가]\n\n이 문서는 중앙정보장이 미합중국 문서관리청장에게 보낸 [판독 불가] 서한에 따라 기밀(CONFIDENTIAL)로 재분류되었다.\n\n50X1-HUM\n\n일부 비밀 해제(Declassified in Part). 공개 승인 사본 2012/04/03 : CIA-RDP82-00457R006800680002-8",
+  "redactions": [
+    "50X1-HUM (문서 여러 곳)",
+    "등급 구분·배포처 칸, 재분류 서한 날짜가 판독 불가 상태",
+    "간성 병력 앞에 판독 불가 삭제 표시"
+  ],
+  "people": [],
+  "confidence": "medium",
+  "notes": "배포일자 칸은 원문이 `79 Jan, 1951`로 찍혀 있는데 1월에 79일은 있을 수 없다. 본문이 1월 26일 관측을 다루는 점을 근거로 배포는 그 이후인 1월 29일로 보아 date 필드에 1951-01-29를 넣었으나(7이 2의 오독일 가능성을 고려), 원문 표기는 괄호로 그대로 남겼다. 네 좌표 `(178-38, 38-04)`, `(128-28, 28-22)`, `(128-76, 38-12)`, `(178-26, 38-30)`는 모두 한 자리도 고치지 않았다. 그중 동경 178도는 조선 반도 범위(대략 124~131도)를 크게 벗어나고, 간성 좌표의 북위 28-22 역시 조선의 통상 위도(38도 안팎)에서 크게 벗어나며, 속초리 좌표의 분(分) 값 76은 60을 넘어 좌표 표기로서 성립하지 않는다. 이런 어긋남을 모두 [원문 그대로]로 표시하고 여기 notes에 적어 둔다. 지명 `Xansong`은 조선 강원도의 실제 지명 간성(Kansong)의 X/K 오독으로 판단해 고쳤다. `Daejae`와 `Sokcho-ri (Tongcho-ri)`는 원문이 스스로 물음표를 달아 추정임을 밝히고 있어 그 형태를 그대로 살렸다. 인명은 등장하지 않는다."
+}
