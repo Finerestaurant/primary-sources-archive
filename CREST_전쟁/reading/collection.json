@@ -25,6 +25,13 @@
    "label": "회담하며 싸운다 · 51.7–12"
   }
  ],
+ "pages": {
+  "dir": "../pages",
+  "ext": "jpg",
+  "label": "원본 지면",
+  "thumbs": "../thumbs",
+  "thumb_ext": "jpg"
+ },
  "panes": {
   "primary": "한국어 번역",
   "secondary": "영문 · OCR 교정본",
