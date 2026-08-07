@@ -1,0 +1,28 @@
+{
+  "doc_id": "X079",
+  "date": "1951-03-12",
+  "doc_type": "첩보보고",
+  "from": "Central Intelligence Agency 중앙정보국",
+  "to": null,
+  "classification": null,
+  "title_en": "Departure of Propaganda Workers and Interpreters for Korea",
+  "title_ko": "조선으로 떠난 선전 요원과 통역",
+  "subject_ko": "한구에서 모집된 중국인 대학생 선전 요원과 상해에서 떠난 러시아말 통역이 조선으로 파견된 정황을 다룬 짧은 첩보 보고다.",
+  "key_points_ko": [
+    "한구 지역에서 모집된 대학생 110명 가운데 50명은 선전 활동, 60명은 최전선 선전대로 각각 갔다.",
+    "이들은 조선 근무에 「자원」한 뒤 중남중국 군정위원회가 선발했다.",
+    "러시아말 통역 다섯 명이 철도편으로 상해를 떠나 조선으로 향했다.",
+    "OCR 훼손이 심해 배포일자·정보일자·등급 구분 칸이 대부분 판독되지 않는다."
+  ],
+  "en": "Approved For Release 2009/03/05 : CIA-RDP82-00457R007200230008-6\n\nCLASSIFICATION [판독 불가] (원문 `CGi23A% Sta fOULCL — Uso. OF 1CLanS GLY`)\n\nCENTRAL INTELLIGENCE AGENCY   REPORT\nINFORMATION REPORT   CD NO. [판독 불가]\nCOUNTRY   China/Korea                                    DATE DISTR.   [판독 불가, `1 Var 1`로 찍혀 있으나 색인은 12 March 1951 이다]\nSUBJECT   Departure of Propaganda Workers and Interpreters   NO. OF PAGES   2\n          for Korea\nPLACE ACQUIRED   25X1\nDATE OF INFO.   [판독 불가]                                  SUPPLEMENT TO\n                                                              REPORT NO.\n\n25X1\n\nTHIS IS UNEVALUATED INFORMATION\n\n25X1\n25X1\n\n1. [판독 불가] of the 110 college students recruited in the Hankow area, 50 left for propaganda work [판독 불가], 60 went to Korea as front-line propaganda teams. [판독 불가] They were selected by the Central and South China Military and Administrative Committees in Hankow after they \"volunteered\" to join the army for duty in Korea.\n\n2. Five 25X1 Russian-language interpreters left Shanghai by rail for Korea.\n\nNo. [판독 불가]\nClass. Changed To: [판독 불가]\nAuth: [판독 불가]\nDate: [판독 불가]\n\n25 YEAR RE-REVIEW\n\nApproved For Release 2009/03/05 : CIA-RDP82-00457R007200230008-6",
+  "ko": "공개 승인(Approved For Release) 2009/03/05 : CIA-RDP82-00457R007200230008-6\n\n등급 구분(CLASSIFICATION) [판독 불가] (원문 `CGi23A% Sta fOULCL — Uso. OF 1CLanS GLY`)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고(REPORT)\n정보 보고(INFORMATION REPORT)   CD 번호 [판독 불가]\n국가   중국/조선(China/Korea)                                    배포일자(DATE DISTR.)   [판독 불가, 원문에는 `1 Var 1`로 찍혀 있으나 색인은 1951년 3월 12일이다]\n주제   조선으로 떠난 선전 요원과 통역(Departure of Propaganda Workers and Interpreters for Korea)   면수   2\n입수 장소(PLACE ACQUIRED)   25X1\n정보 일자(DATE OF INFO.)   [판독 불가]                                  보충 대상(SUPPLEMENT TO)\n                                                              보고 번호(REPORT NO.)\n\n25X1\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION).\n\n25X1\n25X1\n\n1. [판독 불가] 한구(Hankow) 지역에서 모집된 대학생 110명 가운데 50명은 선전 활동을 위해 떠났고 [판독 불가], 60명은 최전선 선전대로 조선에 갔다. [판독 불가] 이들은 조선 근무를 위해 「자원」하여 입대한 뒤 한구의 중남중국 군정위원회(Central and South China Military and Administrative Committees)가 선발한 사람들이다.\n\n2. 러시아말 통역 25X1 다섯 명이 철도편으로 상해를 떠나 조선으로 갔다.\n\n번호 [판독 불가]\n등급 변경(Class. Changed To): [판독 불가]\n승인자(Auth): [판독 불가]\n날짜(Date): [판독 불가]\n\n25년 재검토(25 YEAR RE-REVIEW)\n\n공개 승인 2009/03/05 : CIA-RDP82-00457R007200230008-6",
+  "redactions": [
+    "25X1 (여러 곳: PLACE ACQUIRED 칸, 본문 첫머리, 1항, 2항)",
+    "25 YEAR RE-REVIEW",
+    "Approved For Release 2009/03/05 공개 승인 도장",
+    "No., Class. Changed To:, Auth:, Date: 칸이 판독 불가"
+  ],
+  "people": [],
+  "confidence": "low",
+  "notes": "이 문서철 가운데 OCR 훼손이 가장 심한 축이다. DATE DISTR. 칸이 원문에 `1 Var 1`로 찍혀 있어 판독할 수 없으나 raw/index.json 의 색인 날짜(1951-03-12)를 date 필드에 그대로 썼고 이 어긋남을 notes 에 남긴다. CLASSIFICATION 칸(`CGi23A% Sta fOULCL — Uso. OF 1CLanS GLY`)도 등급어를 알아볼 수 없어 classification 은 null 로 두었다. 1항의 대학생 110명·50명·60명, 2항의 통역 5명이라는 수치는 고치지 않았다. 문장 곳곳의 [판독 불가]는 원문에서 글자가 통째로 지워지거나 뭉개진 자리이며 짐작해 채우지 않았다. 등장인물은 없다."
+}
