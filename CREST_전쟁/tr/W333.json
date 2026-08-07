@@ -1,28 +1,28 @@
 {
-  "doc_id": "W333",
-  "date": "1950-11-[판독 불가]",
-  "doc_type": "첩보보고",
-  "from": "Central Intelligence Agency 중앙정보국",
-  "to": null,
-  "classification": "secret",
-  "title_en": "Military Map Symbols, North Korean Army",
-  "title_ko": "북조선군 군용 지도 부호",
-  "subject_ko": "서울에서 노획한 북조선군 군사문서에서 얻은 북조선인민군의 군용 지도 부호 목록을 첨부한다는 짧은 정보보고다. 본문은 한 문장이고 부호표 자체는 실려 있지 않다.",
-  "key_points_ko": [
-    "서울에서 노획한 북조선군 군사문서를 바탕으로 북조선군의 군용 지도 부호 목록을 정리해 첨부했다고만 적혀 있다.",
-    "첨부(NO. OF ENCLS.)가 2건으로 표시되어 있으나 본문에는 부호표 자체가 들어 있지 않다.",
-    "표제부 대부분과 배포처, 등급 변경 기록란이 OCR로 심하게 뭉개져 있다."
-  ],
-  "en": "[판독 불가, 표제부 상단] (원문 `\"tb ae Ea TNE ern`)\n\nCENTRAL INTELLIGENCE AGENCY   INFORMATION REPORT   NO. [판독 불가] (원문 `ews ywrELLOFAR 18 conyRes INTELLIGENCE AGENG) REPORT XC. sur ccm`)\n\nApproved For Release [판독 불가] (원문 `APoroves FeRAM ALBERS ON Lp`)\n\nSOURCE   Korea                CONFIDENTIAL   DATE DISTR.   [판독 불가] Nov 50 (원문 `sounre worsen CONFIDENTIAL SATE DISTRES wov 50 (7`)\n\nSUBJECT   Military Map Symbols, North Korean Army\n\nNO. OF PAGES   [판독 불가]\n\nPLACE                                     NO. OF ENCLS.   2\nACQUIRED  (LISTED BELOW)\n                                           SUPPLEMENT TO\nDATE OF                                   REPORT NO.\nINFO.\n\nAttached is a list of North Korean army military symbols obtained from North Korean military documents captured in Seoul.\n\n[판독 불가, 낙관·서명란] (원문 `ee am Sar mae ee et She`)\n\nThis document is hereby regraded to\nCONFIDENTIAL in accordance with the\nletter of 15 October 1978 from the\nDirector of Central Intelligence to the\nArchivist of the United States.\n\nNext Review Date: [판독 불가] (원문 `f7 0`)\n\nClass. Chan. [판독 불가]\nDate: [판독 불가]\nBy: [판독 불가]\n\nCLASSIFICATION   SECRET (원문 `__CLASSIFICATION seerer fae`)\nDISTRIBUTION   [판독 불가] (원문 `DISTRIBUTION GinbpacrntTé| [Fearé | | ae / Mie | COLMAVPHLLA`)\n\nSTATE   [판독 불가]   ARMY   NAVY   AIR   [판독 불가] (원문 `stare [oe[vaw be [uses iste a / ARMY AIR be? | Fe | GINCKER  [COsSEVENTHEL iy _CORNAVE`)\n\nCONFIDENTIAL (원문 `(CS Pea TIAL`)\n\nApproved For Release 2001/03/17 : CIA-RDP82-00457R006300180004-3",
-  "ko": "[판독 불가, 표제부 상단] (원문 `\"tb ae Ea TNE ern`)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   정보보고(INFORMATION REPORT)   번호 [판독 불가]\n\n공개 승인(Approved For Release) [판독 불가]\n\n정보원(SOURCE)   조선(Korea)   기밀(CONFIDENTIAL)   배포일자(DATE DISTR.)   1950년 11월 [판독 불가]\n\n주제(SUBJECT)   북조선군 군용 지도 부호(Military Map Symbols, North Korean Army)\n\n면수(NO. OF PAGES)   [판독 불가]\n\n입수 장소                                   첨부 수   2\n       (아래에 열거)\n                                           보충 대상\n정보 일자                                   보고 번호\n\n첨부한 것은 서울에서 노획한 북조선군 군사문서에서 얻은 북조선군 군용 지도 부호 목록이다.\n\n[판독 불가, 낙관·서명란] (원문 `ee am Sar mae ee et She`)\n\n이 문서는 1978년 10월 15일자\n중앙정보국장이 미합중국 문서관리청장에게 보낸\n서한에 따라 여기서\n기밀(CONFIDENTIAL)로 재분류되었다.\n\n다음 재검토일: [판독 불가] (원문 `f7 0`)\n\n등급 변경(Class. Chan.): [판독 불가]\n일자: [판독 불가]\n담당: [판독 불가]\n\n등급 구분(CLASSIFICATION)   비밀(SECRET)\n배포처(DISTRIBUTION)   [판독 불가]\n\n국무부(STATE)   [판독 불가]   육군부(ARMY)   해군부(NAVY)   공군(AIR)   [판독 불가]\n\n기밀(CONFIDENTIAL)\n\n공개 승인(Approved For Release) 2001/03/17 : CIA-RDP82-00457R006300180004-3",
-  "redactions": [
-    "25X1A (SUBJECT 칸 옆)",
-    "25X1X (SUPPLEMENT TO 칸 옆)",
-    "This document is hereby regraded to CONFIDENTIAL in accordance with the letter of 15 October 1978... (말미의 재분류 문구)",
-    "Next Review Date 칸이 판독 불가하다 (원문 `f7 0`)",
-    "Class. Chan. / Date / By 란이 판독 불가하다"
-  ],
-  "people": [],
-  "confidence": "low",
-  "notes": "표제부 대부분, 배포처 표, 등급 변경 기록란이 OCR로 심하게 뭉개져 판독 불가로 남겼다. DATE DISTR. 칸은 'wov 50'이 'Nov 50'의 오독으로 짐작되어 고쳤으나 정확한 일자는 판독 불가이므로 'date' 필드도 '1950-11-[판독 불가]'로 두어 일자를 지어내지 않았다. 문서 상단에 두 군데 등급 표시가 나타나는데 하나는 CONFIDENTIAL, 말미의 CLASSIFICATION 칸은 SECRET로 서로 다르게 찍혀 있다. 두 표시 모두 원문 그대로 두었고 상충을 고치지 않았으며 대표 등급은 말미의 SECRET로 정했다. 본문 한 문장 외에는 부호 목록 자체가 첨부되어 있지 않다."
+ "doc_id": "W333",
+ "date": "1950-11-26",
+ "doc_type": "첩보보고",
+ "from": "Central Intelligence Agency 중앙정보국",
+ "to": null,
+ "classification": "secret",
+ "title_en": "Military Map Symbols, North Korean Army",
+ "title_ko": "북조선군 군용 지도 부호",
+ "subject_ko": "서울에서 노획한 북조선군 군사문서에서 얻은 북조선인민군의 군용 지도 부호 목록을 첨부한다는 짧은 정보보고다. 본문은 한 문장이고 부호표 자체는 실려 있지 않다.",
+ "key_points_ko": [
+  "서울에서 노획한 북조선군 군사문서를 바탕으로 북조선군의 군용 지도 부호 목록을 정리해 첨부했다고만 적혀 있다.",
+  "첨부(NO. OF ENCLS.)가 2건으로 표시되어 있으나 본문에는 부호표 자체가 들어 있지 않다.",
+  "표제부 대부분과 배포처, 등급 변경 기록란이 OCR로 심하게 뭉개져 있다."
+ ],
+ "en": "[판독 불가, 표제부 상단] (원문 `\"tb ae Ea TNE ern`)\n\nCENTRAL INTELLIGENCE AGENCY   INFORMATION REPORT   NO. [판독 불가] (원문 `ews ywrELLOFAR 18 conyRes INTELLIGENCE AGENG) REPORT XC. sur ccm`)\n\nApproved For Release [판독 불가] (원문 `APoroves FeRAM ALBERS ON Lp`)\n\nSOURCE   Korea                CONFIDENTIAL   DATE DISTR.   [판독 불가] Nov 50 (원문 `sounre worsen CONFIDENTIAL SATE DISTRES wov 50 (7`)\n\nSUBJECT   Military Map Symbols, North Korean Army\n\nNO. OF PAGES   [판독 불가]\n\nPLACE                                     NO. OF ENCLS.   2\nACQUIRED  (LISTED BELOW)\n                                           SUPPLEMENT TO\nDATE OF                                   REPORT NO.\nINFO.\n\nAttached is a list of North Korean army military symbols obtained from North Korean military documents captured in Seoul.\n\n[판독 불가, 낙관·서명란] (원문 `ee am Sar mae ee et She`)\n\nThis document is hereby regraded to\nCONFIDENTIAL in accordance with the\nletter of 15 October 1978 from the\nDirector of Central Intelligence to the\nArchivist of the United States.\n\nNext Review Date: [판독 불가] (원문 `f7 0`)\n\nClass. Chan. [판독 불가]\nDate: [판독 불가]\nBy: [판독 불가]\n\nCLASSIFICATION   SECRET (원문 `__CLASSIFICATION seerer fae`)\nDISTRIBUTION   [판독 불가] (원문 `DISTRIBUTION GinbpacrntTé| [Fearé | | ae / Mie | COLMAVPHLLA`)\n\nSTATE   [판독 불가]   ARMY   NAVY   AIR   [판독 불가] (원문 `stare [oe[vaw be [uses iste a / ARMY AIR be? | Fe | GINCKER  [COsSEVENTHEL iy _CORNAVE`)\n\nCONFIDENTIAL (원문 `(CS Pea TIAL`)\n\nApproved For Release 2001/03/17 : CIA-RDP82-00457R006300180004-3",
+ "ko": "[판독 불가, 표제부 상단] (원문 `\"tb ae Ea TNE ern`)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   정보보고(INFORMATION REPORT)   번호 [판독 불가]\n\n공개 승인(Approved For Release) [판독 불가]\n\n정보원(SOURCE)   조선(Korea)   기밀(CONFIDENTIAL)   배포일자(DATE DISTR.)   1950년 11월 [판독 불가]\n\n주제(SUBJECT)   북조선군 군용 지도 부호(Military Map Symbols, North Korean Army)\n\n면수(NO. OF PAGES)   [판독 불가]\n\n입수 장소                                   첨부 수   2\n       (아래에 열거)\n                                           보충 대상\n정보 일자                                   보고 번호\n\n첨부한 것은 서울에서 노획한 북조선군 군사문서에서 얻은 북조선군 군용 지도 부호 목록이다.\n\n[판독 불가, 낙관·서명란] (원문 `ee am Sar mae ee et She`)\n\n이 문서는 1978년 10월 15일자\n중앙정보국장이 미합중국 문서관리청장에게 보낸\n서한에 따라 여기서\n기밀(CONFIDENTIAL)로 재분류되었다.\n\n다음 재검토일: [판독 불가] (원문 `f7 0`)\n\n등급 변경(Class. Chan.): [판독 불가]\n일자: [판독 불가]\n담당: [판독 불가]\n\n등급 구분(CLASSIFICATION)   비밀(SECRET)\n배포처(DISTRIBUTION)   [판독 불가]\n\n국무부(STATE)   [판독 불가]   육군부(ARMY)   해군부(NAVY)   공군(AIR)   [판독 불가]\n\n기밀(CONFIDENTIAL)\n\n공개 승인(Approved For Release) 2001/03/17 : CIA-RDP82-00457R006300180004-3",
+ "redactions": [
+  "25X1A (SUBJECT 칸 옆)",
+  "25X1X (SUPPLEMENT TO 칸 옆)",
+  "This document is hereby regraded to CONFIDENTIAL in accordance with the letter of 15 October 1978... (말미의 재분류 문구)",
+  "Next Review Date 칸이 판독 불가하다 (원문 `f7 0`)",
+  "Class. Chan. / Date / By 란이 판독 불가하다"
+ ],
+ "people": [],
+ "confidence": "low",
+ "notes": "표제부 대부분, 배포처 표, 등급 변경 기록란이 OCR로 심하게 뭉개져 판독 불가로 남겼다. DATE DISTR. 칸은 'wov 50'이 'Nov 50'의 오독으로 짐작되어 고쳤으나 정확한 일자는 판독 불가이므로 'date' 필드도 '1950-11-[판독 불가]'로 두어 일자를 지어내지 않았다. 문서 상단에 두 군데 등급 표시가 나타나는데 하나는 CONFIDENTIAL, 말미의 CLASSIFICATION 칸은 SECRET로 서로 다르게 찍혀 있다. 두 표시 모두 원문 그대로 두었고 상충을 고치지 않았으며 대표 등급은 말미의 SECRET로 정했다. 본문 한 문장 외에는 부호 목록 자체가 첨부되어 있지 않다. 문서철의 `date` 는 중앙정보국이 이 보고를 낸 날(색인 1950-11-26)로 맞추었다. 앞서 `1950-11-[판독 불가]` 로 되어 있었는데, 그것은 본문이 옮긴 자료 자체의 날짜이거나 읽히지 않는 배포일이다. 본문 안의 날짜는 원문 그대로 두었다."
 }
