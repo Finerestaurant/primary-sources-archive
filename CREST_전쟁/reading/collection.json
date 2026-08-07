@@ -1,0 +1,43 @@
+{
+ "title": "전쟁을 보는 눈",
+ "subtitle": "1950년 6월 26일 – 12월 30일 · CIA 공개 기록(CREST)에서 고른 377건",
+ "source": "CIA Records Search Tool (CREST) · 미국 중앙정보국 공개 기록 · 아카이브닷오르그 미러 · 미국 정부 저작물(퍼블릭 도메인)",
+ "search_hint": "한국어·교정 영문·부대·지명 검색",
+ "groups": [
+  {
+   "key": "A",
+   "label": "밀린다 · 6.26 – 8.31"
+  },
+  {
+   "key": "B",
+   "label": "되민다 · 9.1 – 10.24"
+  },
+  {
+   "key": "C",
+   "label": "다시 밀린다 · 10.25 – 12.30"
+  }
+ ],
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "영문 · OCR 교정본",
+  "both": "나란히"
+ },
+ "sorts": [
+  {
+   "key": "date",
+   "label": "시간순"
+  },
+  {
+   "key": "order",
+   "label": "문서번호순"
+  }
+ ],
+ "warn_text": "스캔에서 기계로 읽어 낸 텍스트를 교정한 것이다. 판독 신뢰도가 낮은 문서가 있다. 원문 대조 필요.",
+ "home": {
+  "url": "../",
+  "label": "Primary Sources Archive"
+ },
+ "terms": [
+  "../../열람기/people.json"
+ ]
+}
