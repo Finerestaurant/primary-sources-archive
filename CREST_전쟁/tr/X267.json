@@ -1,0 +1,27 @@
+{
+  "doc_id": "X267",
+  "date": "1951-08-06",
+  "doc_type": "첩보보고",
+  "from": null,
+  "to": null,
+  "classification": "confidential",
+  "title_en": "RETURN OF KOREAN TROOPS FROM CHINA",
+  "title_ko": "중국에서 조선으로 돌아오는 병력",
+  "subject_ko": "1951년 8월 6일 자 중앙정보국 첩보보고다. 지린성 여러 도시에서 재편과 훈련을 받던 북조선군 3개 보병사단과 포병연대 1개, 도합 32,000명이 6월 중순부터 북조선으로 복귀하기 시작했다는 내용이다.",
+  "key_points_ko": [
+    "지린성(Kirin Province)에서 재편·훈련 중이던 북조선 보병 3개 사단과 포병연대 1개, 도합 32,000명이 6월 중순부터 북조선으로 복귀하기 시작했다.",
+    "이 병력 대부분은 17세에서 20세의 신병이다.",
+    "약 5,000명은 앞서 경상을 입고 회복한 북조선군 병력으로 이 부대들에 편입되었다.",
+    "보병 2개 사단만 장비를 지급받았고 나머지 1개 사단은 맨손이다.",
+    "이 부대들은 현재 강계와 희천 사이 철도를 따라 있다."
+  ],
+  "en": "Approved For Release 2001/03/06 : CIA-RDP82-00457R008300020012-9\n\nCLASSIFICATION   CONFIDENTIAL / SECRET [원문 그대로, 두 도장이 겹쳐 있다]\nCENTRAL INTELLIGENCE AGENCY   REPORT NO.\nINFORMATION REPORT   CD NO.\n\nCOUNTRY   Korea                                       DATE DISTR.   6 August 1951\nSUBJECT   Return of Korean Troops from China          NO. OF PAGES   1\n\nPLACE                                                  NO. OF ENCLS.\nACQUIRED   [판독 불가, 25X1A로 지워짐]                   (LISTED BELOW)\nDATE OF                                                 SUPPLEMENT TO\nINFO.   [판독 불가, 지워짐]                             REPORT NO.\n\n[정보원·수집 방법란 검게 지워짐]\n\nThree North Korean infantry divisions and one artillery regiment totalling 32,000 men, stationed in various cities of Kirin Province for regrouping and training, began to return to North Korea in mid-June. The majority of these troops are new North Korean recruits 17 to 20 years old. About 5,000 North Korean, previously slightly wounded, were also incorporated into these units, after their recuperation. Only two infantry divisions have been issued equipment; the third is bare-handed. The units are now along the railway between Kanggye and Huich'on.\n\nDocument No. 11\nNo Change In Class.\n[ ] Declassified\nClass. Changed To: TS S C\nAuth: HR 70-2\nDate: 15 AUG 1978\nBy:\n\nCLASSIFICATION   CONFIDENTIAL\nDISTRIBUTION\n\nApproved For Release 2001/03/06 : CIA-RDP82-00457R008300020012-9",
+  "ko": "공개 승인(Approved For Release) 2001/03/06 : CIA-RDP82-00457R008300020012-9\n\n등급 구분(CLASSIFICATION)   기밀(CONFIDENTIAL) / 비밀(SECRET) [원문 그대로, 두 도장이 겹쳐 있다]\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고 번호(REPORT NO.)\n정보 보고(INFORMATION REPORT)   CD 번호\n\n국가       조선(Korea)                                   배포일자(DATE DISTR.)   1951년 8월 6일\n주제       중국에서 조선으로 돌아오는 병력                면수   1\n          (Return of Korean Troops from China)\n\n입수 장소                                               첨부 수(NO. OF ENCLS.)\n          [판독 불가, 25X1A로 지워짐]                     (아래에 열거)\n정보 일자                                               보충 대상(SUPPLEMENT TO)\n          [판독 불가, 지워짐]                             보고 번호(REPORT NO.)\n\n[정보원·수집 방법란 검게 지워짐]\n\n지린성(Kirin Province)의 여러 도시에 재편과 훈련을 위해 배치되어 있던 북조선 보병 3개 사단과 포병연대 1개, 도합 32,000명이 6월 중순 북조선으로 복귀하기 시작했다. 이 병력 대부분은 17세에서 20세의 신병이다. 앞서 경상을 입었던 북조선군 병력 약 5,000명도 회복 후 이 부대들에 편입되었다. 보병 2개 사단만 장비를 지급받았고 나머지 1개 사단은 맨손이다. 이 부대들은 현재 강계(Kanggye)와 희천(Huich'on) 사이 철도를 따라 있다.\n\n문서 번호 11\n등급 변경 없음\n[ ] 비밀 해제\n등급 변경: TS S C\n근거: HR 70-2\n일자: 1978년 8월 15일\n담당:\n\n등급 구분(CLASSIFICATION)   기밀(CONFIDENTIAL)\n배포(DISTRIBUTION)\n\n공개 승인 2001/03/06 : CIA-RDP82-00457R008300020012-9",
+  "redactions": [
+    "PLACE ACQUIRED, DATE OF INFO. 칸이 검게 지워짐 (25X1A)",
+    "정보원·수집 방법을 적는 칸 전체가 검게 지워짐"
+  ],
+  "people": [],
+  "confidence": "high",
+  "notes": "본문 병력 수(32,000명, 5,000명)와 나이대(17-20세)는 raw OCR과 지면이 정확히 일치해 원문 그대로 두었다. 등급 구분란은 원래 CONFIDENTIAL로 인쇄된 위에 SECRET 도장이 겹쳐 찍혀 있어 두 표시를 모두 살리고 top-level `classification`은 인쇄된 CONFIDENTIAL로 두었다. 하단의 `Date: 15 AUG 1978`은 지면과 raw OCR이 일치하며 SPEC이 밝힌 대로 비밀해제 재분류 도장의 날짜이지 문서 작성일이 아니므로 `date`에는 반영하지 않았다. 지명(Kirin 지린, Kanggye 강계, Huich'on 희천)은 원문 로마자를 살리고 한국어를 병기했다. 인명은 나오지 않는다."
+}
