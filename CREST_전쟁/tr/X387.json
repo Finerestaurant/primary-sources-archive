@@ -1,0 +1,27 @@
+{
+ "doc_id": "X387",
+ "date": "1951-10-23",
+ "doc_type": "첩보보고",
+ "from": null,
+ "to": null,
+ "classification": "confidential",
+ "title_en": "NORTH KOREAN MARINE IDENTIFICATION MARKS",
+ "title_ko": "북조선 해병대 식별 표식",
+ "subject_ko": "원산에 주둔한 북조선 해병대가 장교와 사병 손등에 새기는 문신을 적은 짧은 첩보다. 탈영 방지와 전사자 신원 확인이 목적이라고 적었다.",
+ "key_points_ko": [
+  "오른손에는 닻과 \"해군\"을 뜻하는 조선 글자, 왼손에는 \"조국통일을 위하여 싸우자\"는 표어와 날짜 1950.1.1을 새긴다.",
+  "문신의 목적은 발각 가능성을 높여 탈영을 막고 시신 확인을 쉽게 하는 것이라고 적었다.",
+  "본문에 딸린 삽화로 양손 윤곽과 손글씨 표식이 그려져 있으나 필적이 흐려 정확한 글자는 읽을 수 없다."
+ ],
+ "en": "CLASSIFICATION CONFIDENTIAL\nApproved For Release 1999/09/09 : CIA-RDP82-00457R008900430008-3 25X1A\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO. [삭제]\nINFORMATION REPORT CD NO.\nINTELLOFAX 9\n\nCOUNTRY Korea DATE DISTR. 23 Oct 51\nSUBJECT North Korean Marine Identification Marks NO. OF PAGES 1\n\nPLACE 25X1A NO. OF ENCLS.\nACQUIRED [삭제] (LISTED BELOW)\n\nDATE OF 25X1X SUPPLEMENT TO\nINFO. REPORT NO.\n\n[삭제]\n\nNorth Korean marines stationed at Wonsan have marks tattooed on the back of both the right and left hands of officers and men. The right hand has the mark of an anchor and the Korean characters meaning \"navy.\" The left hand bears the motto \"struggle for the unification of the fatherland\" with the date 1950.1.1. The tattoos are to prevent officers and men from deserting, since the chance of recognition is great, and to facilitate the identification of bodies.\n\n[삽화: 오른손과 왼손 윤곽을 그린 그림. 왼손에는 \"1950.1.1\"이라는 날짜와 조선 글자가, 오른손에는 닻 모양과 조선 글자가 손으로 그려져 있다. 필적이 흐려 글자는 [판독 불가]]\n\nCLASSIFICATION CONFIDENTIAL\n\nDocument No. 7\nNo Change In Class. [ ]\nDeclassified [ ]\nClass. Changed To: TS S (C)\nAuth.: HR 70-2\nDate: [판독 불가] 1978 By: 24\n\nSTATE NAVY NSRB DISTRIBUTION CINCFE# FEAF# COMNAVFE# COMFLT#\nARMY AIR FBI COM7FLT# CINCPACFLT# COMNAVPHIL#\n\nApproved For Release 1999/09/09 : CIA-RDP82-00457R008900430008-3",
+ "ko": "등급 구분 기밀(CONFIDENTIAL)\n공개 승인 1999/09/09 : CIA-RDP82-00457R008900430008-3 25X1A\n\n중앙정보국 보고 번호 [삭제]\n첩보보고 CD 번호\n인텔로팩스 9(INTELLOFAX 9)\n\n국가 조선(Korea) 배포일자 1951년 10월 23일\n주제 북조선 해병대 식별 표식(North Korean Marine Identification Marks) 면수 1\n\n입수 장소 25X1A 부속 문서 수\n입수 [삭제] (아래에 적음)\n\n정보 일자 25X1X 보충 대상\n보고 번호\n\n[삭제]\n\n원산에 주둔한 북조선 해병대는 장교와 사병 양쪽 손등에 표식을 문신으로 새긴다. 오른손에는 닻 모양과 \"해군\"을 뜻하는 조선 글자가 있다. 왼손에는 \"조국통일을 위하여 싸우자\"는 표어와 날짜 1950.1.1이 새겨져 있다. 이 문신은 발각될 가능성이 크다는 점에서 장교와 사병의 탈영을 막고, 시신 확인을 쉽게 하기 위한 것이다.\n\n[삽화: 오른손과 왼손 윤곽을 그린 그림. 왼손에는 \"1950.1.1\"이라는 날짜와 조선 글자가, 오른손에는 닻 모양과 조선 글자가 손으로 그려져 있다. 필적이 흐려 글자는 판독 불가]\n\n등급 구분 기밀\n\n문서 번호 7\n등급 변경 없음 [ ]\n비밀 해제 [ ]\n등급 변경: TS S (C)\n근거: HR 70-2\n일자: [판독 불가] 1978년 처리: 24\n\n배포처 STATE NAVY NSRB CINCFE# FEAF# COMNAVFE# COMFLT#\nARMY AIR FBI COM7FLT# CINCPACFLT# COMNAVPHIL#\n\n공개 승인 1999/09/09 : CIA-RDP82-00457R008900430008-3",
+ "redactions": [
+  "25X1A / 25X1X (표제부 여러 곳)",
+  "REPORT NO. 칸이 검게 지워졌다",
+  "PLACE ACQUIRED 칸이 검게 지워졌다",
+  "표제부 아래 큰 구획이 통째로 검게 지워졌다. 원문 내용을 알 수 없다"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "지면 1장을 대조했다. raw OCR이 심하게 뭉개져 있었는데 지면은 본문 문단이 또렷이 읽혀 그대로 옮겼다. 다만 삽화 속 손글씨(날짜 옆 조선 글자, 오른손의 글자)는 지면에서도 필적이 흐려 판독 불가로 남겼다. 표제부의 REPORT NO. 옆 숫자는 흐려 자릿수를 확정할 수 없어 옮기지 않았다."
+}
