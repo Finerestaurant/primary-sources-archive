@@ -38,7 +38,9 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NOTE = re.compile(r"\s*\(원문[^()]{0,400}\)")
 CJK = re.compile(r"[぀-ヿ一-鿿]")
-FIELDS = ("ko", "en", "title_ko", "subject_ko", "notes")
+# **`notes` 는 건드리지 않는다.** 판단이 갈린 자리에 원문을 인용해 두는 것이
+# 주석의 일이다. 처음에 여기 넣었다가 79건을 되돌렸다.
+FIELDS = ("ko", "en", "title_ko", "subject_ko")
 
 
 def strip(t):
