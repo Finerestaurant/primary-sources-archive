@@ -1,30 +1,30 @@
 {
-  "doc_id": "X236",
-  "date": "1951-07-03",
-  "doc_type": "첩보보고",
-  "from": null,
-  "to": null,
-  "classification": "secret",
-  "title_en": "1. NORTH KOREAN MILITARY CONFERENCE AT KAESONG 2. NORTH KOREAN ORDER OF BATTLE",
-  "title_ko": "1. 개성의 북조선군 군사회의 2. 북조선군 전투서열",
-  "subject_ko": "최용건이 개성 부근에서 북조선군 고위 장교 대다수와 만난 사실, 재무장한 부대와 전차, 그리고 서부 중앙전선과 동남쪽으로 움직이는 군단들의 위치를 적은 첩보보고다.",
-  "key_points_ko": [
-    "북조선군 총사령관 최용건(CH'OE Yong-kon)과 고위 장교 대다수가 6월 22일 개성 부근에서 만났고, 정전이 논의된 것으로 본다.",
-    "정체를 알 수 없는 북조선군 군단 둘이 6월에 재무장하였고, 서부 중앙전선의 중공군 야전군 잔여 부대를 대체할 것이다.",
-    "전차 300대가 북조선군에 넘겨졌고, 북조선군 전차사단 하나가 연길(Yenchi)에서 훈련 중이다.",
-    "강계·개천·양덕에 예비로 있던 북조선군 제16·17·23군단이 동남쪽으로 이동 중이다."
-  ],
-  "en": "INTELLOFAX 23\n\nApproved For Release 2004/12/04 : CIA-RDP82-00457R008000800001-8 [원문 그대로, 하단 승인일자와 다름]\n\nCLASSIFICATION   SECRET (원문 `SESTET`)   25X1A\n\nCENTRAL INTELLIGENCE AGENCY   REPORT NO.\n\nINFORMATION REPORT   CD NO.\n\nCOUNTRY   Korea                                         DATE DISTR.   3 July 1951\nSUBJECT   1. North Korean Military Conference at Kaesong   NO. OF PAGES   1\n          2. North Korean Order of Battle\n\n25X1A\n\nPLACE\nACQUIRED\n\nDATE OF                                              SUPPLEMENT TO\nINFO.                                                 REPORT NO.\n\n25X1X\n\n1. General CH'OE Yong-kon, commanding general of the North Korean armed forces, and most of his high-ranking officers met near Kaesong on 22 June. It is believed that the cease-fire was discussed.\n\n2. Two unidentified North Korean corps were re-equipped in June. They will replace remnants of the Chinese Communist Field Army on the west central front.\n\n3. Three hundred tanks have been given to the North Koreans. A North Korean tank division is training at Yenchi.\n\n4. The North Korean XVI, XVII and XXIII Corps, recently in reserve at Kanggye, Kaech'on, and Yangdok, are moving southeast.\n\nSECRET [판독 불가, 원문 `wer We Pin`]\n\nApproved For Release 2001/12/04 : [판독 불가, 원문 `ay SABLE. I3a5 TA`]",
-  "ko": "INTELLOFAX 23\n\n공개 승인(Approved For Release) 2004/12/04 : CIA-RDP82-00457R008000800001-8 [원문 그대로, 하단 승인일자와 다름]\n\n등급 구분(CLASSIFICATION)   기밀(SECRET) (원문 `SESTET`)   25X1A\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)   보고 번호(REPORT NO.)\n\n첩보 보고(INFORMATION REPORT)   CD 번호\n\n국가   조선(Korea)                                    배포일자(DATE DISTR.)   1951년 7월 3일\n주제   1. 개성의 북조선군 군사회의               면수(NO. OF PAGES)   1\n       2. 북조선군 전투서열(North Korean Order of Battle)\n\n25X1A\n\n입수 장소\n입수처\n\n정보 일자                                            보충 대상(SUPPLEMENT TO)\n                                                     보고 번호\n\n25X1X\n\n1. 북조선군 총사령관 최용건(CH'OE Yong-kon) 대장과 그 고위 장교 대다수가 6월 22일 개성 부근에서 만났다. 정전이 논의된 것으로 본다.\n\n2. 정체를 알 수 없는 북조선군 군단 둘이 6월에 재무장하였다. 이들은 서부 중앙전선의 중공군 야전군 잔여 부대를 대체할 것이다.\n\n3. 전차 300대가 북조선군에 주어졌다. 북조선군 전차사단 하나가 연길(Yenchi)에서 훈련 중이다.\n\n4. 강계(Kanggye)·개천(Kaech'on)·양덕(Yangdok)에 예비로 있던 북조선군 제16·17·23군단이 동남쪽으로 이동 중이다.\n\n기밀(SECRET) [판독 불가, 원문 `wer We Pin`]\n\n공개 승인 2001/12/04 : [판독 불가, 원문 `ay SABLE. I3a5 TA`]",
-  "redactions": [
-    "25X1A (제목 옆, 본문 앞)",
-    "25X1X (본문 항목 앞)",
-    "Approved For Release 2004/12/04 : CIA-RDP82-00457R008000800001-8 (머리의 공개 승인 도장)",
-    "Approved For Release 2001/12/04 : [판독 불가] (꼬리의 공개 승인 도장, 뭉개짐)"
-  ],
-  "people": [
-    "CH'OE Yong-kon 최용건 (북조선군 총사령관)"
-  ],
-  "confidence": "medium",
-  "notes": "머리의 공개 승인 일자가 2004/12/04, 꼬리의 것이 2001/12/04 로 서로 다르다. OCR 오독인지 실제로 다른 도장인지 판단할 수 없어 둘 다 원문 그대로 두었다. 문서번호(CIA-RDP82-00457R008000800001-8)는 색인(index.json)의 crest 값과 대조해 확인했으나, 지면 OCR 자체가 `008bdds00001` 처럼 뭉개져 있던 자리는 색인 값으로 임의로 메우지 않고 [원문 그대로] 표시만 남겼다. `iiilitary`→`Military`, `dune`→`June`, `researve`→`reserve`, `XVIL`→`XVII`(로마 숫자 I/L 오독)은 낱말 철자 교정으로 보고 고쳤다. 꼬리의 `wer We Pin`, `ay SABLE. I3a5 TA`는 뭉개져 뜻을 잡을 수 없어 [판독 불가]로 두었다. 부대 번호(XVI, XVII, XXIII 군단 등)는 고치지 않았다."
+ "doc_id": "X236",
+ "date": "1951-07-03",
+ "doc_type": "첩보보고",
+ "from": null,
+ "to": null,
+ "classification": "secret",
+ "title_en": "1. NORTH KOREAN MILITARY CONFERENCE AT KAESONG 2. NORTH KOREAN ORDER OF BATTLE",
+ "title_ko": "1. 개성의 북조선군 군사회의 2. 북조선군 전투서열",
+ "subject_ko": "최용건이 개성 부근에서 북조선군 고위 장교 대다수와 만난 사실, 재무장한 부대와 전차, 그리고 서부 중앙전선과 동남쪽으로 움직이는 군단들의 위치를 적은 첩보보고다.",
+ "key_points_ko": [
+  "북조선군 총사령관 최용건(CH'OE Yong-kon)과 고위 장교 대다수가 6월 22일 개성 부근에서 만났고, 정전이 논의된 것으로 본다.",
+  "정체를 알 수 없는 북조선군 군단 둘이 6월에 재무장하였고, 서부 중앙전선의 중공군 야전군 잔여 부대를 대체할 것이다.",
+  "전차 300대가 북조선군에 넘겨졌고, 북조선군 전차사단 하나가 연길(Yenchi)에서 훈련 중이다.",
+  "강계·개천·양덕에 예비로 있던 북조선군 제16·17·23군단이 동남쪽으로 이동 중이다."
+ ],
+ "en": "INTELLOFAX 23\n\nApproved For Release 2004/12/04: CIA-RDP82-00457R008000800001-8 [원문 그대로, 하단 승인일자와 다름]\n\nCLASSIFICATION SECRET 25X1A\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO.\n\nINFORMATION REPORT CD NO.\n\nCOUNTRY Korea DATE DISTR. 3 July 1951\nSUBJECT 1. North Korean Military Conference at Kaesong NO. OF PAGES 1\n 2. North Korean Order of Battle\n\n25X1A\n\nPLACE\nACQUIRED\n\nDATE OF SUPPLEMENT TO\nINFO. REPORT NO.\n\n25X1X\n\n1. General CH'OE Yong-kon, commanding general of the North Korean armed forces, and most of his high-ranking officers met near Kaesong on 22 June. It is believed that the cease-fire was discussed.\n\n2. Two unidentified North Korean corps were re-equipped in June. They will replace remnants of the Chinese Communist Field Army on the west central front.\n\n3. Three hundred tanks have been given to the North Koreans. A North Korean tank division is training at Yenchi.\n\n4. The North Korean XVI, XVII and XXIII Corps, recently in reserve at Kanggye, Kaech'on, and Yangdok, are moving southeast.\n\nSECRET [판독 불가, 원문 `wer We Pin`]\n\nApproved For Release 2001/12/04: [판독 불가, 원문 `ay SABLE. I3a5 TA`]",
+ "ko": "INTELLOFAX 23\n\n공개 승인(Approved For Release) 2004/12/04: CIA-RDP82-00457R008000800001-8 [원문 그대로, 하단 승인일자와 다름]\n\n등급 구분(CLASSIFICATION) 기밀(SECRET) 25X1A\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고 번호(REPORT NO.)\n\n첩보 보고(INFORMATION REPORT) CD 번호\n\n국가 조선(Korea) 배포일자(DATE DISTR.) 1951년 7월 3일\n주제 1. 개성의 북조선군 군사회의 면수(NO. OF PAGES) 1\n 2. 북조선군 전투서열(North Korean Order of Battle)\n\n25X1A\n\n입수 장소\n입수처\n\n정보 일자 보충 대상(SUPPLEMENT TO)\n 보고 번호\n\n25X1X\n\n1. 북조선군 총사령관 최용건(CH'OE Yong-kon) 대장과 그 고위 장교 대다수가 6월 22일 개성 부근에서 만났다. 정전이 논의된 것으로 본다.\n\n2. 정체를 알 수 없는 북조선군 군단 둘이 6월에 재무장하였다. 이들은 서부 중앙전선의 중공군 야전군 잔여 부대를 대체할 것이다.\n\n3. 전차 300대가 북조선군에 주어졌다. 북조선군 전차사단 하나가 연길(Yenchi)에서 훈련 중이다.\n\n4. 강계(Kanggye)·개천(Kaech'on)·양덕(Yangdok)에 예비로 있던 북조선군 제16·17·23군단이 동남쪽으로 이동 중이다.\n\n기밀(SECRET) [판독 불가, 원문 `wer We Pin`]\n\n공개 승인 2001/12/04: [판독 불가, 원문 `ay SABLE. I3a5 TA`]",
+ "redactions": [
+  "25X1A (제목 옆, 본문 앞)",
+  "25X1X (본문 항목 앞)",
+  "Approved For Release 2004/12/04 : CIA-RDP82-00457R008000800001-8 (머리의 공개 승인 도장)",
+  "Approved For Release 2001/12/04 : [판독 불가] (꼬리의 공개 승인 도장, 뭉개짐)"
+ ],
+ "people": [
+  "CH'OE Yong-kon 최용건 (북조선군 총사령관)"
+ ],
+ "confidence": "medium",
+ "notes": "머리의 공개 승인 일자가 2004/12/04, 꼬리의 것이 2001/12/04 로 서로 다르다. OCR 오독인지 실제로 다른 도장인지 판단할 수 없어 둘 다 원문 그대로 두었다. 문서번호(CIA-RDP82-00457R008000800001-8)는 색인(index.json)의 crest 값과 대조해 확인했으나, 지면 OCR 자체가 `008bdds00001` 처럼 뭉개져 있던 자리는 색인 값으로 임의로 메우지 않고 [원문 그대로] 표시만 남겼다. `iiilitary`→`Military`, `dune`→`June`, `researve`→`reserve`, `XVIL`→`XVII`(로마 숫자 I/L 오독)은 낱말 철자 교정으로 보고 고쳤다. 꼬리의 `wer We Pin`, `ay SABLE. I3a5 TA`는 뭉개져 뜻을 잡을 수 없어 [판독 불가]로 두었다. 부대 번호(XVI, XVII, XXIII 군단 등)는 고치지 않았다."
 }

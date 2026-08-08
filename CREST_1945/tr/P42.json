@@ -1,27 +1,27 @@
 {
-  "doc_id": "P42",
-  "date": "1948-09-01",
-  "doc_type": "첩보보고",
-  "from": null,
-  "to": null,
-  "classification": null,
-  "title_en": "Economic Information: Export of Quicklime from North Korea to the USSR",
-  "title_ko": "경제 첩보: 북조선에서 소련으로 나가는 생석회 수출",
-  "subject_ko": "승호리·사리원·해주에서 나는 생석회를 모두 평양을 거쳐 소련으로 보내고 있다는 두 항짜리 보고다. 사나흘마다 열 량에서 열두 량분이 원산과 청진을 지나 블라디보스토크로 간다.",
-  "key_points_ko": [
-    "Sunghori 승호리(勝湖里, 일본식 Shokori), Sariwon 사리원(일본식 Shariin), Haeju 해주(일본식 Kaishu)에서 나는 산화칼슘(생석회) 전량이 평양을 거쳐 소련으로 간다.",
-    "사나흘마다 화차 열 량에서 열두 량분의 생석회가 평양에서 블라디보스토크로 떠난다.",
-    "경로는 Wonsan 원산(일본식 Genzan)과 Chongjin 청진(일본식 Seishin)을 지난다.",
-    "지명마다 조선 이름과 일본식 이름을 나란히 적고 좌표를 붙였다."
-  ],
-  "en": "CLASSIFICATION [판독 불가]\nApproved For Release 2001/11/23 : CIA-RDP82-00457R002200060009-6 (원문 `noorved Fa le EDDC` ERE?`)   REPORT NO.\nINFORMATION REPORT (원문 `INFORMA FROG rere cp`)\n                                       25X1A2g\nCOUNTRY   Korea/USSR      DATE DISTR.  24 Dee [원문 그대로] 1948\n\nSUBJECT   Economic Information: Export of Quicklime   NO. OF PAGES  1\n          from North Korea to the USSR\n\nPLACE ACQUIRED\nDATE OF INFO.   25X1X6      SUPPLEMENT TO\n                            REPORT NO.\n\n[1.] All of the calcium oxide (quicklime) produced at Sunghori (Shokori) (128-59, 3901) [원문 그대로], Sariwon (Shariin) (125-44, 38-30) and Haeju (Kaishu) (원문 `Kai sh`) (125-42, 38-02) is now being sent to the USSR via Pyongyang.\n\n2. Every three to four days, approximately ten to twelve carloads of quicklime are sent from Pyongyang to Vladivostok via Wonsan (Genzan) (127-26, 39-10) and Chongjin (Seishin) (129-49, 41-46).\n\nApproved For Release 2001/11/23 : CIA-RDP82-00457R002200060009-6",
-  "ko": "등급(CLASSIFICATION) [판독 불가]\n공개 승인 2001/11/23 : CIA-RDP82-00457R002200060009-6 (원문 `noorved Fa le EDDC` ERE?`)   보고 번호(REPORT NO.)\n첩보보고(INFORMATION REPORT) (원문 `INFORMA FROG rere cp`)\n                                       25X1A2g\n국가   조선/소련(Korea/USSR)      배포일자(DATE DISTR.)  1948년 24 Dee [원문 그대로]\n\n주제   경제 첩보: 북조선에서 소련으로 나가는 생석회 수출   면수  1\n\n입수 장소(PLACE ACQUIRED)\n정보 일자(DATE OF INFO.)   25X1X6      보충 대상(SUPPLEMENT TO)\n                                      보고 번호(REPORT NO.)\n\n[1.] 승호리(Sunghori 勝湖里, 일본식 Shokori) (128-59, 3901) [원문 그대로], 사리원(Sariwon 沙里院, 일본식 Shariin) (125-44, 38-30), 해주(Haeju 海州, 일본식 Kaishu, 원문 `Kai sh`) (125-42, 38-02)에서 생산되는 산화칼슘(생석회) 전량이 현재 평양을 거쳐 소련으로 보내지고 있다.\n\n2. 사나흘마다 화차 약 열 량에서 열두 량분의 생석회가 평양에서 원산(Wonsan 元山, 일본식 Genzan) (127-26, 39-10)과 청진(Chongjin 淸津, 일본식 Seishin) (129-49, 41-46)을 거쳐 블라디보스토크(Vladivostok)로 보내진다.\n\n공개 승인 2001/11/23 : CIA-RDP82-00457R002200060009-6",
-  "redactions": [
-    "25X1A2g (머리 칸 오른쪽)",
-    "25X1X6 (DATE OF INFO. 칸)",
-    "Approved For Release 2001/11/23 : CIA-RDP82-00457R002200060009-6 (공개 승인 도장)"
-  ],
-  "people": [],
-  "confidence": "medium",
-  "notes": "배포일자가 `24 Dee 1948` 로 찍혀 있다. 문서철 목록의 날짜는 1948년 9월 1일이다. 달 이름을 확정할 수 없어 원문 그대로 두고 date 칸에는 목록의 날짜를 넣었다. 승호리의 위도 `3901` 은 다른 좌표와 달리 붙임표가 없다. 39-01 로 보이나 고치지 않았다. 해주의 일본식 이름은 `Kai sh` 로 끊겨 있어 Kaishu 로 읽고 원문을 함께 적었다. 1항의 항목 번호는 스캔에서 사라져 있고 2항만 번호가 남았다. 번호를 새로 매기지 않고 대괄호로 표시했다. 지명은 조선 이름과 일본식 이름을 모두 살렸다."
+ "doc_id": "P42",
+ "date": "1948-09-01",
+ "doc_type": "첩보보고",
+ "from": null,
+ "to": null,
+ "classification": null,
+ "title_en": "Economic Information: Export of Quicklime from North Korea to the USSR",
+ "title_ko": "경제 첩보: 북조선에서 소련으로 나가는 생석회 수출",
+ "subject_ko": "승호리·사리원·해주에서 나는 생석회를 모두 평양을 거쳐 소련으로 보내고 있다는 두 항짜리 보고다. 사나흘마다 열 량에서 열두 량분이 원산과 청진을 지나 블라디보스토크로 간다.",
+ "key_points_ko": [
+  "Sunghori 승호리(勝湖里, 일본식 Shokori), Sariwon 사리원(일본식 Shariin), Haeju 해주(일본식 Kaishu)에서 나는 산화칼슘(생석회) 전량이 평양을 거쳐 소련으로 간다.",
+  "사나흘마다 화차 열 량에서 열두 량분의 생석회가 평양에서 블라디보스토크로 떠난다.",
+  "경로는 Wonsan 원산(일본식 Genzan)과 Chongjin 청진(일본식 Seishin)을 지난다.",
+  "지명마다 조선 이름과 일본식 이름을 나란히 적고 좌표를 붙였다."
+ ],
+ "en": "CLASSIFICATION [판독 불가]\nApproved For Release 2001/11/23: CIA-RDP82-00457R002200060009-6 REPORT NO.\nINFORMATION REPORT\n 25X1A2g\nCOUNTRY Korea/USSR DATE DISTR. 24 Dee [원문 그대로] 1948\n\nSUBJECT Economic Information: Export of Quicklime NO. OF PAGES 1\n from North Korea to the USSR\n\nPLACE ACQUIRED\nDATE OF INFO. 25X1X6 SUPPLEMENT TO\n REPORT NO.\n\n[1.] All of the calcium oxide (quicklime) produced at Sunghori (Shokori) (128-59, 3901) [원문 그대로], Sariwon (Shariin) (125-44, 38-30) and Haeju (Kaishu) (125-42, 38-02) is now being sent to the USSR via Pyongyang.\n\n2. Every three to four days, approximately ten to twelve carloads of quicklime are sent from Pyongyang to Vladivostok via Wonsan (Genzan) (127-26, 39-10) and Chongjin (Seishin) (129-49, 41-46).\n\nApproved For Release 2001/11/23: CIA-RDP82-00457R002200060009-6",
+ "ko": "등급(CLASSIFICATION) [판독 불가]\n공개 승인 2001/11/23: CIA-RDP82-00457R002200060009-6 보고 번호(REPORT NO.)\n첩보보고(INFORMATION REPORT)\n 25X1A2g\n국가 조선/소련(Korea/USSR) 배포일자(DATE DISTR.) 1948년 24 Dee [원문 그대로]\n\n주제 경제 첩보: 북조선에서 소련으로 나가는 생석회 수출 면수 1\n\n입수 장소(PLACE ACQUIRED)\n정보 일자(DATE OF INFO.) 25X1X6 보충 대상(SUPPLEMENT TO)\n 보고 번호(REPORT NO.)\n\n[1.] 승호리(Sunghori 勝湖里, 일본식 Shokori) (128-59, 3901) [원문 그대로], 사리원(Sariwon 沙里院, 일본식 Shariin) (125-44, 38-30), 해주(Haeju 海州, 일본식 Kaishu, 원문 `Kai sh`) (125-42, 38-02)에서 생산되는 산화칼슘(생석회) 전량이 현재 평양을 거쳐 소련으로 보내지고 있다.\n\n2. 사나흘마다 화차 약 열 량에서 열두 량분의 생석회가 평양에서 원산(Wonsan 元山, 일본식 Genzan) (127-26, 39-10)과 청진(Chongjin 淸津, 일본식 Seishin) (129-49, 41-46)을 거쳐 블라디보스토크(Vladivostok)로 보내진다.\n\n공개 승인 2001/11/23: CIA-RDP82-00457R002200060009-6",
+ "redactions": [
+  "25X1A2g (머리 칸 오른쪽)",
+  "25X1X6 (DATE OF INFO. 칸)",
+  "Approved For Release 2001/11/23 : CIA-RDP82-00457R002200060009-6 (공개 승인 도장)"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "배포일자가 `24 Dee 1948` 로 찍혀 있다. 문서철 목록의 날짜는 1948년 9월 1일이다. 달 이름을 확정할 수 없어 원문 그대로 두고 date 칸에는 목록의 날짜를 넣었다. 승호리의 위도 `3901` 은 다른 좌표와 달리 붙임표가 없다. 39-01 로 보이나 고치지 않았다. 해주의 일본식 이름은 `Kai sh` 로 끊겨 있어 Kaishu 로 읽고 원문을 함께 적었다. 1항의 항목 번호는 스캔에서 사라져 있고 2항만 번호가 남았다. 번호를 새로 매기지 않고 대괄호로 표시했다. 지명은 조선 이름과 일본식 이름을 모두 살렸다."
 }

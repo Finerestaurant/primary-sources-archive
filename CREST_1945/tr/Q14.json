@@ -1,30 +1,30 @@
 {
-  "doc_id": "Q14",
-  "date": "1949-04-25",
-  "doc_type": "첩보보고",
-  "from": null,
-  "to": null,
-  "classification": "secret",
-  "title_en": "Political Security Section in Chinnampo of the Home Affairs Department of the North Korean People's Republic",
-  "title_ko": "북조선인민공화국 내무부의 진남포 정치보안과",
-  "subject_ko": "진남포가 항구로 중요하기 때문에 내무부가 그곳에 정치보안과를 따로 두었고, 요원 일곱 명과 다수의 정보 제공자로 이루어져 방첩과 정치 사상을 맡는다고 적었다.",
-  "key_points_ko": [
-    "진남포가 항구로 중요한 까닭에 북조선인민공화국(North Korean People's Republic) 내무부(Home Affairs Department)가 진남포에 분리된 정치보안과(Political Security Section)를 두었다.",
-    "이 과가 맡는 일에 방첩(counterespionage)과 정치 사상(political ideology)이 들어간다. 원문이 뒤의 말에 (sic)을 달아 두었다.",
-    "밝혀낼 수 있는 한 이 과는 요원 일곱 명으로 이루어지고 다수의 정보 제공자를 두고 있을 것으로 본다.",
-    "정보원에 따르면 이런 과가 있는 곳으로 알려진 데는 진남포뿐이다.",
-    "「평가되지 않은 정보(THIS IS UNEVALUATED INFORMATION)」 표시가 붙어 있다."
-  ],
-  "en": "[판독 불가] (원문 `/)` / `a fo t !`)\n\nApproved For Release 2002/08/14 : CIA-RDP83-00415R002600180007-6\n\nCLASSIFICATION  SECRET (원문 `CLASSIFICATION SUC IT`)   25X1A\n\nCENTRAL INTELLIGENCE AGENCY          REPORT NO.\nINFORMATION REPORT                   CD NO.\n\nCOUNTRY   Korea                      DATE DISTR.  25 April 1949\n\nSUBJECT   Political Security Section in Chinnampo      NO. OF PAGES  1\n          of the Home Affairs Department of the\n          North Korean People's Republic\n\nPLACE\nACQUIRED   25X1A                      NO. OF ENCLS.\n\nDATE OF INFO.  [판독 불가]            SUPPLEMENT TO\n25X1X                                 REPORT NO.\n\nTHIS IS UNEVALUATED INFORMATION\n\n[판독 불가] (원문 `i PROMISED,` / `meh` / `: AS EE Se Ee`)   25X1X\n\n1. Because of Chinnampo's importance as a harbor, the Home Affairs Department of the North Korean People's Republic has established in Chinnampo a detached Political Security Section, the activities of which will include counterespionage and political ideology (sic).\n\n[번호 판독 불가]. (원문 `a` / `6`) As nearly as can be determined, the Section is comprised of seven agents and probably includes a number of informants.\n\n3. According to source, Chinnampo is the only place known to have such a Section.\n\nCLASSIFICATION  SECRET\n\nSTATE [x] | NAVY [ ] | [판독 불가] | NSRB [ ]     DISTRIBUTION (원문 `[state ewan fat [uses bis trieorion 7]`)\n\nApproved For Release 2002/08/14 : CIA-RDP83-00415R002600180007-6",
-  "ko": "[판독 불가] (원문 `/)` / `a fo t !`)\n\n공개 승인 2002/08/14 : CIA-RDP83-00415R002600180007-6\n\n등급(CLASSIFICATION)  일급비밀(SECRET) (원문 `CLASSIFICATION SUC IT`)   25X1A\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY)          보고번호(REPORT NO.)\n첩보보고(INFORMATION REPORT)                    CD 번호(CD NO.)\n\n국가   조선(Korea)                    배포일자(DATE DISTR.)  1949년 4월 25일\n\n주제   북조선인민공화국 내무부의 진남포 정치보안과        면수  1\n       (Political Security Section in Chinnampo\n        of the Home Affairs Department of the\n        North Korean People's Republic)\n\n입수 장소(PLACE ACQUIRED)   25X1A      첨부 수(NO. OF ENCLS.)\n\n정보 일자(DATE OF INFO.)  [판독 불가]    보충 대상(SUPPLEMENT TO)\n25X1X                                 보고번호(REPORT NO.)\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION)\n\n[판독 불가] (원문 `i PROMISED,` / `meh` / `: AS EE Se Ee`)   25X1X\n\n1. 진남포(Chinnampo)가 항구로서 중요한 까닭에, 북조선인민공화국(North Korean People's Republic)의 내무부(Home Affairs Department)는 진남포에 분리된 정치보안과(Political Security Section)를 두었으며, 그 활동에는 방첩(counterespionage)과 정치 사상(political ideology) (sic)이 들어간다.\n\n[번호 판독 불가]. (원문 `a` / `6`) 밝혀낼 수 있는 한, 이 과는 요원 일곱 명으로 이루어지며 아마 다수의 정보 제공자(informants)를 포함할 것이다.\n\n3. 정보원(source)에 따르면, 진남포는 이런 과를 두고 있는 것으로 알려진 유일한 곳이다.\n\n등급(CLASSIFICATION)  일급비밀(SECRET)\n\n국무부(STATE) [x] | 해군부(NAVY) [ ] | [판독 불가] | 국가안전자원위원회(NSRB) [ ]     배포(DISTRIBUTION) (원문 `[state ewan fat [uses bis trieorion 7]`)\n\n공개 승인 2002/08/14 : CIA-RDP83-00415R002600180007-6",
-  "redactions": [
-    "25X1A (등급 줄 오른쪽과 PLACE ACQUIRED 칸)",
-    "25X1X (DATE OF INFO. 칸 아래와 본문 첫머리 오른쪽)",
-    "Approved For Release 2002/08/14 : CIA-RDP83-00415R002600180007-6 (첫 면과 끝의 공개 승인 도장)",
-    "본문 첫머리에 먹칠 자국이 있어 그 아래 문구가 읽히지 않는다",
-    "THIS IS UNEVALUATED INFORMATION (평가되지 않은 정보 표시)"
-  ],
-  "people": [],
-  "confidence": "medium",
-  "notes": "2항의 항목 번호가 스캔에서 사라졌다. 앞이 1항이고 뒤가 3항이지만 채우지 않고 [번호 판독 불가]로 두었다. 정보원 보호 문구가 있는 자리는 먹칠과 겹쳐 `i PROMISED,` 만 남았다. 「평가되지 않은 정보」 표시가 붙어 있다. 중앙정보국이 사실 여부를 판단하지 않고 올렸다는 뜻이다. 이 문서가 쓴 기관 이름은 `North Korean People's Republic` 이다. 조선민주주의인민공화국의 정식 이름이 아니다. 문서가 쓴 대로 두었다. `political ideology` 에 원문이 (sic)을 달아 두었다. 그대로 옮겼다. `Chinnanvo` `knovm` `vill` `nolitical` `bo` `sie` 같은 타자 뭉갬은 낱말 오독이라 바로잡았다."
+ "doc_id": "Q14",
+ "date": "1949-04-25",
+ "doc_type": "첩보보고",
+ "from": null,
+ "to": null,
+ "classification": "secret",
+ "title_en": "Political Security Section in Chinnampo of the Home Affairs Department of the North Korean People's Republic",
+ "title_ko": "북조선인민공화국 내무부의 진남포 정치보안과",
+ "subject_ko": "진남포가 항구로 중요하기 때문에 내무부가 그곳에 정치보안과를 따로 두었고, 요원 일곱 명과 다수의 정보 제공자로 이루어져 방첩과 정치 사상을 맡는다고 적었다.",
+ "key_points_ko": [
+  "진남포가 항구로 중요한 까닭에 북조선인민공화국(North Korean People's Republic) 내무부(Home Affairs Department)가 진남포에 분리된 정치보안과(Political Security Section)를 두었다.",
+  "이 과가 맡는 일에 방첩(counterespionage)과 정치 사상(political ideology)이 들어간다. 원문이 뒤의 말에 (sic)을 달아 두었다.",
+  "밝혀낼 수 있는 한 이 과는 요원 일곱 명으로 이루어지고 다수의 정보 제공자를 두고 있을 것으로 본다.",
+  "정보원에 따르면 이런 과가 있는 곳으로 알려진 데는 진남포뿐이다.",
+  "「평가되지 않은 정보(THIS IS UNEVALUATED INFORMATION)」 표시가 붙어 있다."
+ ],
+ "en": "[판독 불가]` / `a fo t !`)\n\nApproved For Release 2002/08/14: CIA-RDP83-00415R002600180007-6\n\nCLASSIFICATION SECRET 25X1A\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO.\nINFORMATION REPORT CD NO.\n\nCOUNTRY Korea DATE DISTR. 25 April 1949\n\nSUBJECT Political Security Section in Chinnampo NO. OF PAGES 1\n of the Home Affairs Department of the\n North Korean People's Republic\n\nPLACE\nACQUIRED 25X1A NO. OF ENCLS.\n\nDATE OF INFO. [판독 불가] SUPPLEMENT TO\n25X1X REPORT NO.\n\nTHIS IS UNEVALUATED INFORMATION\n\n[판독 불가] 25X1X\n\n1. Because of Chinnampo's importance as a harbor, the Home Affairs Department of the North Korean People's Republic has established in Chinnampo a detached Political Security Section, the activities of which will include counterespionage and political ideology (sic).\n\n[번호 판독 불가]. As nearly as can be determined, the Section is comprised of seven agents and probably includes a number of informants.\n\n3. According to source, Chinnampo is the only place known to have such a Section.\n\nCLASSIFICATION SECRET\n\nSTATE [x] | NAVY [ ] | [판독 불가] | NSRB [ ] DISTRIBUTION\n\nApproved For Release 2002/08/14: CIA-RDP83-00415R002600180007-6",
+ "ko": "[판독 불가]` / `a fo t !`)\n\n공개 승인 2002/08/14: CIA-RDP83-00415R002600180007-6\n\n등급(CLASSIFICATION) 일급비밀(SECRET) 25X1A\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고번호(REPORT NO.)\n첩보보고(INFORMATION REPORT) CD 번호(CD NO.)\n\n국가 조선(Korea) 배포일자(DATE DISTR.) 1949년 4월 25일\n\n주제 북조선인민공화국 내무부의 진남포 정치보안과 면수 1\n (Political Security Section in Chinnampo\n of the Home Affairs Department of the\n North Korean People's Republic)\n\n입수 장소(PLACE ACQUIRED) 25X1A 첨부 수(NO. OF ENCLS.)\n\n정보 일자(DATE OF INFO.) [판독 불가] 보충 대상(SUPPLEMENT TO)\n25X1X 보고번호(REPORT NO.)\n\n이것은 평가되지 않은 정보다(THIS IS UNEVALUATED INFORMATION)\n\n[판독 불가] 25X1X\n\n1. 진남포(Chinnampo)가 항구로서 중요한 까닭에, 북조선인민공화국(North Korean People's Republic)의 내무부(Home Affairs Department)는 진남포에 분리된 정치보안과(Political Security Section)를 두었으며, 그 활동에는 방첩(counterespionage)과 정치 사상(political ideology) (sic)이 들어간다.\n\n[번호 판독 불가]. 밝혀낼 수 있는 한, 이 과는 요원 일곱 명으로 이루어지며 아마 다수의 정보 제공자(informants)를 포함할 것이다.\n\n3. 정보원(source)에 따르면, 진남포는 이런 과를 두고 있는 것으로 알려진 유일한 곳이다.\n\n등급(CLASSIFICATION) 일급비밀(SECRET)\n\n국무부(STATE) [x] | 해군부(NAVY) [ ] | [판독 불가] | 국가안전자원위원회(NSRB) [ ] 배포(DISTRIBUTION)\n\n공개 승인 2002/08/14: CIA-RDP83-00415R002600180007-6",
+ "redactions": [
+  "25X1A (등급 줄 오른쪽과 PLACE ACQUIRED 칸)",
+  "25X1X (DATE OF INFO. 칸 아래와 본문 첫머리 오른쪽)",
+  "Approved For Release 2002/08/14 : CIA-RDP83-00415R002600180007-6 (첫 면과 끝의 공개 승인 도장)",
+  "본문 첫머리에 먹칠 자국이 있어 그 아래 문구가 읽히지 않는다",
+  "THIS IS UNEVALUATED INFORMATION (평가되지 않은 정보 표시)"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "2항의 항목 번호가 스캔에서 사라졌다. 앞이 1항이고 뒤가 3항이지만 채우지 않고 [번호 판독 불가]로 두었다. 정보원 보호 문구가 있는 자리는 먹칠과 겹쳐 `i PROMISED,` 만 남았다. 「평가되지 않은 정보」 표시가 붙어 있다. 중앙정보국이 사실 여부를 판단하지 않고 올렸다는 뜻이다. 이 문서가 쓴 기관 이름은 `North Korean People's Republic` 이다. 조선민주주의인민공화국의 정식 이름이 아니다. 문서가 쓴 대로 두었다. `political ideology` 에 원문이 (sic)을 달아 두었다. 그대로 옮겼다. `Chinnanvo` `knovm` `vill` `nolitical` `bo` `sie` 같은 타자 뭉갬은 낱말 오독이라 바로잡았다."
 }

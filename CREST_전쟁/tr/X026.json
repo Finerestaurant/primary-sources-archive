@@ -1,26 +1,26 @@
 {
-  "doc_id": "X026",
-  "date": "1951-01-28",
-  "doc_type": "첩보보고",
-  "from": "Central Intelligence Agency 중앙정보국",
-  "to": null,
-  "classification": "secret",
-  "title_en": "South Korean Labor Party Activities in Pusan",
-  "title_ko": "부산의 남조선노동당 활동",
-  "subject_ko": "부산에 본부를 세운 남조선노동당이 항만 노동자의 45퍼센트를 포섭했고, 1월 20일 부산·마산 장악 음모가 경찰에 발각되어 관련자가 체포되고 있다는 짧은 첩보다.",
-  "key_points_ko": [
-    "남조선노동당(SKLP)이 부산에 본부를 세웠다.",
-    "1월 중순까지 부산 항만 노동자의 45퍼센트를 당원으로 포섭했다.",
-    "1월 20일 부산과 마산을 장악하려던 남조선노동당의 음모가 1월 18일경 경찰에 발각되었다.",
-    "음모에 연루된 사람들이 체포되고 있다."
-  ],
-  "en": "Approved For Release [판독 불가] : CIA-RDP82-00457R006800430010-6\n\nCLASSIFICATION SECRET (원문 `saisamesy`)\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO. [판독 불가]\nINFORMATION REPORT   CD NO. 25X1\n\nCOUNTRY   Korea   DATE DISTR. 28 Jan. 1951 (원문 `28 dan. 1952`)\nSUBJECT   South Korean Labor Party Activities in Pusan   NO. OF PAGES 1\n25X1A\n\nPLACE ACQUIRED   NO. OF ENCLS. (LISTED BELOW)\nDATE OF INFO.   SUPPLEMENT TO   25X1X\n   REPORT NO.\n\nThe South Korean Labor Party (SKLP) established a headquarters in Pusan, 25X1X\nand by mid-January had succeeded in making 45 percent of the harbor laborers SKLP members. A SKLP plot to take Pusan and Masan on 20 January was discovered by the police on about 18 January, and the persons involved are being arrested.\n\nCONFIDENTIAL\n\nCLASSIFICATION SECRET\n\nDISTRIBUTION\nSTATE   NAVY   NSRB\nARMY   AIR\n\nApproved For Release [판독 불가] : CIA-RDP82-00457R006800430010-6",
-  "ko": "공개 승인 [판독 불가] : CIA-RDP82-00457R006800430010-6\n\n등급 구분 비밀(SECRET) (원문 `saisamesy`)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고 번호 [판독 불가]\n첩보 보고(INFORMATION REPORT)   CD 번호 25X1\n\n국가   조선(Korea)   배포일자 1951년 1월 28일 (원문 `28 dan. 1952`)\n주제   부산의 남조선노동당 활동(South Korean Labor Party Activities in Pusan)   면수 1\n25X1A\n\n입수 장소   첨부물 수 (아래 목록)\n정보 일자   보충 대상   25X1X\n   보고 번호\n\n남조선노동당(SKLP)이 부산에 본부를 세우고 25X1X\n1월 중순까지 항만 노동자의 45퍼센트를 남조선노동당원으로 만드는 데 성공했다. 1월 20일 부산과 마산을 장악하려던 남조선노동당의 음모가 1월 18일경 경찰에 발각되었고, 연루된 사람들이 체포되고 있다.\n\n기밀(CONFIDENTIAL)\n\n등급 구분 비밀(SECRET)\n\n배포처\n국무부(STATE)   해군부(NAVY)   국가안보자원위원회(NSRB)\n육군부(ARMY)   공군부(AIR)\n\n공개 승인 [판독 불가] : CIA-RDP82-00457R006800430010-6",
-  "redactions": [
-    "25X1, 25X1A, 25X1X (문서 여러 곳)",
-    "공개 승인 날짜와 보고 번호 칸이 판독 불가 상태"
-  ],
-  "people": [],
-  "confidence": "medium",
-  "notes": "배포일자 칸은 원문이 `28 dan. 1952`로 찍혀 있다. `dan`은 `Jan`의 자모 오독으로, `1952`는 이 문서철이 1951년 한 해를 다루고(SPEC 참조) 앞뒤 문서(X025 20일, X027 26일)가 모두 1951년 1월인 점을 근거로 `1951`의 오독으로 판단해 date 필드에는 1951-01-28을 넣었다. 다만 본문에는 원문 표기 `28 dan. 1952`를 괄호로 그대로 남겨 두었다(날짜 숫자를 임의로 고쳐 쓰지 않는다는 원칙에 따라 원문 병기). `CLASSIFICATION SECRET`는 등급란의 뭉갠 글자(`saisamesy`)와 하단에 온전히 남은 `SECRET` 표기를 근거로 판독했다. 인원 비율(45퍼센트)과 날짜(1월 20일, 18일)는 원문 그대로 두었다."
+ "doc_id": "X026",
+ "date": "1951-01-28",
+ "doc_type": "첩보보고",
+ "from": "Central Intelligence Agency 중앙정보국",
+ "to": null,
+ "classification": "secret",
+ "title_en": "South Korean Labor Party Activities in Pusan",
+ "title_ko": "부산의 남조선노동당 활동",
+ "subject_ko": "부산에 본부를 세운 남조선노동당이 항만 노동자의 45퍼센트를 포섭했고, 1월 20일 부산·마산 장악 음모가 경찰에 발각되어 관련자가 체포되고 있다는 짧은 첩보다.",
+ "key_points_ko": [
+  "남조선노동당(SKLP)이 부산에 본부를 세웠다.",
+  "1월 중순까지 부산 항만 노동자의 45퍼센트를 당원으로 포섭했다.",
+  "1월 20일 부산과 마산을 장악하려던 남조선노동당의 음모가 1월 18일경 경찰에 발각되었다.",
+  "음모에 연루된 사람들이 체포되고 있다."
+ ],
+ "en": "Approved For Release [판독 불가]: CIA-RDP82-00457R006800430010-6\n\nCLASSIFICATION SECRET\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO. [판독 불가]\nINFORMATION REPORT CD NO. 25X1\n\nCOUNTRY Korea DATE DISTR. 28 Jan. 1951\nSUBJECT South Korean Labor Party Activities in Pusan NO. OF PAGES 1\n25X1A\n\nPLACE ACQUIRED NO. OF ENCLS. (LISTED BELOW)\nDATE OF INFO. SUPPLEMENT TO 25X1X\n REPORT NO.\n\nThe South Korean Labor Party (SKLP) established a headquarters in Pusan, 25X1X\nand by mid-January had succeeded in making 45 percent of the harbor laborers SKLP members. A SKLP plot to take Pusan and Masan on 20 January was discovered by the police on about 18 January, and the persons involved are being arrested.\n\nCONFIDENTIAL\n\nCLASSIFICATION SECRET\n\nDISTRIBUTION\nSTATE NAVY NSRB\nARMY AIR\n\nApproved For Release [판독 불가]: CIA-RDP82-00457R006800430010-6",
+ "ko": "공개 승인 [판독 불가]: CIA-RDP82-00457R006800430010-6\n\n등급 구분 비밀(SECRET)\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고 번호 [판독 불가]\n첩보 보고(INFORMATION REPORT) CD 번호 25X1\n\n국가 조선(Korea) 배포일자 1951년 1월 28일\n주제 부산의 남조선노동당 활동(South Korean Labor Party Activities in Pusan) 면수 1\n25X1A\n\n입수 장소 첨부물 수 (아래 목록)\n정보 일자 보충 대상 25X1X\n 보고 번호\n\n남조선노동당(SKLP)이 부산에 본부를 세우고 25X1X\n1월 중순까지 항만 노동자의 45퍼센트를 남조선노동당원으로 만드는 데 성공했다. 1월 20일 부산과 마산을 장악하려던 남조선노동당의 음모가 1월 18일경 경찰에 발각되었고, 연루된 사람들이 체포되고 있다.\n\n기밀(CONFIDENTIAL)\n\n등급 구분 비밀(SECRET)\n\n배포처\n국무부(STATE) 해군부(NAVY) 국가안보자원위원회(NSRB)\n육군부(ARMY) 공군부(AIR)\n\n공개 승인 [판독 불가]: CIA-RDP82-00457R006800430010-6",
+ "redactions": [
+  "25X1, 25X1A, 25X1X (문서 여러 곳)",
+  "공개 승인 날짜와 보고 번호 칸이 판독 불가 상태"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "배포일자 칸은 원문이 `28 dan. 1952`로 찍혀 있다. `dan`은 `Jan`의 자모 오독으로, `1952`는 이 문서철이 1951년 한 해를 다루고(SPEC 참조) 앞뒤 문서(X025 20일, X027 26일)가 모두 1951년 1월인 점을 근거로 `1951`의 오독으로 판단해 date 필드에는 1951-01-28을 넣었다. 다만 본문에는 원문 표기 `28 dan. 1952`를 괄호로 그대로 남겨 두었다(날짜 숫자를 임의로 고쳐 쓰지 않는다는 원칙에 따라 원문 병기). `CLASSIFICATION SECRET`는 등급란의 뭉갠 글자(`saisamesy`)와 하단에 온전히 남은 `SECRET` 표기를 근거로 판독했다. 인원 비율(45퍼센트)과 날짜(1월 20일, 18일)는 원문 그대로 두었다."
 }
