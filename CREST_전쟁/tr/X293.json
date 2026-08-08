@@ -1,0 +1,26 @@
+{
+ "doc_id": "X293",
+ "date": "1951-08-14",
+ "doc_type": "첩보보고",
+ "from": "Central Intelligence Agency 중앙정보국",
+ "to": null,
+ "classification": "secret (SECRET 표기가 지워지고 CONFIDENTIAL로 다시 찍혀 있다)",
+ "title_en": "NORTH KOREAN AGENTS TO BE SENT TO SOUTH KOREA",
+ "title_ko": "남조선으로 보낼 북조선 공작원",
+ "subject_ko": "1951년 8월 14일 배포된 첩보보고다. 8월 1일 북조선군이 개성 지역 재봉업자와 주민에게서 민간인 옷 3,000벌을 주문·징발했고 이는 정치 선동 임무로 남조선에 침투할 군 요원의 변장에 쓰일 것이며, 이들을 밤에 소형 선박으로 임진강을 건너보낼 계획이라고 적었다.",
+ "key_points_ko": [
+  "8월 1일 북조선군은 개성 지역 재봉업자에게서 민간인 옷을 주문하고 주민에게서 옷을 징발해 모두 3,000벌을 모았다.",
+  "이 옷은 남조선에 정치 선동 임무로 보낼 군 요원의 변장용이다.",
+  "북조선군은 이 공작원들을 밤의 어둠을 이용해 소형 선박으로 임진강을 건너 보낼 계획이다."
+ ],
+ "en": "Approved For Release 2000/05/22 : CIA-RDP82-00457R008300620005-1\n\nINTELLOFAX 23 CLASSIFICATION SECRET [지워짐]\n\nCENTRAL INTELLIGENCE AGENCY REPORT NO.\nINFORMATION REPORT CD NO.\n\nCOUNTRY Korea CONFIDENTIAL DATE DISTR. 14 August 1951\nSUBJECT North Korean Agents to be Sent to South Korea NO. OF PAGES 1\n\nPLACE 25X1A REFERENCE COPY NO. OF ENCLS.\nACQUIRED [삭제] (LISTED BELOW)\n25X1X\n\nDATE OF 25X1A DO NOT CIRCULATE SUPPLEMENT TO\nINFO. [삭제] REPORT NO.\n\n[정보원·수집 방법란 검게 지워짐]\n\nOn 1 August 1951, the North Korean Army was ordering from tailors and confiscating from the residents of the Kaesong area 3,000 suits of civilian clothing to be used as a disguise by military personnel, who are to be sent into South Korea on a mission of political agitation. The Army plans to send the agents across the Imjin River in small boats under the cover of darkness.\n\n[판독 불가, 도장]\n\nCONFIDENTIAL\n\nCLASSIFICATION SECRET [지워짐]\nSTATE [x] NAVY [x] NSRB DISTRIBUTION\nARMY [x] AIR [x] FBI G-2 EUSAK ADVANCE#\n\nBY CABLE\n\nApproved For Release 2000/05/22 : CIA-RDP82-00457R008300620005-1",
+ "ko": "공개 승인 2000/05/22: CIA-RDP82-00457R008300620005-1\n\nINTELLOFAX 23 등급 구분(CLASSIFICATION) SECRET [지워짐]\n\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고 번호\n첩보보고(INFORMATION REPORT) CD 번호\n\n국가 한국(Korea) 기밀(CONFIDENTIAL) 배포일자(DATE DISTR.) 1951년 8월 14일\n주제 남조선으로 보낼 북조선 공작원 면수 1\n\n입수 장소 25X1A REFERENCE COPY(참조용 사본) 첨부 수\n[삭제] (아래 열거)\n25X1X\n\n정보 일자 25X1A DO NOT CIRCULATE(돌리지 말 것) 보충 대상\n[삭제] 보고 번호\n\n[정보원·수집 방법란 검게 지워짐]\n\n1951년 8월 1일 북조선군은 개성 지역의 재봉업자에게 민간인 옷을 주문하고 주민들에게서 이를 징발해 모두 3,000벌을 모으고 있었다. 이는 정치 선동 임무로 남조선에 보낼 군 요원의 변장에 쓰일 것이다. 북조선군은 어둠을 틈타 이 공작원들을 소형 선박으로 임진강 너머로 보낼 계획이다.\n\n[판독 불가, 도장]\n\n기밀(CONFIDENTIAL)\n\n등급 구분(CLASSIFICATION) SECRET [지워짐]\n국무부 [x] 해군 [x] NSRB 배포처(DISTRIBUTION)\n육군 [x] 공군 [x] FBI G-2 EUSAK ADVANCE#\n\nBY CABLE (전문으로)\n\n공개 승인 2000/05/22: CIA-RDP82-00457R008300620005-1",
+ "redactions": [
+  "표지 CLASSIFICATION 칸의 SECRET 표기가 지워지고 CONFIDENTIAL로 다시 찍힘",
+  "PLACE ACQUIRED, DATE OF INFO. 칸, 정보원·수집 방법란 전체가 검게 지워짐 (25X1A, 25X1X)",
+  "본문 아래 도장 하나가 흐려 판독 불가"
+ ],
+ "people": [],
+ "confidence": "high",
+ "notes": "본문은 짧고 지면이 대체로 또렷해 OCR 오류가 적었다. 「Imjin River」·「Kaesong」 표기를 그대로 두었다. 등급 구분 칸은 원래 SECRET으로 찍혔던 것이 줄이 그어져 지워지고 그 옆에 CONFIDENTIAL이 다시 찍혀 있어, 표지와 마지막 면 모두 두 등급이 겹쳐 보인다. G-2 EUSAK ADVANCE는 미8군 전방사령부 정보참모부로 보이나 원문 약어를 그대로 두었다."
+}
