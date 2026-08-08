@@ -1,0 +1,27 @@
+{
+ "doc_id": "X351",
+ "date": "1951-09-15",
+ "doc_type": "첩보보고",
+ "from": "Central Intelligence Agency 중앙정보국",
+ "to": null,
+ "classification": "confidential",
+ "title_en": "OPINION OF HONG KONG COMMUNISTS OF CHINA'S PART IN THE KOREAN WAR",
+ "title_ko": "중국의 조선전쟁 참전에 대한 홍콩 공산당원들의 견해",
+ "subject_ko": "홍콩의 중국공산당원들이 조선전쟁을 두고 나눈 말을 옮긴 짧은 첩보다. 이들은 지연의 책임을 북조선 지도부에 돌리며 중국이 전쟁을 무기한 지속할 수 없다고 본다.",
+ "key_points_ko": [
+  "홍콩의 중국공산당원들은 조선전쟁이 정리되어야 하고 유엔과 어떤 형태로든 합의에 이르러야 한다는 투로 말한다.",
+  "지연의 책임을 북조선 지도부의 비타협적 태도로 돌린다.",
+  "중국은 전쟁을 무기한 지탱할 수 없으나, 평화 교섭은 한동안 더 끌 것으로 본다."
+ ],
+ "en": "INTELLOFAX 16 CONFIDENTIAL\n\nApproved For Release 2000/06/26 : CIA-RDP82-00457R008600560010-9\n\n25X1A\n\nCLASSIFICATION CONFIDENTIAL\nCENTRAL INTELLIGENCE AGENCY REPORT NO. [25X1A 삭제]\nINFORMATION REPORT CD NO.\n\nCOUNTRY China/Korea DATE DISTR. 15 Sept. 1951\n\nSUBJECT Opinion of Hong Kong Communists of NO. OF PAGES [판독 불가]\n25X1C China's Part in the Korean War\n\nPLACE\nACQUIRED [25X1A 삭제, \"REFERENCE COPY / DO NOT CIRCULATE\" 도장] NO. OF ENCLS. (LISTED BELOW)\n25X1X\nDATE OF SUPPLEMENT TO\nINFO. REPORT NO.\n\n[25X1A / 25X1X 삭제. 문단 전체가 검게 지워짐]\n\nMembers of the Chinese Communist Party in Hong Kong speak as if the Korean war will and must be cleared up and some kind of agreement reached with the United Nations. They blame delays on the intransigence of the North Korean leaders. China cannot support the war indefinitely, although peace negotiations will probably drag on for some time.\n\n[하단 재분류 도장. Document No. 08, No Change In Class □, Declassified □, Class. Changed To: TS S(원 표시), Auth: HR 70-2, Date: 14/08/78, By: 029]\n\nCONFIDENTIAL\n\nCLASSIFICATION [판독 불가]\nDISTRIBUTION\nSTATE X NAVY X NSRB X AIR X FBI X\n\nApproved For Release 2000/06/26 : CIA-RDP82-00457R008600560010-9",
+ "ko": "INTELLOFAX 16 기밀(CONFIDENTIAL)\n\n공개 승인(Approved For Release) 2000/06/26 : CIA-RDP82-00457R008600560010-9\n\n25X1A\n\n등급 구분(CLASSIFICATION) 기밀(CONFIDENTIAL)\n중앙정보국(CENTRAL INTELLIGENCE AGENCY) 보고 번호(REPORT NO.) [25X1A 삭제]\n정보 보고(INFORMATION REPORT) CD 번호\n\n국가 중국/조선(China/Korea) 배포일자(DATE DISTR.) 15 Sept. 1951\n\n주제 중국의 조선전쟁 참전에 대한 홍콩 공산당원들의 견해(Opinion of Hong Kong Communists of 면수 [판독 불가]\n25X1C China's Part in the Korean War)\n\n취득 장소\n[25X1A 삭제, \"참고용 사본 / 배포 금지(REFERENCE COPY / DO NOT CIRCULATE)\" 도장] 첨부 수(NO. OF ENCLS.) (LISTED BELOW)\n25X1X\n정보 보충 대상(SUPPLEMENT TO)\n일자 보고 번호(REPORT NO.)\n\n[25X1A / 25X1X 삭제. 문단 전체가 검게 지워짐]\n\n홍콩의 중국공산당원들은 조선전쟁이 정리되어야 하고 또 그렇게 될 것이며 유엔(United Nations)과 어떤 형태로든 합의에 이르러야 한다는 투로 말한다. 이들은 지연의 책임을 북조선 지도부의 비타협적 태도(intransigence)로 돌린다. 중국은 전쟁을 무기한 지탱할 수 없으나, 평화 교섭은 앞으로도 한동안 더 끌 것으로 보인다.\n\n[하단 재분류 도장. 문서번호(Document No.) 08, 등급 변경 없음(No Change In Class) □, 비밀해제(Declassified) □, 등급 변경(Class. Changed To): TS S(원 표시), 근거(Auth): HR 70-2, 날짜(Date): 14/08/78, 처리자(By): 029]\n\n기밀(CONFIDENTIAL)\n\n등급 구분(CLASSIFICATION) [판독 불가]\n배포처(DISTRIBUTION)\n국무부(STATE) X 해군(NAVY) X 국가안보자원위원회(NSRB) X 공군(AIR) X 연방수사국(FBI) X\n\n공개 승인 2000/06/26 : CIA-RDP82-00457R008600560010-9",
+ "redactions": [
+  "25X1A (REPORT NO. 칸)",
+  "25X1C (SUBJECT 칸 왼쪽)",
+  "25X1A / 25X1X (PLACE ACQUIRED · DATE OF INFO. 칸)",
+  "본문 상단, 정보원·취득 경위로 보이는 큰 문단이 검게 지워짐"
+ ],
+ "people": [],
+ "confidence": "medium",
+ "notes": "지면을 열어 보았다. NO. OF PAGES 칸과 하단 CLASSIFICATION 줄은 지면에서도 도장·손글씨가 겹쳐 [판독 불가]로 두었다. \"REFERENCE COPY / DO NOT CIRCULATE\" 는 자료 취급 도장이라 본문 필드값이 아니라 도장으로 표시했다. 재분류 도장의 문서번호 08, 등급 변경 TS S, 날짜 14/08/78, By 029는 지면에서 또렷이 읽었다. 본문 자체는 짧고 raw OCR 과 지면이 일치해 고칠 자리가 없었다."
+}
