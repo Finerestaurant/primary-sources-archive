@@ -312,8 +312,16 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
 .col .blurb{margin:0 0 11px;font-size:14.5px;color:var(--ink-2);max-width:66ch}
 .col .hl{margin:0;font-size:13.5px;color:var(--stamp);
   border-left:2px solid var(--stamp);padding-left:11px}
-.col .src{margin:12px 0 0;font-size:11.5px;color:var(--ink-3);
+.col .src{margin:0;font-size:11.5px;color:var(--ink-3);
   font-family:var(--mono);line-height:1.6}
+/* 출처 줄과 발행 기관 낙관을 한 줄에 놓는다. 카드가 좁아지면 낙관이
+   먼저 아래로 떨어져 우하단에 남는다 */
+.col-foot{display:flex;flex-wrap:wrap;align-items:flex-end;
+  gap:8px 14px;margin-top:12px}
+.col-inst{flex:0 0 auto;margin-left:auto;font-family:var(--mono);
+  font-size:10.5px;letter-spacing:.05em;color:var(--ink-3);
+  border:1px solid var(--edge);border-radius:2px;padding:3px 7px;
+  white-space:nowrap;line-height:1}
 
 /* ── 방법 ── */
 .method{display:grid;gap:2px;border:1px solid var(--edge);border-radius:4px;
@@ -541,6 +549,17 @@ HC_CSS = open(os.path.join(HERE, "hovercard.css")).read()
 HC_JS = open(os.path.join(HERE, "hovercard.js")).read().replace("</", "<\\/")
 cards_js = json.dumps(cards, ensure_ascii=False).replace("</", "<\\/")
 
+# 문서철을 실제로 펴내거나 심사해 올린 기관의 낙관(落款) 같은 표시.
+# 사진 로고를 그대로 쓰지 않는다 — 국기와 같은 원칙이다. 실물 인장을 흉내
+# 내지 않고, 등폭 서체로 짧게 줄인 이름만 얇은 테두리 안에 둔다.
+INST = {
+    "frus": ("FRUS", "미국 국무부 역사관실 — Foreign Relations of the United States"),
+    "crest": ("CIA", "미국 중앙정보국 — CIA Records Search Tool(CREST)"),
+    "nara": ("NARA", "미국 국립문서기록관리청 — 원본 기록군(Record Group)"),
+    "mofa-jp": ("外務省", "일본 외무성 외교사료관 — 日本外交文書"),
+}
+
+
 def col_card(c):
     scans = "" if NO_SCANS else f" · 원본 지면 {c.get('_pages', 0)}면"
     # 그 문서를 쓴 쪽의 국기를 제목 옆에 단다. 문서철을 고를 때
@@ -548,6 +567,9 @@ def col_card(c):
     fl = "".join(
         f'<svg viewBox="0 0 15 10" width="15" height="10" aria-hidden="true">{FLAGS[k]}</svg>'
         for k in (c.get("flags") or []) if k in FLAGS)
+    inst = INST.get(c.get("group"))
+    badge = (f'<span class="col-inst" title="{H.escape(inst[1])}">{H.escape(inst[0])}</span>'
+             if inst else '')
     return f"""<a class="col" href="{c['slug']}/">
       <div class="col-top"><h3>{H.escape(c['title'])}{f'<span class="col-fl">{fl}</span>' if fl else ''}</h3>
         <span class="n">{c['n']}건{scans}</span></div>
@@ -555,7 +577,10 @@ def col_card(c):
       <p class="blurb">{H.escape(c['blurb'])}</p>
       <p class="hl">{md(c['highlight'])}</p>
       {f'<p class="wip">아직 옮기는 중 — {H.escape(c["wip"])}</p>' if c.get("wip") else ''}
-      <p class="src">{H.escape(c['source'])}<br>{H.escape(c['rights'])}</p>
+      <div class="col-foot">
+        <p class="src">{H.escape(c['source'])}<br>{H.escape(c['rights'])}</p>
+        {badge}
+      </div>
     </a>"""
 
 
