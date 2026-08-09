@@ -39,6 +39,23 @@ IIIF 매니페스트의 attribution 표기를 그대로 옮긴다 —
 **공공데이터 이용규약(제1.0판)(PDL 1.0)**이 적용된다. 상업 이용과 번역·개변이
 허용되며 **출처 기재**가 조건이다. 출처는 각 문서철의 `collection.json` 에 적어 두었다.
 
+### 발행 기관 인장 (랜딩 페이지)
+
+문서철 카드 우하단에 다는 인장 넷은 위키미디어 공용(Wikimedia Commons)에서
+받았다. 실물을 그대로 썼다 — 국기처럼 새로 그리지 않았다.
+
+| 인장 | 출처 | 권리 |
+|---|---|---|
+| 미국 국무부 (FRUS) | [Seal of the United States Department of State.svg](https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_State.svg) | 미국 정부 저작물 · 퍼블릭 도메인 |
+| 미국 중앙정보국 (CREST) | [Seal of the Central Intelligence Agency.svg](https://commons.wikimedia.org/wiki/File:Seal_of_the_Central_Intelligence_Agency.svg) | 미국 정부 저작물 · 퍼블릭 도메인 |
+| 미국 국립문서기록관리청 (NARA) | [NARA Logo created 2010.svg](https://commons.wikimedia.org/wiki/File:NARA_Logo_created_2010.svg) | CC0 (Public Domain Mark 1.0) |
+| 일본 정부 문장 (오동꽃, 五七桐) | [Go-shichi no kiri crest.svg](https://commons.wikimedia.org/wiki/File:Go-shichi_no_kiri_crest.svg) | 퍼블릭 도메인 |
+
+미국 정부 기관의 인장은 소속을 사칭하거나 승인을 받은 것처럼 보이게 쓰는 것을
+법으로 금한다(예: CIA는 50 U.S.C. § 403m). 여기서는 **어느 기관이 이 문서철을
+펴냈는지 표시하는 용도로만** 쓴다 — 그 기관이 이 저장소를 만들었거나 승인했다는
+뜻이 아니다.
+
 ## 번역과 도구
 
 번역문, 열람기(`열람기/`), 각 문서철의 파이프라인 스크립트, 그리고 이 저장소가

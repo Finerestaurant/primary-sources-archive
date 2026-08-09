@@ -41,6 +41,20 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---------------------------------------------------------------- 모으기
 os.makedirs(OUT, exist_ok=True)
+
+# 문서철을 펴내거나 심사해 올린 기관의 인장. 문서철마다 있는 게 아니라 랜딩
+# 전체가 공유하는 자산이라, 문서철별 스캔·썸네일과는 따로 한 번만 복사한다.
+_logos_src = os.path.join(HERE, "inst-logos")
+_logos_dst = os.path.join(OUT, "inst-logos")
+if os.path.isdir(_logos_src):
+    os.makedirs(_logos_dst, exist_ok=True)
+    for f in os.listdir(_logos_src):
+        if f.startswith("_"):
+            continue
+        sp, dp = os.path.join(_logos_src, f), os.path.join(_logos_dst, f)
+        if not os.path.exists(dp) or os.path.getmtime(sp) > os.path.getmtime(dp):
+            shutil.copyfile(sp, dp)
+
 built = []
 for c in site["collections"]:
     src = os.path.join(BASE, c["src"])
@@ -318,10 +332,13 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
    먼저 아래로 떨어져 우하단에 남는다 */
 .col-foot{display:flex;flex-wrap:wrap;align-items:flex-end;
   gap:8px 14px;margin-top:12px}
-.col-inst{flex:0 0 auto;margin-left:auto;font-family:var(--mono);
-  font-size:10.5px;letter-spacing:.05em;color:var(--ink-3);
-  border:1px solid var(--edge);border-radius:2px;padding:3px 7px;
-  white-space:nowrap;line-height:1}
+/* 실물 인장이라 색이 짙다. 옅게 죽여 두고 손을 얹으면 살아나게 한다 —
+   국기와 같은 자리에 앉지만, 국기보다 한 걸음 물러나 있어야 한다 */
+.col-inst{flex:0 0 auto;margin-left:auto;width:30px;height:30px;
+  object-fit:contain;border:1px solid var(--edge);border-radius:3px;
+  background:#fff;padding:3px;filter:grayscale(1);opacity:.55;
+  transition:filter .15s ease,opacity .15s ease}
+.col:hover .col-inst{filter:grayscale(0);opacity:1}
 
 /* ── 방법 ── */
 .method{display:grid;gap:2px;border:1px solid var(--edge);border-radius:4px;
@@ -553,10 +570,10 @@ cards_js = json.dumps(cards, ensure_ascii=False).replace("</", "<\\/")
 # 사진 로고를 그대로 쓰지 않는다 — 국기와 같은 원칙이다. 실물 인장을 흉내
 # 내지 않고, 등폭 서체로 짧게 줄인 이름만 얇은 테두리 안에 둔다.
 INST = {
-    "frus": ("FRUS", "미국 국무부 역사관실 — Foreign Relations of the United States"),
-    "crest": ("CIA", "미국 중앙정보국 — CIA Records Search Tool(CREST)"),
-    "nara": ("NARA", "미국 국립문서기록관리청 — 원본 기록군(Record Group)"),
-    "mofa-jp": ("外務省", "일본 외무성 외교사료관 — 日本外交文書"),
+    "frus": ("frus.svg", "미국 국무부 역사관실 — Foreign Relations of the United States"),
+    "crest": ("crest.svg", "미국 중앙정보국 — CIA Records Search Tool(CREST)"),
+    "nara": ("nara.svg", "미국 국립문서기록관리청 — 원본 기록군(Record Group)"),
+    "mofa-jp": ("mofa-jp.svg", "일본 정부 문장(오동꽃) · 외무성 외교사료관 — 日本外交文書"),
 }
 
 
@@ -568,7 +585,8 @@ def col_card(c):
         f'<svg viewBox="0 0 15 10" width="15" height="10" aria-hidden="true">{FLAGS[k]}</svg>'
         for k in (c.get("flags") or []) if k in FLAGS)
     inst = INST.get(c.get("group"))
-    badge = (f'<span class="col-inst" title="{H.escape(inst[1])}">{H.escape(inst[0])}</span>'
+    badge = (f'<img class="col-inst" src="inst-logos/{inst[0]}" alt="" '
+             f'title="{H.escape(inst[1])}" loading="lazy">'
              if inst else '')
     return f"""<a class="col" href="{c['slug']}/">
       <div class="col-top"><h3>{H.escape(c['title'])}{f'<span class="col-fl">{fl}</span>' if fl else ''}</h3>
