@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>독단전행 — 교정</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{
+  --bg:#eef1f4; --panel:#f7f9fa; --edge:#ccd4da; --edge-soft:#dde4e9;
+  --ink:#16202a; --ink-2:#4a5b68; --ink-3:#71828f;
+  --stamp:#8c2f39; --link:#2f5d86;
+  --ok:#4a7c59; --warn:#8a6d3b; --bad:#8c2f39;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:"Apple SD Gothic Neo","Pretendard","Malgun Gothic","Noto Sans KR",
+         -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#12171c; --panel:#171d23; --edge:#2b353e; --edge-soft:#222a31;
+    --ink:#dfe6ec; --ink-2:#a4b2bd; --ink-3:#75858f;
+    --stamp:#c9707a; --link:#7fb0da;
+    --ok:#7fae8c; --warn:#c0a06a; --bad:#c9707a;
+  }
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;
+  -webkit-font-smoothing:antialiased}
+button,select,textarea,input{font-family:inherit}
+
+.app{display:grid;grid-template-columns:260px 1fr 420px;height:100vh}
+
+/* ---- 왼쪽: 문서 목록 ---- */
+.sidebar{border-right:1px solid var(--edge);background:var(--panel);
+  overflow-y:auto;display:flex;flex-direction:column}
+.sidebar h1{font-size:13px;margin:0;padding:12px 14px 8px;color:var(--ink-2);
+  font-weight:650;letter-spacing:.02em}
+.sidebar .filter{padding:0 12px 10px}
+.sidebar .filter input{width:100%;padding:6px 8px;border:1px solid var(--edge);
+  border-radius:4px;background:var(--bg);color:var(--ink);font-size:12.5px}
+.evgroup{border-top:1px solid var(--edge-soft)}
+.evgroup h2{font-size:11px;color:var(--ink-3);margin:0;padding:9px 14px 4px;
+  text-transform:none;letter-spacing:.02em}
+.doc-item{display:block;width:100%;text-align:left;background:none;border:none;
+  border-left:3px solid transparent;padding:6px 12px 6px 11px;cursor:pointer;
+  color:var(--ink);font-size:12.5px;line-height:1.4}
+.doc-item:hover{background:var(--edge-soft)}
+.doc-item[aria-current="true"]{background:var(--edge-soft);border-left-color:var(--link)}
+.doc-item .ref{font-family:var(--mono);font-size:10.5px;color:var(--ink-3)}
+.doc-item .ti{display:block;margin-top:1px}
+.doc-item .badges{margin-top:3px;display:flex;gap:4px}
+.b{font-size:9.5px;font-family:var(--mono);border-radius:3px;padding:1px 5px;
+  border:1px solid var(--edge)}
+.b.ok{color:var(--ok);border-color:var(--ok)}
+.b.warn{color:var(--warn);border-color:var(--warn)}
+.b.bad{color:var(--bad);border-color:var(--bad)}
+.b.none{color:var(--ink-3)}
+
+/* ---- 가운데: 지면 이미지 ---- */
+.viewer{position:relative;display:flex;flex-direction:column;background:#20262b;
+  overflow:hidden}
+.viewer .imgwrap{flex:1;overflow:hidden;position:relative;cursor:grab;
+  display:flex;align-items:center;justify-content:center}
+.viewer .imgwrap.dragging{cursor:grabbing}
+.viewer img{max-width:none;user-select:none;-webkit-user-drag:none;
+  transform-origin:0 0}
+.viewer .topbar{display:flex;align-items:center;gap:8px;padding:8px 12px;
+  background:var(--panel);border-bottom:1px solid var(--edge);color:var(--ink-2);
+  font-size:12px}
+.viewer .topbar b{color:var(--ink);font-weight:650}
+.viewer .zoomctl{display:flex;gap:4px;margin-left:auto}
+.viewer .zoomctl button{width:24px;height:24px;border:1px solid var(--edge);
+  background:var(--bg);color:var(--ink-2);border-radius:4px;cursor:pointer}
+.pagebar{display:flex;align-items:center;gap:6px;padding:8px 12px;
+  background:var(--panel);border-top:1px solid var(--edge);overflow-x:auto}
+.pagebar button.nav{border:1px solid var(--edge);background:var(--bg);
+  color:var(--ink);border-radius:4px;padding:4px 10px;cursor:pointer;font-size:12px}
+.pagebar button.nav:disabled{opacity:.35;cursor:default}
+.pagebar .pnum{font-family:var(--mono);font-size:12px;color:var(--ink-2);
+  white-space:nowrap;padding:0 4px}
+.thumbstrip{display:flex;gap:4px;overflow-x:auto;flex:1}
+.thumbstrip img{height:52px;border:2px solid transparent;border-radius:2px;
+  cursor:pointer;opacity:.6}
+.thumbstrip img:hover{opacity:1}
+.thumbstrip img[aria-current="true"]{border-color:var(--link);opacity:1}
+
+/* ---- 오른쪽: 편집 ---- */
+.editor{border-left:1px solid var(--edge);background:var(--panel);
+  display:flex;flex-direction:column;overflow:hidden}
+.editor .head{padding:10px 14px;border-bottom:1px solid var(--edge);
+  display:flex;align-items:center;gap:8px}
+.editor .head .ttl{font-size:13px;font-weight:650;flex:1;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.savebtn{background:var(--link);color:#fff;border:none;border-radius:5px;
+  padding:6px 14px;font-size:12.5px;cursor:pointer;font-weight:600}
+.savebtn:disabled{background:var(--edge);color:var(--ink-3);cursor:default}
+.savebtn.dirty{background:var(--stamp)}
+.tabs{display:flex;border-bottom:1px solid var(--edge);flex-shrink:0}
+.tabs button{flex:1;padding:8px 4px;background:none;border:none;
+  border-bottom:2px solid transparent;color:var(--ink-3);cursor:pointer;font-size:12px}
+.tabs button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--link)}
+.tabpane{flex:1;overflow-y:auto;display:none;padding:12px 14px}
+.tabpane.on{display:flex;flex-direction:column;gap:10px}
+.tabpane textarea{width:100%;border:1px solid var(--edge);border-radius:5px;
+  background:var(--bg);color:var(--ink);padding:9px 10px;font-size:13px;
+  line-height:1.75;resize:vertical}
+.tabpane textarea.ja{font-family:var(--mono);font-size:13px;line-height:2}
+.field label{display:block;font-size:11px;color:var(--ink-3);margin-bottom:3px}
+.field input{width:100%;border:1px solid var(--edge);border-radius:5px;
+  background:var(--bg);color:var(--ink);padding:6px 8px;font-size:12.5px}
+.field select{width:100%;border:1px solid var(--edge);border-radius:5px;
+  background:var(--bg);color:var(--ink);padding:6px 8px;font-size:12.5px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.hint{font-size:11px;color:var(--ink-3);line-height:1.5}
+.status{padding:7px 14px;font-size:11px;color:var(--ink-3);border-top:1px solid var(--edge)}
+.status .saved{color:var(--ok)}
+kbd{font-family:var(--mono);background:var(--edge-soft);border-radius:3px;
+  padding:0 4px;font-size:10.5px}
+.empty{display:flex;align-items:center;justify-content:center;height:100%;
+  color:var(--ink-3);font-size:13px}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <nav class="sidebar" id="sidebar">
+    <h1>독단전행 · 교정</h1>
+    <div class="filter"><input id="filter" placeholder="코드·제목 찾기…"></div>
+    <div id="doclist"></div>
+  </nav>
+
+  <div class="viewer">
+    <div class="topbar">
+      <span id="vTitle"><b>—</b></span>
+      <div class="zoomctl">
+        <button id="zOut" title="축소">−</button>
+        <button id="zReset" title="맞춤">⤢</button>
+        <button id="zIn" title="확대">+</button>
+      </div>
+    </div>
+    <div class="imgwrap" id="imgwrap">
+      <img id="pageImg" alt="">
+      <div class="empty" id="viewerEmpty">왼쪽에서 문서를 고르세요</div>
+    </div>
+    <div class="pagebar">
+      <button class="nav" id="prevPage">◀ 이전 지면</button>
+      <span class="pnum" id="pnum">–</span>
+      <button class="nav" id="nextPage">다음 지면 ▶</button>
+      <div class="thumbstrip" id="thumbstrip"></div>
+    </div>
+  </div>
+
+  <aside class="editor" id="editor" style="display:none">
+    <div class="head">
+      <span class="ttl" id="eTitle">—</span>
+      <button class="savebtn" id="saveBtn" disabled>저장 <kbd>⌘S</kbd></button>
+    </div>
+    <div class="tabs">
+      <button data-tab="ja" aria-pressed="true">원문 ja</button>
+      <button data-tab="ko">번역 ko</button>
+      <button data-tab="meta">요지·요약</button>
+      <button data-tab="notes">메모·인물</button>
+    </div>
+
+    <div class="tabpane on" data-tab="ja">
+      <div class="hint">지면 그대로. 세로쓰기를 가로로 편 것 외엔 손대지 않는다. 판독 안 되는 자리는 <code>〔判読不可〕</code>.</div>
+      <textarea class="ja" id="fJa" rows="26" spellcheck="false"></textarea>
+    </div>
+
+    <div class="tabpane" data-tab="ko">
+      <div class="hint">한국어 번역. 군 용어·부대 번호는 원문 그대로 둔다.</div>
+      <textarea id="fKo" rows="26" spellcheck="false"></textarea>
+    </div>
+
+    <div class="tabpane" data-tab="meta">
+      <div class="field"><label>제목(한글)</label><input id="fTitleKo"></div>
+      <div class="row2">
+        <div class="field"><label>일자</label><input id="fDate"></div>
+        <div class="field"><label>일자 원문표기</label><input id="fDateSrc"></div>
+      </div>
+      <div class="row2">
+        <div class="field"><label>문서 종류</label><input id="fDocType"></div>
+        <div class="field"><label>작성 기관</label><input id="fAuthor"></div>
+      </div>
+      <div class="field"><label>요지 (한 문장)</label>
+        <textarea id="fSubject" rows="2"></textarea></div>
+      <div class="field"><label>핵심 (한 줄에 하나씩)</label>
+        <textarea id="fPoints" rows="10"></textarea></div>
+    </div>
+
+    <div class="tabpane" data-tab="notes">
+      <div class="field"><label>확신도</label>
+        <select id="fConfidence">
+          <option value="high">high</option>
+          <option value="medium">medium</option>
+          <option value="low">low</option>
+        </select>
+      </div>
+      <div class="field"><label>등장 인물 (한 줄에 하나씩)</label>
+        <textarea id="fPeople" rows="6"></textarea></div>
+      <div class="field"><label>삭제(먹줄) 자리 (한 줄에 하나씩)</label>
+        <textarea id="fRedactions" rows="3"></textarea></div>
+      <div class="field"><label>메모</label>
+        <textarea id="fNotes" rows="10"></textarea></div>
+    </div>
+
+    <div class="status" id="status">—</div>
+  </aside>
+</div>
+
+<script>
+const $ = (s, el=document) => el.querySelector(s);
+const $$ = (s, el=document) => [...el.querySelectorAll(s)];
+
+let DOCS = [];
+let CUR = null;          // 현재 문서 객체(서버에서 받은 그대로 + 편집분)
+let CUR_REF = null;
+let PAGE_I = 0;
+let DIRTY = false;
+
+const EVENT_ORDER = ["changtsolin-1928","manchurian-1931","jehol-1933",
+                      "marcopolo-1937","taiyuan-1937","nomonhan-1939"];
+
+async function api(path, opts) {
+  const r = await fetch(path, opts);
+  if (!r.ok) throw new Error(await r.text());
+  return r.json();
+}
+
+function badge(entry) {
+  if (!entry.has_tr) return '<span class="b none">미착수</span>';
+  const c = entry.confidence || '?';
+  const cls = c === 'high' ? 'ok' : c === 'medium' ? 'warn' : 'bad';
+  const un = entry.unread ? ` · 판독불가 ${entry.unread}` : '';
+  return `<span class="b ${cls}">${c}${un}</span>`;
+}
+
+function renderList(filterText) {
+  const box = $('#doclist');
+  box.innerHTML = '';
+  const byEv = {};
+  for (const d of DOCS) (byEv[d.event] ||= []).push(d);
+  const q = (filterText || '').trim().toLowerCase();
+  for (const ev of EVENT_ORDER) {
+    const docs = (byEv[ev] || []).filter(d =>
+      !q || d.ref.toLowerCase().includes(q) ||
+      (d.title || '').toLowerCase().includes(q) ||
+      (d.title_ko || '').toLowerCase().includes(q));
+    if (!docs.length) continue;
+    const g = document.createElement('div');
+    g.className = 'evgroup';
+    g.innerHTML = `<h2>${docs[0].event_title}</h2>`;
+    for (const d of docs) {
+      const b = document.createElement('button');
+      b.className = 'doc-item';
+      b.setAttribute('aria-current', d.ref === CUR_REF ? 'true' : 'false');
+      b.innerHTML = `<span class="ref">${d.ref}</span>
+        <span class="ti">${d.title_ko || d.title}</span>
+        <div class="badges">${badge(d)}</div>`;
+      b.onclick = () => openDoc(d.ref);
+      g.appendChild(b);
+    }
+    box.appendChild(g);
+  }
+}
+
+async function loadDocs() {
+  DOCS = await api('/api/docs');
+  renderList('');
+}
+
+async function openDoc(ref) {
+  if (DIRTY && !confirm('저장 안 한 수정이 있다. 버리고 옮길까?')) return;
+  CUR_REF = ref;
+  CUR = await api('/api/doc/' + ref);
+  PAGE_I = 0;
+  DIRTY = false;
+  fillEditor();
+  renderThumbs();
+  showPage(0);
+  renderList($('#filter').value);
+  $('#editor').style.display = 'flex';
+  $('#viewerEmpty').style.display = 'none';
+}
+
+function fillEditor() {
+  $('#eTitle').textContent = `${CUR.ref} · ${CUR.title_ko || CUR.title_ja || ''}`;
+  $('#fJa').value = CUR.ja || '';
+  $('#fKo').value = CUR.ko || '';
+  $('#fTitleKo').value = CUR.title_ko || '';
+  $('#fDate').value = CUR.date || '';
+  $('#fDateSrc').value = CUR.date_src || '';
+  $('#fDocType').value = CUR.doc_type || '';
+  $('#fAuthor').value = CUR.author || '';
+  $('#fSubject').value = CUR.subject_ko || '';
+  $('#fPoints').value = (CUR.key_points_ko || []).join('\n');
+  $('#fConfidence').value = CUR.confidence || 'low';
+  $('#fPeople').value = (CUR.people || []).join('\n');
+  $('#fRedactions').value = (CUR.redactions || []).join('\n');
+  $('#fNotes').value = CUR.notes || '';
+  setDirty(false);
+  $('#status').textContent = `${CUR.pages.length}면 · ${CUR.event || ''}`;
+}
+
+function collectFromEditor() {
+  CUR.ja = $('#fJa').value;
+  CUR.ko = $('#fKo').value;
+  CUR.title_ko = $('#fTitleKo').value;
+  CUR.date = $('#fDate').value;
+  CUR.date_src = $('#fDateSrc').value;
+  CUR.doc_type = $('#fDocType').value;
+  CUR.author = $('#fAuthor').value;
+  CUR.subject_ko = $('#fSubject').value;
+  CUR.key_points_ko = $('#fPoints').value.split('\n').map(s => s.trim()).filter(Boolean);
+  CUR.confidence = $('#fConfidence').value;
+  CUR.people = $('#fPeople').value.split('\n').map(s => s.trim()).filter(Boolean);
+  CUR.redactions = $('#fRedactions').value.split('\n').map(s => s.trim()).filter(Boolean);
+  CUR.notes = $('#fNotes').value;
+  return CUR;
+}
+
+function setDirty(v) {
+  DIRTY = v;
+  $('#saveBtn').disabled = !v;
+  $('#saveBtn').classList.toggle('dirty', v);
+  $('#saveBtn').textContent = v ? '저장 ⌘S ●' : '저장 ⌘S';
+}
+
+$('#editor').addEventListener('input', () => setDirty(true));
+
+async function save() {
+  if (!CUR_REF) return;
+  const body = collectFromEditor();
+  $('#status').textContent = '저장 중…';
+  try {
+    await api('/api/doc/' + CUR_REF, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(body)
+    });
+    setDirty(false);
+    $('#status').innerHTML = `<span class="saved">저장됨</span> · ${new Date().toLocaleTimeString('ko-KR')}`;
+    const d = DOCS.find(x => x.ref === CUR_REF);
+    if (d) { d.has_tr = true; d.confidence = CUR.confidence;
+      d.unread = (CUR.ja || '').split('判読不可').length - 1; d.title_ko = CUR.title_ko; }
+    renderList($('#filter').value);
+  } catch (e) {
+    $('#status').textContent = '저장 실패: ' + e.message;
+  }
+}
+$('#saveBtn').onclick = save;
+document.addEventListener('keydown', e => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 's') { e.preventDefault(); save(); }
+});
+
+/* ---- 지면 뷰어 ---- */
+let zoom = 1, panX = 0, panY = 0, natW = 0, natH = 0;
+
+function renderThumbs() {
+  const strip = $('#thumbstrip');
+  strip.innerHTML = '';
+  CUR.pages.forEach((p, i) => {
+    const im = document.createElement('img');
+    im.src = `/thumbs/${p}.jpg`;
+    im.onerror = () => { im.src = `/pages/${p}.jpg`; };
+    im.onclick = () => showPage(i);
+    strip.appendChild(im);
+  });
+}
+
+function showPage(i) {
+  if (!CUR || !CUR.pages.length) return;
+  PAGE_I = Math.max(0, Math.min(CUR.pages.length - 1, i));
+  const p = CUR.pages[PAGE_I];
+  const img = $('#pageImg');
+  img.src = `/pages/${p}.jpg`;
+  img.onload = () => { natW = img.naturalWidth; natH = img.naturalHeight; resetZoom(); };
+  $('#pnum').textContent = `${p}  (${PAGE_I + 1}/${CUR.pages.length})`;
+  $('#vTitle').innerHTML = `<b>${CUR.ref}</b>`;
+  $('#prevPage').disabled = PAGE_I === 0;
+  $('#nextPage').disabled = PAGE_I === CUR.pages.length - 1;
+  $$('.thumbstrip img').forEach((im, j) => im.setAttribute('aria-current', j === PAGE_I ? 'true' : 'false'));
+}
+$('#prevPage').onclick = () => showPage(PAGE_I - 1);
+$('#nextPage').onclick = () => showPage(PAGE_I + 1);
+
+function applyTransform() {
+  $('#pageImg').style.transform = `translate(${panX}px,${panY}px) scale(${zoom})`;
+}
+function resetZoom() {
+  const wrap = $('#imgwrap');
+  if (!natW) return;
+  const fit = Math.min(wrap.clientWidth / natW, wrap.clientHeight / natH) * 0.96;
+  zoom = fit; panX = (wrap.clientWidth - natW * zoom) / 2; panY = (wrap.clientHeight - natH * zoom) / 2;
+  applyTransform();
+}
+$('#zIn').onclick = () => { zoom *= 1.25; applyTransform(); };
+$('#zOut').onclick = () => { zoom /= 1.25; applyTransform(); };
+$('#zReset').onclick = resetZoom;
+
+const wrap = $('#imgwrap');
+wrap.addEventListener('wheel', e => {
+  if (!natW) return;
+  e.preventDefault();
+  const rect = wrap.getBoundingClientRect();
+  const mx = e.clientX - rect.left, my = e.clientY - rect.top;
+  const before = zoom;
+  zoom *= (e.deltaY < 0) ? 1.1 : 0.9;
+  zoom = Math.max(0.1, Math.min(8, zoom));
+  panX = mx - (mx - panX) * (zoom / before);
+  panY = my - (my - panY) * (zoom / before);
+  applyTransform();
+}, {passive: false});
+
+let dragging = false, dsx = 0, dsy = 0, dpx = 0, dpy = 0;
+wrap.addEventListener('mousedown', e => {
+  dragging = true; wrap.classList.add('dragging');
+  dsx = e.clientX; dsy = e.clientY; dpx = panX; dpy = panY;
+});
+window.addEventListener('mousemove', e => {
+  if (!dragging) return;
+  panX = dpx + (e.clientX - dsx); panY = dpy + (e.clientY - dsy);
+  applyTransform();
+});
+window.addEventListener('mouseup', () => { dragging = false; wrap.classList.remove('dragging'); });
+
+document.addEventListener('keydown', e => {
+  if (document.activeElement.tagName === 'TEXTAREA' || document.activeElement.tagName === 'INPUT') return;
+  if (e.key === 'ArrowRight') showPage(PAGE_I + 1);
+  if (e.key === 'ArrowLeft') showPage(PAGE_I - 1);
+});
+
+/* ---- 탭 ---- */
+$$('.tabs button').forEach(b => b.onclick = () => {
+  $$('.tabs button').forEach(x => x.setAttribute('aria-pressed', x === b ? 'true' : 'false'));
+  $$('.tabpane').forEach(p => p.classList.toggle('on', p.dataset.tab === b.dataset.tab));
+});
+
+$('#filter').addEventListener('input', e => renderList(e.target.value));
+
+window.addEventListener('beforeunload', e => { if (DIRTY) { e.preventDefault(); e.returnValue = ''; } });
+
+loadDocs();
+</script>
+</body>
+</html>
