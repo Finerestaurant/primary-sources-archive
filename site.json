@@ -7,7 +7,7 @@
  "sections": {
   "collections": {
    "h": "문서철",
-   "lead": "두 시기로 나눴다. 하나는 태평양전쟁이 다가와 끝나기까지고, 하나는 그 뒤 조선이 갈라지고 다시 전쟁이 나기까지다. 같은 사건이 외교 라인과 군 라인, 정보기관 라인에 따로 남아 있다. 나란히 놓으면 무엇이 공개되고 무엇이 잘렸는지 보인다."
+   "lead": "생산한 기관이 분류한 그대로 묶었다. 국무부가 사후에 골라 엮는 FRUS와, 중앙정보국이 25년 규정에 따라 스스로 심사해 올리는 CREST와, 국립문서기록관리청의 원본 기록군(Record Group)은 같은 미국 정부라도 남기고 고르는 기준이 다르다. 일본 외무성 외교사료관의 『日本外交文書』를 나란히 놓으면 같은 사건을 상대편 책상에서 본다."
   },
   "method": {
    "h": "어떻게 만들었나",
@@ -51,7 +51,7 @@
     "us",
     "jp"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "nichibei-1941",
@@ -67,7 +67,7 @@
    "flags": [
     "jp"
    ],
-   "group": "wwii"
+   "group": "mofa-jp"
   },
   {
    "slug": "cairo-1943",
@@ -84,7 +84,7 @@
     "uk",
     "cn"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "yalta-1945",
@@ -99,7 +99,7 @@
    "flags": [
     "us"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "frus-1945",
@@ -114,7 +114,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "frus"
   },
   {
    "slug": "surrender-1945",
@@ -130,7 +130,7 @@
     "us",
     "jp"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "scap-0141",
@@ -145,7 +145,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "nara"
   },
   {
    "slug": "crest-1945-46",
@@ -160,7 +160,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "crest"
   },
   {
    "slug": "ndl-091",
@@ -168,14 +168,14 @@
    "title": "091 : File 1 Korea",
    "period": "1946년 11월 – 1948년 4월",
    "n": 66,
-   "source": "극동군사령부 참모3부(G-3) 파일 · NDL 디지털컬렉션 PID 9850431",
+   "source": "극동군사령부 참모3부(G-3) 파일(RG 554) · NDL 디지털컬렉션 PID 9850431",
    "rights": "PDM(퍼블릭 도메인) · 소장 国立国会図書館 National Diet Library, JAPAN",
    "blurb": "한 가지 주제로 관통한다. 철군하려면 대신할 군대가 필요하다는 것이다. 경비대 무장에서 시작해 한국군 창설 시도와 좌절을 거쳐, 5만 증강과 편제표로 끝난다.",
    "highlight": "1948년 4월, 경비대 5만으로 미군이 떠날 준비를 마친다",
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "nara"
   },
   {
    "slug": "mofa-1945",
@@ -190,7 +190,7 @@
    "flags": [
     "jp"
    ],
-   "group": "wwii"
+   "group": "mofa-jp"
   },
   {
    "slug": "field-1945",
@@ -198,7 +198,7 @@
    "title": "전황 보고",
    "period": "1945년 3월 – 11월",
    "n": 17,
-   "source": "USSBS, Interrogations of Japanese Officials (Nav-75) · Commander Task Force 58, Action Report",
+   "source": "USSBS(RG 243), Interrogations of Japanese Officials (Nav-75) · 기동부대 사령부(RG 313), Task Force 58 Action Report",
    "rights": "미국 정부 저작물 · 퍼블릭 도메인",
    "blurb": "군의 보고다. 연합함대 사령장관이자 마지막 군령부총장이던 도요다 소에무가 패전 두 달 뒤 미군의 심문에 답한 것과, 오키나와에서 항모 기동부대를 지휘한 미처 중장의 작전 보고. 전보와 각서 아래에서 전쟁이 실제로 어떻게 지고 있었는지가 여기 있다.",
    "highlight": "「소련 중개가 실패한 것을 해군에서 안 사람은 해군대신과 나뿐이었다」",
@@ -206,7 +206,7 @@
     "us",
     "jp"
    ],
-   "group": "wwii"
+   "group": "nara"
   },
   {
    "slug": "machinery-1945",
@@ -224,7 +224,7 @@
     "su",
     "fr"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "veday-1945",
@@ -241,7 +241,7 @@
     "uk",
     "su"
    ],
-   "group": "wwii"
+   "group": "frus"
   },
   {
    "slug": "korea-1948-50",
@@ -256,7 +256,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "frus"
   },
   {
    "slug": "crest-war",
@@ -271,7 +271,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "crest"
   },
   {
    "slug": "korea-1950-53",
@@ -286,7 +286,7 @@
    "flags": [
     "us"
    ],
-   "group": "korea"
+   "group": "frus"
   }
  ],
  "method": [
@@ -1360,14 +1360,24 @@
  ],
  "collection_groups": [
   {
-   "key": "wwii",
-   "label": "태평양전쟁이 다가와 끝나기까지",
-   "lead": "1941년 10월 도쿄와 워싱턴의 마지막 교섭에서 1945년 5월 독일의 항복, 8월 일본의 항복까지 아홉 문서철이다. 같은 열흘을 미국·일본·소련이 각자 어떻게 적었는지 겹쳐 볼 수 있다."
+   "key": "frus",
+   "label": "미국 국무부 — Foreign Relations of the United States(FRUS)",
+   "lead": "국무부 역사관실(Office of the Historian)이 사건이 있고 수십 년 뒤 관련 부처 문서를 모아 펴내는 공간 외교문서집이다. 1861년부터 이어져 지금 450권을 넘는다. 아홉 문서철을 FRUS 여러 권에서 뽑았다."
   },
   {
-   "key": "korea",
-   "label": "조선이 갈라지고 다시 싸우다",
-   "lead": "하지가 인천에 상륙한 1945년 9월부터 정전협정이 서는 1953년 7월까지 일곱 문서철이다. 미국이 조선 안에 있을 때와 밖에서 볼 때가 갈리고, 외교 라인과 군 라인, 중앙정보국 라인이 갈린다."
+   "key": "crest",
+   "label": "미국 중앙정보국 — CIA Records Search Tool(CREST)",
+   "lead": "중앙정보국이 25년 자동 비밀해제 규정에 따라 스스로 심사해 공개하는 데이터베이스다. 국무부처럼 정부가 골라 엮은 것이 아니라, 심사를 통과한 기록을 그대로 올린다. 두 문서철 모두 CREST에서 받았다."
+  },
+  {
+   "key": "nara",
+   "label": "미국 국립문서기록관리청(NARA) — 기록군(Record Group)",
+   "lead": "생산 부대별로 나눈 원본 기록군이다. 연합국최고사령부 문서(RG 331), 극동군사령부 문서(RG 554), 전략폭격조사단 문서(RG 243), 해군 기동부대 문서(RG 313)를 실었다. FRUS처럼 편집되지 않은, 접수 도장과 손글씨 결재가 그대로 남은 원본이다."
+  },
+  {
+   "key": "mofa-jp",
+   "label": "일본 외무성 외교사료관 — 日本外交文書",
+   "lead": "외무성 외교사료관이 자기 전보와 훈령을 모아 펴낸 정본이다. 미국 쪽 문서철과 같은 사건을 상대편 책상에서 다시 본다."
   }
  ]
 }
