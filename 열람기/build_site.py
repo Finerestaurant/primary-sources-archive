@@ -288,6 +288,12 @@ h2{font-size:13px;font-family:var(--mono);letter-spacing:.14em;
 .ev.pending strong{color:var(--ink-2);font-weight:600}
 
 /* ── 문서철 ── */
+/* 문서철이 열여섯 개로 늘면서 한 줄로 나열하면 흐려진다. 두 시기로 갈라
+   각각에 소개를 붙인다 — 주제(threads) 탭의 「국면」과 같은 생각이다 */
+.col-group{margin:0 0 40px}
+.col-group:last-child{margin-bottom:0}
+.col-group h3{margin:0 0 6px;font-size:16.5px;font-weight:650;color:var(--ink)}
+.col-group>p{margin:0 0 18px;font-size:14px;color:var(--ink-2);max-width:62ch}
 .cols{display:grid;gap:14px}
 .col{display:block;border:1px solid var(--edge);border-radius:4px;
   background:var(--panel);padding:20px 22px;text-decoration:none;color:inherit}
@@ -535,15 +541,14 @@ HC_CSS = open(os.path.join(HERE, "hovercard.css")).read()
 HC_JS = open(os.path.join(HERE, "hovercard.js")).read().replace("</", "<\\/")
 cards_js = json.dumps(cards, ensure_ascii=False).replace("</", "<\\/")
 
-cols = []
-for c in built:
+def col_card(c):
     scans = "" if NO_SCANS else f" · 원본 지면 {c.get('_pages', 0)}면"
     # 그 문서를 쓴 쪽의 국기를 제목 옆에 단다. 문서철을 고를 때
     # 「누가 남긴 기록인가」가 제목 다음으로 먼저 알아야 할 것이다.
     fl = "".join(
         f'<svg viewBox="0 0 15 10" width="15" height="10" aria-hidden="true">{FLAGS[k]}</svg>'
         for k in (c.get("flags") or []) if k in FLAGS)
-    cols.append(f"""<a class="col" href="{c['slug']}/">
+    return f"""<a class="col" href="{c['slug']}/">
       <div class="col-top"><h3>{H.escape(c['title'])}{f'<span class="col-fl">{fl}</span>' if fl else ''}</h3>
         <span class="n">{c['n']}건{scans}</span></div>
       <div class="period">{H.escape(c['period'])}</div>
@@ -551,7 +556,29 @@ for c in built:
       <p class="hl">{md(c['highlight'])}</p>
       {f'<p class="wip">아직 옮기는 중 — {H.escape(c["wip"])}</p>' if c.get("wip") else ''}
       <p class="src">{H.escape(c['source'])}<br>{H.escape(c['rights'])}</p>
-    </a>""")
+    </a>"""
+
+
+# 문서철이 늘면서 한 줄로 죽 나열하면 무엇이 무엇인지 흐려진다. 주제(threads)
+# 탭이 쓰는 「국면」과 같은 생각으로, 문서철도 두 시기로 갈라 각각에 소개를
+# 붙인다. `collection_groups` 에 없는 문서철은 묶이지 않고 마지막에 그냥 붙는다.
+GROUPS = site.get("collection_groups", [])
+_grouped_slugs = set()
+col_groups_html = []
+for g in GROUPS:
+    members = [c for c in built if c.get("group") == g["key"]]
+    if not members:
+        continue
+    _grouped_slugs.update(c["slug"] for c in members)
+    col_groups_html.append(f"""<div class="col-group">
+      <h3>{H.escape(g['label'])}</h3>
+      <p>{H.escape(g.get('lead',''))}</p>
+      <div class="cols">{''.join(col_card(c) for c in members)}</div>
+    </div>""")
+_rest = [c for c in built if c["slug"] not in _grouped_slugs]
+if _rest:
+    col_groups_html.append(f'<div class="cols">{"".join(col_card(c) for c in _rest)}</div>')
+cols_html = "".join(col_groups_html)
 
 method = "".join(f"<div><b>{H.escape(a)}</b><span>{H.escape(b)}</span></div>"
                  for a, b in site["method"])
@@ -610,7 +637,7 @@ page = f"""<!doctype html>
 
   <section>
     {sec("collections", "문서철", "")}
-    <div class="cols">{''.join(cols)}</div>
+    {cols_html}
   </section>
 
   <section>
