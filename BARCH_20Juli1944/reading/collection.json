@@ -1,0 +1,28 @@
+{
+ "title": "7월 20일",
+ "subtitle": "1944 · 암살 미수, 정권이 스스로를 들여다보다",
+ "source": "독일연방문서보관소(Bundesarchiv) — NS 6(당총재비서실)",
+ "search_hint": "한국어·독일어·인물·기관 검색",
+
+ "groups": [
+  {"key": "A", "label": "7월 20일 히틀러 암살 미수 · 1944"}
+ ],
+
+ "panes": {
+  "primary": "한국어 번역",
+  "secondary": "원문(독일어) · 지면에서 읽은 그대로",
+  "both": "나란히"
+ },
+
+ "sorts": [
+  {"key": "date", "label": "시간순"},
+  {"key": "order", "label": "사건순"}
+ ],
+
+ "pages": {"dir": "../pages", "ext": "jpg", "label": "원본 지면",
+           "thumbs": "../thumbs", "thumb_ext": "jpg"},
+
+ "home": {"url": "../", "label": "기밀해제 사료 아카이브"},
+
+ "warn_text": "긴 문서철 중 일부만 옮긴 것도 있다 — 각 문서의 메모(notes)에 어디까지 옮겼는지 밝혀 둔다."
+}

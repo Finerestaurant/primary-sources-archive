@@ -436,6 +436,9 @@ FLAGS = {
        '<rect x="10" width="5" height="10" fill="#b32134"/>',
  "ch": '<rect width="15" height="10" fill="#b32134"/>'
        '<path d="M7.5 2.4v5.2M4.9 5h5.2" stroke="#f2f3f4" stroke-width="1.7"/>',
+ "de": '<rect y="0" width="15" height="3.34" fill="#1a1a1a"/>'
+       '<rect y="3.33" width="15" height="3.34" fill="#b32134"/>'
+       '<rect y="6.66" width="15" height="3.34" fill="#e8c34a"/>',
 }
 
 

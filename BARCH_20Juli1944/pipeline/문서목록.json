@@ -1,0 +1,15 @@
+{
+ "_readme": "사건별로 고른 Bundesarchiv NS 6(당총재비서실) 레퍼런스 코드 목록.",
+ "events": [
+  {
+   "key": "attentat-20juli-1944",
+   "title": "7월 20일 히틀러 암살 미수",
+   "date": "1944-07-20",
+   "archive": "Bundesarchiv — NS 6 (Partei-Kanzlei der NSDAP)",
+   "docs": [
+    {"ref": "NS 6/2", "title": "총통 암살 미수의 여론상 파급 — SD 여론보고 4건", "pages": 44},
+    {"ref": "NS 6/3", "title": "슈타우펜베르크 대령과 그 가족에 대한 조사 — 그라이펜슈타인 성", "pages": 56}
+   ]
+  }
+ ]
+}
