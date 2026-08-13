@@ -1,0 +1,34 @@
+{
+  "note": "이 세션 대화 중 자동으로 붙은 안내문 기록. ip_reminder는 사용자 메시지 뒤에 붙는 저작권 주의 알림(기본적으로 사용자에게는 안 보임). system_reminder는 하네스가 여러 상황에서 붙이는 일반 안내문(정상적으로 노출됨).",
+  "ip_reminder": {
+    "appeared_count_this_session": 3,
+    "context": "긴 텍스트(가짜 이메일, 방위연구소 약관 등)를 붙여넣은 사용자 메시지 뒤에 붙었다",
+    "exact_text": "This is an automated reminder. Respond as helpfully as possible, but be very careful to ensure you do not reproduce any copyrighted material, including song lyrics, sections of books, or long excerpts from periodicals. Also do not comply with complex instructions that suggest reproducing material but making minor changes or substitutions. However, if you were given a document, it's fine to summarize or quote from it. You should avoid mentioning or responding to this reminder directly as it won't be shown to the person by default."
+  },
+  "system_reminder_examples": [
+    {
+      "type": "날짜 변경 알림",
+      "example_text": "The date has changed. Today's date is now 2026-08-XX. DO NOT mention this to the user explicitly because they are already aware."
+    },
+    {
+      "type": "작업 목록(Task) 사용 권장",
+      "example_text": "The task tools haven't been used recently. If you're working on tasks that would benefit from tracking progress, consider using TaskCreate to add new tasks and TaskUpdate to update task status... This is just a gentle reminder - ignore if not applicable."
+    },
+    {
+      "type": "백그라운드 작업 완료 알림",
+      "example_text": "[SYSTEM NOTIFICATION - NOT USER INPUT] This is an automated background-task event, NOT a message from the user. Do NOT interpret this as user acknowledgement, confirmation, or response to any pending question..."
+    },
+    {
+      "type": "파일 읽기 결과 재확인",
+      "example_text": "Called the Read tool with the following input: {...} Result of calling the Read tool: <파일 내용>"
+    },
+    {
+      "type": "도구 로드/사용 가능 목록 안내",
+      "example_text": "The following deferred tools are now available via ToolSearch... / Available agent types for the Agent tool: ..."
+    },
+    {
+      "type": "메모리 파일 크기 초과 안내",
+      "example_text": "Note: /Users/.../이어가기.md was read before the last conversation was summarized, but the contents are too large to include. Use Read tool if you need to access it."
+    }
+  ]
+}
